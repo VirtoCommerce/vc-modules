@@ -1,8 +1,8 @@
 ﻿[
     {
         "id": "VirtoCommerce.Core",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "title": "Commerce core module",
         "description": "Common e-commerce domain functionality",
         "groups": [ "commerce" ],
@@ -10,16 +10,16 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-core",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-core/master/VirtoCommerce.CoreModule.Web/Content/logoVC.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.10/VirtoCommerce.Core_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.10/VirtoCommerce.Core_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Catalog",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Catalog module",
@@ -29,16 +29,16 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-catalog/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.10/VirtoCommerce.Catalog_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.10/VirtoCommerce.Catalog_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Customer",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Customer management module",
@@ -48,16 +48,16 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-customer",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-customer/master/VirtoCommerce.CustomerModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.10/VirtoCommerce.Customer_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.10/VirtoCommerce.Customer_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Cart",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Shopping cart module",
@@ -67,16 +67,16 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-cart",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-cart/master/VirtoCommerce.CartModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.10/VirtoCommerce.Cart_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.10/VirtoCommerce.Cart_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Store",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Store module",
@@ -86,24 +86,24 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-store",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-store/master/VirtoCommerce.StoreModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.10/VirtoCommerce.Store_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.10/VirtoCommerce.Store_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Orders",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             },
             {
                 "id": "VirtoCommerce.Catalog",
-                "version": "2.10.0"
+                "version": "2.11.0"
             },
             {
                 "id": "VirtoCommerce.Pricing",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Order module",
@@ -113,16 +113,16 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-order",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-order/master/VirtoCommerce.OrderModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.10/VirtoCommerce.Orders_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.10/VirtoCommerce.Orders_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Pricing",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Pricing module",
@@ -132,16 +132,16 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-pricing",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-pricing/master/VirtoCommerce.PricingModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.10/VirtoCommerce.Pricing_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.10/VirtoCommerce.Pricing_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Inventory",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Inventory module",
@@ -151,16 +151,16 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-inventory",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-inventory/master/VirtoCommerce.InventoryModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.10/VirtoCommerce.Inventory_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.10/VirtoCommerce.Inventory_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Marketing",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Marketing module",
@@ -170,24 +170,24 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-marketing",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-marketing/master/VirtoCommerce.MarketingModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.10/VirtoCommerce.Marketing_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.10/VirtoCommerce.Marketing_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.DynamicExpressions",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             },
             {
                 "id": "VirtoCommerce.Pricing",
-                "version": "2.10.0"
+                "version": "2.11.0"
             },
             {
                 "id": "VirtoCommerce.Marketing",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Virto Commerce dynamic expression library module",
@@ -197,16 +197,16 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-dynamic-expressions/master/VirtoCommerce.DynamicExpressionsModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions/releases/download/v2.10/VirtoCommerce.DynamicExpressions_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions/releases/download/v2.10/VirtoCommerce.DynamicExpressions_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Marketing",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Marketing module",
@@ -216,20 +216,20 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-marketing",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-marketing/master/VirtoCommerce.MarketingModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.10/VirtoCommerce.Marketing_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.10/VirtoCommerce.Marketing_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Search",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             },
             {
                 "id": "VirtoCommerce.Catalog",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Indexed search module",
@@ -239,16 +239,16 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-search/master/VirtoCommerce.SearchModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.10/VirtoCommerce.Search_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.10/VirtoCommerce.Search_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Quote",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "Quote module",
@@ -258,20 +258,20 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-quote",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-quote/master/VirtoCommerce.QuoteModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.10/VirtoCommerce.Quote_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.10/VirtoCommerce.Quote_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Content",
-        "version": "2.10.0",
-        "platformVersion": "2.10.0",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.10.0"
+                "version": "2.11.0"
             },
             {
                 "id": "VirtoCommerce.Store",
-                "version": "2.10.0"
+                "version": "2.11.0"
             }
         ],
         "title": "CMS Content module",
@@ -281,7 +281,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-content",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-content/master/VirtoCommerce.ContentModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.10/VirtoCommerce.Content_2.10.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.10/VirtoCommerce.Content_2.11.0.zip"
     }
 
 ]

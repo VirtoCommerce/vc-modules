@@ -10,7 +10,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-core",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-core/master/VirtoCommerce.CoreModule.Web/Content/logoVC.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/2.11/VirtoCommerce.Core_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.11/VirtoCommerce.Core_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Catalog",
@@ -29,7 +29,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-catalog/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/2.11/VirtoCommerce.Catalog_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.11/VirtoCommerce.Catalog_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Customer",
@@ -48,7 +48,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-customer",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-customer/master/VirtoCommerce.CustomerModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/2.11/VirtoCommerce.Customer_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.11/VirtoCommerce.Customer_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Cart",
@@ -67,7 +67,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-cart",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-cart/master/VirtoCommerce.CartModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/2.11/VirtoCommerce.Cart_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.11/VirtoCommerce.Cart_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Store",
@@ -86,7 +86,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-store",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-store/master/VirtoCommerce.StoreModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/2.11/VirtoCommerce.Store_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.11/VirtoCommerce.Store_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Orders",
@@ -113,7 +113,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-order",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-order/master/VirtoCommerce.OrderModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/2.11/VirtoCommerce.Orders_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.11/VirtoCommerce.Orders_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Pricing",
@@ -132,7 +132,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-pricing",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-pricing/master/VirtoCommerce.PricingModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/2.11/VirtoCommerce.Pricing_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.11/VirtoCommerce.Pricing_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Inventory",
@@ -151,7 +151,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-inventory",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-inventory/master/VirtoCommerce.InventoryModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/2.11/VirtoCommerce.Inventory_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.11/VirtoCommerce.Inventory_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Marketing",
@@ -170,7 +170,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-marketing",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-marketing/master/VirtoCommerce.MarketingModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/2.11/VirtoCommerce.Marketing_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.11/VirtoCommerce.Marketing_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.DynamicExpressions",
@@ -197,7 +197,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-dynamic-expressions/master/VirtoCommerce.DynamicExpressionsModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions/releases/download/2.11/VirtoCommerce.DynamicExpressions_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions/releases/download/v2.11/VirtoCommerce.DynamicExpressions_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Search",
@@ -220,7 +220,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-search/master/VirtoCommerce.SearchModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/2.11/VirtoCommerce.Search_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.11/VirtoCommerce.Search_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Quote",
@@ -239,7 +239,7 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-quote",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-quote/master/VirtoCommerce.QuoteModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/2.11/VirtoCommerce.Quote_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.11/VirtoCommerce.Quote_2.11.0.zip"
     },
     {
         "id": "VirtoCommerce.Content",
@@ -262,6 +262,6 @@
         "owners": [ "Virto Commerce" ],
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-content",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-content/master/VirtoCommerce.ContentModule.Web/Content/logo.png",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/2.11/VirtoCommerce.Content_2.11.0.zip"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.11/VirtoCommerce.Content_2.11.0.zip"
     }
 ]

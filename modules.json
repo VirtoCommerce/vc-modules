@@ -343,8 +343,30 @@
         "version": "2.11.0"
     },
     {
+        "authors": [
+            "Virto Commerce"
+        ],
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.11.0"
+            }
+        ],
+        "description": "Paypal Express Checkout payment integration",
+        "iconUrl": "Modules/$(Paypal.ExpressCheckout)/Content/paypal_2014_logo.png",
         "id": "Paypal.ExpressCheckout",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/releases/download/v2.11.0/Paypal.ExpressCheckout_2.11.0.zip",
+        "platformVersion": "2.11.0",
+        "projectUrl": "http://virtocommerce.com/",
         "title": "Paypal Express Checkout",
+        "version": "2.11.0"
+    },
+    {
+        "id": "DiBs",
+        "title": "DiBs payment gateway",
         "version": "2.11.0",
         "platformVersion": "2.11.0",
         "authors": [
@@ -353,7 +375,7 @@
         "owners": [
             "Virto Commerce"
         ],
-        "description": "Paypal Express Checkout payment integration",
+        "description": "APIs and UI for DiBs payment gateway",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -361,7 +383,7 @@
             }
         ],
         "projectUrl": "http://virtocommerce.com/",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/releases/download/v2.11.0/Paypal.ExpressCheckout_2.11.0.zip",
-        "iconUrl": "Modules/$(Paypal.ExpressCheckout)/Content/paypal_2014_logo.png"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.11.0/DiBs_2.11.0.zip",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-DIBS/master/DiBs/Content/DIBS_logo_blue_RGB.png"
     }
 ]

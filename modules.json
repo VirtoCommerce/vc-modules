@@ -353,7 +353,7 @@
             }
         ],
         "description": "Paypal Express Checkout payment integration",
-        "iconUrl": "Modules/$(Paypal.ExpressCheckout)/Content/paypal_2014_logo.png",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/master/Paypal.ExpressCheckout/Content/paypal_2014_logo.png",
         "id": "Paypal.ExpressCheckout",
         "owners": [
             "Virto Commerce"

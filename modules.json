@@ -352,6 +352,9 @@
                 "version": "2.11.0"
             }
         ],
+        "groups": [
+            "payments"
+        ],
         "description": "Paypal Express Checkout payment integration",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/master/Paypal.ExpressCheckout/Content/paypal_2014_logo.png",
         "id": "Paypal.ExpressCheckout",
@@ -371,6 +374,9 @@
         "platformVersion": "2.11.0",
         "authors": [
             "Virto Commerce"
+        ],
+        "groups": [
+            "payments"
         ],
         "owners": [
             "Virto Commerce"

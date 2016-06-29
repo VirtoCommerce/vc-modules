@@ -356,10 +356,10 @@
                 "version": "2.11.0"
             }
         ],
+        "description": "Paypal Express Checkout payment integration",
         "groups": [
             "payments"
         ],
-        "description": "Paypal Express Checkout payment integration",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/master/Paypal.ExpressCheckout/Content/paypal_2014_logo.png",
         "id": "Paypal.ExpressCheckout",
         "owners": [
@@ -372,20 +372,42 @@
         "version": "2.11.0"
     },
     {
+        "authors": [
+            "Virto Commerce"
+        ],
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.11.0"
+            }
+        ],
+        "description": "APIs and UI for DiBs payment gateway",
+        "groups": [
+            "payments"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-DIBS/master/DiBs/Content/DIBS_logo_blue_RGB.png",
         "id": "DiBs",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.11.0/DiBs_2.11.0.zip",
+        "platformVersion": "2.11.0",
+        "projectUrl": "http://virtocommerce.com/",
         "title": "DiBs payment gateway",
+        "version": "2.11.0"
+    },
+    {
+        "id": "Authorize.Net",
+        "title": "Authorize.Net DPM payment gateway",
         "version": "2.11.0",
         "platformVersion": "2.11.0",
         "authors": [
             "Virto Commerce"
         ],
-        "groups": [
-            "payments"
-        ],
         "owners": [
             "Virto Commerce"
         ],
-        "description": "APIs and UI for DiBs payment gateway",
+        "description": "APIs and UI for Authorize.Net Direct Post Method (DPM) payment gateway",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -393,7 +415,7 @@
             }
         ],
         "projectUrl": "http://virtocommerce.com/",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.11.0/DiBs_2.11.0.zip",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-DIBS/master/DiBs/Content/DIBS_logo_blue_RGB.png"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/v2.11.0/Authorize.Net_2.11.0.zip",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Authorize.Net/master/Authorize.Net/Content/Authorizenet_logo.png"
     }
 ]

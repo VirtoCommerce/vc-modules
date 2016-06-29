@@ -408,6 +408,9 @@
             "Virto Commerce"
         ],
         "description": "APIs and UI for Authorize.Net Direct Post Method (DPM) payment gateway",
+        "groups": [
+            "payments"
+        ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",

@@ -101,6 +101,10 @@
             {
                 "id": "VirtoCommerce.Core",
                 "version": "2.11.0"
+            },
+            {
+                "id": "VirtoCommerce.Catalog",
+                "version": "2.11.0"
             }
         ],
         "description": "Multi store management with individual store settings",

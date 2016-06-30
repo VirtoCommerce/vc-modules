@@ -397,19 +397,8 @@
         "version": "2.11.0"
     },
     {
-        "id": "Authorize.Net",
-        "title": "Authorize.Net DPM payment gateway",
-        "version": "2.11.0",
-        "platformVersion": "2.11.0",
         "authors": [
             "Virto Commerce"
-        ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "description": "APIs and UI for Authorize.Net Direct Post Method (DPM) payment gateway",
-        "groups": [
-            "payments"
         ],
         "dependencies": [
             {
@@ -417,8 +406,45 @@
                 "version": "2.11.0"
             }
         ],
-        "projectUrl": "http://virtocommerce.com/",
+        "description": "APIs and UI for Authorize.Net Direct Post Method (DPM) payment gateway",
+        "groups": [
+            "payments"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Authorize.Net/master/Authorize.Net/Content/Authorizenet_logo.png",
+        "id": "Authorize.Net",
+        "owners": [
+            "Virto Commerce"
+        ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/v2.11.0/Authorize.Net_2.11.0.zip",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Authorize.Net/master/Authorize.Net/Content/Authorizenet_logo.png"
+        "platformVersion": "2.11.0",
+        "projectUrl": "http://virtocommerce.com/",
+        "title": "Authorize.Net DPM payment gateway",
+        "version": "2.11.0"
+    },
+    {
+        "id": "Altsoft.ShopifyImport",
+        "title": "Import from Shopify module",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
+        "authors": [
+            "Altsoft"
+        ],
+        "owners": [
+            "Altsoft"
+        ],
+        "description": "That module allows you to import existing data from your Shopify",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.11.0"
+            },
+            {
+                "id": "VirtoCommerce.Content",
+                "version": "2.11.0"
+            }
+        ],
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import/releases/download/v2.11.0/Altsoft.ShopifyImport_2.11.0.zip",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-shopify-import/master/Altsoft.ShopifyImportModule.Web/Content/images/shopify.png"
     }
 ]

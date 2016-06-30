@@ -1,5 +1,21 @@
 [
     {
+        "id": "VirtoCommerce.ImageTools",
+        "description": "Image tools helps to automate image transformation procedures such as automatically resizing and crop",
+        "title": "Image tools module",
+        "authors": [
+            "Virto Commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "platformVersion": "2.11.0",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-image-tools/master/VirtoCommerce.ImageToolsModule.Web/Content/logo.png",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/v1.0.0/VirtoCommerce.ImageTools_1.0.0.zip",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-image-tools",
+        "version": "1.0.0"
+    },
+    {
         "authors": [
             "Virto Commerce"
         ],
@@ -434,7 +450,7 @@
         ],
         "groups": [
             "import"
-        ],        
+        ],
         "description": "That module allows you to import existing data from your Shopify",
         "dependencies": [
             {

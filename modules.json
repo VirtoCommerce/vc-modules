@@ -432,6 +432,9 @@
         "owners": [
             "Altsoft"
         ],
+        "groups": [
+            "import"
+        ],        
         "description": "That module allows you to import existing data from your Shopify",
         "dependencies": [
             {

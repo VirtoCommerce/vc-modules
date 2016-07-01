@@ -28,11 +28,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.13/VirtoCommerce.Core_2.13.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.14/VirtoCommerce.Core_2.14.0.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-core",
         "title": "Commerce core module",
-        "version": "2.13.0"
+        "version": "2.14.0"
     },
     {
         "authors": [
@@ -41,7 +41,11 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.14.0"
+            },
+            {
+                "id": "VirtoCommerce.ImageTools",
+                "version": "1.0.0"
             }
         ],
         "description": "Catalog, categories, products, variations, properties management",
@@ -53,11 +57,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.11/VirtoCommerce.Catalog_2.11.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.12/VirtoCommerce.Catalog_2.12.0.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog",
         "title": "Catalog module",
-        "version": "2.11.0"
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -165,11 +169,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.11/VirtoCommerce.Orders_2.11.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.11.1/VirtoCommerce.Orders_2.11.1.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-order",
         "title": "Order module",
-        "version": "2.11.0"
+        "version": "2.11.1"
     },
     {
         "authors": [
@@ -290,7 +294,7 @@
             },
             {
                 "id": "VirtoCommerce.Catalog",
-                "version": "2.11.0"
+                "version": "2.12.0"
             }
         ],
         "description": "Indexed search functionality with Lucene and ElasticSearch engines",
@@ -302,11 +306,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.11/VirtoCommerce.Search_2.11.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.11.1/VirtoCommerce.Search_2.11.1.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search",
         "title": "Indexed search module",
-        "version": "2.11.0"
+        "version": "2.11.1"
     },
     {
         "authors": [

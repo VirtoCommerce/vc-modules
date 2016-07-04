@@ -1,18 +1,18 @@
 [
     {
-        "id": "VirtoCommerce.ImageTools",
-        "description": "Image tools helps to automate image transformation procedures such as automatically resizing and crop",
-        "title": "Image tools module",
         "authors": [
             "Virto Commerce"
         ],
+        "description": "Image tools helps to automate image transformation procedures such as automatically resizing and crop",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-image-tools/master/VirtoCommerce.ImageToolsModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.ImageTools",
         "owners": [
             "Virto Commerce"
         ],
-        "platformVersion": "2.11.0",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-image-tools/master/VirtoCommerce.ImageToolsModule.Web/Content/logo.png",
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/v1.0.0/VirtoCommerce.ImageTools_1.0.0.zip",
+        "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-image-tools",
+        "title": "Image tools module",
         "version": "1.0.0"
     },
     {
@@ -442,20 +442,9 @@
         "version": "2.11.0"
     },
     {
-        "id": "Altsoft.ShopifyImport",
-        "title": "Import from Shopify module",
-        "version": "2.11.0",
-        "platformVersion": "2.11.0",
         "authors": [
             "Altsoft"
         ],
-        "owners": [
-            "Altsoft"
-        ],
-        "groups": [
-            "import"
-        ],
-        "description": "That module allows you to import existing data from your Shopify",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -466,8 +455,41 @@
                 "version": "2.11.0"
             }
         ],
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import",
+        "description": "That module allows you to import existing data from your Shopify",
+        "groups": [
+            "import"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-shopify-import/master/Altsoft.ShopifyImportModule.Web/Content/images/shopify.png",
+        "id": "Altsoft.ShopifyImport",
+        "owners": [
+            "Altsoft"
+        ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import/releases/download/v2.11.0/Altsoft.ShopifyImport_2.11.0.zip",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-shopify-import/master/Altsoft.ShopifyImportModule.Web/Content/images/shopify.png"
+        "platformVersion": "2.11.0",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import",
+        "title": "Import from Shopify module",
+        "version": "2.11.0"
+    },
+    {
+        "id": "Paypal.AdaptivePayments",
+        "title": "Paypal Adaptive Payments",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
+        "authors": [
+            "Virto Commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "description": "Paypal Adaptive Payments API integration",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.14.0"
+            }
+        ],
+        "projectUrl": "http://virtocommerce.com/",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/releases/download/v2.11.0/Paypal.AdaptivePayments_2.11.0.zip",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/master/Paypal.AdaptivePayments/Content/paypal_2014_logo.png"
     }
 ]

@@ -493,8 +493,30 @@
         "version": "2.11.0"
     },
     {
+        "authors": [
+            "Virto Commerce"
+        ],
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.14.0"
+            }
+        ],
+        "description": "APIs and UI for CyberSource Simple Order API payment gateway",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-CyberSource/master/Cyber.Source/Content/cybersource.jpg",
         "id": "CyberSource.SimpleOrder",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.11.0/CyberSource.SimpleOrder_2.11.0.zip",
+        "platformVersion": "2.11.0",
+        "projectUrl": "http://virtocommerce.com/",
         "title": "CyberSource Simple Order payment gateway",
+        "version": "2.11.0"
+    },
+    {
+        "id": "Klarna.Checkout.Euro",
+        "title": "Klarna Checkout Europe payment gateway",
         "version": "2.11.0",
         "platformVersion": "2.11.0",
         "authors": [
@@ -503,7 +525,7 @@
         "owners": [
             "Virto Commerce"
         ],
-        "description": "APIs and UI for CyberSource Simple Order API payment gateway",
+        "description": "APIs and UI for Klarna Checkout Europe payment gateway",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -511,7 +533,7 @@
             }
         ],
         "projectUrl": "http://virtocommerce.com/",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.11.0/CyberSource.SimpleOrder_2.11.0.zip",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-CyberSource/master/Cyber.Source/Content/cybersource.jpg"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-KlarnaCheckout-Euro/releases/download/v2.11.0/Klarna.Checkout.Euro_2.11.0.zip",
+        "iconUrl": "https://cdn.klarna.com/1.0/shared/image/generic/logo/sv_se/basic/blue-black.png"
     }
 ]

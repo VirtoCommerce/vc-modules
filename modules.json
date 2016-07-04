@@ -471,8 +471,30 @@
         "version": "2.11.0"
     },
     {
+        "authors": [
+            "Virto Commerce"
+        ],
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.14.0"
+            }
+        ],
+        "description": "Paypal Adaptive Payments API integration",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/master/Paypal.AdaptivePayments/Content/paypal_2014_logo.png",
         "id": "Paypal.AdaptivePayments",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/releases/download/v2.11.0/Paypal.AdaptivePayments_2.11.0.zip",
+        "platformVersion": "2.11.0",
+        "projectUrl": "http://virtocommerce.com/",
         "title": "Paypal Adaptive Payments",
+        "version": "2.11.0"
+    },
+    {
+        "id": "CyberSource.SimpleOrder",
+        "title": "CyberSource Simple Order payment gateway",
         "version": "2.11.0",
         "platformVersion": "2.11.0",
         "authors": [
@@ -481,7 +503,7 @@
         "owners": [
             "Virto Commerce"
         ],
-        "description": "Paypal Adaptive Payments API integration",
+        "description": "APIs and UI for CyberSource Simple Order API payment gateway",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -489,7 +511,7 @@
             }
         ],
         "projectUrl": "http://virtocommerce.com/",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/releases/download/v2.11.0/Paypal.AdaptivePayments_2.11.0.zip",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/master/Paypal.AdaptivePayments/Content/paypal_2014_logo.png"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.11.0/CyberSource.SimpleOrder_2.11.0.zip",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-CyberSource/master/Cyber.Source/Content/cybersource.jpg"
     }
 ]

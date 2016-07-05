@@ -557,5 +557,27 @@
         "projectUrl": "http://virtocommerce.com/",
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-MeS/releases/download/v2.11.0/MeS.PaymentGateway_2.11.0.zip",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-MeS/dev/MeS.PaymentGatewaysModule.Web/Content/logo.gif"
+    },
+    {
+        "id": "Avalara.Tax",
+        "title": "Avalara integration",
+        "version": "2.11.1",
+        "platformVersion": "2.11.0",
+        "authors": [
+            "Virto Commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "description": "Represent VC tax evaluation provider which used Avalara service for tax evaluation and transaction registration",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.14.0"
+            }
+        ],
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-avatax",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/v2.11.1/Avalara.Tax_2.11.1.zip",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-avatax/master/AvaTax.TaxModule.Web/Content/400.png"
     }
 ]

@@ -481,6 +481,9 @@
             }
         ],
         "description": "Paypal Adaptive Payments API integration",
+        "groups": [
+            "payments"
+        ],        
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/master/Paypal.AdaptivePayments/Content/paypal_2014_logo.png",
         "id": "Paypal.AdaptivePayments",
         "owners": [
@@ -503,6 +506,9 @@
             }
         ],
         "description": "APIs and UI for CyberSource Simple Order API payment gateway",
+        "groups": [
+            "payments"
+        ],        
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-CyberSource/master/Cyber.Source/Content/cybersource.jpg",
         "id": "CyberSource.SimpleOrder",
         "owners": [
@@ -525,6 +531,9 @@
             }
         ],
         "description": "APIs and UI for Klarna Checkout Europe payment gateway",
+        "groups": [
+            "payments"
+        ],        
         "iconUrl": "https://cdn.klarna.com/1.0/shared/image/generic/logo/sv_se/basic/blue-black.png",
         "id": "Klarna.Checkout.Euro",
         "owners": [
@@ -547,6 +556,9 @@
             }
         ],
         "description": "APIs and UI for Merchant e-Solutions Payment Gateway API integration",
+        "groups": [
+            "payments"
+        ],        
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-MeS/dev/MeS.PaymentGatewaysModule.Web/Content/logo.gif",
         "id": "MeS.PaymentGateway",
         "owners": [
@@ -592,6 +604,9 @@
             "Virto Commerce"
         ],
         "description": "Paypal Direct Payment API integration",
+        "groups": [
+            "payments"
+        ],        
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",

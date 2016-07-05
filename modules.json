@@ -579,5 +579,27 @@
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-avatax",
         "title": "Avalara integration",
         "version": "2.11.1"
+    },
+    {
+        "id": "Paypal.DirectPayment",
+        "title": "Paypal Direct Payment",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
+        "authors": [
+            "Virto Commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "description": "Paypal Direct Payment API integration",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.11.0"
+            }
+        ],
+        "projectUrl": "http://virtocommerce.com/",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-DirectPayments/releases/download/v2.11.0/Paypal.DirectPayment_2.11.0.zip",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-DirectPayments/master/Paypal.DirectPayments/Content/paypal_2014_logo.png"
     }
 ]

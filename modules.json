@@ -508,11 +508,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.11.0/CyberSource.SimpleOrder_2.11.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.11.1/CyberSource.SimpleOrder_2.11.1.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "http://virtocommerce.com/",
         "title": "CyberSource Simple Order payment gateway",
-        "version": "2.11.0"
+        "version": "2.11.1"
     },
     {
         "authors": [
@@ -537,47 +537,47 @@
         "version": "2.11.0"
     },
     {
-        "id": "MeS.PaymentGateway",
-        "title": "MeS Payment Gateway",
-        "version": "2.11.0",
-        "platformVersion": "2.11.0",
         "authors": [
             "Virto Commerce"
         ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "description": "APIs and UI for Merchant e-Solutions Payment Gateway API integration",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
                 "version": "2.11.0"
             }
         ],
-        "projectUrl": "http://virtocommerce.com/",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-MeS/releases/download/v2.11.0/MeS.PaymentGateway_2.11.0.zip",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-MeS/dev/MeS.PaymentGatewaysModule.Web/Content/logo.gif"
-    },
-    {
-        "id": "Avalara.Tax",
-        "title": "Avalara integration",
-        "version": "2.11.1",
-        "platformVersion": "2.11.0",
-        "authors": [
-            "Virto Commerce"
-        ],
+        "description": "APIs and UI for Merchant e-Solutions Payment Gateway API integration",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-MeS/dev/MeS.PaymentGatewaysModule.Web/Content/logo.gif",
+        "id": "MeS.PaymentGateway",
         "owners": [
             "Virto Commerce"
         ],
-        "description": "Represent VC tax evaluation provider which used Avalara service for tax evaluation and transaction registration",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-MeS/releases/download/v2.11.0/MeS.PaymentGateway_2.11.0.zip",
+        "platformVersion": "2.11.0",
+        "projectUrl": "http://virtocommerce.com/",
+        "title": "MeS Payment Gateway",
+        "version": "2.11.0"
+    },
+    {
+        "authors": [
+            "Virto Commerce"
+        ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
                 "version": "2.14.0"
             }
         ],
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-avatax",
+        "description": "Represent VC tax evaluation provider which used Avalara service for tax evaluation and transaction registration",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-avatax/master/AvaTax.TaxModule.Web/Content/400.png",
+        "id": "Avalara.Tax",
+        "owners": [
+            "Virto Commerce"
+        ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/v2.11.1/Avalara.Tax_2.11.1.zip",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-avatax/master/AvaTax.TaxModule.Web/Content/400.png"
+        "platformVersion": "2.11.0",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-avatax",
+        "title": "Avalara integration",
+        "version": "2.11.1"
     }
 ]

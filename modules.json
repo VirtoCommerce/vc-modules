@@ -616,5 +616,27 @@
         "projectUrl": "http://virtocommerce.com/",
         "title": "Paypal Direct Payment",
         "version": "2.11.0"
+    },
+    {
+        "id": "Jenkins.Test.Module",
+        "title": "jenkins test module",
+        "version": "2.12.0",
+        "platformVersion": "2.0.0",
+        "authors": [
+            "Virto Commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "description": "APIs and UI for Authorize.Net payment gateway",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.11.0"
+            }
+        ],
+        "projectUrl": "http://virtocommerce.com/",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-jenkinssample/releases/download/v2.12.0/Jenkins.Test.Module_2.12.0.zip",
+        "iconUrl": "Modules/$(Authorize.Net)/Content/Authorizenet_logo.png"
     }
 ]

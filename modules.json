@@ -306,11 +306,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.11.1/VirtoCommerce.Search_2.11.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.11.2/VirtoCommerce.Search_2.11.2.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search",
         "title": "Indexed search module",
-        "version": "2.11.1"
+        "version": "2.11.2"
     },
     {
         "authors": [

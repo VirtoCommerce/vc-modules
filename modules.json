@@ -483,7 +483,7 @@
         "description": "Paypal Adaptive Payments API integration",
         "groups": [
             "payments"
-        ],        
+        ],
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/master/Paypal.AdaptivePayments/Content/paypal_2014_logo.png",
         "id": "Paypal.AdaptivePayments",
         "owners": [
@@ -508,7 +508,7 @@
         "description": "APIs and UI for CyberSource Simple Order API payment gateway",
         "groups": [
             "payments"
-        ],        
+        ],
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-CyberSource/master/Cyber.Source/Content/cybersource.jpg",
         "id": "CyberSource.SimpleOrder",
         "owners": [
@@ -533,7 +533,7 @@
         "description": "APIs and UI for Klarna Checkout Europe payment gateway",
         "groups": [
             "payments"
-        ],        
+        ],
         "iconUrl": "https://cdn.klarna.com/1.0/shared/image/generic/logo/sv_se/basic/blue-black.png",
         "id": "Klarna.Checkout.Euro",
         "owners": [
@@ -558,7 +558,7 @@
         "description": "APIs and UI for Merchant e-Solutions Payment Gateway API integration",
         "groups": [
             "payments"
-        ],        
+        ],
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-MeS/dev/MeS.PaymentGatewaysModule.Web/Content/logo.gif",
         "id": "MeS.PaymentGateway",
         "owners": [
@@ -593,20 +593,42 @@
         "version": "2.11.1"
     },
     {
+        "authors": [
+            "Virto Commerce"
+        ],
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.11.0"
+            }
+        ],
+        "description": "Paypal Direct Payment API integration",
+        "groups": [
+            "payments"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-DirectPayments/master/Paypal.DirectPayments/Content/paypal_2014_logo.png",
         "id": "Paypal.DirectPayment",
-        "title": "Paypal Direct Payment",
-        "version": "2.11.0",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-DirectPayments/releases/download/v2.11.0/Paypal.DirectPayment_2.11.0.zip",
         "platformVersion": "2.11.0",
+        "projectUrl": "http://virtocommerce.com/",
+        "title": "Paypal Direct Payment",
+        "version": "2.11.0"
+    },
+    {
+        "id": "Jenkins.Test.Module",
+        "title": "jenkins test module",
+        "version": "2.12.0",
+        "platformVersion": "2.0.0",
         "authors": [
             "Virto Commerce"
         ],
         "owners": [
             "Virto Commerce"
         ],
-        "description": "Paypal Direct Payment API integration",
-        "groups": [
-            "payments"
-        ],        
+        "description": "APIs and UI for Authorize.Net payment gateway",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -614,7 +636,7 @@
             }
         ],
         "projectUrl": "http://virtocommerce.com/",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-DirectPayments/releases/download/v2.11.0/Paypal.DirectPayment_2.11.0.zip",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-DirectPayments/master/Paypal.DirectPayments/Content/paypal_2014_logo.png"
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-jenkinssample/releases/download/v2.12.0/Jenkins.Test.Module_2.12.0.zip",
+        "iconUrl": "Modules/$(Authorize.Net)/Content/Authorizenet_logo.png"
     }
 ]

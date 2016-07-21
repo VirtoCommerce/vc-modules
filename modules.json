@@ -89,7 +89,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.14.0"
             }
         ],
         "description": "eCommerce CRM system allows to manage members and all derived types (contacts, organizations, employees etc)",
@@ -101,11 +101,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.11/VirtoCommerce.Customer_2.11.0.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.11.2/VirtoCommerce.Customer_2.11.2.zip",
+        "platformVersion": "2.11.2",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-customer",
         "title": "Customer management module",
-        "version": "2.11.0"
+        "version": "2.11.2"
     },
     {
         "authors": [

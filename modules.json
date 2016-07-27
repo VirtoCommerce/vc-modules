@@ -637,25 +637,26 @@
         "version": "2.11.0"
     },
     {
-        "id": "ShipStation.Fulfillment",
-        "title": "ShipStation fulfillment",
-        "version": "2.11.0",
-        "platformVersion": "2.11.0",
         "authors": [
-            "Virto Commerce"
+            "Egidijus Ma\u017eeika",
+            "Andrej Artiomov"
         ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "description": "ShipStation fulfillment module enables synchronizing customer orders with ShipStation. That way new orders with shipments placed in VirtoCommerce will become available in ShipStation admin and changes of shipment status will be synced with VirtoCommerce orders.",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
                 "version": "2.11.0"
             }
         ],
-        "projectUrl": "http://virtocommerce.com/",
+        "description": "ShipStation fulfillment module enables synchronizing customer orders with ShipStation. That way new orders with shipments placed in VirtoCommerce will become available in ShipStation admin and changes of shipment status will be synced with VirtoCommerce orders.",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-Shipstation/raw/master/Shipstation.FulfillmentModule.Web/Content/logo.png",
+        "id": "ShipStation.Fulfillment",
+        "owners": [
+            "Virto Commerce"
+        ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-Shipstation/releases/download/v2.11.0/ShipStation.Fulfillment_2.11.0.zip",
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-Shipstation/raw/master/Shipstation.FulfillmentModule.Web/Content/logo.png"
+        "platformVersion": "2.11.0",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Shipstation",
+        "title": "ShipStation fulfillment",
+        "version": "2.11.0"
     }
 ]

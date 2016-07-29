@@ -71,16 +71,16 @@
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-catalog/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog/raw/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Catalog",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.12/VirtoCommerce.Catalog_2.12.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.13.0/VirtoCommerce.Catalog_2.13.0.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog",
         "title": "Catalog module",
-        "version": "2.12.0"
+        "version": "2.13.0"
     },
     {
         "authors": [
@@ -660,26 +660,26 @@
         "version": "2.11.0"
     },
     {
-        "id": "Zapier.Integration",
-        "title": "Zapier integration",
-        "version": "2.11.0",
-        "platformVersion": "2.11.0",
         "authors": [
             "Andrej Artiomov",
             "Egidijus Ma\u017eeika"
         ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "description": "APIs for syncing with Zapier",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
                 "version": "2.11.0"
             }
         ],
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-zapier",
+        "description": "APIs for syncing with Zapier",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-zapier/master/Zapier.Integration.Module/Content/Zapier-300x155.png",
+        "id": "Zapier.Integration",
+        "owners": [
+            "Virto Commerce"
+        ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-zapier/releases/download/v2.11.0/Zapier.Integration_2.11.0.zip",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-zapier/master/Zapier.Integration.Module/Content/Zapier-300x155.png"
+        "platformVersion": "2.11.0",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-zapier",
+        "title": "Zapier integration",
+        "version": "2.11.0"
     }
 ]

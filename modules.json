@@ -22,7 +22,7 @@
         "authors": [
             "Virto Commerce"
         ],
-        "description": "Image tools helps to automate image transformation procedures such as automatically resizing and crop",
+        "description": "Image tools helps to automate image transformation procedures such as resizing and cropping",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-image-tools/master/VirtoCommerce.ImageToolsModule.Web/Content/logo.png",
         "id": "VirtoCommerce.ImageTools",
         "owners": [
@@ -341,7 +341,7 @@
                 "version": "2.11.0"
             }
         ],
-        "description": "Quoter enables business users to execute quote requests online. Once initiated, an online conversation takes place with internal users who interact with the business user's request. The internal user can set prices for quantity breaks or discounts. The quote is then made available to the business user online. The business user can accept the quote and place the order, continue the conversation, or reject the quote.",
+        "description": "Quote enables business users to execute quote requests online. Once initiated, an online conversation takes place with internal users who interact with the business user's request. The internal user can set prices for quantity breaks or discounts. The quote is then made available to the business user online. The business user can accept the quote and place the order, continue the conversation, or reject the quote.",
         "groups": [
             "commerce"
         ],
@@ -406,7 +406,7 @@
         ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/releases/download/v2.11.0/Paypal.ExpressCheckout_2.11.0.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout",
         "title": "Paypal Express Checkout",
         "version": "2.11.0"
     },
@@ -431,7 +431,7 @@
         ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.11.0/DiBs_2.11.0.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-DIBS",
         "title": "DiBs payment gateway",
         "version": "2.11.0"
     },
@@ -456,7 +456,7 @@
         ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/v2.11.0/Authorize.Net_2.11.0.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net",
         "title": "Authorize.Net DPM payment gateway",
         "version": "2.11.0"
     },
@@ -510,7 +510,7 @@
         ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/releases/download/v2.11.0/Paypal.AdaptivePayments_2.11.0.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments",
         "title": "Paypal Adaptive Payments",
         "version": "2.11.0"
     },
@@ -535,7 +535,7 @@
         ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.11.1/CyberSource.SimpleOrder_2.11.1.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource",
         "title": "CyberSource Simple Order payment gateway",
         "version": "2.11.1"
     },
@@ -560,7 +560,7 @@
         ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-KlarnaCheckout-Euro/releases/download/v2.11.0/Klarna.Checkout.Euro_2.11.0.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-KlarnaCheckout-Euro",
         "title": "Klarna Checkout Europe payment gateway",
         "version": "2.11.0"
     },
@@ -585,7 +585,7 @@
         ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-MeS/releases/download/v2.11.0/MeS.PaymentGateway_2.11.0.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-MeS",
         "title": "MeS Payment Gateway",
         "version": "2.11.0"
     },
@@ -632,7 +632,7 @@
         ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-DirectPayments/releases/download/v2.11.0/Paypal.DirectPayment_2.11.0.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-DirectPayments",
         "title": "Paypal Direct Payment",
         "version": "2.11.0"
     },

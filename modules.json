@@ -658,5 +658,28 @@
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-Shipstation",
         "title": "ShipStation fulfillment",
         "version": "2.11.0"
+    },
+    {
+        "id": "Zapier.Integration",
+        "title": "Zapier integration",
+        "version": "2.11.0",
+        "platformVersion": "2.11.0",
+        "authors": [
+            "Andrej Artiomov",
+            "Egidijus Ma\u017eeika"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "description": "APIs for syncing with Zapier",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.11.0"
+            }
+        ],
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-zapier",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-zapier/releases/download/v2.11.0/Zapier.Integration_2.11.0.zip",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-zapier/master/Zapier.Integration.Module/Content/Zapier-300x155.png"
     }
 ]

@@ -76,11 +76,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.13.0/VirtoCommerce.Catalog_2.13.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.13.1/VirtoCommerce.Catalog_2.13.1.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog",
         "title": "Catalog module",
-        "version": "2.13.0"
+        "version": "2.13.1"
     },
     {
         "authors": [

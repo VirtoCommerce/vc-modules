@@ -150,14 +150,14 @@
         "groups": [
             "commerce"
         ],
-        "iconUrl": "Modules/$(VirtoCommerce.Store)/Content/logo.png",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-store/raw/master/VirtoCommerce.StoreModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Store",
         "owners": [
             "Virto Commerce"
         ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.11.1/VirtoCommerce.Store_2.11.1.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-store",
         "title": "Store module",
         "version": "2.11.1"
     },

@@ -374,16 +374,16 @@
         "groups": [
             "commerce"
         ],
-        "iconUrl": "Modules/$(VirtoCommerce.Content)/Content/logo.png",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-content/raw/master/VirtoCommerce.ContentModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Content",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.11.1/VirtoCommerce.Content_2.11.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.11.2/VirtoCommerce.Content_2.11.2.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-content",
         "title": "CMS Content module",
-        "version": "2.11.1"
+        "version": "2.11.2"
     },
     {
         "authors": [

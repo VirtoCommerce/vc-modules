@@ -379,11 +379,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.11.2/VirtoCommerce.Content_2.11.2.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.11.3/VirtoCommerce.Content_2.11.3.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-content",
         "title": "CMS Content module",
-        "version": "2.11.2"
+        "version": "2.11.3"
     },
     {
         "authors": [

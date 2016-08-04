@@ -52,7 +52,7 @@
         ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.15.1/VirtoCommerce.Core_2.15.1.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-core",
         "title": "Commerce core module",
         "version": "2.15.1"
     },

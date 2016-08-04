@@ -38,20 +38,23 @@
         "authors": [
             "Virto Commerce"
         ],
+        "dependencies": [
+            
+        ],
         "description": "Common e-commerce domain functionality",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-core/master/VirtoCommerce.CoreModule.Web/Content/logoVC.png",
+        "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
         "id": "VirtoCommerce.Core",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.14/VirtoCommerce.Core_2.14.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.15.0/VirtoCommerce.Core_2.15.0.zip",
         "platformVersion": "2.11.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-core",
+        "projectUrl": "http://virtocommerce.com/",
         "title": "Commerce core module",
-        "version": "2.14.0"
+        "version": "2.15.0"
     },
     {
         "authors": [

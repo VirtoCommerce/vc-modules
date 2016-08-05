@@ -702,5 +702,27 @@
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-zapier",
         "title": "Zapier integration",
         "version": "2.11.0"
+    },
+    {
+        "id": "VirtoCommerce.GoogleEcommerceAnalytics",
+        "title": "Ecommerce Google Analytics module",
+        "version": "1.0.0",
+        "platformVersion": "2.11.4",
+        "authors": [
+            "Alexey Antonov"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "description": "Provides integration between Ecommerce feature of Google Analytics and VirtoCommerce.",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.14.0"
+            }
+        ],
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/v1.0.0/VirtoCommerce.GoogleEcommerceAnalytics_1.0.0.zip",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/raw/master/VirtoCommerce.GoogleEcommerceAnalyticsModule.Web/Content/logo.png"
     }
 ]

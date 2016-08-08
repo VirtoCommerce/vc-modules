@@ -30,11 +30,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.3/VirtoCommerce.Cache_1.0.3.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.4/VirtoCommerce.Cache_1.0.4.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-cache",
         "title": "Smart caching module",
-        "version": "1.0.3"
+        "version": "1.0.4"
     },
     {
         "authors": [
@@ -704,25 +704,25 @@
         "version": "2.11.0"
     },
     {
-        "id": "VirtoCommerce.GoogleEcommerceAnalytics",
-        "title": "Ecommerce Google Analytics module",
-        "version": "1.0.0",
-        "platformVersion": "2.11.4",
         "authors": [
             "Alexey Antonov"
         ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "description": "Provides integration between Ecommerce feature of Google Analytics and VirtoCommerce.",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
                 "version": "2.14.0"
             }
         ],
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics",
+        "description": "Provides integration between Ecommerce feature of Google Analytics and VirtoCommerce.",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/raw/master/VirtoCommerce.GoogleEcommerceAnalyticsModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.GoogleEcommerceAnalytics",
+        "owners": [
+            "Virto Commerce"
+        ],
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/v1.0.0/VirtoCommerce.GoogleEcommerceAnalytics_1.0.0.zip",
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/raw/master/VirtoCommerce.GoogleEcommerceAnalyticsModule.Web/Content/logo.png"
+        "platformVersion": "2.11.4",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics",
+        "title": "Ecommerce Google Analytics module",
+        "version": "1.0.0"
     }
 ]

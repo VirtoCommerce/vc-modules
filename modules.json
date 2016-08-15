@@ -68,11 +68,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.15.1/VirtoCommerce.Core_2.15.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.16/VirtoCommerce.Core_2.16.0.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-core",
         "title": "Commerce core module",
-        "version": "2.15.1"
+        "version": "2.16.0"
     },
     {
         "authors": [
@@ -81,7 +81,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.14.0"
+                "version": "2.16.0"
             },
             {
                 "id": "VirtoCommerce.ImageTools",
@@ -97,11 +97,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.13.1/VirtoCommerce.Catalog_2.13.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.14/VirtoCommerce.Catalog_2.14.0.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog",
         "title": "Catalog module",
-        "version": "2.13.1"
+        "version": "2.14.0"
     },
     {
         "authors": [
@@ -222,7 +222,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.16.0"
             }
         ],
         "description": "Robust pricing management functionality based on price list and dynamic evaluation",
@@ -234,11 +234,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.11/VirtoCommerce.Pricing_2.11.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.13/VirtoCommerce.Pricing_2.13.0.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-pricing",
         "title": "Pricing module",
-        "version": "2.11.0"
+        "version": "2.13.0"
     },
     {
         "authors": [
@@ -330,11 +330,11 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.16.0"
             },
             {
                 "id": "VirtoCommerce.Catalog",
-                "version": "2.12.0"
+                "version": "2.14.0"
             }
         ],
         "description": "Indexed search functionality with Lucene and ElasticSearch engines",
@@ -346,11 +346,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.11.2/VirtoCommerce.Search_2.11.2.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.11.3/VirtoCommerce.Search_2.11.3.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search",
         "title": "Indexed search module",
-        "version": "2.11.2"
+        "version": "2.11.3"
     },
     {
         "authors": [
@@ -359,7 +359,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.16.0"
             }
         ],
         "description": "Quote enables business users to execute quote requests online. Once initiated, an online conversation takes place with internal users who interact with the business user's request. The internal user can set prices for quantity breaks or discounts. The quote is then made available to the business user online. The business user can accept the quote and place the order, continue the conversation, or reject the quote.",
@@ -371,11 +371,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.11/VirtoCommerce.Quote_2.11.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.11.1/VirtoCommerce.Quote_2.11.1.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-quote",
         "title": "Quote module",
-        "version": "2.11.0"
+        "version": "2.11.1"
     },
     {
         "authors": [

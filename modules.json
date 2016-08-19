@@ -122,11 +122,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.11.2/VirtoCommerce.Customer_2.11.2.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.11.3/VirtoCommerce.Customer_2.11.3.zip",
         "platformVersion": "2.11.2",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-customer",
         "title": "Customer management module",
-        "version": "2.11.2"
+        "version": "2.11.3"
     },
     {
         "authors": [

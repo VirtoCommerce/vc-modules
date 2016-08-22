@@ -325,32 +325,34 @@
     },
     {
         "authors": [
-            "Virto Commerce"
+            "Alexander Siniouguine",
+            "Eugeny Tatarincev",
+            "Artem Dudarev"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.16.0"
+                "version": "2.16.1"
             },
             {
                 "id": "VirtoCommerce.Catalog",
-                "version": "2.14.0"
+                "version": "2.14.1"
             }
         ],
         "description": "Indexed search functionality with Lucene and ElasticSearch engines",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-search/master/VirtoCommerce.SearchModule.Web/Content/logo.png",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search/raw/master/VirtoCommerce.SearchModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Search",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.11.3/VirtoCommerce.Search_2.11.3.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.11.4/VirtoCommerce.Search_2.11.4.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search",
-        "title": "Indexed search module",
-        "version": "2.11.3"
+        "title": "Search module",
+        "version": "2.11.4"
     },
     {
         "authors": [

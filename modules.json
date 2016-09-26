@@ -54,10 +54,11 @@
         "owners": [
             "Virto Commerce"
         ],
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search/raw/master/VirtoCommerce.SearchModule.Web/Content/logo.png",
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.0/VirtoCommerce.SearchApi_1.0.0.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search-api",
-        "title": "JavaScript shopping cart",
+        "title": "Indexed search API module",
         "version": "1.0.0"
     },
     {

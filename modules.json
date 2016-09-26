@@ -1,4 +1,65 @@
 [
+     {
+        "authors": [
+            "Vitalii Efremov"
+        ],
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.17.0"
+            },
+            {
+                "id": "VirtoCommerce.Store",
+                "version": "2.12.0"
+            }        
+        ],
+        "description": "JavaScript shopping cart",
+        "groups": [],
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-javascript-shoppingcart/master/VirtoCommerce.JavaScriptShoppingCart.Web/Content/logo.png",
+        "id": "VirtoCommerce.JavaScriptShoppingCart",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart/releases/download/v1.0/VirtoCommerce.JavaScriptShoppingCart_1.0.0.zip",
+        "platformVersion": "2.12.0",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart",
+        "title": "JavaScript shopping cart",
+        "version": "1.0.0"
+    },
+    {
+        "authors": [
+            "Alexander Siniouguine"
+        ],
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.17.0"
+            },
+            {
+                "id": "VirtoCommerce.Catalog",
+                "version": "2.15.0"
+            },
+            {
+                "id": "VirtoCommerce.Search",
+                "version": "2.12.0"
+            },
+            {
+                "id": "VirtoCommerce.Store",
+                "version": "2.12.0"
+            }                      
+        ],
+        "description": "Includes indexers and search criteria builders for major modules (catalog, order, customer)",
+        "groups": [ "commerce" ],
+        "id": "VirtoCommerce.SearchApi",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.0/VirtoCommerce.SearchApi_1.0.0.zip",
+        "platformVersion": "2.12.0",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-search-api",
+        "title": "JavaScript shopping cart",
+        "version": "1.0.0"
+    },
     {
         "authors": [
             "Virto Commerce"
@@ -6,7 +67,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.14.0"
+                "version": "2.17.0"
             },
             {
                 "id": "VirtoCommerce.Store",
@@ -30,11 +91,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.4/VirtoCommerce.Cache_1.0.4.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.5/VirtoCommerce.Cache_1.0.5.zip",
         "platformVersion": "2.11.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-cache",
         "title": "Smart caching module",
-        "version": "1.0.4"
+        "version": "1.0.5"
     },
     {
         "authors": [
@@ -68,11 +129,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.16.1/VirtoCommerce.Core_2.16.1.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.17.0/VirtoCommerce.Core_2.17.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-core",
         "title": "Commerce core module",
-        "version": "2.16.1"
+        "version": "2.17.0"
     },
     {
         "authors": [
@@ -81,7 +142,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.16.1"
+                "version": "2.17.0"
             },
             {
                 "id": "VirtoCommerce.ImageTools",
@@ -97,11 +158,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.14.1/VirtoCommerce.Catalog_2.14.1.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.15.0/VirtoCommerce.Catalog_2.15.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog",
         "title": "Catalog module",
-        "version": "2.14.1"
+        "version": "2.15.0"
     },
     {
         "authors": [
@@ -110,7 +171,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.14.0"
+                "version": "2.17.0"
             }
         ],
         "description": "eCommerce CRM system allows to manage members and all derived types (contacts, organizations, employees etc)",
@@ -122,11 +183,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.11.3/VirtoCommerce.Customer_2.11.3.zip",
-        "platformVersion": "2.11.2",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.12/VirtoCommerce.Customer_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-customer",
         "title": "Customer management module",
-        "version": "2.11.3"
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -135,7 +196,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.17.0"
             }
         ],
         "description": "Shopping cart / checkout functionality",
@@ -147,11 +208,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.11/VirtoCommerce.Cart_2.11.0.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.12/VirtoCommerce.Cart_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-cart",
         "title": "Shopping cart module",
-        "version": "2.11.0"
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -160,7 +221,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.17.0"
             },
             {
                 "id": "VirtoCommerce.Catalog",
@@ -176,11 +237,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.11.1/VirtoCommerce.Store_2.11.1.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.12/VirtoCommerce.Store_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-store",
         "title": "Store module",
-        "version": "2.11.1"
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -189,11 +250,11 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.17.0"
             },
             {
                 "id": "VirtoCommerce.Catalog",
-                "version": "2.11.0"
+                "version": "2.12.0"
             },
             {
                 "id": "VirtoCommerce.Pricing",
@@ -209,11 +270,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.11.1/VirtoCommerce.Orders_2.11.1.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.12/VirtoCommerce.Orders_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-order",
         "title": "Order module",
-        "version": "2.11.1"
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -222,7 +283,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.16.0"
+                "version": "2.17.0"
             }
         ],
         "description": "Robust pricing management functionality based on price list and dynamic evaluation",
@@ -234,11 +295,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.13/VirtoCommerce.Pricing_2.13.0.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.14/VirtoCommerce.Pricing_2.14.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-pricing",
         "title": "Pricing module",
-        "version": "2.13.0"
+        "version": "2.14.0"
     },
     {
         "authors": [
@@ -247,7 +308,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.17.0"
             }
         ],
         "description": "Simplify inventory management functionality",
@@ -259,11 +320,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.11/VirtoCommerce.Inventory_2.11.0.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.12/VirtoCommerce.Inventory_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-inventory",
         "title": "Inventory module",
-        "version": "2.11.0"
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -272,7 +333,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.17.0"
             }
         ],
         "description": "Marketing system with dynamic contents and promotions management",
@@ -284,11 +345,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.11/VirtoCommerce.Marketing_2.11.0.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.12/VirtoCommerce.Marketing_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-marketing",
         "title": "Marketing module",
-        "version": "2.11.0"
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -332,12 +393,8 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.16.1"
-            },
-            {
-                "id": "VirtoCommerce.Catalog",
-                "version": "2.14.1"
-            }
+                "version": "2.17.0"
+            }          
         ],
         "description": "Indexed search functionality with Lucene and ElasticSearch engines",
         "groups": [
@@ -348,11 +405,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.11.4/VirtoCommerce.Search_2.11.4.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.12/VirtoCommerce.Search_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search",
-        "title": "Search module",
-        "version": "2.11.4"
+        "title": "Indexed search module",
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -361,7 +418,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.16.0"
+                "version": "2.17.0"
             }
         ],
         "description": "Quote enables business users to execute quote requests online. Once initiated, an online conversation takes place with internal users who interact with the business user's request. The internal user can set prices for quantity breaks or discounts. The quote is then made available to the business user online. The business user can accept the quote and place the order, continue the conversation, or reject the quote.",
@@ -373,11 +430,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.11.1/VirtoCommerce.Quote_2.11.1.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.12/VirtoCommerce.Quote_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-quote",
         "title": "Quote module",
-        "version": "2.11.1"
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -386,7 +443,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.17.0"
             },
             {
                 "id": "VirtoCommerce.Store",
@@ -402,11 +459,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.11.4/VirtoCommerce.Content_2.11.4.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.12/VirtoCommerce.Content_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-content",
         "title": "CMS Content module",
-        "version": "2.11.4"
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -440,7 +497,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.17.0"
             }
         ],
         "description": "APIs and UI for DiBs payment gateway",
@@ -452,11 +509,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.11.0/DiBs_2.11.0.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.12/DiBs_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-DIBS",
         "title": "DiBs payment gateway",
-        "version": "2.11.0"
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -490,11 +547,11 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.17.0"
             },
             {
                 "id": "VirtoCommerce.Content",
-                "version": "2.11.0"
+                "version": "2.12.0"
             }
         ],
         "description": "That module allows you to import existing data from your Shopify",
@@ -506,11 +563,11 @@
         "owners": [
             "Altsoft"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import/releases/download/v2.11.0/Altsoft.ShopifyImport_2.11.0.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import/releases/download/v2.12/Altsoft.ShopifyImport_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import",
         "title": "Import from Shopify module",
-        "version": "2.11.0"
+        "version": "2.12.0"
     },
     {
         "authors": [
@@ -544,7 +601,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.14.0"
+                "version": "2.17.0"
             }
         ],
         "description": "APIs and UI for CyberSource Simple Order API payment gateway",
@@ -556,11 +613,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.11.1/CyberSource.SimpleOrder_2.11.1.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.12/CyberSource.SimpleOrder_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource",
         "title": "CyberSource Simple Order payment gateway",
-        "version": "2.11.1"
+        "version": "2.12.0"
     },
     {
         "authors": [

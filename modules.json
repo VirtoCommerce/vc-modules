@@ -497,7 +497,8 @@
     },
     {
         "authors": [
-            "Virto Commerce"
+            "Virto Commerce",
+            "Egidijus Ma\u017eeika"
         ],
         "dependencies": [
             {
@@ -514,7 +515,7 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.12/DiBs_2.12.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.12.0/DiBs_2.12.0.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-DIBS",
         "title": "DiBs payment gateway",

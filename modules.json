@@ -1,5 +1,5 @@
 [
-     {
+    {
         "authors": [
             "Vitalii Efremov"
         ],
@@ -11,10 +11,12 @@
             {
                 "id": "VirtoCommerce.Store",
                 "version": "2.12.0"
-            }        
+            }
         ],
         "description": "JavaScript shopping cart",
-        "groups": [],
+        "groups": [
+            
+        ],
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-javascript-shoppingcart/master/VirtoCommerce.JavaScriptShoppingCart.Web/Content/logo.png",
         "id": "VirtoCommerce.JavaScriptShoppingCart",
         "owners": [
@@ -46,15 +48,17 @@
             {
                 "id": "VirtoCommerce.Store",
                 "version": "2.12.0"
-            }                      
+            }
         ],
         "description": "Includes indexers and search criteria builders for major modules (catalog, order, customer)",
-        "groups": [ "commerce" ],
+        "groups": [
+            "commerce"
+        ],
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search/raw/master/VirtoCommerce.SearchModule.Web/Content/logo.png",
         "id": "VirtoCommerce.SearchApi",
         "owners": [
             "Virto Commerce"
         ],
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search/raw/master/VirtoCommerce.SearchModule.Web/Content/logo.png",
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.0/VirtoCommerce.SearchApi_1.0.0.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search-api",
@@ -395,7 +399,7 @@
             {
                 "id": "VirtoCommerce.Core",
                 "version": "2.17.0"
-            }          
+            }
         ],
         "description": "Indexed search functionality with Lucene and ElasticSearch engines",
         "groups": [
@@ -597,7 +601,8 @@
     },
     {
         "authors": [
-            "Virto Commerce"
+            "Virto Commerce",
+            "Egidijus Ma\u017eeika"
         ],
         "dependencies": [
             {
@@ -614,7 +619,7 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.12/CyberSource.SimpleOrder_2.12.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.12.0/CyberSource.SimpleOrder_2.12.0.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource",
         "title": "CyberSource Simple Order payment gateway",

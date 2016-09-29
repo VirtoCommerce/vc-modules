@@ -575,12 +575,13 @@
     },
     {
         "authors": [
-            "Virto Commerce"
+            "Virto Commerce",
+            "Egidijus Ma\u017eeika"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.14.0"
+                "version": "2.17.0"
             }
         ],
         "description": "Paypal Adaptive Payments API integration",
@@ -592,11 +593,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/releases/download/v2.11.0/Paypal.AdaptivePayments_2.11.0.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/releases/download/v2.12.0/Paypal.AdaptivePayments_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments",
         "title": "Paypal Adaptive Payments",
-        "version": "2.11.0"
+        "version": "2.12.0"
     },
     {
         "authors": [

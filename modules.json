@@ -469,12 +469,13 @@
     },
     {
         "authors": [
-            "Virto Commerce"
+            "Virto Commerce",
+            "Egidijus Ma\u017eeika"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.11.0"
+                "version": "2.17.0"
             }
         ],
         "description": "Paypal Express Checkout payment integration",
@@ -486,11 +487,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/releases/download/v2.11.0/Paypal.ExpressCheckout_2.11.0.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/releases/download/v2.12.0/Paypal.ExpressCheckout_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout",
         "title": "Paypal Express Checkout",
-        "version": "2.11.0"
+        "version": "2.12.0"
     },
     {
         "authors": [

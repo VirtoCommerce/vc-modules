@@ -30,7 +30,8 @@
     },
     {
         "authors": [
-            "Alexander Siniouguine"
+            "Alexander Siniouguine",
+            "Artem Dudarev"
         ],
         "dependencies": [
             {
@@ -43,27 +44,23 @@
             },
             {
                 "id": "VirtoCommerce.Search",
-                "version": "2.12.0"
-            },
-            {
-                "id": "VirtoCommerce.Store",
-                "version": "2.12.0"
+                "version": "2.12.3"
             }
         ],
         "description": "Includes indexers and search criteria builders for major modules (catalog, order, customer)",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search/raw/master/VirtoCommerce.SearchModule.Web/Content/logo.png",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search-api/raw/master/VirtoCommerce.SearchApiModule.Web/Content/logo.png",
         "id": "VirtoCommerce.SearchApi",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.0/VirtoCommerce.SearchApi_1.0.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.0.1/VirtoCommerce.SearchApi_1.0.1.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search-api",
-        "title": "Indexed search API module",
-        "version": "1.0.0"
+        "title": "Search API module",
+        "version": "1.0.1"
     },
     {
         "authors": [

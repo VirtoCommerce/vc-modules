@@ -168,7 +168,8 @@
     },
     {
         "authors": [
-            "Virto Commerce"
+            "Virto Commerce",
+            "Egidijus Ma\u017eeika"
         ],
         "dependencies": [
             {
@@ -176,7 +177,7 @@
                 "version": "2.17.0"
             }
         ],
-        "description": "eCommerce CRM system allows to manage members and all derived types (contacts, organizations, employees etc)",
+        "description": "Managing customers contacts and organizations",
         "groups": [
             "commerce"
         ],
@@ -185,11 +186,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.12/VirtoCommerce.Customer_2.12.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.12.1/VirtoCommerce.Customer_2.12.1.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-customer",
         "title": "Customer management module",
-        "version": "2.12.0"
+        "version": "2.12.1"
     },
     {
         "authors": [

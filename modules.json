@@ -44,7 +44,7 @@
             },
             {
                 "id": "VirtoCommerce.Search",
-                "version": "2.12.3"
+                "version": "2.12.5"
             }
         ],
         "description": "Includes indexers and search criteria builders for major modules (catalog, order, customer)",
@@ -56,11 +56,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.0.3/VirtoCommerce.SearchApi_1.0.3.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.0.4/VirtoCommerce.SearchApi_1.0.4.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search-api",
         "title": "Search API module",
-        "version": "1.0.3"
+        "version": "1.0.4"
     },
     {
         "authors": [

@@ -56,11 +56,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.0.4/VirtoCommerce.SearchApi_1.0.4.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.0.5/VirtoCommerce.SearchApi_1.0.5.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search-api",
         "title": "Search API module",
-        "version": "1.0.4"
+        "version": "1.0.5"
     },
     {
         "authors": [

@@ -40,7 +40,7 @@
             },
             {
                 "id": "VirtoCommerce.Catalog",
-                "version": "2.15.0"
+                "version": "2.15.8"
             },
             {
                 "id": "VirtoCommerce.Search",
@@ -56,11 +56,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.0.7/VirtoCommerce.SearchApi_1.0.7.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.1.0/VirtoCommerce.SearchApi_1.1.0.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search-api",
         "title": "Search API module",
-        "version": "1.0.7"
+        "version": "1.1.0"
     },
     {
         "authors": [
@@ -160,11 +160,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.15.7/VirtoCommerce.Catalog_2.15.7.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.15.8/VirtoCommerce.Catalog_2.15.8.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog",
         "title": "Catalog module",
-        "version": "2.15.7"
+        "version": "2.15.8"
     },
     {
         "authors": [
@@ -408,11 +408,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.12.6/VirtoCommerce.Search_2.12.6.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.13.0/VirtoCommerce.Search_2.13.0.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search",
         "title": "Search module",
-        "version": "2.12.6"
+        "version": "2.13.0"
     },
     {
         "authors": [

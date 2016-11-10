@@ -215,11 +215,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.12.1/VirtoCommerce.Cart_2.12.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.12.2/VirtoCommerce.Cart_2.12.2.zip",
         "platformVersion": "2.12.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-cart",
         "title": "Shopping cart module",
-        "version": "2.12.1"
+        "version": "2.12.2"
     },
     {
         "authors": [

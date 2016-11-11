@@ -107,17 +107,20 @@
         "authors": [
             "Virto Commerce"
         ],
-        "description": "Image tools helps to automate image transformation procedures such as resizing and cropping",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-image-tools/master/VirtoCommerce.ImageToolsModule.Web/Content/logo.png",
+        "dependencies": [
+            
+        ],
+        "description": "Image tools",
+        "iconUrl": "Modules/$(VirtoCommerce.ImageTools)/Content/logo.png",
         "id": "VirtoCommerce.ImageTools",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/v1.0.0/VirtoCommerce.ImageTools_1.0.0.zip",
-        "platformVersion": "2.11.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-image-tools",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/v1.0.1/VirtoCommerce.ImageTools_1.0.1.zip",
+        "platformVersion": "2.12.0",
+        "projectUrl": "http://virtocommerce.com/",
         "title": "Image tools module",
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     {
         "authors": [

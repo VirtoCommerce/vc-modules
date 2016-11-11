@@ -110,7 +110,7 @@
         "dependencies": [
             
         ],
-        "description": "Image tools",
+        "description": "Image tools helps to automate image transformation procedures such as resizing and cropping",
         "iconUrl": "Modules/$(VirtoCommerce.ImageTools)/Content/logo.png",
         "id": "VirtoCommerce.ImageTools",
         "owners": [

@@ -247,11 +247,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.12/VirtoCommerce.Store_2.12.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.12.1/VirtoCommerce.Store_2.12.1.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-store",
         "title": "Store module",
-        "version": "2.12.0"
+        "version": "2.12.1"
     },
     {
         "authors": [

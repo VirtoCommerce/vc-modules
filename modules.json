@@ -260,7 +260,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.17.0"
+                "version": "2.18.0"
             },
             {
                 "id": "VirtoCommerce.Catalog",
@@ -269,9 +269,17 @@
             {
                 "id": "VirtoCommerce.Pricing",
                 "version": "2.11.0"
+            },
+            {
+                "id": "VirtoCommerce.Customer",
+                "version": "2.11.0"
+            },
+            {
+                "id": "VirtoCommerce.Store",
+                "version": "2.11.0"
             }
         ],
-        "description": "Document based flexible orders management functionality",
+        "description": "Document based flexible orders management",
         "groups": [
             "commerce"
         ],
@@ -280,11 +288,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.12/VirtoCommerce.Orders_2.12.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.13.0/VirtoCommerce.Orders_2.13.0.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-order",
         "title": "Order module",
-        "version": "2.12.0"
+        "version": "2.13.0"
     },
     {
         "authors": [

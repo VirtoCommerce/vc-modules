@@ -355,11 +355,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.12/VirtoCommerce.Marketing_2.12.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.12.1/VirtoCommerce.Marketing_2.12.1.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-marketing",
         "title": "Marketing module",
-        "version": "2.12.0"
+        "version": "2.12.1"
     },
     {
         "authors": [

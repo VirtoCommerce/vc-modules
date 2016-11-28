@@ -424,11 +424,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.13.1/VirtoCommerce.Search_2.13.1.zip",
-        "platformVersion": "2.12.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.13.2/VirtoCommerce.Search_2.13.2.zip",
+        "platformVersion": "2.12.2",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search",
         "title": "Search module",
-        "version": "2.13.1"
+        "version": "2.13.2"
     },
     {
         "authors": [

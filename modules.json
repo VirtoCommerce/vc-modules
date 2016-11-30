@@ -231,7 +231,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.17.0"
+                "version": "2.19.2"
             },
             {
                 "id": "VirtoCommerce.Catalog",
@@ -247,11 +247,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.12.2/VirtoCommerce.Store_2.12.2.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-store",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.13.0/VirtoCommerce.Store_2.13.0.zip",
+        "platformVersion": "2.12.2",
+        "projectUrl": "https://virtocommerce.com/virto-store-module",
         "title": "Store module",
-        "version": "2.12.2"
+        "version": "2.13.0"
     },
     {
         "authors": [

@@ -30,7 +30,7 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/archive/v1.0.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/v1.0.0/VirtoCommerce.Sitemaps_1.0.0.zip",
         "platformVersion": "2.12.5",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps",
         "title": "Sitemaps module",

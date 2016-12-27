@@ -1,5 +1,5 @@
 [
-     {
+    {
         "authors": [
             "Andrey Orlov"
         ],
@@ -23,7 +23,7 @@
         ],
         "description": "Sitemaps generation management for stores",
         "groups": [
-              "commerce"
+            "commerce"
         ],
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/raw/master/VirtoCommerce.SitemapsModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Sitemaps",
@@ -404,11 +404,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.13.1/VirtoCommerce.Marketing_2.13.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.13.2/VirtoCommerce.Marketing_2.13.2.zip",
         "platformVersion": "2.12.4",
         "projectUrl": "https://virtocommerce.com/virto-marketing-module",
         "title": "Marketing module",
-        "version": "2.13.1"
+        "version": "2.13.2"
     },
     {
         "authors": [

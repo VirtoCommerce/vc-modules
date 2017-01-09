@@ -204,11 +204,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.16.0/VirtoCommerce.Catalog_2.16.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.16.1/VirtoCommerce.Catalog_2.16.1.zip",
         "platformVersion": "2.12.4",
         "projectUrl": "https://virtocommerce.com/virto-catalog-module",
         "title": "Catalog module",
-        "version": "2.16.0"
+        "version": "2.16.1"
     },
     {
         "authors": [

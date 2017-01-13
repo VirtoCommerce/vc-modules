@@ -1,7 +1,7 @@
 [
-      {
+    {
         "authors": [
-            "Egidijus Mažeika",
+            "Egidijus Ma\u017eeika",
             "Eugeney Tatarincev"
         ],
         "dependencies": [
@@ -16,22 +16,22 @@
             {
                 "id": "VirtoCommerce.Store",
                 "version": "2.11.0"
-            }           
+            }
         ],
         "description": "Represent recurrent orders functionality",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-subscription/dev/VirtoCommerce.SubscriptionModule.Web/Content/logo.png",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-subscription/master/VirtoCommerce.subscriptionModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Subscription",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/v1.0.0/VirtoCommerce.Subscription_1.0.0.zip",
-        "platformVersion": "2.12.5",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/v1.0.1/VirtoCommerce.Subscription_1.0.1.zip",
+        "platformVersion": "2.12.4",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-subscription",
-        "title": "Subscriptions module",
-        "version": "1.0.0"
+        "title": "Subscription module",
+        "version": "1.0.1"
     },
     {
         "authors": [

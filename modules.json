@@ -22,7 +22,7 @@
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-subscription/master/VirtoCommerce.subscriptionModule.Web/Content/logo.png",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-subscription/master/VirtoCommerce.SubscriptionModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Subscription",
         "owners": [
             "Virto Commerce"

@@ -587,13 +587,13 @@
     },
     {
         "authors": [
-            "Virto Commerce",
-            "Egidijus Ma\u017eeika"
+            "Egidijus Ma\u017eeika",
+            "Alexey Antonov"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.17.0"
+                "version": "2.19.5"
             }
         ],
         "description": "APIs and UI for DiBs payment gateway",
@@ -605,11 +605,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.12.1/DiBs_2.12.1.zip",
-        "platformVersion": "2.12.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.13.0/DiBs_2.13.0.zip",
+        "platformVersion": "2.12.4",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-DIBS",
         "title": "DiBs payment gateway",
-        "version": "2.12.1"
+        "version": "2.13.0"
     },
     {
         "authors": [

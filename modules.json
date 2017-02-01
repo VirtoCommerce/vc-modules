@@ -7,11 +7,11 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.19.3"
+                "version": "2.20.0"
             },
             {
                 "id": "VirtoCommerce.Orders",
-                "version": "2.14.0"
+                "version": "2.15.0"
             },
             {
                 "id": "VirtoCommerce.Store",
@@ -27,11 +27,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/v1.0.2/VirtoCommerce.Subscription_1.0.2.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/v1.0.3/VirtoCommerce.Subscription_1.0.3.zip",
         "platformVersion": "2.12.4",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-subscription",
         "title": "Subscription module",
-        "version": "1.0.2"
+        "version": "1.0.3"
     },
     {
         "authors": [

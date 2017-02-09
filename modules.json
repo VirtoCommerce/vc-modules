@@ -40,7 +40,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.17.2"
+                "version": "2.19.2"
             },
             {
                 "id": "VirtoCommerce.Catalog",
@@ -53,6 +53,10 @@
             {
                 "id": "VirtoCommerce.Store",
                 "version": "2.13.0"
+            },
+            {
+                "id": "VirtoCommerce.Content",
+                "version": "2.13.0"
             }
         ],
         "description": "Sitemaps generation management for stores",
@@ -64,11 +68,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/v1.0.0/VirtoCommerce.Sitemaps_1.0.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/v1.0.1/VirtoCommerce.Sitemaps_1.0.1.zip",
         "platformVersion": "2.12.5",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps",
         "title": "Sitemaps module",
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     {
         "authors": [

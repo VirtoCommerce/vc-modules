@@ -143,24 +143,25 @@
     },
     {
         "authors": [
-            "Virto Commerce"
+            "Eugeney Tatarincev",
+            "Artem Dudarev"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.17.0"
+                "version": "2.20.0"
             },
             {
                 "id": "VirtoCommerce.Store",
-                "version": "2.11.0"
+                "version": "2.13.0"
             },
             {
                 "id": "VirtoCommerce.Catalog",
-                "version": "2.11.0"
+                "version": "2.16.0"
             },
             {
                 "id": "VirtoCommerce.Customer",
-                "version": "2.11.0"
+                "version": "2.13.0"
             }
         ],
         "description": "Smart caching for main domain services such as Catalog, Customer, Store.",
@@ -172,11 +173,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.5/VirtoCommerce.Cache_1.0.5.zip",
-        "platformVersion": "2.11.0",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.6/VirtoCommerce.Cache_1.0.6.zip",
+        "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-cache",
         "title": "Smart caching module",
-        "version": "1.0.5"
+        "version": "1.0.6"
     },
     {
         "authors": [

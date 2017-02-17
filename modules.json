@@ -431,7 +431,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.20.1"
+                "version": "2.21.0"
             }
         ],
         "description": "Marketing system with dynamic contents and promotions management",
@@ -443,11 +443,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.14.0/VirtoCommerce.Marketing_2.14.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.15.0/VirtoCommerce.Marketing_2.15.0.zip",
         "platformVersion": "2.12.4",
         "projectUrl": "https://virtocommerce.com/virto-marketing-module",
         "title": "Marketing module",
-        "version": "2.14.0"
+        "version": "2.15.0"
     },
     {
         "authors": [

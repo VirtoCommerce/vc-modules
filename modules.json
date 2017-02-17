@@ -377,7 +377,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.20.0"
+                "version": "2.21.0"
             },
             {
                 "id": "VirtoCommerce.Catalog",
@@ -393,11 +393,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.16.0/VirtoCommerce.Pricing_2.16.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.16.1/VirtoCommerce.Pricing_2.16.1.zip",
         "platformVersion": "2.12.8",
         "projectUrl": "https://virtocommerce.com/virto-pricing-module",
         "title": "Pricing module",
-        "version": "2.16.0"
+        "version": "2.16.1"
     },
     {
         "authors": [

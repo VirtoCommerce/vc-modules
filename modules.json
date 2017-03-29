@@ -149,7 +149,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.20.0"
+                "version": "2.22.0"
             },
             {
                 "id": "VirtoCommerce.Store",
@@ -173,11 +173,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.6/VirtoCommerce.Cache_1.0.6.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.7/VirtoCommerce.Cache_1.0.7.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-cache",
         "title": "Smart caching module",
-        "version": "1.0.6"
+        "version": "1.0.7"
     },
     {
         "authors": [
@@ -214,11 +214,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.21.0/VirtoCommerce.Core_2.21.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.22.0/VirtoCommerce.Core_2.22.0.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://virtocommerce.com/virto-core-module",
         "title": "Commerce core module",
-        "version": "2.21.0"
+        "version": "2.22.0"
     },
     {
         "authors": [
@@ -282,7 +282,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.18.0"
+                "version": "2.22.0"
             }
         ],
         "description": "Shopping cart / checkout functionality",
@@ -294,11 +294,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.15.1/VirtoCommerce.Cart_2.15.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.16.0/VirtoCommerce.Cart_2.16.0.zip",
         "platformVersion": "2.12.4",
         "projectUrl": "https://virtocommerce.com/virto-shoppingcart-module",
         "title": "Shopping cart module",
-        "version": "2.15.1"
+        "version": "2.16.0"
     },
     {
         "authors": [
@@ -336,7 +336,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.20.0"
+                "version": "2.22.0"
             },
             {
                 "id": "VirtoCommerce.Catalog",
@@ -364,11 +364,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.15.5/VirtoCommerce.Orders_2.15.5.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.16.0/VirtoCommerce.Orders_2.16.0.zip",
         "platformVersion": "2.12.4",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-order",
         "title": "Order module",
-        "version": "2.15.5"
+        "version": "2.16.0"
     },
     {
         "authors": [
@@ -431,7 +431,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.21.0"
+                "version": "2.22.0"
             }
         ],
         "description": "Marketing system with dynamic contents and promotions management",
@@ -443,11 +443,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.15.1/VirtoCommerce.Marketing_2.15.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.16.0/VirtoCommerce.Marketing_2.16.0.zip",
         "platformVersion": "2.12.4",
         "projectUrl": "https://virtocommerce.com/virto-marketing-module",
         "title": "Marketing module",
-        "version": "2.15.1"
+        "version": "2.16.0"
     },
     {
         "authors": [

@@ -1,5 +1,5 @@
 [
-     {
+    {
         "authors": [
             "Aleksandr Vishnyakov",
             "Vitalii Efremov"
@@ -8,14 +8,13 @@
             {
                 "id": "VirtoCommerce.Core",
                 "version": "2.21.0"
-            },         
+            },
             {
                 "id": "VirtoCommerce.Store",
                 "version": "2.13.0"
             }
         ],
         "description": "Automatically recommend items on your product page. Provide recommendations unique to customer and personalize their experience.",
-      
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-product-recommendations/master/VirtoCommerce.ProductRecommendationsModule.Web/Content/logo.png",
         "id": "VirtoCommerce.ProductRecommendations",
         "owners": [
@@ -271,11 +270,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.16.2/VirtoCommerce.Catalog_2.16.2.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.16.3/VirtoCommerce.Catalog_2.16.3.zip",
         "platformVersion": "2.12.4",
         "projectUrl": "https://virtocommerce.com/virto-catalog-module",
         "title": "Catalog module",
-        "version": "2.16.2"
+        "version": "2.16.3"
     },
     {
         "authors": [

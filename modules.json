@@ -420,11 +420,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.16.1/VirtoCommerce.Pricing_2.16.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.16.2/VirtoCommerce.Pricing_2.16.2.zip",
         "platformVersion": "2.12.8",
         "projectUrl": "https://virtocommerce.com/virto-pricing-module",
         "title": "Pricing module",
-        "version": "2.16.1"
+        "version": "2.16.2"
     },
     {
         "authors": [

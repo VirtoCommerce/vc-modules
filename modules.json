@@ -189,6 +189,10 @@
             {
                 "id": "VirtoCommerce.Customer",
                 "version": "2.13.0"
+            },
+            {
+                "id": "VirtoCommerce.Marketing",
+                "version": "2.16.0"
             }
         ],
         "description": "Smart caching for main domain services such as Catalog, Customer, Store.",

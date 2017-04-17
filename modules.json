@@ -20,11 +20,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-product-recommendations/releases/download/v0.3.0/VirtoCommerce.ProductRecommendations_0.3.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-product-recommendations/releases/download/v0.4.0/VirtoCommerce.ProductRecommendations_0.4.0.zip",
         "platformVersion": "2.13.1",
         "projectUrl": "https://virtocommerce.com/virto-product-recommendations-module",
         "title": "Product recommendations module (preview)",
-        "version": "0.3.0"
+        "version": "0.4.0"
     },
     {
         "authors": [

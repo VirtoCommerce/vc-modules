@@ -395,11 +395,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.16.1/VirtoCommerce.Orders_2.16.1.zip",
-        "platformVersion": "2.13.2",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.16.2/VirtoCommerce.Orders_2.16.2.zip",
+        "platformVersion": "2.13.3",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-order",
         "title": "Order module",
-        "version": "2.16.1"
+        "version": "2.16.2"
     },
     {
         "authors": [

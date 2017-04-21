@@ -204,11 +204,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.8/VirtoCommerce.Cache_1.0.8.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.9/VirtoCommerce.Cache_1.0.9.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-cache",
         "title": "Smart caching module",
-        "version": "1.0.8"
+        "version": "1.0.9"
     },
     {
         "authors": [

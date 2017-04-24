@@ -920,5 +920,29 @@
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics",
         "title": "Ecommerce Google Analytics module",
         "version": "1.0.0"
+    },
+    {
+        "id": "VirtoCommerce.CatalogPublishing",
+        "title": "Catalog publishing module (preview)",
+        "version": "0.1.0",
+        "platformVersion": "2.13.2",
+        "authors": [
+            "Alexey Antonov",
+            "Andrew Orlov",
+            "Aleksandr Vishnyakov"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "description": "Allow you to see progress on filling in information about products and marks missed info.",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.21.0"
+            }
+        ],
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/v0.1.0/VirtoCommerce.CatalogPublishing_0.1.0.zip",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/raw/master/VirtoCommerce.CatalogPublishingModule.Web/Content/logo.png"
     }
 ]

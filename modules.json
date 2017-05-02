@@ -523,7 +523,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.17.0"
+                "version": "2.22.0"
             }
         ],
         "description": "Indexed search functionality with Lucene and ElasticSearch engines",
@@ -535,11 +535,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.13.2/VirtoCommerce.Search_2.13.2.zip",
-        "platformVersion": "2.12.2",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.14.0/VirtoCommerce.Search_2.14.0.zip",
+        "platformVersion": "2.12.6",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-search",
         "title": "Search module",
-        "version": "2.13.2"
+        "version": "2.14.0"
     },
     {
         "authors": [

@@ -95,11 +95,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/v1.1.0/VirtoCommerce.Sitemaps_1.1.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/v1.1.1/VirtoCommerce.Sitemaps_1.1.1.zip",
         "platformVersion": "2.12.5",
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps",
         "title": "Sitemaps module",
-        "version": "1.1.0"
+        "version": "1.1.1"
     },
     {
         "authors": [

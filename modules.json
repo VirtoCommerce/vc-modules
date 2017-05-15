@@ -249,11 +249,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.22.0/VirtoCommerce.Core_2.22.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.22.1/VirtoCommerce.Core_2.22.1.zip",
         "platformVersion": "2.12.0",
         "projectUrl": "https://virtocommerce.com/virto-core-module",
         "title": "Commerce core module",
-        "version": "2.22.0"
+        "version": "2.22.1"
     },
     {
         "authors": [

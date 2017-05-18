@@ -453,11 +453,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.12/VirtoCommerce.Inventory_2.12.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.12.1/VirtoCommerce.Inventory_2.12.1.zip",
         "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-inventory",
+        "projectUrl": "http://virtocommerce.com/",
         "title": "Inventory module",
-        "version": "2.12.0"
+        "version": "2.12.1"
     },
     {
         "authors": [

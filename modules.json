@@ -262,7 +262,7 @@
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.22.1"
+                "version": "2.22.2"
             },
             {
                 "id": "VirtoCommerce.ImageTools",
@@ -278,11 +278,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.16.4/VirtoCommerce.Catalog_2.16.4.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.16.5/VirtoCommerce.Catalog_2.16.5.zip",
         "platformVersion": "2.12.4",
         "projectUrl": "https://virtocommerce.com/virto-catalog-module",
         "title": "Catalog module",
-        "version": "2.16.4"
+        "version": "2.16.5"
     },
     {
         "authors": [

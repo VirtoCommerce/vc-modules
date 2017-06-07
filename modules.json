@@ -358,11 +358,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.13.0/VirtoCommerce.Store_2.13.0.zip",
-        "platformVersion": "2.12.2",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.13.1/VirtoCommerce.Store_2.13.1.zip",
+        "platformVersion": "2.13.8",
         "projectUrl": "https://virtocommerce.com/virto-store-module",
         "title": "Store module",
-        "version": "2.13.0"
+        "version": "2.13.1"
     },
     {
         "authors": [

@@ -166,11 +166,11 @@
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.3.4/VirtoCommerce.SearchApi_1.3.4.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.3.5/VirtoCommerce.SearchApi_1.3.5.zip",
         "platformVersion": "2.12.6",
         "projectUrl": "https://virtocommerce.com/apps/extensions/indexed-search-api-module",
         "title": "Search API module",
-        "version": "1.3.4"
+        "version": "1.3.5"
     },
     {
         "authors": [

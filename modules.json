@@ -1,5 +1,16 @@
 [
     {
+        "projectUrl": "https://virtocommerce.com/virto-product-recommendations-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-product-recommendations/releases/download/v0.4.0/VirtoCommerce.ProductRecommendations_0.4.0.zip",
+        "platformVersion": "2.13.1",
+        "description": "Automatically recommend items on your product page. Provide recommendations unique to customer and personalize their experience.",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-product-recommendations/raw/master/VirtoCommerce.ProductRecommendationsModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.ProductRecommendations",
+        "title": "Product recommendations module (preview)",
+        "version": "0.4.0",
         "authors": [
             "Aleksandr Vishnyakov",
             "Vitalii Efremov"
@@ -13,20 +24,23 @@
                 "id": "VirtoCommerce.Store",
                 "version": "2.13.0"
             }
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-subscription",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/v1.0.3/VirtoCommerce.Subscription_1.0.3.zip",
+        "platformVersion": "2.12.4",
+        "description": "Represent recurrent orders functionality",
+        "groups": [
+            "commerce"
         ],
-        "description": "Automatically recommend items on your product page. Provide recommendations unique to customer and personalize their experience.",
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-product-recommendations/raw/master/VirtoCommerce.ProductRecommendationsModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.ProductRecommendations",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-product-recommendations/releases/download/v0.4.0/VirtoCommerce.ProductRecommendations_0.4.0.zip",
-        "platformVersion": "2.13.1",
-        "projectUrl": "https://virtocommerce.com/virto-product-recommendations-module",
-        "title": "Product recommendations module (preview)",
-        "version": "0.4.0"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-subscription/master/VirtoCommerce.SubscriptionModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Subscription",
+        "title": "Subscription module",
+        "version": "1.0.3",
         "authors": [
             "Egidijus Ma\u017eeika",
             "Eugeney Tatarincev"
@@ -44,23 +58,23 @@
                 "id": "VirtoCommerce.Store",
                 "version": "2.11.0"
             }
-        ],
-        "description": "Represent recurrent orders functionality",
+        ]
+    },
+    {
+        "projectUrl": "https://virtocommerce.com/apps/extensions/automatic-sitemaps-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/v1.1.2/VirtoCommerce.Sitemaps_1.1.2.zip",
+        "platformVersion": "2.12.5",
+        "description": "Sitemaps generation management for stores",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-subscription/master/VirtoCommerce.SubscriptionModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Subscription",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/v1.0.3/VirtoCommerce.Subscription_1.0.3.zip",
-        "platformVersion": "2.12.4",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-subscription",
-        "title": "Subscription module",
-        "version": "1.0.3"
-    },
-    {
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/raw/master/VirtoCommerce.SitemapsModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Sitemaps",
+        "title": "Sitemaps module",
+        "version": "1.1.2",
         "authors": [
             "Andrey Orlov"
         ],
@@ -85,23 +99,23 @@
                 "id": "VirtoCommerce.Store",
                 "version": "2.13.0"
             }
-        ],
-        "description": "Sitemaps generation management for stores",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart/releases/download/v1.0/VirtoCommerce.JavaScriptShoppingCart_1.0.0.zip",
+        "platformVersion": "2.12.0",
+        "description": "JavaScript shopping cart",
         "groups": [
-            "commerce"
+            
         ],
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/raw/master/VirtoCommerce.SitemapsModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Sitemaps",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/v1.1.2/VirtoCommerce.Sitemaps_1.1.2.zip",
-        "platformVersion": "2.12.5",
-        "projectUrl": "https://virtocommerce.com/apps/extensions/automatic-sitemaps-module",
-        "title": "Sitemaps module",
-        "version": "1.1.2"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-javascript-shoppingcart/master/VirtoCommerce.JavaScriptShoppingCart.Web/Content/logo.png",
+        "id": "VirtoCommerce.JavaScriptShoppingCart",
+        "title": "JavaScript shopping cart",
+        "version": "1.0.0",
         "authors": [
             "Vitalii Efremov"
         ],
@@ -114,23 +128,23 @@
                 "id": "VirtoCommerce.Store",
                 "version": "2.12.0"
             }
-        ],
-        "description": "JavaScript shopping cart",
+        ]
+    },
+    {
+        "projectUrl": "https://virtocommerce.com/apps/extensions/indexed-search-api-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.3.5/VirtoCommerce.SearchApi_1.3.5.zip",
+        "platformVersion": "2.12.6",
+        "description": "Includes indexers and search criteria builders for major modules (catalog, order, customer)",
         "groups": [
-            
+            "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-javascript-shoppingcart/master/VirtoCommerce.JavaScriptShoppingCart.Web/Content/logo.png",
-        "id": "VirtoCommerce.JavaScriptShoppingCart",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart/releases/download/v1.0/VirtoCommerce.JavaScriptShoppingCart_1.0.0.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart",
-        "title": "JavaScript shopping cart",
-        "version": "1.0.0"
-    },
-    {
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search-api/raw/master/VirtoCommerce.SearchApiModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.SearchApi",
+        "title": "Search API module",
+        "version": "1.3.5",
         "authors": [
             "Alexander Siniouguine",
             "Artem Dudarev"
@@ -156,23 +170,23 @@
                 "id": "VirtoCommerce.Store",
                 "version": "2.13.0"
             }
-        ],
-        "description": "Includes indexers and search criteria builders for major modules (catalog, order, customer)",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-cache",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.13/VirtoCommerce.Cache_1.0.13.zip",
+        "platformVersion": "2.12.0",
+        "description": "Smart caching for main domain services such as Catalog, Customer, Store.",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search-api/raw/master/VirtoCommerce.SearchApiModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.SearchApi",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.3.5/VirtoCommerce.SearchApi_1.3.5.zip",
-        "platformVersion": "2.12.6",
-        "projectUrl": "https://virtocommerce.com/apps/extensions/indexed-search-api-module",
-        "title": "Search API module",
-        "version": "1.3.5"
-    },
-    {
+        "iconUrl": "Modules/$(VirtoCommerce.Cache)/Content/logoVC.png",
+        "id": "VirtoCommerce.Cache",
+        "title": "Smart caching module",
+        "version": "1.0.13",
         "authors": [
             "Eugeney Tatarincev",
             "Artem Dudarev"
@@ -198,64 +212,64 @@
                 "id": "VirtoCommerce.Marketing",
                 "version": "2.16.0"
             }
-        ],
-        "description": "Smart caching for main domain services such as Catalog, Customer, Store.",
-        "groups": [
-            "commerce"
-        ],
-        "iconUrl": "Modules/$(VirtoCommerce.Cache)/Content/logoVC.png",
-        "id": "VirtoCommerce.Cache",
-        "owners": [
-            "Virto Commerce"
-        ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.13/VirtoCommerce.Cache_1.0.13.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-cache",
-        "title": "Smart caching module",
-        "version": "1.0.13"
+        ]
     },
     {
-        "authors": [
-            "Virto Commerce"
-        ],
-        "dependencies": [
-            
-        ],
-        "description": "Image tools helps to automate image transformation procedures such as resizing and cropping",
-        "iconUrl": "Modules/$(VirtoCommerce.ImageTools)/Content/logo.png",
-        "id": "VirtoCommerce.ImageTools",
-        "owners": [
-            "Virto Commerce"
-        ],
+        "projectUrl": "http://virtocommerce.com/",
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/v1.0.1/VirtoCommerce.ImageTools_1.0.1.zip",
         "platformVersion": "2.12.0",
-        "projectUrl": "http://virtocommerce.com/",
+        "description": "Image tools helps to automate image transformation procedures such as resizing and cropping",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "iconUrl": "Modules/$(VirtoCommerce.ImageTools)/Content/logo.png",
+        "id": "VirtoCommerce.ImageTools",
         "title": "Image tools module",
-        "version": "1.0.1"
-    },
-    {
+        "version": "1.0.1",
         "authors": [
             "Virto Commerce"
         ],
         "dependencies": [
             
-        ],
+        ]
+    },
+    {
+        "projectUrl": "https://virtocommerce.com/virto-core-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.22.2/VirtoCommerce.Core_2.22.2.zip",
+        "platformVersion": "2.12.0",
         "description": "Common e-commerce domain functionality",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
-        "id": "VirtoCommerce.Core",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.22.2/VirtoCommerce.Core_2.22.2.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://virtocommerce.com/virto-core-module",
+        "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
+        "id": "VirtoCommerce.Core",
         "title": "Commerce core module",
-        "version": "2.22.2"
+        "version": "2.22.2",
+        "authors": [
+            "Virto Commerce"
+        ],
+        "dependencies": [
+            
+        ]
     },
     {
+        "projectUrl": "https://virtocommerce.com/apps/extensions/virto-catalog-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.16.7/VirtoCommerce.Catalog_2.16.7.zip",
+        "platformVersion": "2.12.4",
+        "description": "Catalog, categories, products, variations, properties management",
+        "groups": [
+            "commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog/raw/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Catalog",
+        "title": "Catalog module",
+        "version": "2.16.7",
         "authors": [
             "Virto Commerce"
         ],
@@ -268,23 +282,23 @@
                 "id": "VirtoCommerce.ImageTools",
                 "version": "1.0.0"
             }
-        ],
-        "description": "Catalog, categories, products, variations, properties management",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-customer",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.13.1/VirtoCommerce.Customer_2.13.1.zip",
+        "platformVersion": "2.12.0",
+        "description": "Managing customers contacts and organizations",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog/raw/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Catalog",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.16.7/VirtoCommerce.Catalog_2.16.7.zip",
-        "platformVersion": "2.12.4",
-        "projectUrl": "https://virtocommerce.com/apps/extensions/virto-catalog-module",
-        "title": "Catalog module",
-        "version": "2.16.7"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-customer/master/VirtoCommerce.CustomerModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Customer",
+        "title": "Customer management module",
+        "version": "2.13.1",
         "authors": [
             "Virto Commerce",
             "Egidijus Ma\u017eeika"
@@ -294,23 +308,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.19.0"
             }
-        ],
-        "description": "Managing customers contacts and organizations",
+        ]
+    },
+    {
+        "projectUrl": "https://virtocommerce.com/virto-shoppingcart-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.16.0/VirtoCommerce.Cart_2.16.0.zip",
+        "platformVersion": "2.12.4",
+        "description": "Shopping cart / checkout functionality",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-customer/master/VirtoCommerce.CustomerModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Customer",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.13.1/VirtoCommerce.Customer_2.13.1.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-customer",
-        "title": "Customer management module",
-        "version": "2.13.1"
-    },
-    {
+        "iconUrl": "Modules/$(VirtoCommerce.Cart)/Content/logo.png",
+        "id": "VirtoCommerce.Cart",
+        "title": "Shopping cart module",
+        "version": "2.16.0",
         "authors": [
             "Virto Commerce"
         ],
@@ -319,23 +333,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.22.0"
             }
-        ],
-        "description": "Shopping cart / checkout functionality",
+        ]
+    },
+    {
+        "projectUrl": "https://virtocommerce.com/virto-store-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.13.1/VirtoCommerce.Store_2.13.1.zip",
+        "platformVersion": "2.13.8",
+        "description": "Multi store management with individual store settings",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "Modules/$(VirtoCommerce.Cart)/Content/logo.png",
-        "id": "VirtoCommerce.Cart",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.16.0/VirtoCommerce.Cart_2.16.0.zip",
-        "platformVersion": "2.12.4",
-        "projectUrl": "https://virtocommerce.com/virto-shoppingcart-module",
-        "title": "Shopping cart module",
-        "version": "2.16.0"
-    },
-    {
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-store/raw/master/VirtoCommerce.StoreModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Store",
+        "title": "Store module",
+        "version": "2.13.1",
         "authors": [
             "Virto Commerce"
         ],
@@ -348,23 +362,23 @@
                 "id": "VirtoCommerce.Catalog",
                 "version": "2.11.0"
             }
-        ],
-        "description": "Multi store management with individual store settings",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-order",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.16.2/VirtoCommerce.Orders_2.16.2.zip",
+        "platformVersion": "2.13.3",
+        "description": "Document based flexible orders management",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-store/raw/master/VirtoCommerce.StoreModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Store",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.13.1/VirtoCommerce.Store_2.13.1.zip",
-        "platformVersion": "2.13.8",
-        "projectUrl": "https://virtocommerce.com/virto-store-module",
-        "title": "Store module",
-        "version": "2.13.1"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-order/master/VirtoCommerce.OrderModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Orders",
+        "title": "Order module",
+        "version": "2.16.2",
         "authors": [
             "Virto Commerce"
         ],
@@ -389,23 +403,23 @@
                 "id": "VirtoCommerce.Store",
                 "version": "2.11.0"
             }
-        ],
-        "description": "Document based flexible orders management",
+        ]
+    },
+    {
+        "projectUrl": "https://virtocommerce.com/apps/extensions/virto-pricing-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.16.3/VirtoCommerce.Pricing_2.16.3.zip",
+        "platformVersion": "2.12.8",
+        "description": "Robust pricing management functionality based on price list and dynamic evaluation",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-order/master/VirtoCommerce.OrderModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Orders",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.16.2/VirtoCommerce.Orders_2.16.2.zip",
-        "platformVersion": "2.13.3",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-order",
-        "title": "Order module",
-        "version": "2.16.2"
-    },
-    {
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-pricing/raw/master/VirtoCommerce.PricingModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Pricing",
+        "title": "Pricing module",
+        "version": "2.16.3",
         "authors": [
             "Virto Commerce"
         ],
@@ -418,23 +432,23 @@
                 "id": "VirtoCommerce.Catalog",
                 "version": "2.16.2"
             }
-        ],
-        "description": "Robust pricing management functionality based on price list and dynamic evaluation",
+        ]
+    },
+    {
+        "projectUrl": "http://virtocommerce.com/",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.12.1/VirtoCommerce.Inventory_2.12.1.zip",
+        "platformVersion": "2.12.0",
+        "description": "Simplify inventory management functionality",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-pricing/raw/master/VirtoCommerce.PricingModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Pricing",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.16.3/VirtoCommerce.Pricing_2.16.3.zip",
-        "platformVersion": "2.12.8",
-        "projectUrl": "https://virtocommerce.com/apps/extensions/virto-pricing-module",
-        "title": "Pricing module",
-        "version": "2.16.3"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-inventory/master/VirtoCommerce.InventoryModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Inventory",
+        "title": "Inventory module",
+        "version": "2.12.1",
         "authors": [
             "Virto Commerce"
         ],
@@ -443,23 +457,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.17.0"
             }
-        ],
-        "description": "Simplify inventory management functionality",
+        ]
+    },
+    {
+        "projectUrl": "https://virtocommerce.com/virto-marketing-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.16.1/VirtoCommerce.Marketing_2.16.1.zip",
+        "platformVersion": "2.12.4",
+        "description": "Marketing system with dynamic contents and promotions management",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-inventory/master/VirtoCommerce.InventoryModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Inventory",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.12.1/VirtoCommerce.Inventory_2.12.1.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "http://virtocommerce.com/",
-        "title": "Inventory module",
-        "version": "2.12.1"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-marketing/master/VirtoCommerce.MarketingModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Marketing",
+        "title": "Marketing module",
+        "version": "2.16.1",
         "authors": [
             "Virto Commerce"
         ],
@@ -468,23 +482,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.22.0"
             }
-        ],
-        "description": "Marketing system with dynamic contents and promotions management",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions/releases/download/v2.12.1/VirtoCommerce.DynamicExpressions_2.12.1.zip",
+        "platformVersion": "2.12.0",
+        "description": "Expressions for marketing and pricing dynamic condition builders",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-marketing/master/VirtoCommerce.MarketingModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Marketing",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.16.1/VirtoCommerce.Marketing_2.16.1.zip",
-        "platformVersion": "2.12.4",
-        "projectUrl": "https://virtocommerce.com/virto-marketing-module",
-        "title": "Marketing module",
-        "version": "2.16.1"
-    },
-    {
+        "iconUrl": "Modules/$(VirtoCommerce.DynamicExpressions)/Content/logo.png",
+        "id": "VirtoCommerce.DynamicExpressions",
+        "title": "Virto Commerce dynamic expression library module",
+        "version": "2.12.1",
         "authors": [
             "Virto Commerce"
         ],
@@ -501,23 +515,23 @@
                 "id": "VirtoCommerce.Marketing",
                 "version": "2.12.0"
             }
-        ],
-        "description": "Expressions for marketing and pricing dynamic condition builders",
+        ]
+    },
+    {
+        "projectUrl": "https://virtocommerce.com/apps/extensions/indexed-search-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.14.4/VirtoCommerce.Search_2.14.4.zip",
+        "platformVersion": "2.12.6",
+        "description": "Indexed search functionality with Lucene and ElasticSearch engines",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "Modules/$(VirtoCommerce.DynamicExpressions)/Content/logo.png",
-        "id": "VirtoCommerce.DynamicExpressions",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions/releases/download/v2.12.1/VirtoCommerce.DynamicExpressions_2.12.1.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions",
-        "title": "Virto Commerce dynamic expression library module",
-        "version": "2.12.1"
-    },
-    {
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search/raw/master/VirtoCommerce.SearchModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Search",
+        "title": "Search module",
+        "version": "2.14.4",
         "authors": [
             "Alexander Siniouguine",
             "Eugeny Tatarincev",
@@ -529,23 +543,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.22.0"
             }
-        ],
-        "description": "Indexed search functionality with Lucene and ElasticSearch engines",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-quote",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.12/VirtoCommerce.Quote_2.12.0.zip",
+        "platformVersion": "2.12.0",
+        "description": "Quote enables business users to execute quote requests online. Once initiated, an online conversation takes place with internal users who interact with the business user's request. The internal user can set prices for quantity breaks or discounts. The quote is then made available to the business user online. The business user can accept the quote and place the order, continue the conversation, or reject the quote.",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search/raw/master/VirtoCommerce.SearchModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Search",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.14.3/VirtoCommerce.Search_2.14.3.zip",
-        "platformVersion": "2.12.6",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-search",
-        "title": "Search module",
-        "version": "2.14.3"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-quote/master/VirtoCommerce.QuoteModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Quote",
+        "title": "Quote module",
+        "version": "2.12.0",
         "authors": [
             "Virto Commerce"
         ],
@@ -554,23 +568,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.17.0"
             }
-        ],
-        "description": "Quote enables business users to execute quote requests online. Once initiated, an online conversation takes place with internal users who interact with the business user's request. The internal user can set prices for quantity breaks or discounts. The quote is then made available to the business user online. The business user can accept the quote and place the order, continue the conversation, or reject the quote.",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-content",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.13.1/VirtoCommerce.Content_2.13.1.zip",
+        "platformVersion": "2.13.3",
+        "description": "Front-end CMS functionality based on liquid technology",
         "groups": [
             "commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-quote/master/VirtoCommerce.QuoteModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Quote",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.12/VirtoCommerce.Quote_2.12.0.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-quote",
-        "title": "Quote module",
-        "version": "2.12.0"
-    },
-    {
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-content/raw/master/VirtoCommerce.ContentModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.Content",
+        "title": "CMS Content module",
+        "version": "2.13.1",
         "authors": [
             "Virto Commerce"
         ],
@@ -583,23 +597,23 @@
                 "id": "VirtoCommerce.Store",
                 "version": "2.11.0"
             }
-        ],
-        "description": "Front-end CMS functionality based on liquid technology",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/releases/download/v2.12.0/Paypal.ExpressCheckout_2.12.0.zip",
+        "platformVersion": "2.12.0",
+        "description": "Paypal Express Checkout payment integration",
         "groups": [
-            "commerce"
+            "payments"
         ],
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-content/raw/master/VirtoCommerce.ContentModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Content",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.13.1/VirtoCommerce.Content_2.13.1.zip",
-        "platformVersion": "2.13.3",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-content",
-        "title": "CMS Content module",
-        "version": "2.13.1"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/master/Paypal.ExpressCheckout/Content/paypal_2014_logo.png",
+        "id": "Paypal.ExpressCheckout",
+        "title": "Paypal Express Checkout",
+        "version": "2.12.0",
         "authors": [
             "Virto Commerce",
             "Egidijus Ma\u017eeika"
@@ -609,23 +623,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.17.0"
             }
-        ],
-        "description": "Paypal Express Checkout payment integration",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-DIBS",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.13.1/DiBs_2.13.1.zip",
+        "platformVersion": "2.12.4",
+        "description": "APIs and UI for DiBs payment gateway",
         "groups": [
             "payments"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/master/Paypal.ExpressCheckout/Content/paypal_2014_logo.png",
-        "id": "Paypal.ExpressCheckout",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/releases/download/v2.12.0/Paypal.ExpressCheckout_2.12.0.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout",
-        "title": "Paypal Express Checkout",
-        "version": "2.12.0"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-DIBS/master/DiBs/Content/DIBS_logo_blue_RGB.png",
+        "id": "DiBs",
+        "title": "DiBs payment gateway",
+        "version": "2.13.1",
         "authors": [
             "Egidijus Ma\u017eeika",
             "Alexey Antonov"
@@ -635,23 +649,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.19.5"
             }
-        ],
-        "description": "APIs and UI for DiBs payment gateway",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/v2.12/Authorize.Net_2.12.0.zip",
+        "platformVersion": "2.12.0",
+        "description": "APIs and UI for Authorize.Net Direct Post Method (DPM) payment gateway",
         "groups": [
             "payments"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-DIBS/master/DiBs/Content/DIBS_logo_blue_RGB.png",
-        "id": "DiBs",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.13.1/DiBs_2.13.1.zip",
-        "platformVersion": "2.12.4",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-DIBS",
-        "title": "DiBs payment gateway",
-        "version": "2.13.1"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Authorize.Net/master/Authorize.Net/Content/Authorizenet_logo.png",
+        "id": "Authorize.Net",
+        "title": "Authorize.Net DPM payment gateway",
+        "version": "2.12.0",
         "authors": [
             "Virto Commerce"
         ],
@@ -660,23 +674,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.11.0"
             }
-        ],
-        "description": "APIs and UI for Authorize.Net Direct Post Method (DPM) payment gateway",
-        "groups": [
-            "payments"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Authorize.Net/master/Authorize.Net/Content/Authorizenet_logo.png",
-        "id": "Authorize.Net",
-        "owners": [
-            "Virto Commerce"
-        ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/v2.12/Authorize.Net_2.12.0.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net",
-        "title": "Authorize.Net DPM payment gateway",
-        "version": "2.12.0"
+        ]
     },
     {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import/releases/download/v2.12.1/Altsoft.ShopifyImport_2.12.1.zip",
+        "platformVersion": "2.12.0",
+        "description": "That module allows you to import existing data from your Shopify",
+        "groups": [
+            "import"
+        ],
+        "owners": [
+            "Altsoft"
+        ],
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-shopify-import/master/Altsoft.ShopifyImportModule.Web/Content/images/shopify.png",
+        "id": "Altsoft.ShopifyImport",
+        "title": "Import from Shopify module",
+        "version": "2.12.1",
         "authors": [
             "Altsoft"
         ],
@@ -689,49 +703,23 @@
                 "id": "VirtoCommerce.Content",
                 "version": "2.11.0"
             }
-        ],
-        "description": "That module allows you to import existing data from your Shopify",
-        "groups": [
-            "import"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-shopify-import/master/Altsoft.ShopifyImportModule.Web/Content/images/shopify.png",
-        "id": "Altsoft.ShopifyImport",
-        "owners": [
-            "Altsoft"
-        ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import/releases/download/v2.12.1/Altsoft.ShopifyImport_2.12.1.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import",
-        "title": "Import from Shopify module",
-        "version": "2.12.1"
+        ]
     },
     {
-        "authors": [
-            "Virto Commerce",
-            "Egidijus Ma\u017eeika"
-        ],
-        "dependencies": [
-            {
-                "id": "VirtoCommerce.Core",
-                "version": "2.17.0"
-            }
-        ],
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/releases/download/v2.12.0/Paypal.AdaptivePayments_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "description": "Paypal Adaptive Payments API integration",
         "groups": [
             "payments"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/master/Paypal.AdaptivePayments/Content/paypal_2014_logo.png",
-        "id": "Paypal.AdaptivePayments",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/releases/download/v2.12.0/Paypal.AdaptivePayments_2.12.0.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-AdaptivePayments/master/Paypal.AdaptivePayments/Content/paypal_2014_logo.png",
+        "id": "Paypal.AdaptivePayments",
         "title": "Paypal Adaptive Payments",
-        "version": "2.12.0"
-    },
-    {
+        "version": "2.12.0",
         "authors": [
             "Virto Commerce",
             "Egidijus Ma\u017eeika"
@@ -741,23 +729,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.17.0"
             }
-        ],
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.12.0/CyberSource.SimpleOrder_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "description": "APIs and UI for CyberSource Simple Order API payment gateway",
         "groups": [
             "payments"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-CyberSource/master/Cyber.Source/Content/cybersource.jpg",
-        "id": "CyberSource.SimpleOrder",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource/releases/download/v2.12.0/CyberSource.SimpleOrder_2.12.0.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-CyberSource",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-CyberSource/master/Cyber.Source/Content/cybersource.jpg",
+        "id": "CyberSource.SimpleOrder",
         "title": "CyberSource Simple Order payment gateway",
-        "version": "2.12.0"
-    },
-    {
+        "version": "2.12.0",
         "authors": [
             "Virto Commerce",
             "Egidijus Ma\u017eeika"
@@ -767,23 +755,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.17.0"
             }
-        ],
+        ]
+    },
+    {
+        "projectUrl": "https://virtocommerce.com/apps/extensions/klarna-checkout",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-KlarnaCheckout-Euro/releases/download/v2.12.1/Klarna.Checkout.Euro_2.12.1.zip",
+        "platformVersion": "2.12.0",
         "description": "APIs and UI for Klarna Checkout Europe payment gateway",
         "groups": [
             "payments"
         ],
-        "iconUrl": "https://cdn.klarna.com/1.0/shared/image/generic/logo/sv_se/basic/blue-black.png",
-        "id": "Klarna.Checkout.Euro",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-KlarnaCheckout-Euro/releases/download/v2.12.1/Klarna.Checkout.Euro_2.12.1.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://virtocommerce.com/apps/extensions/klarna-checkout",
+        "iconUrl": "https://cdn.klarna.com/1.0/shared/image/generic/logo/sv_se/basic/blue-black.png",
+        "id": "Klarna.Checkout.Euro",
         "title": "Klarna Checkout Europe payment gateway",
-        "version": "2.12.1"
-    },
-    {
+        "version": "2.12.1",
         "authors": [
             "Virto Commerce",
             "Egidijus Ma\u017eeika"
@@ -793,23 +781,46 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.17.0"
             }
-        ],
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-MeS",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-MeS/releases/download/v2.12.0/MeS.PaymentGateway_2.12.0.zip",
+        "platformVersion": "2.12.0",
         "description": "APIs and UI for Merchant e-Solutions Payment Gateway API integration",
         "groups": [
             "payments"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-MeS/dev/MeS.PaymentGatewaysModule.Web/Content/logo.gif",
-        "id": "MeS.PaymentGateway",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-MeS/releases/download/v2.12.0/MeS.PaymentGateway_2.12.0.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-MeS",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-MeS/dev/MeS.PaymentGatewaysModule.Web/Content/logo.gif",
+        "id": "MeS.PaymentGateway",
         "title": "MeS Payment Gateway",
-        "version": "2.12.0"
+        "version": "2.12.0",
+        "authors": [
+            "Virto Commerce",
+            "Egidijus Ma\u017eeika"
+        ],
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.17.0"
+            }
+        ]
     },
     {
+        "projectUrl": "https://virtocommerce.com/integration-with-avalara-tax-service",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/v2.12.0/Avalara.Tax_2.12.0.zip",
+        "platformVersion": "2.12.2",
+        "description": "APIs and UI for Avalara tax integration",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "iconUrl": "Modules/$(Avalara.Tax)/Content/400.png",
+        "id": "Avalara.Tax",
+        "title": "Avalara tax",
+        "version": "2.12.0",
         "authors": [
             "Virto Commerce"
         ],
@@ -818,20 +829,23 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.19.2"
             }
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-DirectPayments",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-DirectPayments/releases/download/v2.12.0/Paypal.DirectPayment_2.12.0.zip",
+        "platformVersion": "2.12.0",
+        "description": "Paypal Direct Payment API integration",
+        "groups": [
+            "payments"
         ],
-        "description": "APIs and UI for Avalara tax integration",
-        "iconUrl": "Modules/$(Avalara.Tax)/Content/400.png",
-        "id": "Avalara.Tax",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/v2.12.0/Avalara.Tax_2.12.0.zip",
-        "platformVersion": "2.12.2",
-        "projectUrl": "https://virtocommerce.com/integration-with-avalara-tax-service",
-        "title": "Avalara tax",
-        "version": "2.12.0"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-DirectPayments/master/Paypal.DirectPayments/Content/paypal_2014_logo.png",
+        "id": "Paypal.DirectPayment",
+        "title": "Paypal Direct Payment",
+        "version": "2.12.0",
         "authors": [
             "Virto Commerce",
             "Egidijus Ma\u017eeika"
@@ -841,23 +855,20 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.17.0"
             }
-        ],
-        "description": "Paypal Direct Payment API integration",
-        "groups": [
-            "payments"
-        ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-DirectPayments/master/Paypal.DirectPayments/Content/paypal_2014_logo.png",
-        "id": "Paypal.DirectPayment",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Shipstation",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Shipstation/releases/download/v2.11.0/ShipStation.Fulfillment_2.11.0.zip",
+        "platformVersion": "2.11.0",
+        "description": "ShipStation fulfillment module enables synchronizing customer orders with ShipStation. That way new orders with shipments placed in VirtoCommerce will become available in ShipStation admin and changes of shipment status will be synced with VirtoCommerce orders.",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-DirectPayments/releases/download/v2.12.0/Paypal.DirectPayment_2.12.0.zip",
-        "platformVersion": "2.12.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-DirectPayments",
-        "title": "Paypal Direct Payment",
-        "version": "2.12.0"
-    },
-    {
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-Shipstation/raw/master/Shipstation.FulfillmentModule.Web/Content/logo.png",
+        "id": "ShipStation.Fulfillment",
+        "title": "ShipStation fulfillment",
+        "version": "2.11.0",
         "authors": [
             "Egidijus Ma\u017eeika",
             "Andrej Artiomov"
@@ -867,20 +878,20 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.11.0"
             }
-        ],
-        "description": "ShipStation fulfillment module enables synchronizing customer orders with ShipStation. That way new orders with shipments placed in VirtoCommerce will become available in ShipStation admin and changes of shipment status will be synced with VirtoCommerce orders.",
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-Shipstation/raw/master/Shipstation.FulfillmentModule.Web/Content/logo.png",
-        "id": "ShipStation.Fulfillment",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-zapier",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-zapier/releases/download/v2.11.0/Zapier.Integration_2.11.0.zip",
+        "platformVersion": "2.11.0",
+        "description": "APIs for syncing with Zapier",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Shipstation/releases/download/v2.11.0/ShipStation.Fulfillment_2.11.0.zip",
-        "platformVersion": "2.11.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Shipstation",
-        "title": "ShipStation fulfillment",
-        "version": "2.11.0"
-    },
-    {
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-zapier/master/Zapier.Integration.Module/Content/Zapier-300x155.png",
+        "id": "Zapier.Integration",
+        "title": "Zapier integration",
+        "version": "2.11.0",
         "authors": [
             "Andrej Artiomov",
             "Egidijus Ma\u017eeika"
@@ -890,20 +901,20 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.11.0"
             }
-        ],
-        "description": "APIs for syncing with Zapier",
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-zapier/master/Zapier.Integration.Module/Content/Zapier-300x155.png",
-        "id": "Zapier.Integration",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/v1.0.0/VirtoCommerce.GoogleEcommerceAnalytics_1.0.0.zip",
+        "platformVersion": "2.11.4",
+        "description": "Provides integration between Ecommerce feature of Google Analytics and VirtoCommerce.",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-zapier/releases/download/v2.11.0/Zapier.Integration_2.11.0.zip",
-        "platformVersion": "2.11.0",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-zapier",
-        "title": "Zapier integration",
-        "version": "2.11.0"
-    },
-    {
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/raw/master/VirtoCommerce.GoogleEcommerceAnalyticsModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.GoogleEcommerceAnalytics",
+        "title": "Ecommerce Google Analytics module",
+        "version": "1.0.0",
         "authors": [
             "Alexey Antonov"
         ],
@@ -912,20 +923,20 @@
                 "id": "VirtoCommerce.Core",
                 "version": "2.14.0"
             }
-        ],
-        "description": "Provides integration between Ecommerce feature of Google Analytics and VirtoCommerce.",
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/raw/master/VirtoCommerce.GoogleEcommerceAnalyticsModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.GoogleEcommerceAnalytics",
+        ]
+    },
+    {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/v1.0.0/VirtoCommerce.CatalogPublishing_1.0.0.zip",
+        "platformVersion": "2.13.4",
+        "description": "Allow you to see progress on filling in information about products and marks missed info.",
         "owners": [
             "Virto Commerce"
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/v1.0.0/VirtoCommerce.GoogleEcommerceAnalytics_1.0.0.zip",
-        "platformVersion": "2.11.4",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics",
-        "title": "Ecommerce Google Analytics module",
-        "version": "1.0.0"
-    },
-    {
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/raw/master/VirtoCommerce.CatalogPublishingModule.Web/Content/logo.png",
+        "id": "VirtoCommerce.CatalogPublishing",
+        "title": "Catalog publishing module",
+        "version": "1.0.0",
         "authors": [
             "Alexey Antonov",
             "Andrew Orlov",
@@ -944,17 +955,6 @@
                 "id": "VirtoCommerce.Search",
                 "version": "2.14.2"
             }
-        ],
-        "description": "Allow you to see progress on filling in information about products and marks missed info.",
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/raw/master/VirtoCommerce.CatalogPublishingModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.CatalogPublishing",
-        "owners": [
-            "Virto Commerce"
-        ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/v1.0.0/VirtoCommerce.CatalogPublishing_1.0.0.zip",
-        "platformVersion": "2.13.4",
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing",
-        "title": "Catalog publishing module",
-        "version": "1.0.0"
+        ]
     }
 ]

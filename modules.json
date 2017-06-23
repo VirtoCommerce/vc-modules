@@ -252,8 +252,16 @@
             "Virto Commerce",
             "Artem Dudarev"
         ],
-        "dependencies": [
-            
+        "dependencies": [],
+        "incompatibilities": [ 
+             {
+                "id": "VirtoCommerce.SearchApi",
+                "version": "1.0.0"
+            },
+            {
+                "id": "VirtoCommerce.Search",
+                "version": "2.0.0"
+            }
         ]
     },
     {

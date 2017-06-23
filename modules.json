@@ -235,26 +235,8 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.23.0/VirtoCommerce.Core_2.23.0.zip",
-        "platformVersion": "2.13.9",
-        "description": "Common e-commerce domain functionality",
-        "groups": [
-            "commerce"
-        ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
-        "id": "VirtoCommerce.Core",
-        "title": "Commerce core module",
-        "version": "2.23.0",
-        "authors": [
-            "Virto Commerce",
-            "Artem Dudarev"
-        ],
-        "dependencies": [],
-        "incompatibilities": [ 
-             {
+        "incompatibilities": [
+            {
                 "id": "VirtoCommerce.SearchApi",
                 "version": "1.0.0"
             },
@@ -262,12 +244,32 @@
                 "id": "VirtoCommerce.Search",
                 "version": "2.0.0"
             }
+        ],
+        "description": "Common e-commerce domain functionality",
+        "groups": [
+            "commerce"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "title": "Commerce core module",
+        "version": "2.23.0",
+        "dependencies": [
+            
+        ],
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.23.0/VirtoCommerce.Core_2.23.0.zip",
+        "platformVersion": "2.13.9",
+        "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
+        "id": "VirtoCommerce.Core",
+        "authors": [
+            "Virto Commerce",
+            "Artem Dudarev"
         ]
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-catalog-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.16.7/VirtoCommerce.Catalog_2.16.7.zip",
-        "platformVersion": "2.12.4",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.17.0/VirtoCommerce.Catalog_2.17.0.zip",
+        "platformVersion": "2.13.9",
         "description": "Catalog, categories, products, variations, properties management",
         "groups": [
             "commerce"
@@ -278,14 +280,14 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog/raw/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Catalog",
         "title": "Catalog module",
-        "version": "2.16.7",
+        "version": "2.17.0",
         "authors": [
             "Virto Commerce"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.22.2"
+                "version": "2.23.0"
             },
             {
                 "id": "VirtoCommerce.ImageTools",

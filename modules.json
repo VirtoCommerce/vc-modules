@@ -967,7 +967,7 @@
     },
     {
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/v1.0.0/VirtoCommerce.LuceneSearch_1.0.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/v1.0.1/VirtoCommerce.LuceneSearch_1.0.1.zip",
         "platformVersion": "2.13.9",
         "groups": [
             "commerce"
@@ -979,7 +979,7 @@
         "id": "VirtoCommerce.LuceneSearch",
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/raw/dev/VirtoCommerce.LuceneSearchModule.Web/Content/logo.png",
         "title": "Lucene Search module",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "authors": [
             "Artem Dudarev"
         ],

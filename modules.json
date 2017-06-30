@@ -991,9 +991,9 @@
         ]
     },
     {
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-azure-search",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-azure-search/releases/download/v1.0.0/VirtoCommerce.AzureSearch_1.0.0.zip",
-        "platformVersion": "2.13.0",
+        "projectUrl": "https://virtocommerce.com/apps/extensions/virto-azure-search-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-azure-search/releases/download/v1.1.0/VirtoCommerce.AzureSearch_1.1.0.zip",
+        "platformVersion": "2.13.9",
         "description": "Indexed search functionality with Azure Search engine",
         "owners": [
             "Virto Commerce"
@@ -1001,14 +1001,14 @@
         "id": "VirtoCommerce.AzureSearch",
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-azure-search/raw/dev/VirtoCommerce.AzureSearchModule.Web/Content/logo.png",
         "title": "Azure Search module",
-        "version": "1.0.0",
+        "version": "1.1.0",
         "authors": [
             "Artem Dudarev"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.23.0"
+                "version": "2.24.0"
             }
         ]
     },

@@ -312,6 +312,7 @@
         "version": "2.14.1",
         "authors": [
             "Virto Commerce",
+            "Artem Dudarev",
             "Egidijus Ma\u017eeika"
         ],
         "dependencies": [

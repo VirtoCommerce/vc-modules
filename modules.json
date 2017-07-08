@@ -1036,25 +1036,25 @@
         ]
     },
     {
-        "id": "VirtoCommerce.Contentful",
-        "title": "Contentful Module (preview)",
-        "version": "1.0.0",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-contentful",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-contentful/releases/download/v1.0.1/VirtoCommerce.Contentful_1.0.1.zip",
         "platformVersion": "2.13.9",
+        "description": "Integration module for contentful.com.",
+        "owners": [
+            
+        ],
+        "id": "VirtoCommerce.Contentful",
+        "iconUrl": "",
+        "title": "Contentful Module (preview)",
+        "version": "1.0.1",
         "authors": [
             "Alexander Siniouguine"
         ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "description": "Integration module for contentful.com.",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Content",
                 "version": "2.13.1"
             }
-        ],
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-contentful",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-contentful/releases/download/v1.0.0/VirtoCommerce.Contentful_1.0.0.zip",
-        "iconUrl": ""
+        ]
     }
 ]

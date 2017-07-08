@@ -1034,5 +1034,27 @@
                 "version": "2.23.0"
             }
         ]
+    },
+    {
+        "id": "VirtoCommerce.Contentful",
+        "title": "Contentful Module (preview)",
+        "version": "1.0.0",
+        "platformVersion": "2.13.9",
+        "authors": [
+            "Alexander Siniouguine"
+        ],
+        "owners": [
+            
+        ],
+        "description": "Integration module for contentful.com.",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Content",
+                "version": "2.13.1"
+            }
+        ],
+        "projectUrl": "",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-contentful/releases/download/v1.0.0/VirtoCommerce.Contentful_1.0.0.zip",
+        "iconUrl": ""
     }
 ]

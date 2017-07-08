@@ -1044,7 +1044,7 @@
             "Alexander Siniouguine"
         ],
         "owners": [
-            
+            "Virto Commerce"
         ],
         "description": "Integration module for contentful.com.",
         "dependencies": [
@@ -1053,7 +1053,7 @@
                 "version": "2.13.1"
             }
         ],
-        "projectUrl": "",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-contentful",
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-contentful/releases/download/v1.0.0/VirtoCommerce.Contentful_1.0.0.zip",
         "iconUrl": ""
     }

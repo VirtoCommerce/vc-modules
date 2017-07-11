@@ -129,49 +129,7 @@
                 "version": "2.12.0"
             }
         ]
-    },
-    {
-        "projectUrl": "https://virtocommerce.com/apps/extensions/indexed-search-api-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search-api/releases/download/v1.3.6/VirtoCommerce.SearchApi_1.3.6.zip",
-        "platformVersion": "2.12.6",
-        "description": "Includes indexers and search criteria builders for major modules (catalog, order, customer)",
-        "groups": [
-            
-        ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search-api/raw/master/VirtoCommerce.SearchApiModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.SearchApi",
-        "title": "Search API module (obsolete)",
-        "version": "1.3.6",
-        "authors": [
-            "Alexander Siniouguine",
-            "Artem Dudarev"
-        ],
-        "dependencies": [
-            {
-                "id": "VirtoCommerce.Catalog",
-                "version": "2.16.2"
-            },
-            {
-                "id": "VirtoCommerce.Core",
-                "version": "2.22.0"
-            },
-            {
-                "id": "VirtoCommerce.Pricing",
-                "version": "2.16.0"
-            },
-            {
-                "id": "VirtoCommerce.Search",
-                "version": "2.14.0"
-            },
-            {
-                "id": "VirtoCommerce.Store",
-                "version": "2.13.0"
-            }
-        ]
-    },
+    },    
     {
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-cache",
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.13/VirtoCommerce.Cache_1.0.13.zip",
@@ -532,35 +490,7 @@
                 "version": "2.12.0"
             }
         ]
-    },
-    {
-        "projectUrl": "https://virtocommerce.com/apps/extensions/indexed-search-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/v2.14.4/VirtoCommerce.Search_2.14.4.zip",
-        "platformVersion": "2.12.6",
-        "description": "Indexed search functionality with Lucene and ElasticSearch engines",
-        "groups": [
-            
-        ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-search/raw/master/VirtoCommerce.SearchModule.Web/Content/logo.png",
-        "id": "VirtoCommerce.Search",
-        "title": "Search module (obsolete)",
-        "version": "2.14.4",
-        "authors": [
-            "Alexander Siniouguine",
-            "Eugeny Tatarincev",
-            "Artem Dudarev",
-            "Egidijus Ma\u017eeika"
-        ],
-        "dependencies": [
-            {
-                "id": "VirtoCommerce.Core",
-                "version": "2.22.0"
-            }
-        ]
-    },
+    },    
     {
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-quote",
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.12/VirtoCommerce.Quote_2.12.0.zip",

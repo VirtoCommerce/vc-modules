@@ -1060,5 +1060,32 @@
                 "version": "2.13.1"
             }
         ]
+    },
+    {
+        "id": "VirtoCommerce.B2BExtension",
+        "title": "B2B extensions module",
+        "version": "1.0.1",
+        "platformVersion": "2.12.0",
+        "authors": [
+            "Aleksandr Vishnyakov",
+            "Artyom Androsov"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "description": "Managing B2B functionality for corporate customers",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.24.1"
+            },
+            {
+                "id": "VirtoCommerce.Customer",
+                "version": "2.14.1"
+            }
+        ],
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-b2b-extensions",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-b2b-extensions/releases/download/v1.0.1/VirtoCommerce.B2BExtension_1.0.1.zip",
+        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-b2b-extensions/master/VirtoCommerce.B2BExtensionsModule.Web/Content/logo.png"
     }
 ]

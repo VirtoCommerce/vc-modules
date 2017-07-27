@@ -1027,8 +1027,11 @@
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-stripe/releases/download/v1.0.1/Stripe.Checkout_1.0.1.zip",
         "platformVersion": "2.13.10",
         "description": "APIs and UI for Stripe payment gateway (using Elements and Stripe.js)",
+        "groups": [
+            "payments"
+        ],        
         "owners": [
-            
+            "Virto Commerce"
         ],
         "id": "Stripe.Checkout",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-stripe/master/Stripe.Checkout/Content/logo.png",

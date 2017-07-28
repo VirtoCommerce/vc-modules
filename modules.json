@@ -307,7 +307,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-store-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.13.2/VirtoCommerce.Store_2.13.2.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.13.3/VirtoCommerce.Store_2.13.3.zip",
         "platformVersion": "2.13.8",
         "description": "Multi store management with individual store settings",
         "groups": [
@@ -319,7 +319,7 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-store/raw/master/VirtoCommerce.StoreModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Store",
         "title": "Store module",
-        "version": "2.13.2",
+        "version": "2.13.3",
         "authors": [
             "Virto Commerce"
         ],
@@ -1029,7 +1029,7 @@
         "description": "APIs and UI for Stripe payment gateway (using Elements and Stripe.js)",
         "groups": [
             "payments"
-        ],        
+        ],
         "owners": [
             "Virto Commerce"
         ],

@@ -546,8 +546,8 @@
         ]
     },
     {
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/releases/download/v2.12.0/Paypal.ExpressCheckout_2.12.0.zip",
+        "projectUrl": "https://virtocommerce.com/apps/extensions/paypal",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/releases/download/v2.12.1/Paypal.ExpressCheckout_2.12.1.zip",
         "platformVersion": "2.12.0",
         "description": "Paypal Express Checkout payment integration",
         "groups": [
@@ -559,7 +559,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Paypal-ExpressCheckout/master/Paypal.ExpressCheckout/Content/paypal_2014_logo.png",
         "id": "Paypal.ExpressCheckout",
         "title": "Paypal Express Checkout",
-        "version": "2.12.0",
+        "version": "2.12.1",
         "authors": [
             "Virto Commerce",
             "Egidijus Ma\u017eeika"

@@ -623,8 +623,8 @@
         ]
     },
     {
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import/releases/download/v2.12.1/Altsoft.ShopifyImport_2.12.1.zip",
+        "projectUrl": "https://virtocommerce.com/apps/extensions/import-from-shopify-to-virtocommerce-platform",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-shopify-import/releases/download/v2.12.2/Altsoft.ShopifyImport_2.12.2.zip",
         "platformVersion": "2.12.0",
         "description": "That module allows you to import existing data from your Shopify",
         "groups": [
@@ -636,7 +636,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-shopify-import/master/Altsoft.ShopifyImportModule.Web/Content/images/shopify.png",
         "id": "Altsoft.ShopifyImport",
         "title": "Import from Shopify module",
-        "version": "2.12.1",
+        "version": "2.12.2",
         "authors": [
             "Altsoft"
         ],

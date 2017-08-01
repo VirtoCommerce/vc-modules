@@ -730,8 +730,8 @@
         ]
     },
     {
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-MeS",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-MeS/releases/download/v2.12.0/MeS.PaymentGateway_2.12.0.zip",
+        "projectUrl": "https://virtocommerce.com/apps/extensions/merchante-solutions",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-MeS/releases/download/v2.12.1/MeS.PaymentGateway_2.12.1.zip",
         "platformVersion": "2.12.0",
         "description": "APIs and UI for Merchant e-Solutions Payment Gateway API integration",
         "groups": [
@@ -743,7 +743,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-MeS/dev/MeS.PaymentGatewaysModule.Web/Content/logo.gif",
         "id": "MeS.PaymentGateway",
         "title": "MeS Payment Gateway",
-        "version": "2.12.0",
+        "version": "2.12.1",
         "authors": [
             "Virto Commerce",
             "Egidijus Ma\u017eeika"

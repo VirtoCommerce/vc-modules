@@ -460,7 +460,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-dynamic-expression-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions/releases/download/v2.12.2/VirtoCommerce.DynamicExpressions_2.12.2.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-expressions/releases/download/v2.12.3/VirtoCommerce.DynamicExpressions_2.12.3.zip",
         "platformVersion": "2.12.0",
         "description": "Expressions for marketing and pricing dynamic condition builders",
         "groups": [
@@ -472,14 +472,14 @@
         "iconUrl": "Modules/$(VirtoCommerce.DynamicExpressions)/Content/logo.png",
         "id": "VirtoCommerce.DynamicExpressions",
         "title": "Virto Commerce dynamic expression library module",
-        "version": "2.12.2",
+        "version": "2.12.3",
         "authors": [
             "Virto Commerce"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.19.0"
+                "version": "2.24.5"
             },
             {
                 "id": "VirtoCommerce.Pricing",
@@ -487,7 +487,7 @@
             },
             {
                 "id": "VirtoCommerce.Marketing",
-                "version": "2.12.0"
+                "version": "2.16.5"
             }
         ]
     },

@@ -518,8 +518,8 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-cms-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.13.3/VirtoCommerce.Content_2.13.3.zip",
-        "platformVersion": "2.13.3",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/v2.13.4/VirtoCommerce.Content_2.13.4.zip",
+        "platformVersion": "2.13.14",
         "description": "Front-end CMS functionality based on liquid technology",
         "groups": [
             "commerce"
@@ -530,14 +530,14 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-content/raw/master/VirtoCommerce.ContentModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Content",
         "title": "CMS Content module",
-        "version": "2.13.3",
+        "version": "2.13.4",
         "authors": [
             "Virto Commerce"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.17.0"
+                "version": "2.24.6"
             },
             {
                 "id": "VirtoCommerce.Store",

@@ -850,8 +850,8 @@
         ]
     },
     {
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/v1.0.0/VirtoCommerce.GoogleEcommerceAnalytics_1.0.0.zip",
+        "projectUrl": "https://virtocommerce.com/apps/extensions/google-ecommerce-analytics-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/v1.0.1/VirtoCommerce.GoogleEcommerceAnalytics_1.0.1.zip",
         "platformVersion": "2.11.4",
         "description": "Provides integration between Ecommerce feature of Google Analytics and VirtoCommerce.",
         "owners": [
@@ -860,7 +860,7 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/raw/master/VirtoCommerce.GoogleEcommerceAnalyticsModule.Web/Content/logo.png",
         "id": "VirtoCommerce.GoogleEcommerceAnalytics",
         "title": "Ecommerce Google Analytics module",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "authors": [
             "Alexey Antonov"
         ],

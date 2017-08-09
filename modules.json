@@ -62,7 +62,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/automatic-sitemaps-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/v1.1.4/VirtoCommerce.Sitemaps_1.1.4.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/v1.1.5/VirtoCommerce.Sitemaps_1.1.5.zip",
         "platformVersion": "2.12.5",
         "description": "Sitemaps generation management for stores",
         "groups": [
@@ -74,7 +74,7 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/raw/master/VirtoCommerce.SitemapsModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Sitemaps",
         "title": "Sitemaps module",
-        "version": "1.1.4",
+        "version": "1.1.5",
         "authors": [
             "Andrey Orlov"
         ],

@@ -1085,6 +1085,9 @@
         "owners": [
             "Virto Commerce"
         ],
+        "groups": [
+            "marketing"
+        ],
         "description": "Marketo integration module.",
         "dependencies": [
             {

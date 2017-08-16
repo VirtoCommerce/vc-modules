@@ -1083,13 +1083,16 @@
             "Alexander Siniouguine"
         ],
         "owners": [
-            
+            "Virto Commerce"
         ],
         "description": "Marketo integration module.",
         "dependencies": [
-            
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.23.0"
+            }
         ],
-        "projectUrl": "",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-marketo",
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketo/releases/download/v1.0.0/VirtoCommerce.Marketo_1.0.0.zip",
         "iconUrl": ""
     }

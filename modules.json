@@ -211,11 +211,11 @@
             "Virto Commerce"
         ],
         "title": "Commerce core module",
-        "version": "2.24.8",
+        "version": "2.24.9",
         "dependencies": [
             
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.24.8/VirtoCommerce.Core_2.24.8.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.24.9/VirtoCommerce.Core_2.24.9.zip",
         "platformVersion": "2.13.14",
         "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
         "id": "VirtoCommerce.Core",
@@ -1075,28 +1075,28 @@
         ]
     },
     {
-        "id": "VirtoCommerce.Marketo",
-        "title": "Marketo Module (Preview)",
-        "version": "1.0.0",
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-marketo",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketo/releases/download/v1.0.0/VirtoCommerce.Marketo_1.0.0.zip",
         "platformVersion": "2.13.9",
-        "authors": [
-            "Alexander Siniouguine"
-        ],
-        "owners": [
-            "Virto Commerce"
-        ],
         "groups": [
             "marketing"
         ],
         "description": "Marketo integration module.",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "id": "VirtoCommerce.Marketo",
+        "iconUrl": "",
+        "title": "Marketo Module (Preview)",
+        "version": "1.0.0",
+        "authors": [
+            "Alexander Siniouguine"
+        ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
                 "version": "2.23.0"
             }
-        ],
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-marketo",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketo/releases/download/v1.0.0/VirtoCommerce.Marketo_1.0.0.zip",
-        "iconUrl": ""
+        ]
     }
 ]

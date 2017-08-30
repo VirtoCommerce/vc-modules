@@ -1005,8 +1005,8 @@
         ],
         "id": "VirtoCommerce.B2BExtension",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-b2b-extensions/master/VirtoCommerce.B2BExtensionsModule.Web/Content/logo.png",
-        "title": "B2B extensions module",
-        "version": "1.0.1",
+        "title": "B2B extensions module (preview)",
+        "version": "1.0.2",
         "authors": [
             "Aleksandr Vishnyakov",
             "Artyom Androsov"

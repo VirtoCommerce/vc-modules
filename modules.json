@@ -238,7 +238,7 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog/raw/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Catalog",
         "title": "Catalog module",
-        "version": "2.19.1",
+        "version": "2.19.2",
         "authors": [
             "Virto Commerce"
         ],

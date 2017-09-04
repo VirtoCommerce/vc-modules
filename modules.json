@@ -226,7 +226,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-catalog-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.19.1/VirtoCommerce.Catalog_2.19.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.19.2/VirtoCommerce.Catalog_2.19.2.zip",
         "platformVersion": "2.13.15",
         "description": "Catalog, categories, products, variations, properties management",
         "groups": [
@@ -282,7 +282,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-shoppingcart-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.16.0/VirtoCommerce.Cart_2.16.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.16.1/VirtoCommerce.Cart_2.16.1.zip",
         "platformVersion": "2.12.4",
         "description": "Shopping cart / checkout functionality",
         "groups": [
@@ -997,7 +997,7 @@
     },
     {
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-b2b-extensions",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-b2b-extensions/releases/download/v1.0.1/VirtoCommerce.B2BExtension_1.0.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-b2b-extensions/releases/download/v1.0.2/VirtoCommerce.B2BExtension_1.0.2.zip",
         "platformVersion": "2.12.0",
         "description": "Managing B2B functionality for corporate customers",
         "owners": [

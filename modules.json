@@ -851,7 +851,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/google-ecommerce-analytics-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/v1.0.1/VirtoCommerce.GoogleEcommerceAnalytics_1.0.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/v1.1.0/VirtoCommerce.GoogleEcommerceAnalytics_1.1.0.zip",
         "platformVersion": "2.11.4",
         "description": "Provides integration between Ecommerce feature of Google Analytics and VirtoCommerce.",
         "owners": [
@@ -860,7 +860,7 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/raw/master/VirtoCommerce.GoogleEcommerceAnalyticsModule.Web/Content/logo.png",
         "id": "VirtoCommerce.GoogleEcommerceAnalytics",
         "title": "Ecommerce Google Analytics module",
-        "version": "1.0.1",
+        "version": "1.1.0",
         "authors": [
             "Alexey Antonov"
         ],
@@ -1100,18 +1100,21 @@
         ]
     },
     {
+        "projectUrl": "",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-aviary-image-editor/releases/download/v1.0.1/VirtoCommerce.AviaryImageEditorModule_1.0.1.zip",
+        "platformVersion": "2.13.15",
+        "description": "Edit your images in catalog module",
+        "owners": [
+            "Virto Commerce"
+        ],
         "id": "VirtoCommerce.AviaryImageEditorModule",
+        "iconUrl": "",
         "title": "Image editor module",
         "version": "1.0.1",
-        "platformVersion": "2.13.15",
         "authors": [
             "Virto Commerce",
             "Valeriy Krashenko"
         ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "description": "Edit your images in catalog module",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -1121,9 +1124,6 @@
                 "id": "VirtoCommerce.Catalog",
                 "version": "2.19.1"
             }
-        ],
-        "projectUrl": "",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-aviary-image-editor/releases/download/v1.0.1/VirtoCommerce.AviaryImageEditorModule_1.0.1.zip",
-        "iconUrl": ""
+        ]
     }
 ]

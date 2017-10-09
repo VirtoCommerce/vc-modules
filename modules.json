@@ -211,11 +211,11 @@
             "Virto Commerce"
         ],
         "title": "Commerce core module",
-        "version": "2.24.12",
+        "version": "2.24.13",
         "dependencies": [
             
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.24.12/VirtoCommerce.Core_2.24.12.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.24.13/VirtoCommerce.Core_2.24.13.zip",
         "platformVersion": "2.13.14",
         "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
         "id": "VirtoCommerce.Core",
@@ -1153,22 +1153,22 @@
         ]
     },
     {
-        "id": "VirtoCommerce.Montane.FedEx",
-        "title": "FedEx Shipping Method Module",
-        "version": "0.1.1",
+        "projectUrl": "",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-fedex/releases/download/v0.1.1/VirtoCommerce.Montane.FedEx_0.1.1.zip",
         "platformVersion": "2.10.0",
-        "authors": [
-            "Montan\u00e9 Enterprises"
-        ],
+        "description": "Provides FedEx shipping rates based on product and destination attributes.",
         "owners": [
             
         ],
-        "description": "Provides FedEx shipping rates based on product and destination attributes.",
+        "id": "VirtoCommerce.Montane.FedEx",
+        "iconUrl": "",
+        "title": "FedEx Shipping Method Module",
+        "version": "0.1.1",
+        "authors": [
+            "Montan\u00e9 Enterprises"
+        ],
         "dependencies": [
             
-        ],
-        "projectUrl": "",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-fedex/releases/download/v0.1.1/VirtoCommerce.Montane.FedEx_0.1.1.zip",
-        "iconUrl": ""
+        ]
     }
 ]

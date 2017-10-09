@@ -1151,5 +1151,24 @@
                 "version": "2.17.0"
             }
         ]
+    },
+    {
+        "id": "VirtoCommerce.Montane.FedEx",
+        "title": "FedEx Shipping Method Module",
+        "version": "0.1.1",
+        "platformVersion": "2.10.0",
+        "authors": [
+            "Montan\u00e9 Enterprises"
+        ],
+        "owners": [
+            
+        ],
+        "description": "Provides FedEx shipping rates based on product and destination attributes.",
+        "dependencies": [
+            
+        ],
+        "projectUrl": "",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-fedex/releases/download/v0.1.1/VirtoCommerce.Montane.FedEx_0.1.1.zip",
+        "iconUrl": ""
     }
 ]

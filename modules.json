@@ -928,7 +928,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-azure-search-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-azure-search/releases/download/v1.1.1/VirtoCommerce.AzureSearch_1.1.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-azure-search/releases/download/v1.1.2/VirtoCommerce.AzureSearch_1.1.2.zip",
         "platformVersion": "2.13.9",
         "description": "Indexed search functionality with Azure Search engine",
         "owners": [
@@ -937,7 +937,7 @@
         "id": "VirtoCommerce.AzureSearch",
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-azure-search/raw/dev/VirtoCommerce.AzureSearchModule.Web/Content/logo.png",
         "title": "Azure Search module",
-        "version": "1.1.1",
+        "version": "1.1.2",
         "authors": [
             "Artem Dudarev"
         ],
@@ -1172,19 +1172,22 @@
         ]
     },
     {
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/v1.0.0/VirtoCommerce.CatalogPersonalization_1.0.0.zip",
+        "platformVersion": "2.13.9",
+        "description": "Enter your module description here.",
+        "owners": [
+            "Virto Commerce"
+        ],
         "id": "VirtoCommerce.CatalogPersonalization",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/raw/dev/VirtoCommerce.CatalogPersonalizationModule.Web/Content/logo.png",
         "title": "Catalog personalization module",
         "version": "1.0.0",
-        "platformVersion": "2.13.9",
         "authors": [
             "Virto Commerce",
             "Eugeney Tarincev",
             "Artyom Androsov"
         ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "description": "Enter your module description here.",
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -1198,9 +1201,6 @@
                 "id": "VirtoCommerce.Catalog",
                 "version": "2.20.1"
             }
-        ],
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/v1.0.0/VirtoCommerce.CatalogPersonalization_1.0.0.zip",
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/raw/dev/VirtoCommerce.CatalogPersonalizationModule.Web/Content/logo.png"
+        ]
     }
 ]

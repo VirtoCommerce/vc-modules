@@ -1170,5 +1170,37 @@
         "dependencies": [
             
         ]
+    },
+    {
+        "id": "VirtoCommerce.CatalogPersonalization",
+        "title": "Catalog personalization module",
+        "version": "1.0.0",
+        "platformVersion": "2.13.9",
+        "authors": [
+            "Virto Commerce",
+            "Eugeney Tarincev",
+            "Artyom Androsov"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "description": "Enter your module description here.",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.24.13"
+            },
+            {
+                "id": "VirtoCommerce.Customer",
+                "version": "2.13.0"
+            },
+            {
+                "id": "VirtoCommerce.Catalog",
+                "version": "2.20.1"
+            }
+        ],
+        "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/v1.0.0/VirtoCommerce.CatalogPersonalization_1.0.0.zip",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/raw/dev/VirtoCommerce.CatalogPersonalizationModule.Web/Content/logo.png"
     }
 ]

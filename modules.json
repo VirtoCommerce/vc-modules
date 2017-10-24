@@ -226,7 +226,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-catalog-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.20.1/VirtoCommerce.Catalog_2.20.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.20.2/VirtoCommerce.Catalog_2.20.2.zip",
         "platformVersion": "2.13.15",
         "description": "Catalog, categories, products, variations, properties management",
         "groups": [
@@ -238,7 +238,7 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog/raw/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Catalog",
         "title": "Catalog module",
-        "version": "2.20.1",
+        "version": "2.20.2",
         "authors": [
             "Virto Commerce"
         ],

@@ -1051,7 +1051,7 @@
     },
     {
         "projectUrl": "",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-csv-import/releases/download/v1.0.6/VirtoCommerce.CatalogCsvImportModule_1.0.6.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-csv-import/releases/download/v1.0.7/VirtoCommerce.CatalogCsvImportModule_1.0.7.zip",
         "platformVersion": "2.13.9",
         "description": "Adds CSV import functionality to catalog",
         "owners": [
@@ -1060,7 +1060,7 @@
         "id": "VirtoCommerce.CatalogCsvImportModule",
         "iconUrl": "",
         "title": "Csv Catalog Import Module",
-        "version": "1.0.6",
+        "version": "1.0.7",
         "authors": [
             "ksa"
         ],

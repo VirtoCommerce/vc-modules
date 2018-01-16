@@ -1228,7 +1228,7 @@
     },
     {
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-b2b-extensions",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-b2b-customer/releases/download/v1.0.1/VirtoCommerce.B2BCustomer_1.0.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-b2b-customer/releases/download/v1.0.2/VirtoCommerce.B2BCustomer_1.0.2.zip",
         "platformVersion": "2.13.19",
         "description": "Managing B2B functionality for corporate customers",
         "owners": [
@@ -1237,7 +1237,7 @@
         "id": "VirtoCommerce.B2BCustomer",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-b2b-customer/master/VirtoCommerce.B2BCustomerModule.Web/Content/logo.png",
         "title": "B2B Customer module (preview)",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "authors": [
             "Aleksandr Vishnyakov",
             "Artyom Androsov",

@@ -4,6 +4,9 @@
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-product-recommendations/releases/download/v0.4.0/VirtoCommerce.ProductRecommendations_0.4.0.zip",
         "platformVersion": "2.13.1",
         "description": "Automatically recommend items on your product page. Provide recommendations unique to customer and personalize their experience.",
+        "groups": [
+            "demo"
+        ],
         "owners": [
             "Virto Commerce"
         ],

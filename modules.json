@@ -382,7 +382,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-pricing-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.17.7/VirtoCommerce.Pricing_2.17.7.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.17.8/VirtoCommerce.Pricing_2.17.8.zip",
         "platformVersion": "2.13.9",
         "description": "Robust pricing management functionality based on price list and dynamic evaluation",
         "groups": [
@@ -394,14 +394,14 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-pricing/raw/master/VirtoCommerce.PricingModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Pricing",
         "title": "Pricing module",
-        "version": "2.17.7",
+        "version": "2.17.8",
         "authors": [
-            "Virto Commerce"
+            "Eugeney Tatarincev"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.24.19"
+                "version": "2.24.28"
             },
             {
                 "id": "VirtoCommerce.Catalog",

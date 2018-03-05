@@ -287,7 +287,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-shoppingcart-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.16.5/VirtoCommerce.Cart_2.16.5.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.16.6/VirtoCommerce.Cart_2.16.6.zip",
         "platformVersion": "2.13.21",
         "description": "Shopping cart / checkout functionality",
         "groups": [
@@ -299,7 +299,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-cart/master/VirtoCommerce.CartModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Cart",
         "title": "Shopping cart module",
-        "version": "2.16.5",
+        "version": "2.16.6",
         "authors": [
             "Virto Commerce"
         ],

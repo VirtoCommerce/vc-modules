@@ -135,7 +135,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/smart-caching-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.14/VirtoCommerce.Cache_1.0.14.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cache/releases/download/v1.0.15/VirtoCommerce.Cache_1.0.15.zip",
         "platformVersion": "2.12.0",
         "description": "Smart caching for main domain services such as Catalog, Customer, Store.",
         "groups": [
@@ -147,7 +147,7 @@
         "iconUrl": "Modules/$(VirtoCommerce.Cache)/Content/logoVC.png",
         "id": "VirtoCommerce.Cache",
         "title": "Smart caching module",
-        "version": "1.0.14",
+        "version": "1.0.15",
         "authors": [
             "Eugeney Tatarincev",
             "Artem Dudarev"
@@ -172,6 +172,10 @@
             {
                 "id": "VirtoCommerce.Marketing",
                 "version": "2.16.0"
+            },
+            {
+                "id": "VirtoCommerce.Pricing",
+                "version": "2.17.0"
             }
         ]
     },

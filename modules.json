@@ -345,7 +345,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-orders-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.17.7/VirtoCommerce.Orders_2.17.7.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.17.8/VirtoCommerce.Orders_2.17.8.zip",
         "platformVersion": "2.13.21",
         "description": "Document based flexible orders management",
         "groups": [
@@ -357,7 +357,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-order/master/VirtoCommerce.OrderModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Orders",
         "title": "Order module",
-        "version": "2.17.7",
+        "version": "2.17.8",
         "authors": [
             "Virto Commerce"
         ],

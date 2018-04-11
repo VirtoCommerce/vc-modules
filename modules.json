@@ -1217,7 +1217,7 @@
     },
     {
         "projectUrl": "",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-datatrans/releases/download/v1.0.4/Datatrans.Checkout_1.0.4.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-datatrans/releases/download/v1.0.5/Datatrans.Checkout_1.0.5.zip",
         "platformVersion": "2.13.19",
         "description": "APIs and UI for Datatrans payment gateway (using Datatrans Lightbox mode)",
         "owners": [
@@ -1226,7 +1226,7 @@
         "id": "Datatrans.Checkout",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-datatrans/master/Datatrans.Checkout/Content/logo.png",
         "title": "Datatrans Payment Gateway",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "authors": [
             "Virto Commerce",
             "Konstantin Savosteev"

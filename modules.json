@@ -235,8 +235,8 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-catalog-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.21.7/VirtoCommerce.Catalog_2.21.7.zip",
-        "platformVersion": "2.13.17",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.21.8/VirtoCommerce.Catalog_2.21.8.zip",
+        "platformVersion": "2.13.26",
         "description": "Catalog, categories, products, variations, properties management",
         "groups": [
             "commerce"
@@ -247,18 +247,14 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog/raw/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Catalog",
         "title": "Catalog module",
-        "version": "2.21.7",
+        "version": "2.21.8",
         "authors": [
             "Virto Commerce"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.24.22"
-            },
-            {
-                "id": "VirtoCommerce.ImageTools",
-                "version": "1.0.0"
+                "version": "2.25.0"
             }
         ]
     },

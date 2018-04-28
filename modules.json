@@ -187,6 +187,9 @@
         "owners": [
             "Virto Commerce"
         ],
+         "groups": [
+            "commerce"
+        ],
         "iconUrl": "Modules/$(VirtoCommerce.ImageTools)/Content/logo.png",
         "id": "VirtoCommerce.ImageTools",
         "title": "Image tools module",

@@ -184,11 +184,11 @@
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/v1.2.0/VirtoCommerce.ImageTools_1.2.0.zip",
         "platformVersion": "2.12.0",
         "description": "Image tools helps to automate image transformation procedures such as resizing and cropping",
+        "groups": [
+            "commerce"
+        ],
         "owners": [
             "Virto Commerce"
-        ],
-         "groups": [
-            "commerce"
         ],
         "iconUrl": "Modules/$(VirtoCommerce.ImageTools)/Content/logo.png",
         "id": "VirtoCommerce.ImageTools",
@@ -389,7 +389,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-pricing-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.17.8/VirtoCommerce.Pricing_2.17.8.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.17.9/VirtoCommerce.Pricing_2.17.9.zip",
         "platformVersion": "2.13.9",
         "description": "Robust pricing management functionality based on price list and dynamic evaluation",
         "groups": [
@@ -401,7 +401,7 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-pricing/raw/master/VirtoCommerce.PricingModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Pricing",
         "title": "Pricing module",
-        "version": "2.17.8",
+        "version": "2.17.9",
         "authors": [
             "Eugeney Tatarincev"
         ],

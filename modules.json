@@ -263,7 +263,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-customer-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.14.17/VirtoCommerce.Customer_2.14.17.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/v2.14.18/VirtoCommerce.Customer_2.14.18.zip",
         "platformVersion": "2.13.24",
         "description": "Managing customers contacts and organizations",
         "groups": [
@@ -275,7 +275,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-customer/master/VirtoCommerce.CustomerModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Customer",
         "title": "Customer management module",
-        "version": "2.14.17",
+        "version": "2.14.18",
         "authors": [
             "Virto Commerce",
             "Artem Dudarev",

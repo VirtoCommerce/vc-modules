@@ -906,6 +906,9 @@
             "Aleksandr Vishnyakov",
             "Artem Dudarev"
         ],
+         "groups": [
+            "commerce"
+        ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -1022,7 +1025,7 @@
         ],
         "id": "VirtoCommerce.B2BExtension",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-b2b-extensions/master/VirtoCommerce.B2BExtensionsModule.Web/Content/logo.png",
-        "title": "B2B extensions module (preview)",
+        "title": "B2B extensions module (deprecated)",
         "version": "1.0.2",
         "authors": [
             "Aleksandr Vishnyakov",
@@ -1207,6 +1210,9 @@
             "Artyom Androsov",
             "Artem Dudarev"
         ],
+         "groups": [
+            "commerce"
+        ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
@@ -1255,7 +1261,7 @@
         ],
         "id": "VirtoCommerce.B2BCustomer",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-b2b-customer/master/VirtoCommerce.B2BCustomerModule.Web/Content/logo.png",
-        "title": "B2B Customer module (preview)",
+        "title": "B2B Customer module (deprecated)",
         "version": "1.0.5",
         "authors": [
             "Aleksandr Vishnyakov",

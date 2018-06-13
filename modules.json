@@ -315,7 +315,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-store-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.13.5/VirtoCommerce.Store_2.13.5.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/v2.13.6/VirtoCommerce.Store_2.13.6.zip",
         "platformVersion": "2.13.26",
         "description": "Multi store management with individual store settings",
         "groups": [
@@ -327,7 +327,7 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-store/raw/master/VirtoCommerce.StoreModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Store",
         "title": "Store module",
-        "version": "2.13.5",
+        "version": "2.13.6",
         "authors": [
             "Virto Commerce"
         ],

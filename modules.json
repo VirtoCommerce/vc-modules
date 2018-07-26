@@ -1124,7 +1124,7 @@
     },
     {
         "projectUrl": "",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-aviary-image-editor/releases/download/v1.0.3/VirtoCommerce.AviaryImageEditorModule_1.0.3.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-aviary-image-editor/releases/download/v1.0.4/VirtoCommerce.AviaryImageEditorModule_1.0.4.zip",
         "platformVersion": "2.13.15",
         "description": "Edit your images in catalog module",
         "owners": [
@@ -1133,7 +1133,7 @@
         "id": "VirtoCommerce.AviaryImageEditorModule",
         "iconUrl": "",
         "title": "Image editor module",
-        "version": "1.0.3",
+        "version": "1.0.4",
         "authors": [
             "Virto Commerce",
             "Valeriy Krashenko"

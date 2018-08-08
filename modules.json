@@ -447,7 +447,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-marketing-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.17.0/VirtoCommerce.Marketing_2.17.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.17.1/VirtoCommerce.Marketing_2.17.1.zip",
         "platformVersion": "2.13.30",
         "description": "Marketing system with dynamic contents and promotions management",
         "groups": [
@@ -459,14 +459,14 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-marketing/master/VirtoCommerce.MarketingModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Marketing",
         "title": "Marketing module",
-        "version": "2.17.0",
+        "version": "2.17.1",
         "authors": [
             "Eugeney Tatarincev"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.25.25"
+                "version": "2.25.29"
             },
             {
                 "id": "VirtoCommerce.Store",

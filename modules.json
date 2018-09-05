@@ -593,7 +593,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/dibs-payment-gateway",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.13.2/DiBs_2.13.2.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-DIBS/releases/download/v2.13.3/DiBs_2.13.3.zip",
         "platformVersion": "2.12.4",
         "description": "APIs and UI for DiBs payment gateway",
         "groups": [
@@ -605,7 +605,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-DIBS/master/DiBs/Content/DIBS_logo_blue_RGB.png",
         "id": "DiBs",
         "title": "DiBs payment gateway",
-        "version": "2.13.2",
+        "version": "2.13.3",
         "authors": [
             "Egidijus Ma\u017eeika",
             "Alexey Antonov"

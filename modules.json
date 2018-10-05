@@ -1230,7 +1230,7 @@
     },
     {
         "projectUrl": "",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-helcim/releases/download/v1.0.4/Helcim.PaymentGateway_1.0.4.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-helcim/releases/download/v1.0.5/Helcim.PaymentGateway_1.0.5.zip",
         "platformVersion": "2.13.19",
         "description": "APIs and UI for Helcim payment gateway",
         "owners": [
@@ -1239,7 +1239,7 @@
         "id": "Helcim.PaymentGateway",
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-helcim/master/Helcim.PaymentGateway.Web/Content/logo.svg",
         "title": "Helcim Payment Gateway",
-        "version": "1.0.4",
+        "version": "1.0.5",
         "authors": [
             "Virto Commerce",
             "Konstantin Savosteev"

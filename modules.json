@@ -1253,7 +1253,7 @@
     },
     {
         "projectUrl": "",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-derivative-contracts/releases/download/v1.0.4/VirtoCommerce.DerivativeContracts_1.0.4.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-derivative-contracts/releases/download/v1.0.6/VirtoCommerce.DerivativeContracts_1.0.6.zip",
         "platformVersion": "2.13.24",
         "description": "Provide ability to store infor about derivative contracts, such as Forward contracts, Futures or Options.",
         "owners": [
@@ -1262,7 +1262,7 @@
         "id": "VirtoCommerce.DerivativeContracts",
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-derivative-contracts/raw/master/VirtoCommerce.DerivativeContractsModule.Web/Content/logoVC.png",
         "title": "Derivative contracts module",
-        "version": "1.0.4",
+        "version": "1.0.6",
         "authors": [
             "Aleksandr Vishniakov",
             "Egidijus Mazeika",

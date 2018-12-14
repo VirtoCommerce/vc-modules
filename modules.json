@@ -227,11 +227,11 @@
             "Virto Commerce"
         ],
         "title": "Commerce core module",
-        "version": "2.25.17",
+        "version": "2.25.18",
         "dependencies": [
             
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.25.17/VirtoCommerce.Core_2.25.17.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.25.18/VirtoCommerce.Core_2.25.18.zip",
         "platformVersion": "2.13.26",
         "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
         "id": "VirtoCommerce.Core",

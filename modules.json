@@ -778,7 +778,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/integration-with-avalara-tax-service",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/v2.14.0/Avalara.Tax_2.14.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/v2.14.1/Avalara.Tax_2.14.1.zip",
         "platformVersion": "2.12.2",
         "description": "APIs and UI for Avalara tax integration",
         "owners": [
@@ -787,7 +787,7 @@
         "iconUrl": "Modules/$(Avalara.Tax)/Content/400.png",
         "id": "Avalara.Tax",
         "title": "Avalara tax",
-        "version": "2.14.0",
+        "version": "2.14.1",
         "authors": [
             "Virto Commerce"
         ],

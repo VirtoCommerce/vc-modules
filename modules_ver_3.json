@@ -1,0 +1,584 @@
+[
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
+    "description": "Common e-commerce domain functionality",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Commerce core module",
+    "version": "3.0.0",
+    "dependencies": [
+
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240544/VirtoCommerce.Core_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
+    "id": "VirtoCommerce.Core",
+    "authors": [
+      "Eugeny Tatarincev",
+      "Artem Dudarev"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-shoppingcart-module",
+    "description": "Shopping cart / checkout functionality",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Shopping cart module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Store",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Payment",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Shipping",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240541/VirtoCommerce.Cart_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-cart/master/VirtoCommerce.CartModule.Web/Content/logo.png",
+    "id": "VirtoCommerce.Cart",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-catalog-module",
+    "description": "Catalog, categories, products, variations, properties management",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Catalog module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Search",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240542/VirtoCommerce.Catalog_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog/raw/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
+    "id": "VirtoCommerce.Catalog",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-cms-module",
+    "description": "Front-end CMS functionality based on liquid technology",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "CMS Content module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Store",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240543/VirtoCommerce.Content_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "https://github.com/VirtoCommerce/vc-module-content/raw/master/VirtoCommerce.ContentModule.Web/Content/logo.png",
+    "id": "VirtoCommerce.Content",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-customer-module",
+    "description": "Managing customers contacts and organizations",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Customer management module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Search",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240545/VirtoCommerce.Customer_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-customer/master/VirtoCommerce.CustomerModule.Web/Content/logo.png",
+    "id": "VirtoCommerce.Customer",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/image-tools-module",
+    "description": "Image tools helps to automate image transformation procedures such as resizing and cropping",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Image tools module",
+    "version": "3.0.0",
+    "dependencies": [
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240546/VirtoCommerce.ImageTools_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "Modules/$(VirtoCommerce.ImageTools)/Content/logo.png",
+    "id": "VirtoCommerce.ImageTools",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-inventory-module",
+    "description": "Simplify inventory management functionality",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Inventory module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Catalog",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240547/VirtoCommerce.Inventory_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "Modules/$(VirtoCommerce.InventoryModule)/Content/logoVC.png",
+    "id": "VirtoCommerce.Inventory",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/virto-licensing-module",
+    "description": "License management",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Licensing module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240548/VirtoCommerce.Licensing_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "Modules/$(VirtoCommerce.Licensing)/Content/logoVC.png",
+    "id": "VirtoCommerce.Licensing",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-lucene-search-module",
+    "description": "Indexed search functionality with Lucene engine",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Lucene Search module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Search",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240549/VirtoCommerce.LuceneSearch_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/raw/dev/VirtoCommerce.LuceneSearchModule.Web/Content/logo.png",
+    "id": "VirtoCommerce.LuceneSearch",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-marketing-module",
+    "description": "Marketing system with dynamic contents and promotions management",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Marketing module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Store",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240550/VirtoCommerce.Marketing_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-marketing/master/VirtoCommerce.MarketingModule.Web/Content/logo.png",
+    "id": "VirtoCommerce.Marketing",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
+    "description": "description",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Notifications module",
+    "version": "3.0.0",
+    "dependencies": [
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240551/VirtoCommerce.Notifications_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "Modules/$(VirtoCommerce.Notifications)/Content/logoVC.png",
+    "id": "VirtoCommerce.Notifications",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-orders-module",
+    "description": "Document based flexible orders management system",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Orders module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Pricing",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Customer",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Store",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Payment",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Shipping",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Notifications",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240552/VirtoCommerce.Orders_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-order/master/VirtoCommerce.OrderModule.Web/Content/logo.png",
+    "id": "VirtoCommerce.Orders",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-payment-module",
+    "description": "Add payment methods management",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Payment module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Store",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240553/VirtoCommerce.Payment_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "Modules/$(VirtoCommerce.Payment)/Content/logo.png",
+    "id": "VirtoCommerce.Payment",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-pricing-module",
+    "description": "Robust pricing management functionality based on price list and dynamic evaluation",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Pricing module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Catalog",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240554/VirtoCommerce.Pricing_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "https://github.com/VirtoCommerce/vc-module-pricing/raw/master/VirtoCommerce.PricingModule.Web/Content/logo.png",
+    "id": "VirtoCommerce.Pricing",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
+    "description": "Search module",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Search module",
+    "version": "3.0.0",
+    "dependencies": [
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240555/VirtoCommerce.Search_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "Modules/$(VirtoCommerce.Search)/Content/logoVC.png",
+    "id": "VirtoCommerce.Search",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-shipping-module",
+    "description": "Add shipping methods management",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Shipping module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Store",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240556/VirtoCommerce.Shipping_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "Modules/$(VirtoCommerce.Shipping)/Content/logo.png",
+    "id": "VirtoCommerce.Shipping",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/automatic-sitemaps-module",
+    "description": "Sitemaps generation management for stores",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Sitemaps module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Store",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240557/VirtoCommerce.Sitemaps_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/raw/master/VirtoCommerce.SitemapsModule.Web/Content/logo.png",
+    "id": "VirtoCommerce.Sitemaps",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-store-module",
+    "description": "Multi store management with individual store settings",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Store module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Catalog",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Notifications",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240558/VirtoCommerce.Store_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "Modules/$(VirtoCommerce.Store)/Content/logoVC.png",
+    "id": "VirtoCommerce.Store",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/subscriptions-module",
+    "description": "Represent recurrent subscriptions functionality",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Subscription module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Orders",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Store",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Customer",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240559/VirtoCommerce.Subscription_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-subscription/master/VirtoCommerce.SubscriptionModule.Web/Content/logo.png",
+    "id": "VirtoCommerce.Subscription",
+    "authors": [
+      "Virto Commerce"
+    ]
+  },
+  {
+    "projectUrl": "https://virtocommerce.com/apps/extensions/virto-tax-module",
+    "description": "Tax and fees",
+    "groups": [
+      "commerce"
+    ],
+    "owners": [
+      "Virto Commerce"
+    ],
+    "title": "Tax module",
+    "version": "3.0.0",
+    "dependencies": [
+      {
+        "id": "VirtoCommerce.Core",
+        "version": "3.0.0"
+      },
+      {
+        "id": "VirtoCommerce.Store",
+        "version": "3.0.0"
+      }
+    ],
+    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240560/VirtoCommerce.Tax_3.0.0.zip",
+    "platformVersion": "3.0.0",
+    "iconUrl": "Modules/$(VirtoCommerce.Tax)/Content/logo.png",
+    "id": "VirtoCommerce.Tax",
+    "authors": [
+      "Virto Commerce"
+    ]
+  }
+]

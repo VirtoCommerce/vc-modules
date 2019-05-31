@@ -13,7 +13,7 @@
     "dependencies": [
 
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240544/VirtoCommerce.Core_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Core_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
     "id": "VirtoCommerce.Core",
@@ -51,7 +51,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240541/VirtoCommerce.Cart_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Cart_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-cart/master/VirtoCommerce.CartModule.Web/Content/logo.png",
     "id": "VirtoCommerce.Cart",
@@ -80,7 +80,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240542/VirtoCommerce.Catalog_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Catalog_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog/raw/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
     "id": "VirtoCommerce.Catalog",
@@ -109,7 +109,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240543/VirtoCommerce.Content_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Content_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "https://github.com/VirtoCommerce/vc-module-content/raw/master/VirtoCommerce.ContentModule.Web/Content/logo.png",
     "id": "VirtoCommerce.Content",
@@ -138,7 +138,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240545/VirtoCommerce.Customer_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Customer_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-customer/master/VirtoCommerce.CustomerModule.Web/Content/logo.png",
     "id": "VirtoCommerce.Customer",
@@ -159,7 +159,7 @@
     "version": "3.0.0",
     "dependencies": [
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240546/VirtoCommerce.ImageTools_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.ImageTools_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "Modules/$(VirtoCommerce.ImageTools)/Content/logo.png",
     "id": "VirtoCommerce.ImageTools",
@@ -188,7 +188,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240547/VirtoCommerce.Inventory_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Inventory_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "Modules/$(VirtoCommerce.InventoryModule)/Content/logoVC.png",
     "id": "VirtoCommerce.Inventory",
@@ -213,7 +213,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240548/VirtoCommerce.Licensing_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Licensing_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "Modules/$(VirtoCommerce.Licensing)/Content/logoVC.png",
     "id": "VirtoCommerce.Licensing",
@@ -238,7 +238,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240549/VirtoCommerce.LuceneSearch_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.LuceneSearch_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/raw/dev/VirtoCommerce.LuceneSearchModule.Web/Content/logo.png",
     "id": "VirtoCommerce.LuceneSearch",
@@ -267,7 +267,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240550/VirtoCommerce.Marketing_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Marketing_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-marketing/master/VirtoCommerce.MarketingModule.Web/Content/logo.png",
     "id": "VirtoCommerce.Marketing",
@@ -288,7 +288,7 @@
     "version": "3.0.0",
     "dependencies": [
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240551/VirtoCommerce.Notifications_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Notifications_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "Modules/$(VirtoCommerce.Notifications)/Content/logoVC.png",
     "id": "VirtoCommerce.Notifications",
@@ -337,7 +337,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240552/VirtoCommerce.Orders_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Orders_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-order/master/VirtoCommerce.OrderModule.Web/Content/logo.png",
     "id": "VirtoCommerce.Orders",
@@ -366,7 +366,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240553/VirtoCommerce.Payment_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Payment_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "Modules/$(VirtoCommerce.Payment)/Content/logo.png",
     "id": "VirtoCommerce.Payment",
@@ -395,7 +395,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240554/VirtoCommerce.Pricing_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Pricing_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "https://github.com/VirtoCommerce/vc-module-pricing/raw/master/VirtoCommerce.PricingModule.Web/Content/logo.png",
     "id": "VirtoCommerce.Pricing",
@@ -416,7 +416,7 @@
     "version": "3.0.0",
     "dependencies": [
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240555/VirtoCommerce.Search_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Search_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "Modules/$(VirtoCommerce.Search)/Content/logoVC.png",
     "id": "VirtoCommerce.Search",
@@ -445,7 +445,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240556/VirtoCommerce.Shipping_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Shipping_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "Modules/$(VirtoCommerce.Shipping)/Content/logo.png",
     "id": "VirtoCommerce.Shipping",
@@ -474,7 +474,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240557/VirtoCommerce.Sitemaps_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Sitemaps_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/raw/master/VirtoCommerce.SitemapsModule.Web/Content/logo.png",
     "id": "VirtoCommerce.Sitemaps",
@@ -507,7 +507,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240558/VirtoCommerce.Store_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Store_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "Modules/$(VirtoCommerce.Store)/Content/logoVC.png",
     "id": "VirtoCommerce.Store",
@@ -544,7 +544,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240559/VirtoCommerce.Subscription_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Subscription_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-subscription/master/VirtoCommerce.SubscriptionModule.Web/Content/logo.png",
     "id": "VirtoCommerce.Subscription",
@@ -573,7 +573,7 @@
         "version": "3.0.0"
       }
     ],
-    "packageUrl": "https://github.com/VirtoCommerce/vc-platform-core/files/3240560/VirtoCommerce.Tax_3.0.0.zip",
+    "packageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Tax_3.0.0.zip",
     "platformVersion": "3.0.0",
     "iconUrl": "Modules/$(VirtoCommerce.Tax)/Content/logo.png",
     "id": "VirtoCommerce.Tax",

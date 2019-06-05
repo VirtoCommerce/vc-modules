@@ -1274,5 +1274,28 @@
                 "version": "2.24.30"
             }
         ]
+    },
+    {
+        "id": "VirtoCommerce.Licensing",
+        "title": "Licensing module",
+        "version": "1.0.0",
+        "platformVersion": "2.12.9",
+        "authors": [
+            "Egidijus Ma\u017eeika",
+            "Artem Dudarev"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "description": "License management",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.19.5"
+            }
+        ],
+        "projectUrl": "https://virtocommerce.com/virto-licensing-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-licensing/releases/download/v1.0.0/VirtoCommerce.Licensing_1.0.0.zip",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-licensing/raw/master/VirtoCommerce.LicensingModule.Web/Content/logo.png"
     }
 ]

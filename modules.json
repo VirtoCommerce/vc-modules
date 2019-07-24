@@ -227,11 +227,11 @@
             "Virto Commerce"
         ],
         "title": "Commerce core module",
-        "version": "2.25.22",
+        "version": "2.25.24",
         "dependencies": [
             
         ],
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.25.22/VirtoCommerce.Core_2.25.22.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/v2.25.24/VirtoCommerce.Core_2.25.24.zip",
         "platformVersion": "2.13.42",
         "iconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
         "id": "VirtoCommerce.Core",
@@ -242,7 +242,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-catalog-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.23.18/VirtoCommerce.Catalog_2.23.18.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.23.20/VirtoCommerce.Catalog_2.23.20.zip",
         "platformVersion": "2.13.42",
         "description": "Catalog, categories, products, variations, properties management",
         "groups": [
@@ -254,14 +254,14 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog/raw/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Catalog",
         "title": "Catalog module",
-        "version": "2.23.18",
+        "version": "2.23.20",
         "authors": [
             "Virto Commerce"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.25.21"
+                "version": "2.25.24"
             }
         ]
     },
@@ -294,7 +294,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-shoppingcart-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.16.16/VirtoCommerce.Cart_2.16.16.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/v2.17.0/VirtoCommerce.Cart_2.17.0.zip",
         "platformVersion": "2.13.24",
         "description": "Shopping cart / checkout functionality",
         "groups": [
@@ -306,7 +306,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-cart/master/VirtoCommerce.CartModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Cart",
         "title": "Shopping cart module",
-        "version": "2.16.16",
+        "version": "2.17.0",
         "authors": [
             "Virto Commerce"
         ],
@@ -352,8 +352,8 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-orders-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.17.23/VirtoCommerce.Orders_2.17.23.zip",
-        "platformVersion": "2.13.24",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/v2.17.24/VirtoCommerce.Orders_2.17.24.zip",
+        "platformVersion": "2.13.42",
         "description": "Document based flexible orders management system",
         "groups": [
             "commerce"
@@ -364,14 +364,14 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-order/master/VirtoCommerce.OrderModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Orders",
         "title": "Order module",
-        "version": "2.17.23",
+        "version": "2.17.24",
         "authors": [
             "Virto Commerce"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.25.19"
+                "version": "2.25.24"
             },
             {
                 "id": "VirtoCommerce.Catalog",
@@ -393,7 +393,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-pricing-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.18.6/VirtoCommerce.Pricing_2.18.6.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/v2.18.7/VirtoCommerce.Pricing_2.18.7.zip",
         "platformVersion": "2.13.9",
         "description": "Robust pricing management functionality based on price list and dynamic evaluation",
         "groups": [
@@ -405,7 +405,7 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-pricing/raw/master/VirtoCommerce.PricingModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Pricing",
         "title": "Pricing module",
-        "version": "2.18.6",
+        "version": "2.18.7",
         "authors": [
             "Eugeney Tatarincev"
         ],
@@ -422,7 +422,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-inventory-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.13.3/VirtoCommerce.Inventory_2.13.3.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.13.5/VirtoCommerce.Inventory_2.13.5.zip",
         "platformVersion": "2.13.26",
         "description": "Simplify inventory management functionality",
         "groups": [
@@ -434,7 +434,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-inventory/master/VirtoCommerce.InventoryModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Inventory",
         "title": "Inventory module",
-        "version": "2.13.3",
+        "version": "2.13.5",
         "authors": [
             "Virto Commerce"
         ],
@@ -451,7 +451,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-marketing-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.17.5/VirtoCommerce.Marketing_2.17.5.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/v2.17.6/VirtoCommerce.Marketing_2.17.6.zip",
         "platformVersion": "2.13.30",
         "description": "Marketing system with dynamic contents and promotions management",
         "groups": [
@@ -463,7 +463,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-marketing/master/VirtoCommerce.MarketingModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Marketing",
         "title": "Marketing module",
-        "version": "2.17.5",
+        "version": "2.17.6",
         "authors": [
             "Eugeney Tatarincev"
         ],
@@ -1272,6 +1272,29 @@
             {
                 "id": "VirtoCommerce.Core",
                 "version": "2.24.30"
+            }
+        ]
+    },
+    {
+        "projectUrl": "https://virtocommerce.com/virto-licensing-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-licensing/releases/download/v1.0.0/VirtoCommerce.Licensing_1.0.0.zip",
+        "platformVersion": "2.12.9",
+        "description": "License management",
+        "owners": [
+            "Virto Commerce"
+        ],
+        "id": "VirtoCommerce.Licensing",
+        "iconUrl": "https://github.com/VirtoCommerce/vc-module-licensing/raw/master/VirtoCommerce.LicensingModule.Web/Content/logo.png",
+        "title": "Licensing module",
+        "version": "1.0.0",
+        "authors": [
+            "Egidijus Ma\u017eeika",
+            "Artem Dudarev"
+        ],
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.19.5"
             }
         ]
     }

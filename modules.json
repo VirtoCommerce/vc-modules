@@ -31,7 +31,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/subscriptions-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/v1.1.9/VirtoCommerce.Subscription_1.1.9.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/v1.1.10/VirtoCommerce.Subscription_1.1.10.zip",
         "platformVersion": "2.13.26",
         "description": "Represent recurrent orders functionality",
         "groups": [
@@ -43,7 +43,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-subscription/master/VirtoCommerce.SubscriptionModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Subscription",
         "title": "Subscription module",
-        "version": "1.1.9",
+        "version": "1.1.10",
         "authors": [
             "Egidijus Ma\u017eeika",
             "Eugeney Tatarincev"

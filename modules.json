@@ -894,7 +894,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/catalog-publishing",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/v1.1.4/VirtoCommerce.CatalogPublishing_1.1.4.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/v1.1.5/VirtoCommerce.CatalogPublishing_1.1.5.zip",
         "platformVersion": "2.13.26",
         "description": "Allow you to see progress on filling in information about products and marks missed info.",
         "groups": [
@@ -906,7 +906,7 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/raw/master/VirtoCommerce.CatalogPublishingModule.Web/Content/logo.png",
         "id": "VirtoCommerce.CatalogPublishing",
         "title": "Catalog publishing module",
-        "version": "1.1.4",
+        "version": "1.1.5",
         "authors": [
             "Alexey Antonov",
             "Andrew Orlov",

@@ -1172,8 +1172,8 @@
     },
     {
         "projectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/v1.0.3/VirtoCommerce.CatalogPersonalization_1.0.3.zip",
-        "platformVersion": "2.13.9",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/v1.1.0/VirtoCommerce.CatalogPersonalization_1.1.0.zip",
+        "platformVersion": "2.13.40",
         "description": "Personalization feature for the products and categories.",
         "groups": [
             "commerce"
@@ -1184,7 +1184,7 @@
         "id": "VirtoCommerce.CatalogPersonalization",
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/raw/dev/VirtoCommerce.CatalogPersonalizationModule.Web/Content/logo.png",
         "title": "Catalog personalization module",
-        "version": "1.0.3",
+        "version": "1.1.0",
         "authors": [
             "Eugeney Tarincev",
             "Artyom Androsov",
@@ -1201,7 +1201,7 @@
             },
             {
                 "id": "VirtoCommerce.Catalog",
-                "version": "2.20.1"
+                "version": "2.23.21"
             }
         ]
     },

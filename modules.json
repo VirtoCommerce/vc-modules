@@ -1303,6 +1303,9 @@
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-export/releases/download/v2.0.1/VirtoCommerce.Export_2.0.1.zip",
         "platformVersion": "2.13.44",
         "description": "Generic export functionality",
+        "groups": [
+            "commerce"
+        ],
         "owners": [
             "Virto Commerce"
         ],

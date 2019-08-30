@@ -1300,8 +1300,8 @@
     },
     {
         "projectUrl": "",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-export/releases/download/v2.0.1/VirtoCommerce.Export_2.0.1.zip",
-        "platformVersion": "2.13.44",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-export/releases/download/v2.1.0/VirtoCommerce.Export_2.1.0.zip",
+        "platformVersion": "2.13.39",
         "description": "Generic export functionality",
         "groups": [
             "commerce"
@@ -1312,12 +1312,15 @@
         "id": "VirtoCommerce.Export",
         "iconUrl": "",
         "title": "Export module",
-        "version": "2.0.1",
+        "version": "2.1.0",
         "authors": [
             "Virto Commerce"
         ],
         "dependencies": [
-            
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.25.19"
+            }
         ]
     }
 ]

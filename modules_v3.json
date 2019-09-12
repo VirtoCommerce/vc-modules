@@ -571,11 +571,7 @@
           {
             "id": "VirtoCommerce.Core",
             "version": "3.0.0"
-          },
-          {
-            "id": "VirtoCommerce.Catalog",
-            "version": "3.0.0"
-          },
+          },         
           {
             "id": "VirtoCommerce.Notifications",
             "version": "3.0.0"

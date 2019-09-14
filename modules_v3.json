@@ -23,17 +23,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Core_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
@@ -64,17 +54,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Cart_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -122,17 +102,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Catalog_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -172,17 +142,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Content_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -222,17 +182,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Customer_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -272,17 +222,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.ImageTools_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
@@ -313,18 +253,26 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Inventory_3.0.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": null
+      },
+      {
+        "Version": "3.0.0",
+        "VersionTag": "beta.2",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Inventory_3.0.0-beta.2.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -363,17 +311,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Licensing_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -409,17 +347,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.LuceneSearch_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -455,17 +383,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Marketing_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -505,17 +423,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Notifications_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
@@ -546,17 +454,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Orders_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -616,17 +514,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Payment_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -666,17 +554,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Pricing_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -716,17 +594,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Search_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
@@ -757,17 +625,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Shipping_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -807,17 +665,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Sitemaps_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -857,17 +705,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Store_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -907,17 +745,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Subscription_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
@@ -965,17 +793,7 @@
       {
         "Version": "3.0.0",
         "VersionTag": null,
-        "SemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PlatformVersion": "3.0.0",
-        "PlatformSemanticVersion": {
-          "Major": 3,
-          "Minor": 0,
-          "Patch": 0
-        },
         "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Tax_3.0.0.zip",
         "Incompatibilities": null,
         "Dependencies": [

@@ -318,5 +318,45 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Customer",
+    "Title": "Customer management module",
+    "Description": "Managing customers contacts and organizations",
+    "Authors": [
+      "Virto Commerce",
+      "Artem Dudarev",
+      "Egidijus Mažeika"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-customer-module",
+    "IconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-customer/master/VirtoCommerce.CustomerModule.Web/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Tags": "customer",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "beta.1",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Customer_3.0.0-beta.1.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

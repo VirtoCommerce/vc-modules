@@ -66,5 +66,35 @@
         "ReleaseNotes": ""
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Notifications",
+    "Title": "Notifications module",
+    "Description": "description",
+    "Authors": [
+      "Eugeny Tatarincev",
+      "Andrei Kostyrin"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-module-notification",
+    "IconUrl": "Modules/$(VirtoCommerce.Notifications)/Content/logoVC.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Tags": "notifications",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "beta.1",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Notifications_3.0.0-beta.1.zip",
+        "Incompatibilities": null,
+        "Dependencies": null,
+        "ReleaseNotes": ""
+      }
+    ]
   }
 ]

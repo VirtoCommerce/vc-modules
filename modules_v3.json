@@ -748,5 +748,59 @@
         "ReleaseNotes": ""
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Sitemaps",
+    "Title": "Sitemaps module",
+    "Description": "Sitemaps generation management for stores",
+    "Authors": [
+      "Andrey Orlov"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/automatic-sitemaps-module",
+    "IconUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/raw/master/VirtoCommerce.SitemapsModule.Web/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Tags": "sitemaps",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "beta.1",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Sitemaps_3.0.0-beta.1.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Content",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

@@ -1,3 +1,32 @@
 [
- 
+  {
+    "Id": "VirtoCommerce.Core",
+    "Title": "Commerce core module",
+    "Description": "Common e-commerce domain functionality",
+    "Authors": [
+      "Eugeny Tatarincev",
+      "Artem Dudarev"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
+    "IconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Tags": "security core",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "beta.2",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Core_3.0.0-beta.2.zip",
+        "Incompatibilities": [],
+        "Dependencies": null,
+        "ReleaseNotes": ""
+      }
+    ]
+  }
 ]

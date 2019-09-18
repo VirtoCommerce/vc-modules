@@ -28,5 +28,43 @@
         "ReleaseNotes": ""
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Store",
+    "Title": "Store module",
+    "Description": "Multi store management with individual store settings",
+    "Authors": [
+      "Virto Commerce"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-store-module",
+    "IconUrl": "https://github.com/VirtoCommerce/vc-module-store/raw/master/VirtoCommerce.StoreModule.Web/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Tags": "stores",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "beta.1",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Store_3.0.0-beta.1.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Notifications",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": ""
+      }
+    ]
   }
 ]

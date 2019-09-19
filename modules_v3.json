@@ -640,5 +640,36 @@
         "ReleaseNotes": null
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Search",
+    "Title": "Search module",
+    "Description": "Search module",
+    "Authors": [
+      "Eugeny Tatarincev"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
+    "IconUrl": "Modules/$(VirtoCommerce.Search)/Content/logoVC.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Tags": "security core",
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "beta.1",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Search_3.0.0-beta.1.zip",
+        "Incompatibilities": [],
+        "Dependencies": null,
+        "ReleaseNotes": ""
+      }
+    ]
   }
 ]

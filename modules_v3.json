@@ -162,5 +162,45 @@
         "ReleaseNotes": "Third version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Content",
+    "Title": "CMS Content module",
+    "Description": "Front-end CMS functionality based on liquid technology",
+    "Authors": [
+      "Virto Commerce"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-cms-module",
+    "IconUrl": "https://github.com/VirtoCommerce/vc-module-content/raw/master/VirtoCommerce.ContentModule.Web/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Tags": "cms menu",
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "beta.1",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Content_3.0.0-beta.1.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

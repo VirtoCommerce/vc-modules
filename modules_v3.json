@@ -244,5 +244,41 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.ElasticSearch",
+    "Title": "Elastic Search module",
+    "Description": "Indexed search functionality with Elastic engine",
+    "Authors": [
+      "Artem Dudarev"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search",
+    "IconUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search/raw/master/VirtoCommerce.ElasticSearchModule.Web/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2019 Virto Commerce. All rights reserved",
+    "Tags": "elastic search",
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "beta.1",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.ElasticSearch_3.0.0-beta.1.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "Third version."
+      }
+    ]
   }
 ]

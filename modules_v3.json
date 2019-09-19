@@ -384,5 +384,41 @@
         "ReleaseNotes": null
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.LuceneSearch",
+    "Title": "Lucene Search module",
+    "Description": "Indexed search functionality with Lucene engine",
+    "Authors": [
+      "Artem Dudarev"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-lucene-search-module",
+    "IconUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/raw/dev/VirtoCommerce.LuceneSearchModule.Web/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2019 Virto Commerce. All rights reserved",
+    "Tags": "lucene search",
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "beta.1",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.LuceneSearch_3.0.0-beta.1.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "Third version."
+      }
+    ]
   }
 ]

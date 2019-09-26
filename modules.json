@@ -1308,7 +1308,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-export-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-export/releases/download/v2.2.1/VirtoCommerce.Export_2.2.1.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-export/releases/download/v2.2.2/VirtoCommerce.Export_2.2.2.zip",
         "platformVersion": "2.13.42",
         "description": "Generic export functionality",
         "groups": [
@@ -1320,7 +1320,7 @@
         "id": "VirtoCommerce.Export",
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-export/raw/master/VirtoCommerce.ExportModule.Web/Content/logo.png",
         "title": "Export module",
-        "version": "2.2.1",
+        "version": "2.2.2",
         "authors": [
             "Eugeny Tatarincev",
             "Maya Al-Samarrai",

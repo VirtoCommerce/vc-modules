@@ -24,7 +24,7 @@
         "Version": "3.0.0",
         "VersionTag": "rc.1",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": null,
+        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Core_3.0.0-rc.1.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

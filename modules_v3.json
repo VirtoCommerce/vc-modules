@@ -24,7 +24,7 @@
         "Version": "3.0.0",
         "VersionTag": "rc.1",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Core_3.0.0-rc.1.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/3.0.0-rc.1/VirtoCommerce.Core_3.0.0-rc.1.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""
@@ -55,7 +55,7 @@
         "Version": "3.0.0",
         "VersionTag": "rc.1",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.AzureSearch_3.0.0-rc.1.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-azure-search/releases/download/3.0.0-rc.1/VirtoCommerce.AzureSearch_3.0.0-rc.1.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -665,7 +665,7 @@
         "Version": "3.0.0",
         "VersionTag": "rc.1",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Search_3.0.0-rc.1.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.0.0-rc.1/VirtoCommerce.Search_3.0.0-rc.1.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

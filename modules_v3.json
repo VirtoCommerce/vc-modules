@@ -367,9 +367,9 @@
     "Versions": [
       {
         "Version": "3.0.0",
-        "VersionTag": "beta.2",
+        "VersionTag": "rc.1",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Inventory_3.0.0-beta.2.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/3.0.0-rc.1/VirtoCommerce.Inventory_3.0.0-rc.1.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

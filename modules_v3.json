@@ -831,9 +831,9 @@
     "Versions": [
       {
         "Version": "3.0.0",
-        "VersionTag": "beta.1",
+        "VersionTag": "rc.1",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Subscription_3.0.0-beta.1.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/3.0.0-rc.1/VirtoCommerce.Subscription_3.0.0-rc.1.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

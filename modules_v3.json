@@ -22,9 +22,9 @@
     "Versions": [
       {
         "Version": "3.0.0",
-        "VersionTag": "beta.2",
+        "VersionTag": "rc.1",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://virtocommerce.blob.core.windows.net/modules3/VirtoCommerce.Core_3.0.0-beta.2.zip",
+        "PackageUrl": null,
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

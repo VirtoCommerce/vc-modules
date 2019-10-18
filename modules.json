@@ -242,7 +242,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-catalog-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.23.24/VirtoCommerce.Catalog_2.23.24.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/v2.23.25/VirtoCommerce.Catalog_2.23.25.zip",
         "platformVersion": "2.13.42",
         "description": "Catalog, categories, products, variations, properties management",
         "groups": [
@@ -254,7 +254,7 @@
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-catalog/raw/master/VirtoCommerce.CatalogModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Catalog",
         "title": "Catalog module",
-        "version": "2.23.24",
+        "version": "2.23.25",
         "authors": [
             "Virto Commerce"
         ],
@@ -1385,22 +1385,22 @@
         ]
     },
     {
-        "id": "VirtoCommerce.PageBuilderModule",
-        "title": "CMS Page Builder",
-        "version": "1.0.0",
+        "projectUrl": "",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/v1.0.0/VirtoCommerce.PageBuilderModule_1.0.0.zip",
         "platformVersion": "2.13.9",
-        "authors": [
-            "VirtoCommerce"
-        ],
+        "description": "Enter your module description here.",
         "owners": [
             
         ],
-        "description": "Enter your module description here.",
+        "id": "VirtoCommerce.PageBuilderModule",
+        "iconUrl": "",
+        "title": "CMS Page Builder",
+        "version": "1.0.0",
+        "authors": [
+            "VirtoCommerce"
+        ],
         "dependencies": [
             
-        ],
-        "projectUrl": "",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/v1.0.0/VirtoCommerce.PageBuilderModule_1.0.0.zip",
-        "iconUrl": ""
+        ]
     }
 ]

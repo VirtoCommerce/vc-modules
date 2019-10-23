@@ -981,8 +981,8 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-elasticsearch-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search/releases/download/v1.1.2/VirtoCommerce.Elasticsearch_1.1.2.zip",
-        "platformVersion": "2.13.9",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search/releases/download/v1.2.1/VirtoCommerce.Elasticsearch_1.2.1.zip",
+        "platformVersion": "2.13.24",
         "description": "Indexed search functionality with Elasticsearch engine",
         "owners": [
             "Virto Commerce"
@@ -990,14 +990,14 @@
         "id": "VirtoCommerce.Elasticsearch",
         "iconUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search/raw/dev/VirtoCommerce.ElasticSearchModule.Web/Content/logo.png",
         "title": "Elasticsearch module",
-        "version": "1.1.2",
+        "version": "1.2.1",
         "authors": [
             "Artem Dudarev"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.23.0"
+                "version": "2.24.22"
             }
         ]
     },

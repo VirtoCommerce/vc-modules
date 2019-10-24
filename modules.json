@@ -105,22 +105,22 @@
         ]
     },
     {
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart/releases/download/v1.0/VirtoCommerce.JavaScriptShoppingCart_1.0.0.zip",
-        "platformVersion": "2.12.0",
-        "description": "JavaScript shopping cart",
+        "projectUrl": "https://virtocommerce.com/apps/extensions/javascriptshoppingcart-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart/releases/download/v1.1.0/VirtoCommerce.JavaScriptShoppingCart_1.1.0.zip",
+        "platformVersion": "2.13.24",
+        "description": "JavaScriptShoppingCart",
         "groups": [
             
         ],
         "owners": [
             "Virto Commerce"
         ],
-        "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-javascript-shoppingcart/master/VirtoCommerce.JavaScriptShoppingCart.Web/Content/logo.png",
+        "iconUrl": "Modules/$(VirtoCommerce.JavaScriptShoppingCart)/Content/logo.png",
         "id": "VirtoCommerce.JavaScriptShoppingCart",
-        "title": "JavaScript shopping cart",
-        "version": "1.0.0",
+        "title": "JavaScriptShoppingCart module",
+        "version": "1.1.0",
         "authors": [
-            "Vitalii Efremov"
+            "Virto Commerce"
         ],
         "dependencies": [
             {

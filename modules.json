@@ -1386,7 +1386,7 @@
     },
     {
         "projectUrl": "",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/v1.0.2/VirtoCommerce.PageBuilderModule_1.0.2.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/v1.0.3/VirtoCommerce.PageBuilderModule_1.0.3.zip",
         "platformVersion": "2.13.20",
         "description": "Enter your module description here.",
         "owners": [
@@ -1395,7 +1395,7 @@
         "id": "VirtoCommerce.PageBuilderModule",
         "iconUrl": "",
         "title": "CMS Page Builder",
-        "version": "1.0.2",
+        "version": "1.0.3",
         "authors": [
             "VirtoCommerce"
         ],

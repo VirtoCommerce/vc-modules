@@ -106,7 +106,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/javascriptshoppingcart-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart/releases/download/v1.1.0/VirtoCommerce.JavaScriptShoppingCart_1.1.0.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-javascript-shoppingcart/releases/download/v1.1.2/VirtoCommerce.JavaScriptShoppingCart_1.1.2.zip",
         "platformVersion": "2.13.24",
         "description": "JavaScriptShoppingCart",
         "groups": [
@@ -118,7 +118,7 @@
         "iconUrl": "Modules/$(VirtoCommerce.JavaScriptShoppingCart)/Content/logo.png",
         "id": "VirtoCommerce.JavaScriptShoppingCart",
         "title": "JavaScriptShoppingCart module",
-        "version": "1.1.0",
+        "version": "1.1.2",
         "authors": [
             "Virto Commerce"
         ],

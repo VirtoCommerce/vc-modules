@@ -1419,5 +1419,29 @@
                 "version": "2.13.24"
             }
         ]
+    },
+    {
+        "id": "VirtoCommerce.WebHooksModule",
+        "title": "Webhooks",
+        "version": "0.1.2",
+        "platformVersion": "2.13.52",
+        "authors": [
+            "Eugeny Tatarincev",
+            "Andrey Kozlov",
+            "Aleksandr Andreev"
+        ],
+        "owners": [
+            "Virto Commerce"
+        ],
+        "description": "Manage user defined webhooks",
+        "dependencies": [
+            {
+                "id": "VirtoCommerce.Core",
+                "version": "2.25.29"
+            }
+        ],
+        "projectUrl": "",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-webhooks/releases/download/v0.1.2/VirtoCommerce.WebHooksModule_0.1.2.zip",
+        "iconUrl": ""
     }
 ]

@@ -627,8 +627,8 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/authorizenet-dpm-payment-gateway",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/v2.13.1/Authorize.Net_2.13.1.zip",
-        "platformVersion": "2.13.24",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/v2.13.2/Authorize.Net_2.13.2.zip",
+        "platformVersion": "2.13.53",
         "description": "APIs and UI for Authorize.Net Direct Post Method (DPM) payment gateway",
         "groups": [
             "payments"
@@ -639,14 +639,14 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-Authorize.Net/master/Authorize.Net/Content/Authorizenet_logo.png",
         "id": "Authorize.Net",
         "title": "Authorize.Net DPM payment gateway",
-        "version": "2.13.1",
+        "version": "2.13.2",
         "authors": [
             "Virto Commerce"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.17.0"
+                "version": "2.25.31"
             }
         ]
     },

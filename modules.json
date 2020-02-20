@@ -430,7 +430,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-inventory-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.13.8/VirtoCommerce.Inventory_2.13.8.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/v2.13.9/VirtoCommerce.Inventory_2.13.9.zip",
         "platformVersion": "2.13.26",
         "description": "Simplify inventory management functionality",
         "groups": [
@@ -442,7 +442,7 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-inventory/master/VirtoCommerce.InventoryModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Inventory",
         "title": "Inventory module",
-        "version": "2.13.8",
+        "version": "2.13.9",
         "authors": [
             "Virto Commerce"
         ],

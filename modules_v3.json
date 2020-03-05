@@ -447,9 +447,9 @@
     "Versions": [
       {
         "Version": "3.0.0",
-        "VersionTag": "rc.3",
+        "VersionTag": "rc.4",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.0.0-rc.3/VirtoCommerce.Marketing_3.0.0-rc.3.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.0.0-rc.4/VirtoCommerce.Marketing_3.0.0-rc.4.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

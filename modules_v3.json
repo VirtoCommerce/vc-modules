@@ -1078,5 +1078,46 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.CatalogPublishing",
+    "Title": "Catalog publishing module",
+    "Description": "Allow you to see progress on filling in information about products and marks missed info.",
+    "Authors": [
+      "Alexey Antonov",
+      "Andrew Orlov",
+      "Aleksandr Vishnyakov",
+      "Artem Dudarev"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/catalog-publishing",
+    "IconUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/raw/master/VirtoCommerce.CatalogPublishingModule.Web/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2020 Virto Commerce. All rights reserved",
+    "Tags": "publishing filling",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "rc.4",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/3.0.0-rc.4/VirtoCommerce.CatalogPublishing_3.0.0-rc.4.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Pricing",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "Initial implementation of module features."
+      }
+    ]
   }
 ]

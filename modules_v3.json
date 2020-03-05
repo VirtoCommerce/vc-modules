@@ -900,5 +900,43 @@
         "ReleaseNotes": ""
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.CustomerReviews",
+    "Title": "Customer Reviews",
+    "Description": "Customer reviews and product rating",
+    "Authors": [
+      "Egidijus Mazeika",
+      "Andrew Nikutin",
+      "Evgeny Gusev"
+    ],
+    "Owners": null,
+    "LicenseUrl": null,
+    "ProjectUrl": null,
+    "IconUrl": null,
+    "RequireLicenseAcceptance": false,
+    "Copyright": null,
+    "Tags": null,
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "rc.4",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.0.0-rc.4/VirtoCommerce.CustomerReviews_3.0.0-rc.4.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": null
+      }
+    ]
   }
 ]

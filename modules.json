@@ -1402,6 +1402,9 @@
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/v1.0.18/VirtoCommerce.PageBuilderModule_1.0.18.zip",
         "platformVersion": "2.13.20",
         "description": "Compose pages in visual page builder.",
+        "groups": [
+            "commerce"
+        ],
         "owners": [
             "Virto Commerce"
         ],

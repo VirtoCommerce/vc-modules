@@ -89,9 +89,9 @@
     "Versions": [
       {
         "Version": "3.0.0",
-        "VersionTag": "rc.5-001",
+        "VersionTag": "rc.4",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/3.0.0-rc.5-001.build0044/VirtoCommerce.Cart_3.0.0-rc.5-001.build0044.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/3.0.0-rc.4/VirtoCommerce.Cart_3.0.0-rc.4.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

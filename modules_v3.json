@@ -1119,5 +1119,43 @@
         "ReleaseNotes": "Initial implementation of module features."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.PageBuilderModule",
+    "Title": "CMS Page Builder",
+    "Description": "Compose pages in visual page builder.",
+    "Authors": [
+      "Virto Commerce"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": null,
+    "IconUrl": null,
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Tags": "cms content pagebuilder",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "rc.4",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.0.0-rc.4.build0043/VirtoCommerce.PageBuilderModule_3.0.0-rc.4.build0043.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Content",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": null
+      }
+    ]
   }
 ]

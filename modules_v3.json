@@ -519,9 +519,9 @@
     "Versions": [
       {
         "Version": "3.0.0",
-        "VersionTag": "rc.5-001",
+        "VersionTag": "rc.4",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.0.0-rc.5-001.build0070/VirtoCommerce.Orders_3.0.0-rc.5-001.build0070.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.0.0-rc.4/VirtoCommerce.Orders_3.0.0-rc.4.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

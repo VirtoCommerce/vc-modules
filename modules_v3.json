@@ -488,9 +488,9 @@
     "Versions": [
       {
         "Version": "3.0.0",
-        "VersionTag": "rc.5-003",
+        "VersionTag": "rc.5",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.0.0-rc.5-003.build0031/VirtoCommerce.Notifications_3.0.0-rc.5-003.build0031.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.0.0-rc.5/VirtoCommerce.Notifications_3.0.0-rc.5.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": ""

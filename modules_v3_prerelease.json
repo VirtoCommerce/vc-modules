@@ -1427,6 +1427,40 @@
     "Groups": null,
     "Versions": [
       {
+        "Version": "3.0.1",
+        "VersionTag": "",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.0.0-build.14.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Inventory",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Shipping",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Tax",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
         "Version": "3.0.0",
         "VersionTag": "rc.5",
         "PlatformVersion": "3.0.0",

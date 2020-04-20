@@ -22,9 +22,9 @@
     "Versions": [
       {
         "Version": "3.0.0",
-        "VersionTag": "rc.4",
+        "VersionTag": "rc.5",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.0.0-build.1.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.0.0-build.3.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

@@ -1106,9 +1106,9 @@
     "Versions": [
       {
         "Version": "3.0.0",
-        "VersionTag": "rc.4",
+        "VersionTag": "rc.5",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/3.0.0-rc.4/VirtoCommerce.CatalogPublishing_3.0.0-rc.4.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.0.0-build.5.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

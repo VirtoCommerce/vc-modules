@@ -1377,6 +1377,28 @@
     "Groups": null,
     "Versions": [
       {
+        "Version": "3.0.1",
+        "VersionTag": "",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/3.0.1/VirtoCommerce.AuthorizeNet_3.0.1.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Payment",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
         "Version": "3.0.0",
         "VersionTag": "rc.5",
         "PlatformVersion": "3.0.0",

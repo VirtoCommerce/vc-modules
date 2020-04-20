@@ -447,9 +447,9 @@
     "Versions": [
       {
         "Version": "3.0.0",
-        "VersionTag": "rc.4",
+        "VersionTag": "rc.5",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.0.0-rc.4/VirtoCommerce.Marketing_3.0.0-rc.4.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.0.0-build.40.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -458,6 +458,10 @@
           },
           {
             "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Orders",
             "Version": "3.0.0"
           }
         ],

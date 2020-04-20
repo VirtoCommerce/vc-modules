@@ -959,9 +959,9 @@
     "Versions": [
       {
         "Version": "3.0.0",
-        "VersionTag": "rc.4",
+        "VersionTag": "rc.5",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/3.0.0-rc.4/VirtoCommerce.AuthorizeNet_3.0.0-rc.4.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNet_3.0.0-build.3.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

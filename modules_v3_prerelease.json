@@ -193,10 +193,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.0.1",
+        "Version": "3.0.2",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.0.0-build.73.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.0.0-build.78.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -205,7 +205,7 @@
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.0.0"
+            "Version": "3.0.2"
           },
           {
             "Id": "VirtoCommerce.Export",

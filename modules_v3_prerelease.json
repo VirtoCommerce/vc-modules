@@ -1150,10 +1150,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.0.1",
+        "Version": "3.0.2",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.0.0-build.14.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.0.0-build.15.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

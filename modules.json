@@ -523,10 +523,10 @@
         ]
     },
     {
-        "projectUrl": "https://github.com/VirtoCommerce/vc-module-quote",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.12/VirtoCommerce.Quote_2.12.0.zip",
-        "platformVersion": "2.12.0",
-        "description": "Quote enables business users to execute quote requests online. Once initiated, an online conversation takes place with internal users who interact with the business user's request. The internal user can set prices for quantity breaks or discounts. The quote is then made available to the business user online. The business user can accept the quote and place the order, continue the conversation, or reject the quote.",
+        "projectUrl": "https://virtocommerce.com/apps/extensions/quote-module",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/v2.13.0/VirtoCommerce.Quote_2.13.0.zip",
+        "platformVersion": "2.13.42",
+        "description": "Quoter enables business users to execute quote requests online. Once initiated, an online conversation takes place with internal users who interact with the business user's request. The internal user can set prices for quantity breaks or discounts. The quote is then made available to the business user online. The business user can accept the quote and place the order, continue the conversation, or reject the quote.",
         "groups": [
             "commerce"
         ],
@@ -536,14 +536,15 @@
         "iconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-quote/master/VirtoCommerce.QuoteModule.Web/Content/logo.png",
         "id": "VirtoCommerce.Quote",
         "title": "Quote module",
-        "version": "2.12.0",
+        "version": "2.13.0",
         "authors": [
-            "Virto Commerce"
+            "Virto Commerce",
+            "Egidijus Ma\u017eeika"
         ],
         "dependencies": [
             {
                 "id": "VirtoCommerce.Core",
-                "version": "2.17.0"
+                "version": "2.25.29"
             }
         ]
     },

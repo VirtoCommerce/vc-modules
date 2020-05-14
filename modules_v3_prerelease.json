@@ -1754,5 +1754,55 @@
         "ReleaseNotes": null
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Quote",
+    "Title": "Quote module",
+    "Description": "Quoter enables business users to execute quote requests online. Once initiated, an online conversation takes place with internal users who interact with the business user's request. The internal user can set prices for quantity breaks or discounts. The quote is then made available to the business user online. The business user can accept the quote and place the order, continue the conversation, or reject the quote.",
+    "Authors": [
+      "Egidijus Mažeika"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/quote-module",
+    "IconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-quote/master/VirtoCommerce.QuoteModule.Web/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
+    "Tags": "b2b quotes",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.0.1",
+        "VersionTag": "",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.0.0-build.2.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Cart",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Tax",
+            "Version": "3.0.1"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

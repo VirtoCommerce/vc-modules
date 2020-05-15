@@ -477,10 +477,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.0.2",
+        "Version": "3.0.3",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.0.0-build.32.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.0.0-build.11.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": "First version."

@@ -1830,5 +1830,39 @@
         "ReleaseNotes": null
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.BulkActionsModule",
+    "Title": "Bulk Actions",
+    "Description": "Bulk actions module",
+    "Authors": [
+      "Burashov T.S."
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": null,
+    "IconUrl": null,
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2020 . All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.0.1",
+        "VersionTag": "",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions/releases/download/3.0.1/VirtoCommerce.BulkActionsModule_3.0.1.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

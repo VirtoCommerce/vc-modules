@@ -961,19 +961,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.0.3",
+        "Version": "3.1.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.0.3/VirtoCommerce.Search_3.0.3.zip",
-        "Incompatibilities": [],
-        "Dependencies": null,
-        "ReleaseNotes": ""
-      },
-      {
-        "Version": "3.0.0",
-        "VersionTag": "rc.5",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.0.0-rc.5/VirtoCommerce.Search_3.0.0-rc.5.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.1.0/VirtoCommerce.Search_3.1.0.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

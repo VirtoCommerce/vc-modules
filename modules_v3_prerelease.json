@@ -1210,28 +1210,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.0.2",
+        "Version": "3.1.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.0.0-build.26.zip",
-        "Incompatibilities": null,
-        "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Catalog",
-            "Version": "3.0.0"
-          },
-          {
-            "Id": "VirtoCommerce.Store",
-            "Version": "3.0.0"
-          }
-        ],
-        "ReleaseNotes": null
-      },
-      {
-        "Version": "3.0.0",
-        "VersionTag": "rc.5",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.0.0-build.23.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.0.0-build.1.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

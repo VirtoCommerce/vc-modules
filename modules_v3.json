@@ -1687,10 +1687,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.0.1",
+        "Version": "3.1.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions/releases/download/3.0.1/VirtoCommerce.BulkActionsModule_3.0.1.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions/releases/download/3.1.0/VirtoCommerce.BulkActionsModule_3.1.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

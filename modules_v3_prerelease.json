@@ -1266,10 +1266,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.0.0",
-        "VersionTag": "rc.4",
+        "Version": "3.1.0",
+        "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.0.0-rc.4.build0043/VirtoCommerce.PageBuilderModule_3.0.0-rc.4.build0043.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.0.0-build.36.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

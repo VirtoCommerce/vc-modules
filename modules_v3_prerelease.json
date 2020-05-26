@@ -1476,28 +1476,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.0.2",
+        "Version": "3.1.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.0.0-build.8.zip",
-        "Incompatibilities": null,
-        "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Catalog",
-            "Version": "3.0.0"
-          },
-          {
-            "Id": "VirtoCommerce.Pricing",
-            "Version": "3.0.0"
-          }
-        ],
-        "ReleaseNotes": "Initial implementation of module features."
-      },
-      {
-        "Version": "3.0.0",
-        "VersionTag": "rc.5",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.0.0-build.5.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.0.0-build.1.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

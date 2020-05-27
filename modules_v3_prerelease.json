@@ -1305,10 +1305,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.0.1",
+        "Version": "3.1.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.0.0-build.44.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.0.0-build.1.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

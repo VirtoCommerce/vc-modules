@@ -1270,7 +1270,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2020 . All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.1.0",

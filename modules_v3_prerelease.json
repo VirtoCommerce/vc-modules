@@ -648,10 +648,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1.0",
+        "Version": "3.2.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.0.0-build.2.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/3.2.0/VirtoCommerce.Pricing_3.2.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

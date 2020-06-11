@@ -192,10 +192,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1.0",
+        "Version": "3.2.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.0.0-build.1.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/3.2.0/VirtoCommerce.Content_3.2.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

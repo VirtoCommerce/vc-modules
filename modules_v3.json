@@ -690,7 +690,7 @@
         "Version": "3.2.0",
         "VersionTag": "alpha_build_ba6ff09",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.1.0/VirtoCommerce.Search_3.1.0_build_f248e11.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.2.0_build_ba6ff09/VirtoCommerce.Search_3.2.0_build_ba6ff09.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

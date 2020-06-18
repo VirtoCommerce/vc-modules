@@ -685,6 +685,15 @@
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""
+      },
+      {
+        "Version": "3.1.0",
+        "VersionTag": "alpha_build_f248e11",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.1.0/VirtoCommerce.Search_3.1.0_build_f248e11.zip",
+        "Incompatibilities": [],
+        "Dependencies": null,
+        "ReleaseNotes": ""
       }
     ]
   },

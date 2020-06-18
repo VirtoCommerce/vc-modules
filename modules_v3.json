@@ -14,7 +14,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
     "IconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright В© 2011-2020 Virto Commerce. All rights reserved",
     "Tags": "security core",
     "Groups": [
       "commerce"
@@ -25,6 +25,15 @@
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/3.1.0/VirtoCommerce.Core_3.1.0.zip",
+        "Incompatibilities": [],
+        "Dependencies": null,
+        "ReleaseNotes": ""
+      },
+      {
+        "Version": "3.1.0",
+        "VersionTag": "alpha_build_778eb9c",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/3.1.0_build_778eb9c/VirtoCommerce.Core_3.1.0_build_778eb9c.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

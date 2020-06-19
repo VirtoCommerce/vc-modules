@@ -578,9 +578,9 @@
       },
       {
         "Version": "3.3.0",
-        "VersionTag": "alpha",
+        "VersionTag": "alpha-build-f2b9049",
         "PlatformVersion": "3.2.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.3.0/VirtoCommerce.Orders_3.3.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.3.0_build_f2b9049/VirtoCommerce.Orders_3.3.0_build_f2b9049.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

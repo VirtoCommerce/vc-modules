@@ -1437,7 +1437,7 @@
     "Versions": [
       {
         "Version": "1.0.0",
-        "VersionTag": "",
+        "VersionTag": "alpha-build-aead349",
         "PlatformVersion": "3.0.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-associations/releases/download/3.0.0_build_38f02ab/VirtoCommerce.DynamicAssociationsModule_3.0.0_build_38f02ab.zip",
         "Incompatibilities": null,

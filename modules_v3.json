@@ -175,10 +175,10 @@
         "ReleaseNotes": "Third version."
       },
       {
-        "Version": "3.2.0",
-        "VersionTag": "alpha.2d80b9fd",
+        "Version": "3.3.0",
+        "VersionTag": "alpha.64ac14ac",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.2.0-alpha.2d80b9fd/VirtoCommerce.Catalog_3.2.0-alpha.2d80b9fd.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.3.0-alpha.64ac14ac/VirtoCommerce.Catalog_3.3.0-alpha.64ac14ac.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -142,9 +142,9 @@
       },
       {
         "Version": "3.2.0",
-        "VersionTag": "alpha.cbfc350",
+        "VersionTag": "alpha.55940e2",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/3.2.0-alpha.cbfc350/VirtoCommerce.Cart_3.2.0-alpha.cbfc350.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/3.2.0-alpha.55940e2/VirtoCommerce.Cart_3.2.0-alpha.55940e2.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

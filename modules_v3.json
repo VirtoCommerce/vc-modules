@@ -73,6 +73,20 @@
           }
         ],
         "ReleaseNotes": "Third version."
+      },
+      {
+        "Version": "3.3.0",
+        "VersionTag": "alpha.cd97ebd",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-azure-search/releases/download/3.3.0-alpha.cd97ebd/VirtoCommerce.AzureSearch_3.3.0-alpha.cd97ebd.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "Third version."
       }
     ]
   },

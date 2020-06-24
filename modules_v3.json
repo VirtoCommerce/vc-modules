@@ -1260,9 +1260,9 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization",
-    "IconUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/raw/dev/VirtoCommerce.CatalogPersonalizationModule.Web/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.CatalogPersonalization)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2012 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright В© 2011-2012 Virto Commerce. All rights reserved",
     "Tags": "catalog personalization products categories",
     "Groups": null,
     "Versions": [
@@ -1271,6 +1271,28 @@
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/3.1.0/VirtoCommerce.CatalogPersonalization_3.1.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.1.0",
+        "VersionTag": "alpha.58e253c",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/3.1.0-alpha.58e253c/VirtoCommerce.CatalogPersonalization_3.1.0-alpha.58e253c.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

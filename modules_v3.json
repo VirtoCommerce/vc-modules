@@ -473,7 +473,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/image-tools-module",
     "IconUrl": "Modules/$(VirtoCommerce.ImageTools)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright В© 2011-2020 Virto Commerce. All rights reserved",
     "Tags": "images",
     "Groups": [
       "commerce"
@@ -484,6 +484,15 @@
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/3.1.0/VirtoCommerce.ImageTools_3.1.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": null,
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.1.0",
+        "VersionTag": "alpha.3df5b2b",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/3.1.0-alpha.3df5b2b/VirtoCommerce.ImageTools_3.1.0-alpha.3df5b2b.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": "First version."

@@ -1295,9 +1295,9 @@
       },
       {
         "Version": "3.1.0",
-        "VersionTag": "alpha.7fdc490",
+        "VersionTag": "alpha.3d9b85b",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-tax/releases/download/3.1.0-alpha.7fdc490/VirtoCommerce.Tax_3.1.0-alpha.7fdc490.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-tax/releases/download/3.1.0-alpha.3d9b85b/VirtoCommerce.Tax_3.1.0-alpha.3d9b85b.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

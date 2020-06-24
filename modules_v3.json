@@ -844,10 +844,10 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": null,
-    "IconUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-pricing-module",
+    "IconUrl": "Modules/$(VirtoCommerce.Pricing)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright В© 2011-2020 Virto Commerce. All rights reserved",
     "Tags": "price pricelist merchandise",
     "Groups": [
       "commerce"
@@ -858,6 +858,32 @@
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/3.2.0/VirtoCommerce.Pricing_3.2.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Export",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": null
+      },
+      {
+        "Version": "3.2.0",
+        "VersionTag": "alpha.08bda46",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/3.2.0-alpha.08bda46/VirtoCommerce.Pricing_3.2.0-alpha.08bda46.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -290,9 +290,9 @@
       },
       {
         "Version": "3.2.0",
-        "VersionTag": "alpha-build-a9b8400",
+        "VersionTag": "alpha.204fef0",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/3.2.0_build_a9b8400/VirtoCommerce.Content_3.2.0_build_a9b8400.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/3.2.0-alpha.204fef0/VirtoCommerce.Content_3.2.0-alpha.204fef0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

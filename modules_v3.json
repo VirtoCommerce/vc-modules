@@ -1091,6 +1091,24 @@
           }
         ],
         "ReleaseNotes": null
+      },
+      {
+        "Version": "3.1.0",
+        "VersionTag": "alpha.9615ad5",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.1.0-alpha.9615ad5/VirtoCommerce.CustomerReviews_3.1.0-alpha.9615ad5.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": null
       }
     ]
   },

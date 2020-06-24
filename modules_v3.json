@@ -670,7 +670,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-module-notification",
     "IconUrl": "Modules/$(VirtoCommerce.Notifications)/Content/logoVC.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2019 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright В© 2011-2020 Virto Commerce. All rights reserved",
     "Tags": "notifications",
     "Groups": [
       "commerce"
@@ -681,6 +681,15 @@
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.2.0/VirtoCommerce.Notifications_3.2.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": null,
+        "ReleaseNotes": ""
+      },
+      {
+        "Version": "3.2.0",
+        "VersionTag": "alpha.c23b90c",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.2.0-alpha.c23b90c/VirtoCommerce.Notifications_3.2.0-alpha.c23b90c.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": ""

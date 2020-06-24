@@ -916,9 +916,9 @@
       },
       {
         "Version": "3.2.0",
-        "VersionTag": "alpha.08bda46",
+        "VersionTag": "alpha.b6f7c46",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/3.2.0-alpha.08bda46/VirtoCommerce.Pricing_3.2.0-alpha.08bda46.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/3.2.0-alpha.b6f7c46/VirtoCommerce.Pricing_3.2.0-alpha.b6f7c46.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -1092,9 +1092,9 @@
       },
       {
         "Version": "3.1.0",
-        "VersionTag": "alpha.8e0146d",
+        "VersionTag": "alpha.c5771f1",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/3.1.0-alpha.8e0146d/VirtoCommerce.AuthorizeNet_3.1.0-alpha.8e0146d.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/3.1.0-alpha.c5771f1/VirtoCommerce.AuthorizeNet_3.1.0-alpha.c5771f1.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

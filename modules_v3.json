@@ -1132,17 +1132,17 @@
     "Title": "Subscription module",
     "Description": "Represent recurrent subscriptions functionality",
     "Authors": [
-      "Egidijus Mažeika",
+      "Egidijus MaЕѕeika",
       "Eugeney Tatarincev"
     ],
     "Owners": [
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": null,
-    "IconUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/subscriptions-module",
+    "IconUrl": "Modules/$(VirtoCommerce.Subscription)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2019 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright В© 2020 Virto Commerce. All rights reserved",
     "Tags": "subscriptions system",
     "Groups": [
       "commerce"
@@ -1153,6 +1153,32 @@
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/3.1.0/VirtoCommerce.Subscription_3.1.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": null
+      },
+      {
+        "Version": "3.1.0",
+        "VersionTag": "alpha.121abd3",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/3.1.0-alpha.121abd3/VirtoCommerce.Subscription_3.1.0-alpha.121abd3.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

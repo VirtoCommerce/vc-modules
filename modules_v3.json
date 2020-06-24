@@ -1253,9 +1253,9 @@
       },
       {
         "Version": "3.1.0",
-        "VersionTag": "alpha.fe0cf1d",
+        "VersionTag": "alpha.06aa4de",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/3.1.0-alpha.fe0cf1d/VirtoCommerce.AvalaraTax_3.1.0-alpha.fe0cf1d.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/3.1.0-alpha.06aa4de/VirtoCommerce.AvalaraTax_3.1.0-alpha.06aa4de.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

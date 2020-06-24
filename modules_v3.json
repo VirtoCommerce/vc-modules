@@ -973,9 +973,9 @@
       },
       {
         "Version": "3.2.0",
-        "VersionTag": "alpha.37dce2c",
+        "VersionTag": "alpha.5fcb460",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.2.0-alpha.37dce2c/VirtoCommerce.Search_3.2.0-alpha.37dce2c.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.2.0-alpha.5fcb460/VirtoCommerce.Search_3.2.0-alpha.5fcb460.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

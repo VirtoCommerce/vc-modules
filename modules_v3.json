@@ -1445,17 +1445,29 @@
     "ProjectUrl": null,
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2020 . All rights reserved",
+    "Copyright": "Copyright В© 2020 . All rights reserved",
     "Tags": "extension module",
-    "Groups": [
-      "commerce"
-    ],
+    "Groups": null,
     "Versions": [
       {
         "Version": "3.1.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions/releases/download/3.1.0/VirtoCommerce.BulkActionsModule_3.1.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.1.0",
+        "VersionTag": "alpha.47e1b89",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions/releases/download/3.1.0-alpha.47e1b89/VirtoCommerce.BulkActionsModule_3.1.0-alpha.47e1b89.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

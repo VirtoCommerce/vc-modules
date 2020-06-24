@@ -1142,7 +1142,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/integration-with-avalara-tax-service",
     "IconUrl": "Modules/$(VirtoCommerce.AvalaraTax)/Content/400.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright В© 2011-2020 Virto Commerce. All rights reserved",
     "Tags": "avalara tax",
     "Groups": null,
     "Versions": [
@@ -1151,6 +1151,40 @@
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/3.1.0/VirtoCommerce.AvalaraTax_3.1.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Inventory",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Shipping",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Tax",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.1.0",
+        "VersionTag": "alpha.fe0cf1d",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/3.1.0-alpha.fe0cf1d/VirtoCommerce.AvalaraTax_3.1.0-alpha.fe0cf1d.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -525,9 +525,9 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-lucene-search-module",
-    "IconUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/raw/dev/VirtoCommerce.LuceneSearchModule.Web/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.LuceneSearch)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2019 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright В© 2020 Virto Commerce. All rights reserved",
     "Tags": "lucene search",
     "Groups": [
       "commerce"
@@ -538,6 +538,20 @@
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/3.1.0/VirtoCommerce.LuceneSearch_3.1.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "Third version."
+      },
+      {
+        "Version": "3.1.0",
+        "VersionTag": "alpha.bc98253",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/3.1.0-alpha.bc98253/VirtoCommerce.LuceneSearch_3.1.0-alpha.bc98253.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

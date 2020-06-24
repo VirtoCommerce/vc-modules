@@ -1162,9 +1162,9 @@
       },
       {
         "Version": "3.1.0",
-        "VersionTag": "alpha.e384c37",
+        "VersionTag": "alpha.44893e8",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.1.0-alpha.e384c37/VirtoCommerce.Store_3.1.0-alpha.e384c37.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.1.0-alpha.44893e8/VirtoCommerce.Store_3.1.0-alpha.44893e8.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

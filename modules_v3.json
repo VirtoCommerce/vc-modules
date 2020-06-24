@@ -1530,9 +1530,9 @@
       },
       {
         "Version": "3.1.0",
-        "VersionTag": "alpha.58e253c",
+        "VersionTag": "alpha.7218809",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/3.1.0-alpha.58e253c/VirtoCommerce.CatalogPersonalization_3.1.0-alpha.58e253c.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/3.1.0-alpha.7218809/VirtoCommerce.CatalogPersonalization_3.1.0-alpha.7218809.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

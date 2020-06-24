@@ -1229,9 +1229,9 @@
       },
       {
         "Version": "3.1.0",
-        "VersionTag": "alpha.121abd3",
+        "VersionTag": "alpha.46b9e8f",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/3.1.0-alpha.121abd3/VirtoCommerce.Subscription_3.1.0-alpha.121abd3.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/3.1.0-alpha.46b9e8f/VirtoCommerce.Subscription_3.1.0-alpha.46b9e8f.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

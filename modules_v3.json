@@ -1683,9 +1683,9 @@
       },
       {
         "Version": "3.2.0",
-        "VersionTag": "alpha.5b7cd83",
+        "VersionTag": "alpha.a44f0d3",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-csv-import/releases/download/3.2.0-alpha.5b7cd83/VirtoCommerce.CatalogCsvImportModule_3.2.0-alpha.5b7cd83.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-csv-import/releases/download/3.2.0-alpha.a44f0d3/VirtoCommerce.CatalogCsvImportModule_3.2.0-alpha.a44f0d3.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

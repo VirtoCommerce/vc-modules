@@ -633,9 +633,9 @@
       },
       {
         "Version": "3.1.0",
-        "VersionTag": "alpha.838c25a",
+        "VersionTag": "alpha.2ac3c39",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.1.0-alpha.838c25a/VirtoCommerce.Marketing_3.1.0-alpha.838c25a.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.1.0-alpha.2ac3c39/VirtoCommerce.Marketing_3.1.0-alpha.2ac3c39.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

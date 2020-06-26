@@ -31,9 +31,9 @@
       },
       {
         "Version": "3.2.0",
-        "VersionTag": "alpha.hash5c1b4ec",
+        "VersionTag": "alpha.hashfb63c7d",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/3.2.0-alpha.hash5c1b4ec/VirtoCommerce.Core_3.2.0-alpha.hash5c1b4ec.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/3.2.0-alpha.hashfb63c7d/VirtoCommerce.Core_3.2.0-alpha.hashfb63c7d.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

@@ -142,9 +142,9 @@
       },
       {
         "Version": "3.3.0",
-        "VersionTag": "alpha.hashb7efaa1",
+        "VersionTag": "alpha.hash39c51ab",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/3.3.0-alpha.hashb7efaa1/VirtoCommerce.Cart_3.3.0-alpha.hashb7efaa1.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/3.3.0-alpha.hash39c51ab/VirtoCommerce.Cart_3.3.0-alpha.hash39c51ab.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

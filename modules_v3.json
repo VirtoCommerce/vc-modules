@@ -578,24 +578,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1.0",
+        "Version": "3.2.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/3.1.0/VirtoCommerce.LuceneSearch_3.1.0.zip",
-        "Incompatibilities": null,
-        "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Search",
-            "Version": "3.0.0"
-          }
-        ],
-        "ReleaseNotes": "Third version."
-      },
-      {
-        "Version": "3.2.0",
-        "VersionTag": "alpha.hash11d9e6e",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/3.2.0-alpha.hash11d9e6e/VirtoCommerce.LuceneSearch_3.2.0-alpha.hash11d9e6e.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/3.2.0/VirtoCommerce.LuceneSearch_3.2.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -222,7 +222,7 @@
         "Version": "3.3.0",
         "VersionTag": "alpha.1499",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.3.0-alpha.1499/VirtoCommerce.Catalog_3.3.0-alpha.1499.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.3.0-alpha.1499.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

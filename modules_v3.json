@@ -1687,10 +1687,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.2.0",
-        "VersionTag": "alpha.6c291d7",
+        "Version": "3.3.0",
+        "VersionTag": "alpha.155",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.1.0-alpha.6c291d7/VirtoCommerce.PageBuilderModule_3.1.0-alpha.6c291d7.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.1.0-alpha.155.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -289,10 +289,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.2.0",
-        "VersionTag": "alpha.cbba5bb",
+        "Version": "3.3.0",
+        "VersionTag": "alpha.665",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/3.2.0-alpha.cbba5bb/VirtoCommerce.Content_3.2.0-alpha.cbba5bb.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.3.0-alpha.665.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -349,9 +349,9 @@
       },
       {
         "Version": "3.1.0",
-        "VersionTag": "alpha.3671484",
+        "VersionTag": "alpha.476",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/3.1.0-alpha.3671484/VirtoCommerce.Customer_3.1.0-alpha.3671484.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.1.0-alpha.476.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

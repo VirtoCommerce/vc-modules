@@ -1940,9 +1940,9 @@
       },
       {
         "Version": "3.1.0",
-        "VersionTag": "alpha.5dac6fc",
+        "VersionTag": "alpha.181",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.1.0-alpha.5dac6fc/VirtoCommerce.Quote_3.1.0-alpha.5dac6fc.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.1.0-alpha.181.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -490,9 +490,9 @@
       },
       {
         "Version": "3.2.0",
-        "VersionTag": "alpha.167",
+        "VersionTag": "alpha.168",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.2.0-alpha.167.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.2.0-alpha.168.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": "First version."

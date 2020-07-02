@@ -1355,9 +1355,9 @@
       },
       {
         "Version": "3.1.0",
-        "VersionTag": "alpha.9615ad5",
+        "VersionTag": "alpha.31",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.1.0-alpha.9615ad5/VirtoCommerce.CustomerReviews_3.1.0-alpha.9615ad5.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.1.0-alpha.31.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

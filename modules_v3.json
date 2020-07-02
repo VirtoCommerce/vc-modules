@@ -1504,10 +1504,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1.0",
-        "VersionTag": "alpha.173",
+        "Version": "3.2.0",
+        "VersionTag": "alpha.174",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.1.0-alpha.173.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.2.0-alpha.174.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

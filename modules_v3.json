@@ -471,7 +471,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/image-tools-module",
-    "IconUrl": "https://raw.githubusercontent.com/VirtoCommerce/vc-module-image-tools/release/3.0.0/src/VirtoCommerce.ImageToolsModule.Web/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.ImageTools)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright В© 2011-2020 Virto Commerce. All rights reserved",
     "Tags": "images",
@@ -489,10 +489,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1.0",
-        "VersionTag": "alpha.3df5b2b",
+        "Version": "3.1.1",
+        "VersionTag": "alpha.166",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/3.1.0-alpha.3df5b2b/VirtoCommerce.ImageTools_3.1.0-alpha.3df5b2b.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.1.0-alpha.166.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": "First version."

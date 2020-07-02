@@ -1862,9 +1862,9 @@
       },
       {
         "Version": "3.1.0",
-        "VersionTag": "alpha.314a070",
+        "VersionTag": "alpha.79",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions/releases/download/3.1.0-alpha.314a070/VirtoCommerce.BulkActionsModule_3.1.0-alpha.314a070.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.1.0-alpha.79.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

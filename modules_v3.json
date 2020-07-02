@@ -991,9 +991,9 @@
       },
       {
         "Version": "3.2.0",
-        "VersionTag": "alpha.5fcb460",
+        "VersionTag": "alpha.484",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.2.0-alpha.5fcb460/VirtoCommerce.Search_3.2.0-alpha.5fcb460.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.2.0-alpha.484.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

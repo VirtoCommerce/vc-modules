@@ -704,10 +704,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.2.0",
-        "VersionTag": "alpha.92",
+        "Version": "3.3.0",
+        "VersionTag": "alpha.93",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.2.0-alpha.92.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.3.0-alpha.93.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": ""

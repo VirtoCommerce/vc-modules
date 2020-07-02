@@ -185,7 +185,7 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/image-tools-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/v1.2.3/VirtoCommerce.ImageTools_1.2.3.zip",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/v1.2.4/VirtoCommerce.ImageTools_1.2.4.zip",
         "platformVersion": "2.13.24",
         "description": "Image tools helps to automate image transformation procedures such as resizing and cropping",
         "groups": [
@@ -197,7 +197,7 @@
         "iconUrl": "Modules/$(VirtoCommerce.ImageTools)/Content/logo.png",
         "id": "VirtoCommerce.ImageTools",
         "title": "Image tools module",
-        "version": "1.2.3",
+        "version": "1.2.4",
         "authors": [
             "Konstantin Savosteev",
             "Nikolay Prohorov",

@@ -1771,10 +1771,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.2.0",
-        "VersionTag": "alpha.a44f0d3",
+        "Version": "3.3.0",
+        "VersionTag": "alpha.105",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-csv-import/releases/download/3.2.0-alpha.a44f0d3/VirtoCommerce.CatalogCsvImportModule_3.2.0-alpha.a44f0d3.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.3.0-alpha.105.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

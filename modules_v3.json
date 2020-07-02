@@ -934,9 +934,9 @@
       },
       {
         "Version": "3.2.0",
-        "VersionTag": "alpha.b6f7c46",
+        "VersionTag": "alpha.434",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/3.2.0-alpha.b6f7c46/VirtoCommerce.Pricing_3.2.0-alpha.b6f7c46.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.2.0-alpha.434.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

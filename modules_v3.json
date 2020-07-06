@@ -2015,6 +2015,32 @@
           }
         ],
         "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.1.0",
+        "VersionTag": "alpha.7",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DynamicAssociationsModule_3.1.0-alpha.7.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.1.0"
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.2.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Marketing",
+            "Version": "3.4.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
       }
     ]
   }

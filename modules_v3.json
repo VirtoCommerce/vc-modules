@@ -1109,10 +1109,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1.0",
-        "VersionTag": "alpha.27a2d7c",
+        "Version": "3.2.0",
+        "VersionTag": "alpha.179",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/3.1.0-alpha.27a2d7c/VirtoCommerce.Sitemaps_3.1.0-alpha.27a2d7c.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.2.0-alpha.179.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

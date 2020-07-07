@@ -933,10 +933,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.2.0",
-        "VersionTag": "alpha.434",
+        "Version": "3.3.0",
+        "VersionTag": "alpha.435",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.2.0-alpha.434.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.3.0-alpha.435.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

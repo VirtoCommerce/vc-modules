@@ -2047,5 +2047,67 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.ExperienceApi",
+    "Title": "Commerce experience API module",
+    "Description": "",
+    "Authors": [
+      "Eugeny Tatarincev",
+      "Yan Brovkin",
+      "Fillip Kuksov"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com",
+    "IconUrl": "Modules/$(VirtoCommerce.ExperienceApi)/Content/logoVC.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
+    "Tags": "security core",
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "beta001",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.0.0-beta001.zip",
+        "Incompatibilities": [],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.ElasticSearch",
+            "Version": "3.0.2"
+          },
+          {
+            "Id": "VirtoCommerce.Cart",
+            "Version": "3.2.0"
+          },
+          {
+            "Id": "VirtoCommerce.Marketing",
+            "Version": "3.4.0"
+          },
+          {
+            "Id": "VirtoCommerce.Inventory",
+            "Version": "3.2.0"
+          },
+          {
+            "Id": "VirtoCommerce.Payment",
+            "Version": "3.1.0"
+          },
+          {
+            "Id": "VirtoCommerce.Shipping",
+            "Version": "3.1.0"
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.1.0"
+          }
+        ],
+        "ReleaseNotes": ""
+      }
+    ]
   }
 ]

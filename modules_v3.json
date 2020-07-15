@@ -1410,32 +1410,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1.0",
+        "Version": "3.2.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/3.1.0/VirtoCommerce.AuthorizeNet_3.1.0.zip",
-        "Incompatibilities": null,
-        "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Store",
-            "Version": "3.0.0"
-          },
-          {
-            "Id": "VirtoCommerce.Orders",
-            "Version": "3.0.0"
-          },
-          {
-            "Id": "VirtoCommerce.Payment",
-            "Version": "3.0.0"
-          }
-        ],
-        "ReleaseNotes": "First version."
-      },
-      {
-        "Version": "3.2.0",
-        "VersionTag": "alpha.185",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNet_3.2.0-alpha.185.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-Authorize.Net/releases/download/3.2.0/VirtoCommerce.AuthorizeNet_3.2.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

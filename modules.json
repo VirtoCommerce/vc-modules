@@ -938,8 +938,8 @@
     },
     {
         "projectUrl": "https://virtocommerce.com/apps/extensions/virto-lucene-search-module",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/v1.1.0/VirtoCommerce.LuceneSearch_1.1.0.zip",
-        "platformVersion": "2.13.9",
+        "packageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/v1.1.1/VirtoCommerce.LuceneSearch_1.1.1.zip",
+        "platformVersion": "2.13.42",
         "groups": [
             "commerce"
         ],
@@ -948,9 +948,9 @@
             "Virto Commerce"
         ],
         "id": "VirtoCommerce.LuceneSearch",
-        "iconUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/raw/dev/VirtoCommerce.LuceneSearchModule.Web/Content/logo.png",
+        "iconUrl": "Modules/$(VirtoCommerce.LuceneSearch)/Content/logo.png",
         "title": "Lucene Search module",
-        "version": "1.1.0",
+        "version": "1.1.1",
         "authors": [
             "Artem Dudarev"
         ],

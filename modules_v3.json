@@ -1506,6 +1506,40 @@
           }
         ],
         "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.3.0",
+        "VersionTag": "alpha.176",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.3.0-alpha.176.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Inventory",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Shipping",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Tax",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
       }
     ]
   },

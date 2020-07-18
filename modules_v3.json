@@ -1631,28 +1631,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1.0",
+        "Version": "3.2.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/3.1.0/VirtoCommerce.CatalogPublishing_3.1.0.zip",
-        "Incompatibilities": null,
-        "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Catalog",
-            "Version": "3.0.0"
-          },
-          {
-            "Id": "VirtoCommerce.Pricing",
-            "Version": "3.0.0"
-          }
-        ],
-        "ReleaseNotes": "Initial implementation of module features."
-      },
-      {
-        "Version": "3.2.0",
-        "VersionTag": "alpha.202",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.2.0-alpha.202.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/3.2.0/VirtoCommerce.CatalogPublishing_3.2.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

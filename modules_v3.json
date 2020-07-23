@@ -783,6 +783,52 @@
           }
         ],
         "ReleaseNotes": null
+      },
+      {
+        "Version": "3.8.0",
+        "VersionTag": "alpha.778",
+        "PlatformVersion": "3.2.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.8.0-alpha.778.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Pricing",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Payment",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Shipping",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Notifications",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Cart",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Inventory",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": null
       }
     ]
   },

@@ -334,28 +334,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.2.0",
-        "VersionTag": "",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/3.2.0/VirtoCommerce.Customer_3.2.0.zip",
-        "Incompatibilities": null,
-        "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Core",
-            "Version": "3.0.0"
-          },
-          {
-            "Id": "VirtoCommerce.Search",
-            "Version": "3.0.0"
-          }
-        ],
-        "ReleaseNotes": "First version."
-      },
-      {
         "Version": "3.3.0",
-        "VersionTag": "alpha.482",
+        "VersionTag": "",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.3.0-alpha.482.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/3.3.0/VirtoCommerce.Customer_3.3.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

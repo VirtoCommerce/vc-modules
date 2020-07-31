@@ -708,10 +708,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.4.0",
-        "VersionTag": "alpha.97",
+        "Version": "3.5.0",
+        "VersionTag": "alpha.98",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.4.0-alpha.97.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.5.0-alpha.98.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": ""

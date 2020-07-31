@@ -919,10 +919,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.4.0",
-        "VersionTag": "alpha.439",
+        "Version": "3.5.0",
+        "VersionTag": "alpha.440",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.4.0-alpha.439.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.5.0-alpha.440.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

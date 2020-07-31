@@ -484,19 +484,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.2.0",
+        "Version": "3.3.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/3.2.0/VirtoCommerce.ImageTools_3.2.0.zip",
-        "Incompatibilities": null,
-        "Dependencies": null,
-        "ReleaseNotes": "First version."
-      },
-      {
-        "Version": "3.3.0",
-        "VersionTag": "alpha.173",
-        "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.3.0-alpha.173.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/3.3.0/VirtoCommerce.ImageTools_3.3.0.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": "First version."

@@ -31,9 +31,9 @@
       },
       {
         "Version": "3.3.0",
-        "VersionTag": "alpha.1388",
+        "VersionTag": "alpha.1389",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.3.0-alpha.1388.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.3.0-alpha.1389.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

@@ -2062,6 +2062,24 @@
     "Groups": null,
     "Versions": [
       {
+        "Version": "3.0.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.7.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/3.0.0/VirtoCommerce.GoogleEcommerceAnalytics_3.0.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.8.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.2.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
         "Version": "3.1.0",
         "VersionTag": "alpha.64",
         "PlatformVersion": "3.7.0",

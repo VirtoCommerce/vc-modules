@@ -2028,10 +2028,10 @@
     ],
     "Versions": [
       {
-        "Version": "0.1.0",
+        "Version": "0.2.0",
         "VersionTag": "beta001",
         "PlatformVersion": "3.11.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_0.1.0-beta001.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_0.2.0-beta001.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

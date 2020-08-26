@@ -21,19 +21,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.2.0",
+        "Version": "3.4.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/3.2.0/VirtoCommerce.Core_3.2.0.zip",
-        "Incompatibilities": [],
-        "Dependencies": null,
-        "ReleaseNotes": ""
-      },
-      {
-        "Version": "3.3.0",
-        "VersionTag": "alpha.1390",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.3.0-alpha.1390.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/3.4.0/VirtoCommerce.Core_3.4.0.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

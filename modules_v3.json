@@ -352,10 +352,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.5.0",
-        "VersionTag": "alpha.491",
+        "Version": "3.6.0",
+        "VersionTag": "alpha.492",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.5.0-alpha.491.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.6.0-alpha.492.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

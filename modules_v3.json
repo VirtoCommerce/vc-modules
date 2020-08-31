@@ -1468,7 +1468,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/integration-with-avalara-tax-service",
     "IconUrl": "Modules/$(VirtoCommerce.AvalaraTax)/Content/400.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright В© 2011-2020 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
     "Tags": "avalara tax",
     "Groups": null,
     "Versions": [
@@ -1508,9 +1508,9 @@
       },
       {
         "Version": "3.3.0",
-        "VersionTag": "alpha.177",
+        "VersionTag": "alpha.179",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.3.0-alpha.177.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.3.0-alpha.179.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

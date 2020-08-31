@@ -297,7 +297,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-customer-module",
     "IconUrl": "Modules/$(VirtoCommerce.Customer)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright В© 2011-2020 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
     "Tags": "customer",
     "Groups": [
       "commerce"
@@ -327,9 +327,9 @@
       },
       {
         "Version": "3.6.0",
-        "VersionTag": "alpha.492",
+        "VersionTag": "alpha.494",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.6.0-alpha.492.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.6.0-alpha.494.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -714,6 +714,15 @@
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": ""
+      },
+      {
+        "Version": "3.6.0",
+        "VersionTag": "alpha.113",
+        "PlatformVersion": "3.5.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.6.0-alpha.113.zip",
+        "Incompatibilities": null,
+        "Dependencies": null,
+        "ReleaseNotes": ""
       }
     ]
   },

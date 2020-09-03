@@ -717,9 +717,9 @@
       },
       {
         "Version": "3.6.0",
-        "VersionTag": "alpha.124",
+        "VersionTag": "alpha.125",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.6.0-alpha.124.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.6.0-alpha.125.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": ""

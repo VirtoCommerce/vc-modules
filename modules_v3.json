@@ -294,9 +294,9 @@
       },
       {
         "Version": "3.7.0",
-        "VersionTag": "alpha.690",
+        "VersionTag": "alpha.691",
         "PlatformVersion": "3.9.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.7.0-alpha.690.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.7.0-alpha.691.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

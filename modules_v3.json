@@ -1615,10 +1615,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.5.0",
-        "VersionTag": "alpha.187",
+        "Version": "3.6.0",
+        "VersionTag": "alpha.189",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.5.0-alpha.187.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.6.0-alpha.189.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

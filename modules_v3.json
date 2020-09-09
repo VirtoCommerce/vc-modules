@@ -600,32 +600,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.5.0",
+        "Version": "3.6.0",
         "VersionTag": "",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.5.0/VirtoCommerce.Marketing_3.5.0.zip",
-        "Incompatibilities": null,
-        "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Core",
-            "Version": "3.0.0"
-          },
-          {
-            "Id": "VirtoCommerce.Store",
-            "Version": "3.0.0"
-          },
-          {
-            "Id": "VirtoCommerce.Orders",
-            "Version": "3.0.0"
-          }
-        ],
-        "ReleaseNotes": "Third version."
-      },
-      {
-        "Version": "3.6.0",
-        "VersionTag": "alpha.602",
-        "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.6.0-alpha.602.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.6.0/VirtoCommerce.Marketing_3.6.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -1318,6 +1318,28 @@
           }
         ],
         "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.4.0",
+        "VersionTag": "alpha.190",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNet_3.4.0-alpha.190.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Payment",
+            "Version": "3.0.2"
+          }
+        ],
+        "ReleaseNotes": "First version."
       }
     ]
   },

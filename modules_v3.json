@@ -412,6 +412,20 @@
           }
         ],
         "ReleaseNotes": "Third version."
+      },
+      {
+        "Version": "3.4.0",
+        "VersionTag": "alpha.69",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch_3.4.0-alpha.69.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.2"
+          }
+        ],
+        "ReleaseNotes": "Third version."
       }
     ]
   },

@@ -75,10 +75,10 @@
         "ReleaseNotes": "Third version."
       },
       {
-        "Version": "3.4.0",
-        "VersionTag": "alpha.69",
+        "Version": "3.5.0",
+        "VersionTag": "alpha.70",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.4.0-alpha.69.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.5.0-alpha.70.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

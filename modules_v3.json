@@ -141,10 +141,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.6.0",
-        "VersionTag": "alpha.426",
+        "Version": "3.7.0",
+        "VersionTag": "alpha.427",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Cart_3.6.0-alpha.426.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Cart_3.7.0-alpha.427.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -173,8 +173,7 @@
     ]
   },
   {
-    "Id": "VirtoCommerce.
-    ",
+    "Id": "VirtoCommerce.\r\n    ",
     "Title": "Catalog module",
     "Description": "Catalog, categories, products, variations, properties management",
     "Authors": [

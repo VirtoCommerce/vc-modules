@@ -173,7 +173,7 @@
     ]
   },
   {
-    "Id": "VirtoCommerce.\r\n    ",
+    "Id": "VirtoCommerce.Catalog",
     "Title": "Catalog module",
     "Description": "Catalog, categories, products, variations, properties management",
     "Authors": [

@@ -173,7 +173,8 @@
     ]
   },
   {
-    "Id": "VirtoCommerce.Catalog",
+    "Id": "VirtoCommerce.
+    ",
     "Title": "Catalog module",
     "Description": "Catalog, categories, products, variations, properties management",
     "Authors": [
@@ -193,10 +194,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.8.0",
+        "Version": "3.9.0",
         "VersionTag": "",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.8.0/VirtoCommerce.Catalog_3.8.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.9.0/VirtoCommerce.Catalog_3.9.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

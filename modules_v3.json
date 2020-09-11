@@ -1518,32 +1518,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.3.0",
+        "Version": "3.4.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/3.3.0/VirtoCommerce.CatalogPersonalization_3.3.0.zip",
-        "Incompatibilities": null,
-        "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Core",
-            "Version": "3.0.0"
-          },
-          {
-            "Id": "VirtoCommerce.Search",
-            "Version": "3.0.0"
-          },
-          {
-            "Id": "VirtoCommerce.Catalog",
-            "Version": "3.0.0"
-          }
-        ],
-        "ReleaseNotes": "First version."
-      },
-      {
-        "Version": "3.4.0",
-        "VersionTag": "alpha.108",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.4.0-alpha.108.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/3.4.0/VirtoCommerce.CatalogPersonalization_3.4.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

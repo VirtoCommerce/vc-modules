@@ -1259,9 +1259,9 @@
       },
       {
         "Version": "3.5.0",
-        "VersionTag": "alpha.172",
+        "VersionTag": "alpha.173",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.5.0-alpha.172.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.5.0-alpha.173.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -1592,6 +1592,28 @@
           }
         ],
         "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.6.0",
+        "VersionTag": "alpha.114",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.6.0-alpha.114.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
       }
     ]
   },

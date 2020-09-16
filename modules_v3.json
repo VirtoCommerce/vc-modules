@@ -1517,9 +1517,9 @@
       },
       {
         "Version": "3.4.0",
-        "VersionTag": "alpha.181",
+        "VersionTag": "alpha.183",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.4.0-alpha.181.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.4.0-alpha.183.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

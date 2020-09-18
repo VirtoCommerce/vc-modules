@@ -354,6 +354,28 @@
           }
         ],
         "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.10.0",
+        "VersionTag": "alpha.513",
+        "PlatformVersion": "3.5.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.10.0-alpha.513.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.0.1"
+          }
+        ],
+        "ReleaseNotes": "First version."
       }
     ]
   },

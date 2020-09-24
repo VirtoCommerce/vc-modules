@@ -2262,7 +2262,7 @@
   },
   {
     "Id": "VirtoCommerce.SaaS",
-    "Title": "SaaS Module",
+    "Title": "SaaS Deployment",
     "Description": "Allows managing multiple environments in cloud environment.",
     "Authors": [
       "Alexander Siniouguine"
@@ -2289,11 +2289,16 @@
       },
       {
         "Version": "1.0.0",
-        "VersionTag": "alpha.30",
+        "VersionTag": "alpha.32",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SaaS_1.0.0-alpha.30.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SaaS_1.0.0-alpha.32.zip",
         "Incompatibilities": null,
-        "Dependencies": [],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.0.0"
+          }
+        ],
         "ReleaseNotes": "First version."
       }
     ]

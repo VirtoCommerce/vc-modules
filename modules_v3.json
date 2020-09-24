@@ -2259,5 +2259,34 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.SaaS",
+    "Title": "SaaS Module",
+    "Description": "Allows managing multiple environments in cloud environment.",
+    "Authors": [
+      "Alexander Siniouguine"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": null,
+    "IconUrl": null,
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2020 Virto Solutions LTD. All rights reserved",
+    "Tags": "saas",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.0.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-saas/releases/download/1.0.0/VirtoCommerce.SaaS_1.0.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

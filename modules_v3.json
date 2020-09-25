@@ -2246,11 +2246,15 @@
     "Versions": [
       {
         "Version": "1.0.0",
-        "VersionTag": "alpha.16",
+        "VersionTag": "alpha.28",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoSolutionFeaturesModule_1.0.0-alpha.16.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoSolutionFeaturesModule_1.0.0-alpha.28.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.9.0"
+          },
           {
             "Id": "VirtoCommerce.Orders",
             "Version": "3.9.0"

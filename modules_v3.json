@@ -1003,9 +1003,9 @@
       },
       {
         "Version": "3.5.0",
-        "VersionTag": "alpha.493",
+        "VersionTag": "alpha.494",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.5.0-alpha.493.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.5.0-alpha.494.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

@@ -972,10 +972,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.5.0",
-        "VersionTag": "alpha.495",
+        "Version": "3.6.0",
+        "VersionTag": "alpha.496",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.5.0-alpha.495.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.6.0-alpha.496.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

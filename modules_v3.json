@@ -946,9 +946,9 @@
       },
       {
         "Version": "3.6.0",
-        "VersionTag": "alpha.448",
+        "VersionTag": "alpha.449",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.6.0-alpha.448.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.6.0-alpha.449.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

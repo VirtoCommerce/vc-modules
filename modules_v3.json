@@ -499,6 +499,15 @@
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.7.0",
+        "VersionTag": "alpha.185",
+        "PlatformVersion": "3.5.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.7.0-alpha.185.zip",
+        "Incompatibilities": null,
+        "Dependencies": null,
+        "ReleaseNotes": "First version."
       }
     ]
   },

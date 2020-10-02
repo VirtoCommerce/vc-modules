@@ -707,19 +707,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.7.0",
+        "Version": "3.8.0",
         "VersionTag": "",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.7.0/VirtoCommerce.Notifications_3.7.0.zip",
-        "Incompatibilities": null,
-        "Dependencies": null,
-        "ReleaseNotes": ""
-      },
-      {
-        "Version": "3.8.0",
-        "VersionTag": "alpha.140",
-        "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.8.0-alpha.140.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.8.0/VirtoCommerce.Notifications_3.8.0.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": ""

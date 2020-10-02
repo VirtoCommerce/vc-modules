@@ -193,10 +193,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.14.0",
+        "Version": "3.15.0",
         "VersionTag": "",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.14.0/VirtoCommerce.Catalog_3.14.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.15.0/VirtoCommerce.Catalog_3.15.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -209,7 +209,7 @@
           },
           {
             "Id": "VirtoCommerce.Export",
-            "Version": "3.1.0"
+            "Version": "3.4.0"
           },
           {
             "Id": "VirtoCommerce.Store",

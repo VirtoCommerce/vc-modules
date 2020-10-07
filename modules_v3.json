@@ -2246,9 +2246,9 @@
     "Versions": [
       {
         "Version": "1.0.0",
-        "VersionTag": "alpha.30",
+        "VersionTag": "alpha.36",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoSolutionFeaturesModule_1.0.0-alpha.30.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoSolutionFeaturesModule_1.0.0-alpha.36.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -2258,6 +2258,10 @@
           {
             "Id": "VirtoCommerce.Orders",
             "Version": "3.9.0"
+          },
+          {
+            "Id": "VirtoCommerce.Payment",
+            "Version": "3.2.0"
           }
         ],
         "ReleaseNotes": "First version."

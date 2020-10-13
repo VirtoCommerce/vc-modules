@@ -1192,9 +1192,9 @@
       },
       {
         "Version": "3.5.0",
-        "VersionTag": "alpha.472",
+        "VersionTag": "alpha.473",
         "PlatformVersion": "3.13.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.5.0-alpha.472.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.5.0-alpha.473.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

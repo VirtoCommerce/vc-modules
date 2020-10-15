@@ -1769,10 +1769,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.7.0",
-        "VersionTag": "alpha.121",
+        "Version": "3.8.0",
+        "VersionTag": "alpha.122",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.7.0-alpha.121.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.8.0-alpha.122.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

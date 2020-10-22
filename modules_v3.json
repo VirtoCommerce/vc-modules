@@ -1936,10 +1936,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.6.0",
-        "VersionTag": "alpha.199",
+        "Version": "3.7.0",
+        "VersionTag": "alpha.200",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.6.0-alpha.199.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.7.0-alpha.200.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -1002,10 +1002,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.3.0",
+        "Version": "3.4.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-shipping/releases/download/3.3.0/VirtoCommerce.Shipping_3.3.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-shipping/releases/download/3.4.0/VirtoCommerce.Shipping_3.4.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

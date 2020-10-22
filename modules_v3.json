@@ -1020,10 +1020,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.4.0",
-        "VersionTag": "alpha.49",
+        "Version": "3.5.0",
+        "VersionTag": "alpha.50",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.4.0-alpha.49.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.5.0-alpha.50.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

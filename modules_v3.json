@@ -2262,10 +2262,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "1.2.0",
+        "Version": "1.3.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoSolutionFeaturesModule_1.2.0.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoSolutionFeaturesModule_1.3.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -2274,7 +2274,7 @@
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.9.0"
+            "Version": "3.11.0"
           },
           {
             "Id": "VirtoCommerce.Payment",

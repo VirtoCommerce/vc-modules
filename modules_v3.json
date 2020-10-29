@@ -2246,7 +2246,9 @@
     "Title": "VirtoCommerce.DemoSolutionFeaturesModule",
     "Description": "Enter your module description here.",
     "Authors": [
-      "Maksim Kopnov"
+      "Maksim Kopnov",
+      "Anton Veretennikov",
+      "Aleksandr Vishniakov"
     ],
     "Owners": [
       ""
@@ -2255,7 +2257,7 @@
     "ProjectUrl": null,
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2020 . All rights reserved",
+    "Copyright": "Copyright © 2020 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": null,
     "Versions": [

@@ -2044,10 +2044,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.5.0",
-        "VersionTag": "alpha.24",
+        "Version": "3.6.0",
+        "VersionTag": "alpha.25",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DynamicAssociationsModule_3.5.0-alpha.24.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DynamicAssociationsModule_3.6.0-alpha.25.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

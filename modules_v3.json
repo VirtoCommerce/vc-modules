@@ -1702,10 +1702,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.10.0",
+        "Version": "3.10.1",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.10.0/VirtoCommerce.PageBuilderModule_3.10.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.10.1/VirtoCommerce.PageBuilderModule_3.10.1.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -1198,10 +1198,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.7.0",
-        "VersionTag": "alpha.479",
+        "Version": "3.8.0",
+        "VersionTag": "alpha.480",
         "PlatformVersion": "3.13.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.7.0-alpha.479.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.8.0-alpha.480.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

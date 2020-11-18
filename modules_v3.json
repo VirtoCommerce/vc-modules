@@ -541,10 +541,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.10.0",
-        "VersionTag": "alpha.261",
+        "Version": "3.11.0",
+        "VersionTag": "alpha.262",
         "PlatformVersion": "3.12.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.10.0-alpha.261.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.11.0-alpha.262.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

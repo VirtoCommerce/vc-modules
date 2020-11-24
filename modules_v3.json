@@ -2375,9 +2375,9 @@
     "Versions": [
       {
         "Version": "0.0.3",
-        "VersionTag": "alpha.16",
+        "VersionTag": "alpha.18",
         "PlatformVersion": "3.26.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ChangesCollectorModule_0.0.3-alpha.16.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ChangesCollectorModule_0.0.3-alpha.18.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

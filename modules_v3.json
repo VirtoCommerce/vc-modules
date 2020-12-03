@@ -1967,9 +1967,9 @@
       },
       {
         "Version": "3.8.0",
-        "VersionTag": "alpha.204",
+        "VersionTag": "alpha.205",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.8.0-alpha.204.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.8.0-alpha.205.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

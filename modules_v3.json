@@ -2383,5 +2383,36 @@
         "ReleaseNotes": ""
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.ChangesCollector",
+    "Title": "Changes collector module",
+    "Description": "Scope-based change event watch and propagation",
+    "Authors": [
+      "Virto Commerce"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/vc-module-changes-collector",
+    "IconUrl": "Modules/$(VirtoCommerce.ChangesCollectorModule)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
+    "Tags": "stores",
+    "Groups": [
+      ""
+    ],
+    "Versions": [
+      {
+        "Version": "0.0.3",
+        "VersionTag": "alpha.23",
+        "PlatformVersion": "3.26.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ChangesCollector_0.0.3-alpha.23.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": ""
+      }
+    ]
   }
 ]

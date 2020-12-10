@@ -1936,10 +1936,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.8.0",
+        "Version": "3.9.0",
         "VersionTag": "",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.8.0/VirtoCommerce.Quote_3.8.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.9.0/VirtoCommerce.Quote_3.9.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

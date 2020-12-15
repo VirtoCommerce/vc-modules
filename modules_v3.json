@@ -724,9 +724,9 @@
       },
       {
         "Version": "3.12.0",
-        "VersionTag": "alpha.152",
+        "VersionTag": "alpha.154",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.12.0-alpha.152.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.12.0-alpha.154.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": ""

@@ -1610,10 +1610,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.7.0",
-        "VersionTag": "alpha.116",
+        "Version": "3.8.0",
+        "VersionTag": "alpha.121",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.7.0-alpha.116.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.8.0-alpha.121.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

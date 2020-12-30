@@ -1588,10 +1588,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.6.0",
+        "Version": "3.7.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/3.6.0/VirtoCommerce.CatalogPersonalization_3.6.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/3.7.0/VirtoCommerce.CatalogPersonalization_3.7.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

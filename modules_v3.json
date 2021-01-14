@@ -2460,9 +2460,9 @@
       },
       {
         "Version": "3.2.0",
-        "VersionTag": "alpha.77",
+        "VersionTag": "alpha.79",
         "PlatformVersion": "3.30.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.2.0-alpha.77.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.2.0-alpha.79.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

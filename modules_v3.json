@@ -2426,7 +2426,7 @@
   },
   {
     "Id": "VirtoCommerce.WebHooks",
-    "Title": "Webhooks (preview)",
+    "Title": "Webhooks",
     "Description": "Manage user defined webhooks",
     "Authors": [
       "Eugeny Tatarincev",
@@ -2460,9 +2460,9 @@
       },
       {
         "Version": "3.2.0",
-        "VersionTag": "alpha.81",
+        "VersionTag": "alpha.82",
         "PlatformVersion": "3.30.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.2.0-alpha.81.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.2.0-alpha.82.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

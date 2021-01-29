@@ -2473,14 +2473,17 @@
   {
     "Id": "VirtoCommerce.EventBus",
     "Title": "EventBus",
-    "Description": "",
-    "Authors": [],
+    "Description": "The module manage/handle subscriptions of events",
+    "Authors": [
+      "Andrei Kostyrin",
+      "Konstantin Savosteev"
+    ],
     "Owners": [
       "Virto Commerce"
     ],
     "LicenseUrl": null,
     "ProjectUrl": null,
-    "IconUrl": null,
+    "IconUrl": "Modules/$(VirtoCommerce.EventBus)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2021 . All rights reserved",
     "Tags": "eventbus module",
@@ -2488,9 +2491,9 @@
     "Versions": [
       {
         "Version": "0.1.0",
-        "VersionTag": "alpha.5",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_0.1.0-alpha.5.zip",
+        "VersionTag": "alpha.6",
+        "PlatformVersion": "3.30.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_0.1.0-alpha.6.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

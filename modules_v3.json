@@ -810,9 +810,9 @@
       },
       {
         "Version": "3.23.0",
-        "VersionTag": "alpha.852",
+        "VersionTag": "alpha.853",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.23.0-alpha.852.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.23.0-alpha.853.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -829,7 +829,7 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.0.0"
+            "Version": "3.10.0"
           },
           {
             "Id": "VirtoCommerce.Payment",

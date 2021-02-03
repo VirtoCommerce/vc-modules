@@ -1067,10 +1067,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.6.0",
-        "VersionTag": "alpha.58",
+        "Version": "3.7.0",
+        "VersionTag": "alpha.59",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.6.0-alpha.58.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.7.0-alpha.59.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

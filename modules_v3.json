@@ -2472,8 +2472,8 @@
   },
   {
     "Id": "VirtoCommerce.EventBus",
-    "Title": "EventBus",
-    "Description": "The module manage/handle subscriptions of events",
+    "Title": "Event Bus module",
+    "Description": "The module enables you to be notified of new messages or changes via a Message Queue of your choice",
     "Authors": [
       "Andrei Kostyrin",
       "Konstantin Savosteev"
@@ -2486,14 +2486,14 @@
     "IconUrl": "Modules/$(VirtoCommerce.EventBus)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2021 . All rights reserved",
-    "Tags": "eventbus module",
+    "Tags": "eventbus azureveventgrid",
     "Groups": null,
     "Versions": [
       {
-        "Version": "0.1.0",
-        "VersionTag": "alpha.14",
+        "Version": "1.0.0",
+        "VersionTag": "alpha.15",
         "PlatformVersion": "3.30.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_0.1.0-alpha.14.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_0.1.0-alpha.15.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

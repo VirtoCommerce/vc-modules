@@ -2491,6 +2491,15 @@
     "Versions": [
       {
         "Version": "1.0.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.30.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-event-bus/releases/download/1.0.0/VirtoCommerce.EventBus_1.0.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": ""
+      },
+      {
+        "Version": "1.0.0",
         "VersionTag": "alpha.17",
         "PlatformVersion": "3.30.0",
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_1.0.0-alpha.17.zip",

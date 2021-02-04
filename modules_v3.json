@@ -1807,10 +1807,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.14.0",
-        "VersionTag": "alpha.144",
+        "Version": "3.15.0",
+        "VersionTag": "alpha.145",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.14.0-alpha.144.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.15.0-alpha.145.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

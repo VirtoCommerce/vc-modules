@@ -1975,10 +1975,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.12.0",
-        "VersionTag": "alpha.217",
+        "Version": "3.13.0",
+        "VersionTag": "alpha.218",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.12.0-alpha.217.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.13.0-alpha.218.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

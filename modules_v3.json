@@ -460,9 +460,9 @@
       },
       {
         "Version": "3.9.0",
-        "VersionTag": "alpha.86",
+        "VersionTag": "alpha.88",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Export_3.9.0-alpha.86.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Export_3.9.0-alpha.88.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": null

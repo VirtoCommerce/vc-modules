@@ -551,9 +551,9 @@
       },
       {
         "Version": "3.14.0",
-        "VersionTag": "alpha.273",
+        "VersionTag": "alpha.274",
         "PlatformVersion": "3.12.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.14.0-alpha.273.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.14.0-alpha.274.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

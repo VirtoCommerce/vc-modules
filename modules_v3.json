@@ -670,10 +670,10 @@
         "ReleaseNotes": "Third version."
       },
       {
-        "Version": "3.18.0",
-        "VersionTag": "alpha.644",
+        "Version": "3.19.0",
+        "VersionTag": "alpha.645",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.18.0-alpha.644.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.19.0-alpha.645.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

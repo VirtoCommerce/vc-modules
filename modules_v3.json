@@ -2504,5 +2504,39 @@
         "ReleaseNotes": ""
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.CustomerSegments",
+    "Title": "Dynamic Customer Segments",
+    "Description": "Assign tags to Customers by dynamic rules",
+    "Authors": [
+      "Egidijus Mažeika"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": null,
+    "IconUrl": "Modules/$(VirtoCommerce.CustomerSegments)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2021-2021 Virto Commerce. All rights reserved",
+    "Tags": "dynamic customer segmentation tagging",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "VersionTag": "alpha",
+        "PlatformVersion": "3.30.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerSegments_1.0.0-alpha.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.20.0"
+          }
+        ],
+        "ReleaseNotes": null
+      }
+    ]
   }
 ]

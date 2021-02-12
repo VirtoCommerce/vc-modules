@@ -2532,7 +2532,7 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.20.0"
+            "Version": "3.23.0"
           }
         ],
         "ReleaseNotes": null

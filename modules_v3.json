@@ -2524,10 +2524,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "VersionTag": "alpha",
         "PlatformVersion": "3.30.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-segments/releases/download/1.0.0/VirtoCommerce.CustomerSegments_1.0.0.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerSegments_1.1.0-alpha.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

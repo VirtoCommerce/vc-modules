@@ -2510,7 +2510,8 @@
     "Title": "Dynamic Customer Segments",
     "Description": "Assign tags to Customers by dynamic rules",
     "Authors": [
-      "Egidijus Mažeika"
+      "Egidijus Mažeika",
+      "Konstantin Savosteev"
     ],
     "Owners": [
       "Virto Commerce"

@@ -2525,10 +2525,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "1.1.0",
-        "VersionTag": "alpha",
+        "Version": "1.2.0",
+        "VersionTag": "alpha.18",
         "PlatformVersion": "3.30.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerSegments_1.1.0-alpha.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerSegments_1.2.0-alpha.18.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

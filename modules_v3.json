@@ -1182,7 +1182,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-store-module",
     "IconUrl": "Modules/$(VirtoCommerce.Store)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "stores",
     "Groups": [
       "commerce"
@@ -1208,9 +1208,9 @@
       },
       {
         "Version": "3.14.0",
-        "VersionTag": "alpha.502",
-        "PlatformVersion": "3.13.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.14.0-alpha.502.zip",
+        "VersionTag": "alpha.503",
+        "PlatformVersion": "3.47.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.14.0-alpha.503.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

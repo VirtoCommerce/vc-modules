@@ -1207,10 +1207,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.15.0",
-        "VersionTag": "alpha.510",
+        "Version": "3.16.0",
+        "VersionTag": "alpha.511",
         "PlatformVersion": "3.47.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.15.0-alpha.510.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.16.0-alpha.511.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

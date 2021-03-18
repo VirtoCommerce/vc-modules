@@ -2109,52 +2109,10 @@
     ],
     "Versions": [
       {
-        "Version": "0.28.0",
+        "Version": "0.29.0",
         "VersionTag": "",
         "PlatformVersion": "3.47.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/0.28.0/VirtoCommerce.ExperienceApi_0.28.0.zip",
-        "Incompatibilities": [],
-        "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Cart",
-            "Version": "3.2.0"
-          },
-          {
-            "Id": "VirtoCommerce.Marketing",
-            "Version": "3.4.0"
-          },
-          {
-            "Id": "VirtoCommerce.Inventory",
-            "Version": "3.2.0"
-          },
-          {
-            "Id": "VirtoCommerce.Payment",
-            "Version": "3.1.0"
-          },
-          {
-            "Id": "VirtoCommerce.Shipping",
-            "Version": "3.1.0"
-          },
-          {
-            "Id": "VirtoCommerce.Customer",
-            "Version": "3.1.0"
-          },
-          {
-            "Id": "VirtoCommerce.Orders",
-            "Version": "3.16.0"
-          },
-          {
-            "Id": "VirtoCommerce.Store",
-            "Version": "3.14.0"
-          }
-        ],
-        "ReleaseNotes": ""
-      },
-      {
-        "Version": "1.1.0",
-        "VersionTag": "alpha.580",
-        "PlatformVersion": "3.47.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_1.1.0-alpha.580.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/1.0.0/VirtoCommerce.ExperienceApi_1.0.0.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

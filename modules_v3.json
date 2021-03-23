@@ -1655,10 +1655,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.7.0",
+        "Version": "3.8.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/3.7.0/VirtoCommerce.CatalogPublishing_3.7.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/3.8.0/VirtoCommerce.CatalogPublishing_3.8.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -1368,13 +1368,15 @@
       "Andrew Nikutin",
       "Evgeny Gusev"
     ],
-    "Owners": null,
+    "Owners": [
+      "Virto Commerce"
+    ],
     "LicenseUrl": null,
     "ProjectUrl": null,
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": null,
-    "Tags": null,
+    "Copyright": "Copyright © 2021 Virto Commerce. All rights reserved",
+    "Tags": "customer review",
     "Groups": null,
     "Versions": [
       {

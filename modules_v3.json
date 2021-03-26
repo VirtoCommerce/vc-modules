@@ -2443,7 +2443,7 @@
     "ProjectUrl": null,
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2020 . All rights reserved",
+    "Copyright": "Copyright © 2021. All rights reserved",
     "Tags": "webhooks module",
     "Groups": null,
     "Versions": [
@@ -2463,9 +2463,9 @@
       },
       {
         "Version": "3.5.0",
-        "VersionTag": "alpha.87",
+        "VersionTag": "alpha.90",
         "PlatformVersion": "3.30.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.5.0-alpha.87.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.5.0-alpha.90.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

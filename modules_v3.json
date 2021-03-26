@@ -1368,13 +1368,15 @@
       "Andrew Nikutin",
       "Evgeny Gusev"
     ],
-    "Owners": null,
+    "Owners": [
+      "Virto Commerce"
+    ],
     "LicenseUrl": null,
     "ProjectUrl": null,
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": null,
-    "Tags": null,
+    "Copyright": "Copyright © 2021 Virto Commerce. All rights reserved",
+    "Tags": "customer review",
     "Groups": null,
     "Versions": [
       {
@@ -1396,10 +1398,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.3.0",
-        "VersionTag": "alpha.50",
+        "Version": "3.4.0",
+        "VersionTag": "alpha.52",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.3.0-alpha.50.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.4.0-alpha.52.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

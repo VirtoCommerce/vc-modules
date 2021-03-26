@@ -1368,22 +1368,20 @@
       "Andrew Nikutin",
       "Evgeny Gusev"
     ],
-    "Owners": [
-      "Virto Commerce"
-    ],
+    "Owners": null,
     "LicenseUrl": null,
     "ProjectUrl": null,
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2021 Virto Commerce. All rights reserved",
-    "Tags": "customer review",
+    "Copyright": null,
+    "Tags": null,
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.2.0",
+        "Version": "3.3.0",
         "VersionTag": "",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.2.0/VirtoCommerce.CustomerReviews_3.2.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.3.0/VirtoCommerce.CustomerReviews_3.3.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

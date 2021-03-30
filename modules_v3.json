@@ -2149,6 +2149,48 @@
           }
         ],
         "ReleaseNotes": ""
+      },
+      {
+        "Version": "1.5.0",
+        "VersionTag": "alpha.588",
+        "PlatformVersion": "3.47.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_1.5.0-alpha.588.zip",
+        "Incompatibilities": [],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Cart",
+            "Version": "3.2.0"
+          },
+          {
+            "Id": "VirtoCommerce.Marketing",
+            "Version": "3.4.0"
+          },
+          {
+            "Id": "VirtoCommerce.Inventory",
+            "Version": "3.2.0"
+          },
+          {
+            "Id": "VirtoCommerce.Payment",
+            "Version": "3.1.0"
+          },
+          {
+            "Id": "VirtoCommerce.Shipping",
+            "Version": "3.1.0"
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.1.0"
+          },
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.16.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.14.0"
+          }
+        ],
+        "ReleaseNotes": ""
       }
     ]
   },

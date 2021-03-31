@@ -1208,9 +1208,9 @@
       },
       {
         "Version": "3.17.0",
-        "VersionTag": "alpha.516",
+        "VersionTag": "alpha.517",
         "PlatformVersion": "3.47.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.17.0-alpha.516.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.17.0-alpha.517.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1219,7 +1219,7 @@
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.0.0"
+            "Version": "3.14.0"
           }
         ],
         "ReleaseNotes": ""

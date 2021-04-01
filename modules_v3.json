@@ -763,10 +763,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.26.0",
+        "Version": "3.27.0",
         "VersionTag": "",
-        "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.26.0/VirtoCommerce.Orders_3.26.0.zip",
+        "PlatformVersion": "3.47.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.27.0/VirtoCommerce.Orders_3.27.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -783,7 +783,7 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.10.0"
+            "Version": "3.17.0"
           },
           {
             "Id": "VirtoCommerce.Payment",
@@ -795,7 +795,7 @@
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.0.0"
+            "Version": "3.14.0"
           },
           {
             "Id": "VirtoCommerce.Cart",

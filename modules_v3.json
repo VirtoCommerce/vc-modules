@@ -1275,9 +1275,9 @@
       },
       {
         "Version": "3.11.0",
-        "VersionTag": "alpha.198",
-        "PlatformVersion": "3.13.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.11.0-alpha.198.zip",
+        "VersionTag": "alpha.201",
+        "PlatformVersion": "3.47.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.11.0-alpha.201.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1289,8 +1289,12 @@
             "Version": "3.0.0"
           },
           {
+            "Id": "VirtoCommerce.Notifications",
+            "Version": "3.14.0"
+          },
+          {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.0.0"
+            "Version": "3.17.0"
           },
           {
             "Id": "VirtoCommerce.Customer",

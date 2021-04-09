@@ -1068,9 +1068,9 @@
       },
       {
         "Version": "3.7.0",
-        "VersionTag": "alpha.62",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.7.0-alpha.62.zip",
+        "VersionTag": "alpha.65",
+        "PlatformVersion": "3.51.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.7.0-alpha.65.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -763,10 +763,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.28.0",
+        "Version": "3.29.0",
         "VersionTag": "",
         "PlatformVersion": "3.47.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.28.0/VirtoCommerce.Orders_3.28.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.29.0/VirtoCommerce.Orders_3.29.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

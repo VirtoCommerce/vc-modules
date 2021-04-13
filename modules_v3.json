@@ -1002,7 +1002,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
     "IconUrl": "Modules/$(VirtoCommerce.Search)/Content/logoVC.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "security core",
     "Groups": [
       "commerce"
@@ -1019,9 +1019,9 @@
       },
       {
         "Version": "3.12.0",
-        "VersionTag": "alpha.515",
+        "VersionTag": "alpha.518",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.12.0-alpha.515.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.12.0-alpha.518.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

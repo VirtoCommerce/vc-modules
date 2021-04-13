@@ -1948,7 +1948,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/quote-module",
     "IconUrl": "Modules/$(VirtoCommerce.Quote)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "b2b quotes",
     "Groups": null,
     "Versions": [
@@ -1984,9 +1984,9 @@
       },
       {
         "Version": "3.15.0",
-        "VersionTag": "alpha.227",
+        "VersionTag": "alpha.228",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.15.0-alpha.227.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.15.0-alpha.228.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

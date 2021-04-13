@@ -1100,7 +1100,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/automatic-sitemaps-module",
     "IconUrl": "Modules/$(VirtoCommerce.Sitemaps)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "sitemaps",
     "Groups": [
       "commerce"
@@ -1138,9 +1138,9 @@
       },
       {
         "Version": "3.8.0",
-        "VersionTag": "alpha.209",
+        "VersionTag": "alpha.210",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.8.0-alpha.209.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.8.0-alpha.210.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

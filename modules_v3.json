@@ -1591,7 +1591,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization",
     "IconUrl": "Modules/$(VirtoCommerce.CatalogPersonalization)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2012 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "catalog personalization products categories",
     "Groups": null,
     "Versions": [
@@ -1618,10 +1618,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.9.0",
-        "VersionTag": "alpha.127",
+        "Version": "3.10.0",
+        "VersionTag": "alpha.131",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.9.0-alpha.127.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.10.0-alpha.131.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

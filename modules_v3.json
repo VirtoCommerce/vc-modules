@@ -2618,5 +2618,34 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.FeatureManagement",
+    "Title": "Feature management module",
+    "Description": "Module provides feature management infrastructure",
+    "Authors": [
+      "Solution team"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-feature-flags",
+    "IconUrl": "Modules/$(VirtoCommerce.FeatureManagement)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
+    "Tags": "feature",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.0.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.49.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-feature-flags/releases/download/3.0.0/VirtoCommerce.FeatureManagement_3.0.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

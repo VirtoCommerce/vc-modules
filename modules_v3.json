@@ -2593,6 +2593,32 @@
     "Versions": [
       {
         "Version": "1.0.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.49.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-simple-export-import/releases/download/1.0.0/VirtoCommerce.SimpleExportImport_1.0.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Pricing",
+            "Version": "3.19.0"
+          },
+          {
+            "Id": "VirtoCommerce.FeatureManagement",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.35.0"
+          },
+          {
+            "Id": "VirtoCommerce.Export",
+            "Version": "3.11.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "1.0.0",
         "VersionTag": "alpha.44",
         "PlatformVersion": "3.49.0",
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SimpleExportImport_1.0.0-alpha.44.zip",

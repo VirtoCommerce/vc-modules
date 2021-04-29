@@ -2593,9 +2593,9 @@
     "Versions": [
       {
         "Version": "1.0.0",
-        "VersionTag": "alpha.43",
+        "VersionTag": "alpha.44",
         "PlatformVersion": "3.49.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SimpleExportImport_1.0.0-alpha.43.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SimpleExportImport_1.0.0-alpha.44.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

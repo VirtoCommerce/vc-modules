@@ -1019,9 +1019,9 @@
       },
       {
         "Version": "3.12.0",
-        "VersionTag": "alpha.518",
+        "VersionTag": "alpha.519",
         "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.12.0-alpha.518.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.12.0-alpha.519.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

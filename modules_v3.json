@@ -2673,5 +2673,56 @@
         "ReleaseNotes": null
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.PriceExportImport",
+    "Title": "Price Export Import",
+    "Description": "This module adds prices export and import functionality using it for price management.",
+    "Authors": [
+      "Solution team"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-price-export-import",
+    "IconUrl": "Modules/$(VirtoCommerce.PriceExportImport)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
+    "Tags": "price import export",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "1.1.0",
+        "VersionTag": "alpha.47",
+        "PlatformVersion": "3.49.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PriceExportImport_1.1.0-alpha.47.zip",
+        "Incompatibilities": [
+          {
+            "Id": "VirtoCommerce.SimpleExportImport",
+            "Version": "1.0.0"
+          }
+        ],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Pricing",
+            "Version": "3.19.0"
+          },
+          {
+            "Id": "VirtoCommerce.FeatureManagement",
+            "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.35.0"
+          },
+          {
+            "Id": "VirtoCommerce.Export",
+            "Version": "3.11.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

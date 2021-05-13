@@ -2079,10 +2079,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "1.7.0",
-        "VersionTag": "alpha.601",
+        "Version": "1.8.0",
+        "VersionTag": "alpha.602",
         "PlatformVersion": "3.47.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_1.7.0-alpha.601.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_1.8.0-alpha.602.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

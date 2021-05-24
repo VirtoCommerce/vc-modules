@@ -1207,10 +1207,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.18.0",
-        "VersionTag": "alpha.523",
+        "Version": "3.19.0",
+        "VersionTag": "alpha.524",
         "PlatformVersion": "3.57.0-alpha.11893",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.18.0-alpha.523.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.19.0-alpha.524.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

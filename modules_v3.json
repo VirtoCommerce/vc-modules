@@ -502,9 +502,9 @@
       },
       {
         "Version": "3.12.0",
-        "VersionTag": "alpha.206",
-        "PlatformVersion": "3.57.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.12.0-alpha.206.zip",
+        "VersionTag": "alpha.207",
+        "PlatformVersion": "3.5.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.12.0-alpha.207.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": "First version."

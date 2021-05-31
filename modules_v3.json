@@ -2704,9 +2704,9 @@
     "Versions": [
       {
         "Version": "1.0.0",
-        "VersionTag": "alpha.20",
+        "VersionTag": "alpha.21",
         "PlatformVersion": "3.53.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_1.0.0-alpha.20.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_1.0.0-alpha.21.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

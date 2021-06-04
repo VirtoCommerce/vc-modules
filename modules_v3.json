@@ -1873,10 +1873,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.14.0",
+        "Version": "3.15.0",
         "VersionTag": "",
         "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.14.0/VirtoCommerce.Quote_3.14.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.15.0/VirtoCommerce.Quote_3.15.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

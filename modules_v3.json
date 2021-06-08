@@ -1189,10 +1189,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.18.0",
+        "Version": "3.19.0",
         "VersionTag": "",
-        "PlatformVersion": "3.57.0-alpha.11893",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.18.0/VirtoCommerce.Store_3.18.0.zip",
+        "PlatformVersion": "3.60.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.19.0/VirtoCommerce.Store_3.19.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

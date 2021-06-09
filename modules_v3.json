@@ -393,7 +393,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search",
     "IconUrl": "Modules/$(VirtoCommerce.Elasticsearch)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2020 - 2021 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2020 Virto Commerce. All rights reserved",
     "Tags": "elastic search",
     "Groups": [
       "commerce"

@@ -54,7 +54,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-azure-search-module",
     "IconUrl": "Modules/$(VirtoCommerce.AzureSearch)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2020 - 2021 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2020 Virto Commerce. All rights reserved",
     "Tags": "azure search",
     "Groups": [
       "commerce"

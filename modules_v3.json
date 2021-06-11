@@ -961,10 +961,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.22.0",
-        "VersionTag": "alpha.508",
+        "Version": "3.23.0",
+        "VersionTag": "alpha.510",
         "PlatformVersion": "3.59.0-alpha.11906",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.22.0-alpha.508.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.23.0-alpha.510.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

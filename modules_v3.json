@@ -1049,10 +1049,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.7.0",
+        "Version": "3.8.0",
         "VersionTag": "",
         "PlatformVersion": "3.51.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.7.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-shipping/releases/download/3.8.0/VirtoCommerce.Shipping_3.8.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

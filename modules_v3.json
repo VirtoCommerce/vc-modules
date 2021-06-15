@@ -1348,10 +1348,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.8.0",
-        "VersionTag": "alpha.64",
+        "Version": "3.9.0",
+        "VersionTag": "alpha.67",
         "PlatformVersion": "3.51.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Tax_3.8.0-alpha.64.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Tax_3.9.0-alpha.67.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

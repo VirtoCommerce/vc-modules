@@ -193,10 +193,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.47.0",
+        "Version": "3.48.0",
         "VersionTag": "",
-        "PlatformVersion": "3.60.0-alpha.11919",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.47.0/VirtoCommerce.Catalog_3.47.0.zip",
+        "PlatformVersion": "3.62.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.48.0/VirtoCommerce.Catalog_3.48.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

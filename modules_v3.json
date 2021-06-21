@@ -31,9 +31,9 @@
       },
       {
         "Version": "3.18.0",
-        "VersionTag": "alpha.1439",
-        "PlatformVersion": "3.60.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.18.0-alpha.1439.zip",
+        "VersionTag": "alpha.1443",
+        "PlatformVersion": "3.66.0-alpha.11984",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.18.0-alpha.1443.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

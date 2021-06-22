@@ -2481,9 +2481,9 @@
       },
       {
         "Version": "1.4.0",
-        "VersionTag": "alpha.30",
-        "PlatformVersion": "3.30.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerSegments_1.4.0-alpha.30.zip",
+        "VersionTag": "alpha.31",
+        "PlatformVersion": "3.66.0-alpha.11986",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerSegments_1.4.0-alpha.31.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

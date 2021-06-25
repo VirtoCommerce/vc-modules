@@ -763,10 +763,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.32.0",
+        "Version": "3.33.0",
         "VersionTag": "",
-        "PlatformVersion": "3.51.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.32.0/VirtoCommerce.Orders_3.32.0.zip",
+        "PlatformVersion": "3.57.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.33.0/VirtoCommerce.Orders_3.33.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -804,6 +804,10 @@
           {
             "Id": "VirtoCommerce.Inventory",
             "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.13.0"
           }
         ],
         "ReleaseNotes": null

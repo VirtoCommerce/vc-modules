@@ -2638,10 +2638,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "1.1.0",
+        "Version": "1.2.0",
         "VersionTag": "",
         "PlatformVersion": "3.49.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-price-export-import/releases/download/1.1.0/VirtoCommerce.PriceExportImport_1.1.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-price-export-import/releases/download/1.2.0/VirtoCommerce.PriceExportImport_1.2.0.zip",
         "Incompatibilities": [
           {
             "Id": "VirtoCommerce.SimpleExportImport",

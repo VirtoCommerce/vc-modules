@@ -732,10 +732,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.18.0",
-        "VersionTag": "alpha.188",
+        "Version": "3.19.0",
+        "VersionTag": "alpha.189",
         "PlatformVersion": "3.51.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.18.0-alpha.188.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.19.0-alpha.189.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": ""

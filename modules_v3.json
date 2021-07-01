@@ -814,9 +814,9 @@
       },
       {
         "Version": "3.34.0",
-        "VersionTag": "alpha.894",
+        "VersionTag": "alpha.895",
         "PlatformVersion": "3.57.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.34.0-alpha.894.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.34.0-alpha.895.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

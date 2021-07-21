@@ -2729,6 +2729,28 @@
     "Versions": [
       {
         "Version": "1.0.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.65.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import/releases/download/1.0.0/VirtoCommerce.CustomerExportImport_1.0.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.28.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.17.0"
+          },
+          {
+            "Id": "VirtoCommerce.FeatureManagement",
+            "Version": "3.0.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "1.0.0",
         "VersionTag": "alpha.56",
         "PlatformVersion": "3.65.0",
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_1.0.0-alpha.56.zip",

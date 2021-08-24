@@ -2045,12 +2045,16 @@
     ],
     "Versions": [
       {
-        "Version": "1.25.0",
+        "Version": "1.26.0",
         "VersionTag": "",
         "PlatformVersion": "3.66.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/1.25.0/VirtoCommerce.ExperienceApi_1.25.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/1.26.0/VirtoCommerce.ExperienceApi_1.26.0.zip",
         "Incompatibilities": [],
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.20.0"
+          },
           {
             "Id": "VirtoCommerce.Cart",
             "Version": "3.17.0"
@@ -2081,7 +2085,7 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.14.0"
+            "Version": "3.21.0"
           },
           {
             "Id": "VirtoCommerce.Catalog",

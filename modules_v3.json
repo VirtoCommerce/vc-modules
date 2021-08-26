@@ -2870,9 +2870,9 @@
     "Versions": [
       {
         "Version": "1.0.0",
-        "VersionTag": "alpha.28",
-        "PlatformVersion": "3.23.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DescriptionExportImport_1.0.0-alpha.28.zip",
+        "VersionTag": "alpha.29",
+        "PlatformVersion": "3.57.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DescriptionExportImport_1.0.0-alpha.29.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

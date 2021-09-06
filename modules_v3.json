@@ -2812,14 +2812,14 @@
     "Versions": [
       {
         "Version": "1.14.0",
-        "VersionTag": "alpha.248",
-        "PlatformVersion": "3.49.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoSolutionFeatures_1.14.0-alpha.248.zip",
+        "VersionTag": "alpha.253",
+        "PlatformVersion": "3.62.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DemoSolutionFeatures_1.14.0-alpha.253.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.10.0"
+            "Version": "3.14.0"
           },
           {
             "Id": "VirtoCommerce.Customer",
@@ -2827,7 +2827,7 @@
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.11.0"
+            "Version": "3.36.0"
           },
           {
             "Id": "VirtoCommerce.Payment",
@@ -2835,7 +2835,7 @@
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.7.0"
+            "Version": "3.21.0"
           },
           {
             "Id": "VirtoCommerce.Catalog",

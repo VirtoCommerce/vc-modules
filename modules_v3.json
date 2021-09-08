@@ -431,7 +431,7 @@
   },
   {
     "Id": "VirtoCommerce.Export",
-    "Title": "Export module",
+    "Title": "Generic Export module",
     "Description": "Generic export functionality",
     "Authors": [
       "Virto Commerce"
@@ -460,9 +460,9 @@
       },
       {
         "Version": "3.15.0",
-        "VersionTag": "alpha.121",
+        "VersionTag": "alpha.123",
         "PlatformVersion": "3.66.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Export_3.15.0-alpha.121.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Export_3.15.0-alpha.123.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": null

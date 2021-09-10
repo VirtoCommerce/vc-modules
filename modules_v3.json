@@ -224,9 +224,9 @@
       },
       {
         "Version": "3.64.0",
-        "VersionTag": "alpha.1772",
+        "VersionTag": "alpha.1773",
         "PlatformVersion": "3.78.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.64.0-alpha.1772.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.64.0-alpha.1773.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

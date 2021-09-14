@@ -142,14 +142,14 @@
       },
       {
         "Version": "3.24.0",
-        "VersionTag": "alpha.493",
+        "VersionTag": "alpha.494",
         "PlatformVersion": "3.62.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Cart_3.24.0-alpha.493.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Cart_3.24.0-alpha.494.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.20.0"
+            "Version": "3.22.0"
           },
           {
             "Id": "VirtoCommerce.Store",

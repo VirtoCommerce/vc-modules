@@ -357,9 +357,9 @@
       },
       {
         "Version": "3.33.0",
-        "VersionTag": "alpha.609",
+        "VersionTag": "alpha.610",
         "PlatformVersion": "3.62.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.33.0-alpha.609.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.33.0-alpha.610.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

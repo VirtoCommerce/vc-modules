@@ -350,7 +350,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "images",
     "Groups": [
-      "commerce"
+      "commerce",
+      "demo"
     ],
     "Versions": [
       {

@@ -546,14 +546,15 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "order system",
     "Groups": [
-      "commerce"
+      "commerce",
+      "demo"
     ],
     "Versions": [
       {
-        "Version": "3.37.0",
+        "Version": "3.36.0",
         "VersionTag": "",
-        "PlatformVersion": "3.78.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.37.0/VirtoCommerce.Orders_3.37.0.zip",
+        "PlatformVersion": "3.57.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.36.0/VirtoCommerce.Orders_3.36.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

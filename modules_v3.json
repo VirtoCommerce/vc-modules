@@ -1216,9 +1216,9 @@
       },
       {
         "Version": "3.23.0",
-        "VersionTag": "alpha.546",
+        "VersionTag": "alpha.547",
         "PlatformVersion": "3.78.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.23.0-alpha.546.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.23.0-alpha.547.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

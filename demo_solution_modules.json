@@ -660,7 +660,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "price pricelist merchandise",
     "Groups": [
-      "commerce"
+      "commerce",
+      "demo"
     ],
     "Versions": [
       {

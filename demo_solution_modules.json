@@ -1814,13 +1814,15 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2021 Virto Commerce. All rights reserved",
     "Tags": "description export import",
-    "Groups": null,
+    "Groups": [
+      "demo"
+    ],
     "Versions": [
       {
         "Version": "1.0.0",
-        "VersionTag": "alpha.38",
+        "VersionTag": "",
         "PlatformVersion": "3.57.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DescriptionExportImport_1.0.0-alpha.38.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DescriptionExportImport_1.0.0-pr-12-936500e9.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

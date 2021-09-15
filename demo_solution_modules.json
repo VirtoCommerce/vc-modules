@@ -316,14 +316,15 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "export",
     "Groups": [
-      "commerce"
+      "commerce",
+      "demo"
     ],
     "Versions": [
       {
-        "Version": "3.15.0",
+        "Version": "3.14.0",
         "VersionTag": "",
         "PlatformVersion": "3.66.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-export/releases/download/3.15.0/VirtoCommerce.Export_3.15.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-export/releases/download/3.14.0/VirtoCommerce.Export_3.14.0.zip",
         "Incompatibilities": null,
         "Dependencies": null,
         "ReleaseNotes": null

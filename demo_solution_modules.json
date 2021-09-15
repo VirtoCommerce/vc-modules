@@ -192,14 +192,15 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "cms menu",
     "Groups": [
-      "commerce"
+      "commerce",
+      "demo"
     ],
     "Versions": [
       {
-        "Version": "3.13.0",
+        "Version": "3.11.0",
         "VersionTag": "",
-        "PlatformVersion": "3.76.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/3.13.0/VirtoCommerce.Content_3.13.0.zip",
+        "PlatformVersion": "3.26.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/3.11.0/VirtoCommerce.Content_3.11.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

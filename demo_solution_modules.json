@@ -930,7 +930,8 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "stores",
     "Groups": [
-      "commerce"
+      "commerce",
+      "demo"
     ],
     "Versions": [
       {

@@ -1012,7 +1012,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
     "Tags": "Authorize.Net payment gateway",
-    "Groups": null,
+    "Groups": [
+      "demo"
+    ],
     "Versions": [
       {
         "Version": "3.4.0",

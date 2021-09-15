@@ -1114,7 +1114,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "catalog personalization products categories",
-    "Groups": null,
+    "Groups": [
+      "demo"
+    ],
     "Versions": [
       {
         "Version": "3.10.0",

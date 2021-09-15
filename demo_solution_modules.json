@@ -1389,14 +1389,15 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "security core",
     "Groups": [
-      "commerce"
+      "commerce",
+      "demo"
     ],
     "Versions": [
       {
-        "Version": "1.29.0",
+        "Version": "1.24.0",
         "VersionTag": "",
         "PlatformVersion": "3.66.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/1.29.0/VirtoCommerce.ExperienceApi_1.29.0.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_1.24.0-pr-192.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

@@ -835,14 +835,15 @@
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "stores",
     "Groups": [
-      "commerce"
+      "commerce",
+      "demo"
     ],
     "Versions": [
       {
-        "Version": "3.22.0",
+        "Version": "3.21.0",
         "VersionTag": "",
-        "PlatformVersion": "3.78.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.22.0/VirtoCommerce.Store_3.22.0.zip",
+        "PlatformVersion": "3.60.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.21.0/VirtoCommerce.Store_3.21.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

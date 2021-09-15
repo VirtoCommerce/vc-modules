@@ -1161,7 +1161,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2020 - 2021 Virto Commerce. All rights reserved",
     "Tags": "publishing filling",
-    "Groups": null,
+    "Groups": [
+      "demo"
+    ],
     "Versions": [
       {
         "Version": "3.8.0",

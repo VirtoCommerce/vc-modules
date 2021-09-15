@@ -1202,7 +1202,8 @@
     "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
     "Tags": "cms contentful",
     "Groups": [
-      "commerce"
+      "commerce",
+      "demo"
     ],
     "Versions": [
       {

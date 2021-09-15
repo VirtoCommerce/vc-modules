@@ -1332,7 +1332,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2020-2021 Virto Commerce. All rights reserved",
     "Tags": "dynamicAssociations",
-    "Groups": null,
+    "Groups": [
+      "demo"
+    ],
     "Versions": [
       {
         "Version": "3.6.0",

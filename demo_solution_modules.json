@@ -1056,7 +1056,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "avalara tax",
-    "Groups": null,
+    "Groups": [
+      "demo"
+    ],
     "Versions": [
       {
         "Version": "3.4.0",

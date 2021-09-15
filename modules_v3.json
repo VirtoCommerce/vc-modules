@@ -904,9 +904,9 @@
       },
       {
         "Version": "3.9.0",
-        "VersionTag": "alpha.104",
+        "VersionTag": "alpha.105",
         "PlatformVersion": "3.75.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Payment_3.8.0-alpha.104.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Payment_3.8.0-alpha.105.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

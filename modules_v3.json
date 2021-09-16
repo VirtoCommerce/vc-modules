@@ -813,10 +813,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.39.0",
-        "VersionTag": "alpha.921",
+        "Version": "3.40.0",
+        "VersionTag": "alpha.922",
         "PlatformVersion": "3.78.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.39.0-alpha.921.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.40.0-alpha.922.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

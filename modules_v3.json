@@ -1963,10 +1963,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.6.0",
+        "Version": "3.7.0",
         "VersionTag": "",
-        "PlatformVersion": "3.5.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-associations/releases/download/3.6.0/VirtoCommerce.DynamicAssociationsModule_3.6.0.zip",
+        "PlatformVersion": "3.51.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-associations/releases/download/3.7.0/VirtoCommerce.DynamicAssociationsModule_3.7.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

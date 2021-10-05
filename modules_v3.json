@@ -2921,5 +2921,39 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.CatalogExportImport",
+    "Title": "Catalog export import",
+    "Description": "This module adds catalog export and import functionality.",
+    "Authors": [
+      "Solution team"
+    ],
+    "Owners": [
+      ""
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-export-import",
+    "IconUrl": "Modules/$(VirtoCommerce.CatalogExportImport)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2021 Virto Commerce. All rights reserved",
+    "Tags": "catalog product description export import",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "VersionTag": "alpha.39",
+        "PlatformVersion": "3.57.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogExportImport_1.0.0-alpha.39.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.59.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

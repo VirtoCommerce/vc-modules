@@ -2907,10 +2907,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "1.0.0",
-        "VersionTag": "alpha.45",
+        "Version": "1.1.0",
+        "VersionTag": "alpha.46",
         "PlatformVersion": "3.57.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogExportImport_1.0.0-alpha.45.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogExportImport_1.1.0-alpha.46.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

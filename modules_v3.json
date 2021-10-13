@@ -2907,6 +2907,20 @@
     "Groups": null,
     "Versions": [
       {
+        "Version": "1.0.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.57.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-export-import/releases/download/1.0.0/VirtoCommerce.CatalogExportImport_1.0.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.59.0"
+          }
+        ],
+        "ReleaseNotes": "First version"
+      },
+      {
         "Version": "1.1.0",
         "VersionTag": "alpha.46",
         "PlatformVersion": "3.57.0",

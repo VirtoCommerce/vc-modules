@@ -2096,9 +2096,9 @@
       },
       {
         "Version": "1.39.0",
-        "VersionTag": "alpha.764",
+        "VersionTag": "alpha.765",
         "PlatformVersion": "3.66.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_1.39.0-alpha.764.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_1.39.0-alpha.765.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

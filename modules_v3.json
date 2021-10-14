@@ -3068,5 +3068,41 @@
         "ReleaseNotes": ""
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.FileSystemAssets",
+    "Title": "File system assets module",
+    "Description": "",
+    "Authors": [
+      "Virto Commerce"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://virtocommerce.com/apps/extensions/vc-module-filesystem-assets",
+    "IconUrl": "Modules/$(VirtoCommerce.FileSystemAssetsModule)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2021 Virto Commerce. All rights reserved",
+    "Tags": "assets",
+    "Groups": [
+      ""
+    ],
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "VersionTag": "alpha.4",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_1.0.0-alpha.4.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
+          }
+        ],
+        "ReleaseNotes": ""
+      }
+    ]
   }
 ]

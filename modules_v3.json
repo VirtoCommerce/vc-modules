@@ -3000,6 +3000,15 @@
     ],
     "Versions": [
       {
+        "Version": "1.0.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-assets/releases/download/1.0.0/VirtoCommerce.Assets_1.0.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": ""
+      },
+      {
         "Version": "1.1.0",
         "VersionTag": "alpha.5",
         "PlatformVersion": "3.81.0",

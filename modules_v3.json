@@ -2767,9 +2767,9 @@
       },
       {
         "Version": "1.2.0",
-        "VersionTag": "alpha.71",
+        "VersionTag": "alpha.72",
         "PlatformVersion": "3.65.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_1.2.0-alpha.71.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_1.2.0-alpha.72.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

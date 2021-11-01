@@ -1912,9 +1912,9 @@
       },
       {
         "Version": "3.17.0",
-        "VersionTag": "alpha.260",
+        "VersionTag": "alpha.261",
         "PlatformVersion": "3.51.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.17.0-alpha.260.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.17.0-alpha.261.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

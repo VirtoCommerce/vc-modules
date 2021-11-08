@@ -3113,7 +3113,7 @@
     "Copyright": "Copyright © 2021 Virto Commerce. All rights reserved",
     "Tags": "assets",
     "Groups": [
-      ""
+      "commerce"
     ],
     "Versions": [
       {
@@ -3132,9 +3132,9 @@
       },
       {
         "Version": "1.1.0",
-        "VersionTag": "alpha.5",
+        "VersionTag": "alpha.6",
         "PlatformVersion": "3.81.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_1.1.0-alpha.5.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_1.1.0-alpha.6.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -3172,6 +3172,20 @@
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "1.0.0",
+        "VersionTag": "alpha.18",
+        "PlatformVersion": "3.85.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GDPR_1.0.0-alpha.18.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.34.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
       }
     ]
   },

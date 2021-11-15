@@ -3117,10 +3117,10 @@
     ],
     "Versions": [
       {
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "VersionTag": "",
         "PlatformVersion": "3.81.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-filesystem-assets/releases/download/1.0.0/VirtoCommerce.FileSystemAssets_1.0.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-filesystem-assets/releases/download/1.1.0/VirtoCommerce.FileSystemAssets_1.1.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

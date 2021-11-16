@@ -773,12 +773,17 @@
     ],
     "Versions": [
       {
-        "Version": "3.18.0",
+        "Version": "3.19.0",
         "VersionTag": "",
-        "PlatformVersion": "3.51.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.18.0/VirtoCommerce.Notifications_3.18.0.zip",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.19.0/VirtoCommerce.Notifications_3.19.0.zip",
         "Incompatibilities": null,
-        "Dependencies": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
+          }
+        ],
         "ReleaseNotes": ""
       },
       {

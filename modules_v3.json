@@ -518,11 +518,16 @@
       },
       {
         "Version": "3.14.0",
-        "VersionTag": "alpha.223",
-        "PlatformVersion": "3.57.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.14.0-alpha.223.zip",
+        "VersionTag": "alpha.239",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.14.0-alpha.239.zip",
         "Incompatibilities": null,
-        "Dependencies": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
+          }
+        ],
         "ReleaseNotes": "First version."
       }
     ]

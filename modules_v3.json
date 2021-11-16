@@ -1003,10 +1003,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.27.0",
+        "Version": "3.28.0",
         "VersionTag": "",
-        "PlatformVersion": "3.80.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/3.27.0/VirtoCommerce.Pricing_3.27.0.zip",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/3.28.0/VirtoCommerce.Pricing_3.28.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1024,6 +1024,10 @@
           {
             "Id": "VirtoCommerce.Search",
             "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
           }
         ],
         "ReleaseNotes": null

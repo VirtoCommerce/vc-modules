@@ -687,9 +687,9 @@
       },
       {
         "Version": "3.30.0",
-        "VersionTag": "alpha.720",
-        "PlatformVersion": "3.61.0-alpha.11922",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.30.0-alpha.720.zip",
+        "VersionTag": "alpha.721",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.30.0-alpha.721.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -711,6 +711,10 @@
           {
             "Id": "VirtoCommerce.Payment",
             "Version": "3.4.0"
+          },
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
           }
         ],
         "ReleaseNotes": "Third version."

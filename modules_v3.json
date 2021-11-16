@@ -753,11 +753,16 @@
       },
       {
         "Version": "3.19.0",
-        "VersionTag": "alpha.216",
-        "PlatformVersion": "3.51.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.19.0-alpha.216.zip",
+        "VersionTag": "alpha.221",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.19.0-alpha.221.zip",
         "Incompatibilities": null,
-        "Dependencies": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
+          }
+        ],
         "ReleaseNotes": ""
       }
     ]

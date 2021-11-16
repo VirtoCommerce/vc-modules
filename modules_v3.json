@@ -1029,10 +1029,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.28.0",
-        "VersionTag": "alpha.547",
+        "Version": "3.29.0",
+        "VersionTag": "alpha.548",
         "PlatformVersion": "3.81.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.28.0-alpha.547.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.29.0-alpha.548.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

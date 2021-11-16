@@ -2620,10 +2620,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.28.0",
+        "Version": "3.29.0",
         "VersionTag": "",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-csv-import/releases/download/3.28.0/VirtoCommerce.CatalogCsvImportModule_3.28.0.zip",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-csv-import/releases/download/3.29.0/VirtoCommerce.CatalogCsvImportModule_3.29.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -2645,6 +2645,10 @@
           {
             "Id": "VirtoCommerce.Store",
             "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
           }
         ],
         "ReleaseNotes": null

@@ -193,10 +193,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.77.0",
+        "Version": "3.78.0",
         "VersionTag": "",
-        "PlatformVersion": "3.78.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.77.0/VirtoCommerce.Catalog_3.77.0.zip",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.78.0/VirtoCommerce.Catalog_3.78.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -218,6 +218,10 @@
           {
             "Id": "VirtoCommerce.BulkActionsModule",
             "Version": "3.3.0-alpha.96"
+          },
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
           }
         ],
         "ReleaseNotes": "Third version."

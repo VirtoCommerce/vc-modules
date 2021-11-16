@@ -1273,10 +1273,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.25.0",
+        "Version": "3.26.0",
         "VersionTag": "",
         "PlatformVersion": "3.78.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.25.0/VirtoCommerce.Store_3.25.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.26.0/VirtoCommerce.Store_3.26.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

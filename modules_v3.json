@@ -1937,9 +1937,9 @@
       },
       {
         "Version": "3.18.0",
-        "VersionTag": "alpha.262",
-        "PlatformVersion": "3.51.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.18.0-alpha.262.zip",
+        "VersionTag": "alpha.263",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.18.0-alpha.263.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1961,6 +1961,10 @@
           {
             "Id": "VirtoCommerce.Tax",
             "Version": "3.0.1"
+          },
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
           }
         ],
         "ReleaseNotes": "First version."

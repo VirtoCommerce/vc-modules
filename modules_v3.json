@@ -283,10 +283,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.13.0",
+        "Version": "3.14.0",
         "VersionTag": "",
-        "PlatformVersion": "3.76.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/3.13.0/VirtoCommerce.Content_3.13.0.zip",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/3.14.0/VirtoCommerce.Content_3.14.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -296,6 +296,18 @@
           {
             "Id": "VirtoCommerce.Store",
             "Version": "3.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.AzureBlobAssets",
+            "Version": "1.0.0"
+          },
+          {
+            "Id": "VirtoCommerce.FileSystemAssets",
+            "Version": "1.0.0"
           }
         ],
         "ReleaseNotes": "First version."

@@ -1969,10 +1969,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.18.0",
-        "VersionTag": "alpha.263",
+        "Version": "3.19.0",
+        "VersionTag": "alpha.264",
         "PlatformVersion": "3.81.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.18.0-alpha.263.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.19.0-alpha.264.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

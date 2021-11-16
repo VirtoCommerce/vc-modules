@@ -1935,10 +1935,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.17.0",
+        "Version": "3.18.0",
         "VersionTag": "",
-        "PlatformVersion": "3.51.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.17.0/VirtoCommerce.Quote_3.17.0.zip",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.18.0/VirtoCommerce.Quote_3.18.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1960,6 +1960,10 @@
           {
             "Id": "VirtoCommerce.Tax",
             "Version": "3.0.1"
+          },
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
           }
         ],
         "ReleaseNotes": "First version."

@@ -482,12 +482,17 @@
     ],
     "Versions": [
       {
-        "Version": "3.16.0",
+        "Version": "3.17.0",
         "VersionTag": "",
-        "PlatformVersion": "3.66.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-export/releases/download/3.16.0/VirtoCommerce.Export_3.16.0.zip",
+        "PlatformVersion": "3.81.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-export/releases/download/3.17.0/VirtoCommerce.Export_3.17.0.zip",
         "Incompatibilities": null,
-        "Dependencies": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "1.0.0"
+          }
+        ],
         "ReleaseNotes": null
       },
       {

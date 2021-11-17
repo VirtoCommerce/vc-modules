@@ -388,15 +388,15 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.37.0",
-        "VersionTag": "alpha.641",
+        "Version": "3.38.0",
+        "VersionTag": "alpha.643",
         "PlatformVersion": "3.62.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.37.0-alpha.641.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.38.0-alpha.643.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.24.0"
+            "Version": "3.26.0"
           },
           {
             "Id": "VirtoCommerce.Search",

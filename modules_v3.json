@@ -3257,12 +3257,17 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "1.0.0",
+        "Version": "1.1.0",
         "VersionTag": "",
         "PlatformVersion": "3.85.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GDPR_1.0.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-gdpr/releases/download/1.1.0/VirtoCommerce.GDPR_1.1.0.zip",
         "Incompatibilities": null,
-        "Dependencies": [],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.34.0"
+          }
+        ],
         "ReleaseNotes": "First version."
       },
       {

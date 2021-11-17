@@ -496,10 +496,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.17.0",
-        "VersionTag": "alpha.143",
+        "Version": "3.18.0",
+        "VersionTag": "alpha.144",
         "PlatformVersion": "3.81.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Export_3.17.0-alpha.143.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Export_3.18.0-alpha.144.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

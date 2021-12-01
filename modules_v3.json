@@ -1095,10 +1095,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.16.0",
+        "Version": "3.17.0",
         "VersionTag": "",
         "PlatformVersion": "3.57.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.16.0/VirtoCommerce.Search_3.16.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.17.0/VirtoCommerce.Search_3.17.0.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

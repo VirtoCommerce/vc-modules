@@ -3282,14 +3282,18 @@
       },
       {
         "Version": "1.2.0",
-        "VersionTag": "alpha.24",
+        "VersionTag": "alpha.28",
         "PlatformVersion": "3.85.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GDPR_1.2.0-alpha.24.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GDPR_1.2.0-alpha.28.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
             "Version": "3.34.0"
+          },
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.48.0"
           }
         ],
         "ReleaseNotes": "First version."

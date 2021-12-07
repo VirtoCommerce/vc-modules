@@ -31,9 +31,9 @@
       },
       {
         "Version": "3.29.0",
-        "VersionTag": "alpha.1490",
+        "VersionTag": "alpha.1492",
         "PlatformVersion": "3.66.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.29.0-alpha.1490.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.29.0-alpha.1492.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

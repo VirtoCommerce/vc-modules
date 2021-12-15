@@ -3024,9 +3024,9 @@
       },
       {
         "Version": "1.1.0",
-        "VersionTag": "alpha.68",
+        "VersionTag": "alpha.69",
         "PlatformVersion": "3.57.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogExportImport_1.1.0-alpha.68.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogExportImport_1.1.0-alpha.69.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

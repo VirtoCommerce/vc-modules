@@ -3334,5 +3334,53 @@
         "ReleaseNotes": ""
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.ProfileExperienceApiModule",
+    "Title": "VirtoCommerce ProfileExperienceApiModule extension module",
+    "Description": "VirtoCommerce ProfileExperienceApiModule extension module",
+    "Authors": [
+      "Konstantin Savosteev"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": null,
+    "IconUrl": null,
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2021 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "1.0.0",
+        "VersionTag": "alpha.4",
+        "PlatformVersion": "3.84.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_1.0.0-alpha.4.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "1.49.0"
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.38.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.21.0"
+          },
+          {
+            "Id": "VirtoCommerce.Marketing",
+            "Version": "3.23.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

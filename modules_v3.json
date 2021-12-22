@@ -1013,10 +1013,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.29.0",
+        "Version": "3.30.0",
         "VersionTag": "",
         "PlatformVersion": "3.81.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/3.29.0/VirtoCommerce.Pricing_3.29.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pricing/releases/download/3.30.0/VirtoCommerce.Pricing_3.30.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

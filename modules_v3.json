@@ -2189,10 +2189,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "1.52.0",
-        "VersionTag": "alpha.852",
+        "Version": "1.53.0",
+        "VersionTag": "alpha.853",
         "PlatformVersion": "3.81.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_1.52.0-alpha.852.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_1.53.0-alpha.853.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

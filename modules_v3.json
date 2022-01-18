@@ -314,9 +314,9 @@
       },
       {
         "Version": "3.22.0",
-        "VersionTag": "alpha.775",
+        "VersionTag": "alpha.777",
         "PlatformVersion": "3.100.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.22.0-alpha.775.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.22.0-alpha.777.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

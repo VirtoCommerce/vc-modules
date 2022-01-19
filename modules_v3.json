@@ -496,15 +496,15 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.18.0",
-        "VersionTag": "alpha.144",
-        "PlatformVersion": "3.81.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Export_3.18.0-alpha.144.zip",
+        "Version": "3.200.0",
+        "VersionTag": "alpha.154",
+        "PlatformVersion": "3.200.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Export_3.200.0-alpha.154.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "1.0.0"
+            "Version": "3.200.0"
           }
         ],
         "ReleaseNotes": null

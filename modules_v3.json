@@ -1714,10 +1714,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.200.0",
-        "VersionTag": "alpha.168",
+        "Version": "3.201.0",
+        "VersionTag": "alpha.169",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.200.0-alpha.168.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.201.0-alpha.169.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

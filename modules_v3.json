@@ -1533,7 +1533,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/authorizenet-dpm-payment-gateway",
     "IconUrl": "Modules/$(VirtoCommerce.AuthorizeNet)/Content/Authorizenet_logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2020 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "Authorize.Net payment gateway",
     "Groups": null,
     "Versions": [
@@ -1560,23 +1560,23 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.5.0",
-        "VersionTag": "alpha.209",
-        "PlatformVersion": "3.0.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNet_3.5.0-alpha.209.zip",
+        "Version": "3.200.0",
+        "VersionTag": "alpha.233",
+        "PlatformVersion": "3.200.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNet_3.200.0-alpha.233.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.0.0"
+            "Version": "3.200.0"
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.0.0"
+            "Version": "3.200.0"
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.0.2"
+            "Version": "3.200.0"
           }
         ],
         "ReleaseNotes": "First version."

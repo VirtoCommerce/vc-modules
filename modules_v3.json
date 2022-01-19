@@ -1301,10 +1301,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.200.0",
-        "VersionTag": "alpha.587",
+        "Version": "3.201.0",
+        "VersionTag": "alpha.588",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.200.0-alpha.587.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.201.0-alpha.588.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

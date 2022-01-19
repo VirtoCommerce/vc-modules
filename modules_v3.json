@@ -797,15 +797,15 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.21.0",
-        "VersionTag": "alpha.225",
-        "PlatformVersion": "3.81.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.21.0-alpha.225.zip",
+        "Version": "3.200.0",
+        "VersionTag": "alpha.234",
+        "PlatformVersion": "3.200.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.200.0-alpha.234.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "1.0.0"
+            "Version": "3.200.0"
           }
         ],
         "ReleaseNotes": ""

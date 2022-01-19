@@ -3428,15 +3428,6 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "1.2.0",
-        "VersionTag": "",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sandbox/releases/download/1.2.0/VirtoCommerce.SandBox_1.2.0.zip",
-        "Incompatibilities": null,
-        "Dependencies": [],
-        "ReleaseNotes": "First version."
-      },
-      {
         "Version": "1.3.0",
         "VersionTag": "alpha.12",
         "PlatformVersion": "3.200.0",

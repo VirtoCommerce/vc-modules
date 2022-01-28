@@ -2190,9 +2190,9 @@
       },
       {
         "Version": "3.201.0",
-        "VersionTag": "alpha.862",
+        "VersionTag": "alpha.864",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.201.0-alpha.862.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.201.0-alpha.864.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
@@ -2229,7 +2229,7 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.200.0"
+            "Version": "3.201.0"
           },
           {
             "Id": "VirtoCommerce.Catalog",

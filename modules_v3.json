@@ -228,9 +228,9 @@
       },
       {
         "Version": "3.201.0",
-        "VersionTag": "alpha.1895",
+        "VersionTag": "alpha.1897",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.201.0-alpha.1895.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.201.0-alpha.1897.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

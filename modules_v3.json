@@ -639,7 +639,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-lucene-search-module",
     "IconUrl": "Modules/$(VirtoCommerce.LuceneSearch)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright 2011-2021 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright 2011-2022 Virto Commerce. All rights reserved",
     "Tags": "lucene search",
     "Groups": [
       "commerce"
@@ -661,14 +661,14 @@
       },
       {
         "Version": "3.202.0",
-        "VersionTag": "alpha.124",
+        "VersionTag": "alpha.125",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.LuceneSearch_3.202.0-alpha.124.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.LuceneSearch_3.202.0-alpha.125.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.201.0"
+            "Version": "3.202.0"
           }
         ],
         "ReleaseNotes": "Third version."

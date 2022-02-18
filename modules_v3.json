@@ -888,9 +888,9 @@
       },
       {
         "Version": "3.202.0",
-        "VersionTag": "alpha.988",
+        "VersionTag": "alpha.989",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.202.0-alpha.988.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.202.0-alpha.989.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -931,7 +931,7 @@
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.200.0"
+            "Version": "3.202.0"
           }
         ],
         "ReleaseNotes": null

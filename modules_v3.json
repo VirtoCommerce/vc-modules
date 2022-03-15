@@ -1490,10 +1490,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.201.0",
+        "Version": "3.202.0",
         "VersionTag": "",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.201.0/VirtoCommerce.CustomerReviews_3.201.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.202.0/VirtoCommerce.CustomerReviews_3.202.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1502,6 +1502,18 @@
           },
           {
             "Id": "VirtoCommerce.Store",
+            "Version": "3.200.0"
+          },
+          {
+            "Id": "VirtoCommerce.Notifications",
+            "Version": "3.200.0"
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.200.0"
+          },
+          {
+            "Id": "VirtoCommerce.Orders",
             "Version": "3.200.0"
           }
         ],

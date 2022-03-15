@@ -1508,10 +1508,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.202.0",
-        "VersionTag": "alpha.106",
+        "Version": "3.203.0",
+        "VersionTag": "alpha.107",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.202.0-alpha.106.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.203.0-alpha.107.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -3496,7 +3496,8 @@
     "Title": "Return module",
     "Description": "Return module",
     "Authors": [
-      "Leysan Nigmatullina"
+      "Leysan Nigmatullina",
+      "Mikhail Getmansky"
     ],
     "Owners": [
       "VirtoCommerce"
@@ -3525,9 +3526,9 @@
       },
       {
         "Version": "3.201.0",
-        "VersionTag": "alpha.9",
+        "VersionTag": "alpha.12",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Return_3.201.0-alpha.9.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Return_3.201.0-alpha.12.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

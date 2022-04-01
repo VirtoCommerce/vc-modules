@@ -1471,8 +1471,8 @@
   },
   {
     "Id": "VirtoCommerce.CustomerReviews",
-    "Title": "Customer Reviews",
-    "Description": "Customer reviews and product rating",
+    "Title": "Product Rating and Reviews",
+    "Description": "Product Rating and Reviews",
     "Authors": [
       "Egidijus Mazeika",
       "Andrew Nikutin",
@@ -1483,7 +1483,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": null,
-    "IconUrl": null,
+    "IconUrl": "Modules/$(VirtoCommerce.CustomerReviews)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2022 Virto Commerce. All rights reserved",
     "Tags": "customer review",
@@ -1521,9 +1521,9 @@
       },
       {
         "Version": "3.203.0",
-        "VersionTag": "alpha.108",
+        "VersionTag": "alpha.111",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.203.0-alpha.108.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.203.0-alpha.111.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

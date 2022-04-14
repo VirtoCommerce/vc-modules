@@ -3536,11 +3536,16 @@
     "Versions": [
       {
         "Version": "3.200.0",
-        "VersionTag": "alpha.7",
+        "VersionTag": "alpha.8",
         "PlatformVersion": "3.209.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.NativePaymentMethods_3.200.0-alpha.7.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.NativePaymentMethods_3.200.0-alpha.8.zip",
         "Incompatibilities": null,
-        "Dependencies": [],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Payment",
+            "Version": "3.202.0"
+          }
+        ],
         "ReleaseNotes": "First version."
       }
     ]

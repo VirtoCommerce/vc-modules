@@ -3535,10 +3535,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.200.0",
-        "VersionTag": "alpha.8",
+        "Version": "3.201.0",
+        "VersionTag": "alpha.9",
         "PlatformVersion": "3.209.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.NativePaymentMethods_3.200.0-alpha.8.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.NativePaymentMethods_3.201.0-alpha.9.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

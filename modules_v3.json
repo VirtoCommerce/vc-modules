@@ -2017,10 +2017,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.201.0",
-        "VersionTag": "alpha.282",
+        "Version": "3.202.0",
+        "VersionTag": "alpha.283",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.201.0-alpha.282.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.202.0-alpha.283.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

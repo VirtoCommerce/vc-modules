@@ -94,7 +94,7 @@
         },
         {
           "Id": "VirtoCommerce.ExperienceApi",
-          "Version": "3.203.3"
+          "Version": "3.203.4"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",

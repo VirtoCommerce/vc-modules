@@ -2206,9 +2206,9 @@
       },
       {
         "Version": "3.213.0",
-        "VersionTag": "alpha.960",
+        "VersionTag": "alpha.962",
         "PlatformVersion": "3.207.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.213.0-alpha.960.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.213.0-alpha.962.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
@@ -2229,7 +2229,7 @@
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.200.0"
+            "Version": "3.204.0"
           },
           {
             "Id": "VirtoCommerce.Shipping",

@@ -3535,6 +3535,20 @@
     "Groups": null,
     "Versions": [
       {
+        "Version": "3.201.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.209.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-native-payment-methods/releases/download/3.201.0/VirtoCommerce.NativePaymentMethods_3.201.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Payment",
+            "Version": "3.202.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
         "Version": "3.202.0",
         "VersionTag": "alpha.17",
         "PlatformVersion": "3.209.0",

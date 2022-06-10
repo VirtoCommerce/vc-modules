@@ -139,6 +139,10 @@
         {
           "Id": "VirtoCommerce.WebHooks",
           "Version": "3.5.0"
+        },
+        {
+          "Id": "VirtoCommerce.Subscription",
+          "Version": "3.12.0"
         }
       ]
     }

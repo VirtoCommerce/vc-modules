@@ -10,7 +10,7 @@
         },
         {
           "Id": "VirtoCommerce.Cart",
-          "Version": "3.25.0"
+          "Version": "3.25.1"
         },
         {
           "Id": "VirtoCommerce.Catalog",
@@ -42,7 +42,7 @@
         },
         {
           "Id": "VirtoCommerce.Marketing",
-          "Version": "3.31.0"
+          "Version": "3.31.1"
         },
         {
           "Id": "VirtoCommerce.Notifications",
@@ -143,6 +143,10 @@
         {
           "Id": "VirtoCommerce.Subscription",
           "Version": "3.12.0"
+        },
+        {
+          "Id": "VirtoCommerce.EventBus",
+          "Version": "1.0.0"
         }
       ]
     }

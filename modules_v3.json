@@ -1983,10 +1983,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.201.0",
+        "Version": "3.202.0",
         "VersionTag": "",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.201.0/VirtoCommerce.Quote_3.201.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.202.0/VirtoCommerce.Quote_3.202.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -147,6 +147,10 @@
         {
           "Id": "VirtoCommerce.EventBus",
           "Version": "1.0.0"
+        },
+        {
+          "Id": "VirtoCommerce.AzureSearch",
+          "Version": "3.11.0"
         }
       ]
     }

@@ -2018,9 +2018,9 @@
       },
       {
         "Version": "3.203.0",
-        "VersionTag": "alpha.290",
+        "VersionTag": "alpha.297",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.203.0-alpha.290.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.203.0-alpha.297.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

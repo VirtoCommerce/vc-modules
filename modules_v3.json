@@ -2155,10 +2155,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.219.0",
+        "Version": "3.220.0",
         "VersionTag": "",
         "PlatformVersion": "3.207.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.219.0/VirtoCommerce.ExperienceApi_3.219.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.220.0/VirtoCommerce.ExperienceApi_3.220.0.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
@@ -2175,7 +2175,7 @@
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.200.0"
+            "Version": "3.205.0"
           },
           {
             "Id": "VirtoCommerce.Payment",

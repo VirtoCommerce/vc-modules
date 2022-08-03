@@ -576,10 +576,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.205.0",
+        "Version": "3.207.0",
         "VersionTag": "",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/3.205.0/VirtoCommerce.Inventory_3.205.0.zip",
+        "PlatformVersion": "3.218.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/3.205.0/VirtoCommerce.Inventory_3.207.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -589,6 +589,10 @@
           {
             "Id": "VirtoCommerce.Catalog",
             "Version": "3.200.0"
+          },
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.201.0"
           },
           {
             "Id": "VirtoCommerce.Search",

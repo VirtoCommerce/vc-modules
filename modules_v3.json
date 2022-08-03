@@ -579,7 +579,7 @@
         "Version": "3.207.0",
         "VersionTag": "",
         "PlatformVersion": "3.218.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/3.205.0/VirtoCommerce.Inventory_3.207.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-inventory/releases/download/3.207.0/VirtoCommerce.Inventory_3.207.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

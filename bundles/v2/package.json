@@ -1,4 +1,4 @@
-{
+ {
       "ModuleSources": [
         "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/modules_v3.json"
       ],
@@ -18,7 +18,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.213.2"
+          "Version": "3.213.3"
         },
         {
           "Id": "VirtoCommerce.Content",
@@ -26,7 +26,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.202.2"
+          "Version": "3.202.3"
         },
         {
           "Id": "VirtoCommerce.ElasticSearch",
@@ -94,7 +94,7 @@
         },
         {
           "Id": "VirtoCommerce.ExperienceApi",
-          "Version": "3.211.7"
+          "Version": "3.211.8"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",

@@ -18,7 +18,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.201.11"
+          "Version": "3.201.12"
         },
         {
           "Id": "VirtoCommerce.Content",
@@ -26,7 +26,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.200.4"
+          "Version": "3.200.6"
         },
         {
           "Id": "VirtoCommerce.ElasticSearch",
@@ -94,7 +94,7 @@
         },
         {
           "Id": "VirtoCommerce.ExperienceApi",
-          "Version": "3.203.10"
+          "Version": "3.203.12"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",

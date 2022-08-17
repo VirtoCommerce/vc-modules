@@ -220,9 +220,9 @@
       },
       {
         "Version": "3.229.0",
-        "VersionTag": "alpha.1979",
+        "VersionTag": "alpha.1983",
         "PlatformVersion": "3.207.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.229.0-alpha.1979.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.229.0-alpha.1983.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

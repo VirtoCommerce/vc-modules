@@ -2,7 +2,7 @@
       "ModuleSources": [
         "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/modules_v3.json"
       ],
-      "PlatformVersion": "3.216.8",
+      "PlatformVersion": "3.216.9",
       "Modules": [
         {
           "Id": "VirtoCommerce.Core",
@@ -18,7 +18,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.213.3"
+          "Version": "3.213.4"
         },
         {
           "Id": "VirtoCommerce.Content",
@@ -26,7 +26,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.202.4"
+          "Version": "3.202.5"
         },
         {
           "Id": "VirtoCommerce.ElasticSearch",
@@ -58,7 +58,7 @@
         },
         {
           "Id": "VirtoCommerce.Orders",
-          "Version": "3.204.0"
+          "Version": "3.204.1"
         },
         {
           "Id": "VirtoCommerce.Payment",
@@ -114,7 +114,7 @@
         },
         {
           "Id": "VirtoCommerce.ProfileExperienceApiModule",
-          "Version": "3.206.0"
+          "Version": "3.206.2"
         },
         {
           "Id": "VirtoCommerce.AvalaraTax",

@@ -220,25 +220,13 @@
       },
       {
         "Version": "3.230.0",
-        "VersionTag": "alpha.1984",
-        "PlatformVersion": "3.207.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.230.0-alpha.1984.zip",
+        "VersionTag": "alpha.1985",
+        "PlatformVersion": "3.232.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.230.0-alpha.1985.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Core",
-            "Version": "3.200.0"
-          },
-          {
-            "Id": "VirtoCommerce.Search",
-            "Version": "3.204.0"
-          },
-          {
-            "Id": "VirtoCommerce.Export",
-            "Version": "3.200.0"
-          },
-          {
-            "Id": "VirtoCommerce.Store",
+            "Id": "VirtoCommerce.Assets",
             "Version": "3.200.0"
           },
           {
@@ -246,8 +234,20 @@
             "Version": "3.200.0"
           },
           {
-            "Id": "VirtoCommerce.Assets",
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.202.0"
+          },
+          {
+            "Id": "VirtoCommerce.Export",
             "Version": "3.200.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.208.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.204.0"
           }
         ],
         "ReleaseNotes": "Third version."

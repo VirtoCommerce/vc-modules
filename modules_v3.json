@@ -3655,5 +3655,34 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.CITest",
+    "Title": "VirtoCommerce CITest extension module",
+    "Description": "VirtoCommerce CITest extension module",
+    "Authors": [
+      "Jon Doe"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-ci-test",
+    "IconUrl": "Modules/$(VirtoCommerce.CITest)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.200.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.200.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.200.0/VirtoCommerce.CITest_3.200.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

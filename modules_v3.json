@@ -3684,5 +3684,39 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Contracts",
+    "Title": "VirtoCommerce Contracts extension module",
+    "Description": "VirtoCommerce Contracts extension module",
+    "Authors": [
+      "Konstantin Savosteev"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-contract",
+    "IconUrl": "Modules/$(VirtoCommerce.Contracts)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.200.0",
+        "VersionTag": "alpha.8",
+        "PlatformVersion": "3.240.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.200.0-alpha.8.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Pricing",
+            "Version": "3.210.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

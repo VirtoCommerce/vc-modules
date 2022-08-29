@@ -3459,9 +3459,9 @@
       },
       {
         "Version": "3.203.0",
-        "VersionTag": "alpha.41",
+        "VersionTag": "alpha.48",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticAppSearch_3.203.0-alpha.41.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticAppSearch_3.203.0-alpha.48.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

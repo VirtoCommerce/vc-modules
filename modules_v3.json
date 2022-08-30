@@ -1100,10 +1100,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.210.0",
-        "VersionTag": "alpha.622",
+        "Version": "3.211.0",
+        "VersionTag": "alpha.623",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.210.0-alpha.622.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.211.0-alpha.623.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

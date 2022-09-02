@@ -661,9 +661,9 @@
       },
       {
         "Version": "3.204.0",
-        "VersionTag": "alpha.135",
+        "VersionTag": "alpha.153",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.LuceneSearch_3.204.0-alpha.135.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.LuceneSearch_3.204.0-alpha.153.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

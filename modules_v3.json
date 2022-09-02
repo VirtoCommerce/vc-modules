@@ -2299,9 +2299,9 @@
       },
       {
         "Version": "3.202.0",
-        "VersionTag": "alpha.130",
+        "VersionTag": "alpha.138",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleEcommerceAnalytics_3.202.0-alpha.130.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleEcommerceAnalytics_3.202.0-alpha.138.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

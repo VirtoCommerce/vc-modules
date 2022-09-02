@@ -3508,9 +3508,9 @@
       },
       {
         "Version": "3.204.0",
-        "VersionTag": "alpha.21",
+        "VersionTag": "alpha.38",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Return_3.204.0-alpha.21.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Return_3.204.0-alpha.38.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

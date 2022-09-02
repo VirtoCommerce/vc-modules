@@ -3642,9 +3642,9 @@
       },
       {
         "Version": "3.201.0",
-        "VersionTag": "alpha.58",
+        "VersionTag": "alpha.76",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ShipStation_3.201.0-alpha.58.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ShipStation_3.201.0-alpha.76.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

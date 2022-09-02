@@ -1581,9 +1581,9 @@
       },
       {
         "Version": "3.202.0",
-        "VersionTag": "alpha.260",
+        "VersionTag": "alpha.279",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNet_3.202.0-alpha.260.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNet_3.202.0-alpha.279.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

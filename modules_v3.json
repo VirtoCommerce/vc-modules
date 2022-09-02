@@ -2527,9 +2527,9 @@
       },
       {
         "Version": "3.202.0",
-        "VersionTag": "alpha.193",
+        "VersionTag": "alpha.211",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.202.0-alpha.193.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.202.0-alpha.211.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -3034,9 +3034,9 @@
       },
       {
         "Version": "3.200.0",
-        "VersionTag": "alpha.71",
+        "VersionTag": "alpha.95",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogExportImport_3.200.0-alpha.71.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogExportImport_3.200.0-alpha.95.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -2,7 +2,7 @@
       "ModuleSources": [
         "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/modules_v3.json"
       ],
-      "PlatformVersion": "3.216.9",
+      "PlatformVersion": "3.216.14",
       "Modules": [
         {
           "Id": "VirtoCommerce.Core",
@@ -18,7 +18,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.213.4"
+          "Version": "3.213.5"
         },
         {
           "Id": "VirtoCommerce.Content",
@@ -26,7 +26,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.202.5"
+          "Version": "3.202.6"
         },
         {
           "Id": "VirtoCommerce.ElasticSearch",
@@ -34,7 +34,7 @@
         },
         {
           "Id": "VirtoCommerce.Export",
-          "Version": "3.200.0"
+          "Version": "3.200.1"
         },
         {
           "Id": "VirtoCommerce.ImageTools",
@@ -66,11 +66,11 @@
         },
         {
           "Id": "VirtoCommerce.Pricing",
-          "Version": "3.205.3"
+          "Version": "3.205.4"
         },
         {
           "Id": "VirtoCommerce.Search",
-          "Version": "3.206.1"
+          "Version": "3.206.2"
         },
         {
           "Id": "VirtoCommerce.Shipping",
@@ -86,7 +86,7 @@
         },
         {
           "Id": "VirtoCommerce.Subscription",
-          "Version": "3.200.0"
+          "Version": "3.200.1"
         },
         {
           "Id": "VirtoCommerce.Tax",
@@ -94,7 +94,7 @@
         },
         {
           "Id": "VirtoCommerce.ExperienceApi",
-          "Version": "3.211.9"
+          "Version": "3.211.12"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",
@@ -174,7 +174,7 @@
         },
         {
           "Id": "VirtoCommerce.NativePaymentMethods",
-          "Version": "3.201.0"
+          "Version": "3.201.1"
         },
         {
           "Id": "VirtoCommerce.EventBus",

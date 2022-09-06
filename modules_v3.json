@@ -2558,7 +2558,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2022 Virto Commerce. All rights reserved",
     "Tags": "eventbus azureveventgrid",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.200.0",
@@ -2571,9 +2573,9 @@
       },
       {
         "Version": "3.202.0",
-        "VersionTag": "alpha.82",
+        "VersionTag": "alpha.85",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_3.202.0-alpha.82.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_3.202.0-alpha.85.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

@@ -1400,35 +1400,6 @@
     },
     {
         "projectUrl": "",
-        "packageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/v1.0.40/VirtoCommerce.PageBuilderModule_1.0.40.zip",
-        "platformVersion": "2.13.20",
-        "description": "Compose pages in visual page builder.",
-        "groups": [
-            "commerce"
-        ],
-        "owners": [
-            "Virto Commerce"
-        ],
-        "id": "VirtoCommerce.PageBuilderModule",
-        "iconUrl": "",
-        "title": "CMS Page Builder",
-        "version": "1.0.40",
-        "authors": [
-            "Virto Commerce"
-        ],
-        "dependencies": [
-            {
-                "id": "VirtoCommerce.Core",
-                "version": "2.24.6"
-            },
-            {
-                "id": "VirtoCommerce.Content",
-                "version": "2.13.24"
-            }
-        ]
-    },
-    {
-        "projectUrl": "",
         "packageUrl": "https://github.com/VirtoCommerce/vc-module-webhooks/releases/download/v0.1.6/VirtoCommerce.WebHooksModule_0.1.6.zip",
         "platformVersion": "2.13.53",
         "description": "Manage user defined webhooks",

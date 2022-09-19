@@ -3689,8 +3689,8 @@
   },
   {
     "Id": "VirtoCommerce.Contracts",
-    "Title": "VirtoCommerce Contracts extension module",
-    "Description": "VirtoCommerce Contracts extension module",
+    "Title": "Contract smodule",
+    "Description": "Cotract based price personalization for customers and organisations",
     "Authors": [
       "Konstantin Savosteev"
     ],
@@ -3725,9 +3725,9 @@
       },
       {
         "Version": "3.201.0",
-        "VersionTag": "alpha.25",
+        "VersionTag": "alpha.29",
         "PlatformVersion": "3.240.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.201.0-alpha.25.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.201.0-alpha.29.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

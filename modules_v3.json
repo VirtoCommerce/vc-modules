@@ -2210,11 +2210,15 @@
       },
       {
         "Version": "3.233.0",
-        "VersionTag": "alpha.1034",
+        "VersionTag": "alpha.1035",
         "PlatformVersion": "3.207.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.233.0-alpha.1034.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.233.0-alpha.1035.zip",
         "Incompatibilities": [],
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Content",
+            "Version": "3.200.0"
+          },
           {
             "Id": "VirtoCommerce.Core",
             "Version": "3.200.0"
@@ -2236,6 +2240,14 @@
             "Version": "3.204.0"
           },
           {
+            "Id": "VirtoCommerce.Pricing",
+            "Version": "3.201.0"
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.204.0"
+          },
+          {
             "Id": "VirtoCommerce.Shipping",
             "Version": "3.200.0"
           },
@@ -2254,6 +2266,10 @@
           {
             "Id": "VirtoCommerce.Catalog",
             "Version": "3.213.0"
+          },
+          {
+            "Id": "VirtoCommerce.Tax",
+            "Version": "3.200.0"
           }
         ],
         "ReleaseNotes": ""

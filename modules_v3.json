@@ -2165,7 +2165,7 @@
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.233.0/VirtoCommerce.ExperienceApi_3.233.0.zip",
         "Incompatibilities": [],
         "Dependencies": [
-              {
+          {
             "Id": "VirtoCommerce.Content",
             "Version": "3.200.0"
           },

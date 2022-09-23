@@ -268,7 +268,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-cms-module",
     "IconUrl": "Modules/$(VirtoCommerce.Content)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2022 Virto Commerce. All rights reserved",
     "Tags": "cms menu",
     "Groups": [
       "commerce"
@@ -306,9 +306,9 @@
       },
       {
         "Version": "3.205.0",
-        "VersionTag": "alpha.823",
+        "VersionTag": "alpha.834",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.205.0-alpha.823.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.205.0-alpha.834.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -3700,5 +3700,35 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.TaskManagement",
+    "Title": "Task Management",
+    "Description": "Virto Commerce Task Management module",
+    "Authors": [
+      "Oleg Zhuk",
+      "Evgeny Okhrimenko"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-TaskManagement",
+    "IconUrl": "Modules/$(VirtoCommerce.TaskManagement)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
+    "Tags": "",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.200.0",
+        "VersionTag": "alpha.8",
+        "PlatformVersion": "3.200.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.200.0-alpha.8.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

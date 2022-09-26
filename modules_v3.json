@@ -220,9 +220,9 @@
       },
       {
         "Version": "3.238.0",
-        "VersionTag": "alpha.2021",
+        "VersionTag": "alpha.2022",
         "PlatformVersion": "3.243.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.238.0-alpha.2021.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.238.0-alpha.2022.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

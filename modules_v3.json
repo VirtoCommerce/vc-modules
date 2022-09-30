@@ -3751,6 +3751,24 @@
     "Versions": [
       {
         "Version": "3.201.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.254.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote-experience-api/releases/download/3.201.0/VirtoCommerce.QuoteExperienceApi_3.201.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "3.233.0"
+          },
+          {
+            "Id": "VirtoCommerce.Quote",
+            "Version": "3.205.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.201.0",
         "VersionTag": "alpha.5",
         "PlatformVersion": "3.254.0",
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.QuoteExperienceApi_3.201.0-alpha.5.zip",

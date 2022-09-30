@@ -3730,5 +3730,43 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.QuoteExperienceApi",
+    "Title": "VirtoCommerce QuoteExperienceApi module",
+    "Description": "VirtoCommerce Quote Experience API module",
+    "Authors": [
+      "Artem Dudarev"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-quote-experience-api",
+    "IconUrl": "Modules/$(VirtoCommerce.QuoteExperienceApi)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.200.0",
+        "VersionTag": "alpha.4",
+        "PlatformVersion": "3.254.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.QuoteExperienceApi_3.200.0-alpha.4.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "3.233.0"
+          },
+          {
+            "Id": "VirtoCommerce.Quote",
+            "Version": "3.205.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

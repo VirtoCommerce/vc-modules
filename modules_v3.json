@@ -1101,9 +1101,9 @@
       },
       {
         "Version": "3.212.0",
-        "VersionTag": "alpha.638",
+        "VersionTag": "alpha.667",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.212.0-alpha.638.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.212.0-alpha.667.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

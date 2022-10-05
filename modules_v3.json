@@ -220,9 +220,9 @@
       },
       {
         "Version": "3.240.0",
-        "VersionTag": "alpha.2027",
+        "VersionTag": "alpha.2028",
         "PlatformVersion": "3.243.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.240.0-alpha.2027.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.240.0-alpha.2028.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

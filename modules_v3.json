@@ -1471,7 +1471,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2022 Virto Commerce. All rights reserved",
     "Tags": "customer review",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.205.0",
@@ -1551,7 +1553,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "Authorize.Net payment gateway",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.201.0",
@@ -1615,7 +1619,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "avalara tax",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.201.0",
@@ -1705,7 +1711,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "catalog personalization products categories",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.200.0",
@@ -1772,7 +1780,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2020 - 2021 Virto Commerce. All rights reserved",
     "Tags": "publishing filling",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.200.0",
@@ -1932,7 +1942,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2020 - 2021 Virto Commerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.200.0",
@@ -1980,7 +1992,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "b2b quotes",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.205.0",
@@ -2070,7 +2084,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2020-2021 Virto Commerce. All rights reserved",
     "Tags": "dynamicAssociations",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.200.0",
@@ -2305,7 +2321,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "analytics",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.201.0",
@@ -2463,7 +2481,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2022 Virto Commerce. All rights reserved",
     "Tags": "webhooks module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.204.0",
@@ -3234,7 +3254,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.201.0",
@@ -3446,7 +3468,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.203.0",
@@ -3494,7 +3518,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.202.0",
@@ -3542,7 +3568,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.203.0",
@@ -3580,7 +3608,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.200.0",

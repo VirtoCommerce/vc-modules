@@ -2017,10 +2017,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.206.0",
-        "VersionTag": "alpha.324",
+        "Version": "3.207.0",
+        "VersionTag": "alpha.325",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.206.0-alpha.324.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.207.0-alpha.325.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

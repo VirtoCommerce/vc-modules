@@ -1509,9 +1509,9 @@
       },
       {
         "Version": "3.205.0",
-        "VersionTag": "alpha.140",
+        "VersionTag": "alpha.152",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.205.0-alpha.140.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.205.0-alpha.152.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

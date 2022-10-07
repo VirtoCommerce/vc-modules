@@ -1992,9 +1992,7 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "b2b quotes",
-    "Groups": [
-      "commerce"
-    ],
+    "Groups": null,
     "Versions": [
       {
         "Version": "3.205.0",
@@ -2032,11 +2030,15 @@
       },
       {
         "Version": "3.207.0",
-        "VersionTag": "alpha.325",
+        "VersionTag": "alpha.326",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.207.0-alpha.325.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.207.0-alpha.326.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "3.200.0"
+          },
           {
             "Id": "VirtoCommerce.Cart",
             "Version": "3.200.0"
@@ -2050,15 +2052,23 @@
             "Version": "3.200.0"
           },
           {
+            "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "3.233.0"
+          },
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.200.0"
+          },
+          {
+            "Id": "VirtoCommerce.Shipping",
+            "Version": "3.200.0"
+          },
+          {
             "Id": "VirtoCommerce.Store",
             "Version": "3.200.0"
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.200.0"
-          },
-          {
-            "Id": "VirtoCommerce.Assets",
             "Version": "3.200.0"
           }
         ],

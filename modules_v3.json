@@ -3246,9 +3246,9 @@
       },
       {
         "Version": "3.202.0",
-        "VersionTag": "alpha.57",
+        "VersionTag": "alpha.59",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.202.0-alpha.57.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.202.0-alpha.59.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

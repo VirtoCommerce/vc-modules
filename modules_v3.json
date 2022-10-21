@@ -2257,10 +2257,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.237.0",
-        "VersionTag": "alpha.1045",
+        "Version": "3.238.0",
+        "VersionTag": "alpha.1046",
         "PlatformVersion": "3.259.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.237.0-alpha.1045.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.238.0-alpha.1046.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

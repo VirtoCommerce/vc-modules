@@ -3191,10 +3191,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.204.0",
-        "VersionTag": "alpha.67",
+        "Version": "3.205.0",
+        "VersionTag": "alpha.68",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.204.0-alpha.67.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.205.0-alpha.68.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

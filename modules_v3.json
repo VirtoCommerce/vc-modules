@@ -3534,9 +3534,7 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": [
-      "commerce"
-    ],
+    "Groups": null,
     "Versions": [
       {
         "Version": "3.202.0",
@@ -3554,9 +3552,9 @@
       },
       {
         "Version": "3.203.0",
-        "VersionTag": "alpha.36",
+        "VersionTag": "alpha.48",
         "PlatformVersion": "3.209.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.NativePaymentMethods_3.203.0-alpha.36.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.NativePaymentMethods_3.203.0-alpha.48.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

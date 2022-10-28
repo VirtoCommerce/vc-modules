@@ -1505,9 +1505,9 @@
       },
       {
         "Version": "3.208.0",
-        "VersionTag": "alpha.155",
+        "VersionTag": "alpha.156",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.208.0-alpha.155.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.208.0-alpha.156.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

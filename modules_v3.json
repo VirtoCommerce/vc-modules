@@ -1979,7 +1979,9 @@
     "Title": "Quote module",
     "Description": "Quoter enables business users to execute quote requests online. Once initiated, an online conversation takes place with internal users who interact with the business user's request. The internal user can set prices for quantity breaks or discounts. The quote is then made available to the business user online. The business user can accept the quote and place the order, continue the conversation, or reject the quote.",
     "Authors": [
-      "Egidijus Mažeika"
+      "Artem Dudarev",
+      "Egidijus Mažeika",
+      "Konstantin Savosteev"
     ],
     "Owners": [
       "Virto Commerce"
@@ -2040,9 +2042,9 @@
       },
       {
         "Version": "3.210.0",
-        "VersionTag": "alpha.334",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.210.0-alpha.334.zip",
+        "VersionTag": "alpha.335",
+        "PlatformVersion": "3.210.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.210.0-alpha.335.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

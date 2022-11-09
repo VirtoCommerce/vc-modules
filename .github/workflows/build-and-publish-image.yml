@@ -29,12 +29,12 @@ jobs:
 
     - name: Pack
       run: |
-        vc-build install -PackageManifestPath ./bundles/latest/packages.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
+        vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
   
     - name: Get platfrom version
       id: platform-version
       run: |
-        echo "PLATFORM_VERSION=$(cat ./backend/packages.json | jq -r '.PlatformVersion')" >> $GITHUB_ENV
+        echo "PLATFORM_VERSION=$(cat ./bundles/latest/package.json | jq -r '.PlatformVersion')" >> $GITHUB_ENV
 
     - name: Set outputs
       id: vars

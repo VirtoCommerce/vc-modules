@@ -1,4 +1,4 @@
-name: Cloud platform deployment
+name: Stable platform
 
 on:
   workflow_dispatch:

@@ -3194,9 +3194,9 @@
       },
       {
         "Version": "3.205.0",
-        "VersionTag": "alpha.68",
+        "VersionTag": "alpha.69",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.205.0-alpha.68.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.205.0-alpha.69.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3244,9 +3244,9 @@
       },
       {
         "Version": "3.203.0",
-        "VersionTag": "alpha.60",
+        "VersionTag": "alpha.61",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.203.0-alpha.60.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.203.0-alpha.61.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3395,9 +3395,9 @@
       },
       {
         "Version": "3.230.0",
-        "VersionTag": "alpha.116",
+        "VersionTag": "alpha.117",
         "PlatformVersion": "3.259.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.230.0-alpha.116.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.230.0-alpha.117.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

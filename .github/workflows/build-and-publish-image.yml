@@ -50,3 +50,8 @@ jobs:
         CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
         IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/vcptcore/platform
         TAG: ${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}
+
+    - name: Publish Docker Images
+      run: |
+        docker tag virtopaasregistrymain.azurecr.io/vcptcore/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }} virtopaasregistrymain.azurecr.io/saas/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}
+        docker push virtopaasregistrymain.azurecr.io/saas/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}

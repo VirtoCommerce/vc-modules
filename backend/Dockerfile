@@ -1,4 +1,4 @@
-FROM mcr.microsoft.com/dotnet/aspnet:3.1
+FROM mcr.microsoft.com/dotnet/aspnet:6.0
 
 COPY ./backend/platform /opt/virtocommerce/platform
 COPY ./backend/YamlDotNet.dll /opt/virtocommerce/platform/app_data/modules

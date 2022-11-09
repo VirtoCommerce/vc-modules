@@ -54,4 +54,10 @@ jobs:
     - name: Publish Docker Images
       run: |
         docker tag virtopaasregistrymain.azurecr.io/vcptcore/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }} virtopaasregistrymain.azurecr.io/saas/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}
+        docker tag virtopaasregistrymain.azurecr.io/vcptcore/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }} virtopaasregistrymain.azurecr.io/vcmp/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}
+        docker tag virtopaasregistrymain.azurecr.io/vcptcore/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }} virtopaasregistrymain.azurecr.io/vcst/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}
+        docker tag virtopaasregistrymain.azurecr.io/vcptcore/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }} virtopaasregistrymain.azurecr.io/vcpt/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}
         docker push virtopaasregistrymain.azurecr.io/saas/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}
+        docker push virtopaasregistrymain.azurecr.io/vcmp/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}
+        docker push virtopaasregistrymain.azurecr.io/vcst/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}
+        docker push virtopaasregistrymain.azurecr.io/vcpt/platform:${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}

@@ -1,0 +1,52 @@
+name: Cloud platform deployment
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'bundles/latest/**'
+    branches: 
+      - 'master'
+
+jobs:
+  gitops:
+    runs-on: ubuntu-latest
+    env:
+      ARGO_APP_NAME: ${{ github.ref_name }}
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        fetch-depth: 0
+  
+    - name: Az config
+      run: |
+        az config set extension.use_dynamic_install=yes_without_prompt
+    
+    - name: Install vc-build
+      run: |
+        dotnet tool install --global VirtoCommerce.GlobalTool
+
+    - name: Pack
+      run: |
+        vc-build install -PackageManifestPath ./bundles/latest/packages.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
+  
+    - name: Get platfrom version
+      id: platform-version
+      run: |
+        echo "PLATFORM_VERSION=$(cat ./backend/packages.json | jq -r '.PlatformVersion')" >> $GITHUB_ENV
+
+    - name: Set outputs
+      id: vars
+      run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
+
+    - name: Build and Publish Docker Image
+      run: |
+        vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY
+      env:
+        DOCKER_LOGIN: VirtoPaaSRegistryMain
+        DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}
+        DOCKERFILE_PATH: ./backend/Dockerfile
+        CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
+        IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/vcptcore/platform
+        TAG: ${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}

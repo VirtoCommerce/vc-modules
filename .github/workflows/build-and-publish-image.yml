@@ -49,4 +49,4 @@ jobs:
         DOCKERFILE_PATH: ./backend/Dockerfile
         CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
         IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
-        TAG: ${{ env.PLATFORM_VERSION }}-stable-${{ steps.vars.outputs.sha_short }}
+        TAG: ${{ env.PLATFORM_VERSION }}-stable

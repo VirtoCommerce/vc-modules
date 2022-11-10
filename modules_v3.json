@@ -2193,10 +2193,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.239.0",
+        "Version": "3.241.0",
         "VersionTag": "",
         "PlatformVersion": "3.259.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.239.0/VirtoCommerce.ExperienceApi_3.239.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.241.0/VirtoCommerce.ExperienceApi_3.241.0.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
@@ -2259,10 +2259,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.240.0",
-        "VersionTag": "alpha.1051",
+        "Version": "3.242.0",
+        "VersionTag": "alpha.1055",
         "PlatformVersion": "3.259.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.240.0-alpha.1051.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.242.0-alpha.1055.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
@@ -3677,10 +3677,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.200.55",
+        "Version": "3.200.56",
         "VersionTag": "",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.200.55/VirtoCommerce.CITest_3.200.55.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.200.56/VirtoCommerce.CITest_3.200.56.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

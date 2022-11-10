@@ -3243,10 +3243,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.203.0",
-        "VersionTag": "alpha.61",
+        "Version": "3.204.0",
+        "VersionTag": "alpha.62",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.203.0-alpha.61.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.204.0-alpha.62.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

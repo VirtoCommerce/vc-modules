@@ -2328,11 +2328,10 @@
   },
   {
     "Id": "VirtoCommerce.GoogleEcommerceAnalytics",
-    "Title": "Ecommerce Google Analytics module",
-    "Description": "Provides integration between Ecommerce feature of Google Analytics and VirtoCommerce.",
+    "Title": "Google Analytics 4",
+    "Description": "Allows you active Measurement Id for a Store and measure traffic and ecommerce events to collect information about the shopping behavior of your users.",
     "Authors": [
-      "Alexey Antonov",
-      "Egidijus Mažeika"
+      "Oleg Zhuk"
     ],
     "Owners": [
       "Virto Commerce"
@@ -2341,11 +2340,9 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/google-ecommerce-analytics-module",
     "IconUrl": "Modules/$(VirtoCommerce.GoogleEcommerceAnalytics)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2022 Virto Commerce. All rights reserved",
     "Tags": "analytics",
-    "Groups": [
-      "commerce"
-    ],
+    "Groups": null,
     "Versions": [
       {
         "Version": "3.201.0",
@@ -2366,16 +2363,12 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.202.0",
-        "VersionTag": "alpha.138",
+        "Version": "4.0.0",
+        "VersionTag": "alpha.150",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleEcommerceAnalytics_3.202.0-alpha.138.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleEcommerceAnalytics_4.0.0-alpha.150.zip",
         "Incompatibilities": null,
         "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Orders",
-            "Version": "3.200.0"
-          },
           {
             "Id": "VirtoCommerce.Store",
             "Version": "3.200.0"

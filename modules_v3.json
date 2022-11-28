@@ -1995,10 +1995,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.209.0",
+        "Version": "3.211.0",
         "VersionTag": "",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.209.0/VirtoCommerce.Quote_3.209.0.zip",
+        "PlatformVersion": "3.210.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.211.0/VirtoCommerce.Quote_3.211.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -1460,7 +1460,8 @@
     "Authors": [
       "Egidijus Mazeika",
       "Andrew Nikutin",
-      "Evgeny Gusev"
+      "Evgeny Gusev",
+      "Aleksandr Vishniakov"
     ],
     "Owners": [
       "Virto Commerce"
@@ -1505,9 +1506,9 @@
       },
       {
         "Version": "3.208.0",
-        "VersionTag": "alpha.156",
+        "VersionTag": "alpha.157",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.208.0-alpha.156.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.208.0-alpha.157.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1515,19 +1516,23 @@
             "Version": "3.200.0"
           },
           {
-            "Id": "VirtoCommerce.Store",
+            "Id": "VirtoCommerce.Customer",
             "Version": "3.200.0"
+          },
+          {
+            "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "3.244.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",
             "Version": "3.200.0"
           },
           {
-            "Id": "VirtoCommerce.Customer",
+            "Id": "VirtoCommerce.Orders",
             "Version": "3.200.0"
           },
           {
-            "Id": "VirtoCommerce.Orders",
+            "Id": "VirtoCommerce.Store",
             "Version": "3.200.0"
           }
         ],

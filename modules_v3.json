@@ -2872,23 +2872,19 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "1.2.0",
-        "VersionTag": "alpha.102",
-        "PlatformVersion": "3.65.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_1.2.0-alpha.102.zip",
+        "Version": "3.200.0",
+        "VersionTag": "alpha.114",
+        "PlatformVersion": "3.253.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.200.0-alpha.114.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.28.0"
+            "Version": "3.211.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.17.0"
-          },
-          {
-            "Id": "VirtoCommerce.FeatureManagement",
-            "Version": "3.0.0"
+            "Version": "3.206.0"
           }
         ],
         "ReleaseNotes": "First version."

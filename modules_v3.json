@@ -2872,10 +2872,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.201.0",
-        "VersionTag": "alpha.116",
+        "Version": "3.202.0",
+        "VersionTag": "alpha.117",
         "PlatformVersion": "3.253.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.201.0-alpha.116.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.202.0-alpha.117.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

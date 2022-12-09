@@ -2850,23 +2850,19 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "1.1.0",
+        "Version": "3.201.0",
         "VersionTag": "",
-        "PlatformVersion": "3.65.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import/releases/download/1.1.0/VirtoCommerce.CustomerExportImport_1.1.0.zip",
+        "PlatformVersion": "3.253.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import/releases/download/3.201.0/VirtoCommerce.CustomerExportImport_3.201.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.28.0"
+            "Version": "3.211.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.17.0"
-          },
-          {
-            "Id": "VirtoCommerce.FeatureManagement",
-            "Version": "3.0.0"
+            "Version": "3.206.0"
           }
         ],
         "ReleaseNotes": "First version."

@@ -2836,7 +2836,7 @@
     "Title": "Customer Export Import",
     "Description": "This module adds customers export and import functionality. Use it for customer management.",
     "Authors": [
-      "Solution team"
+      "Alexei Shibanov"
     ],
     "Owners": [
       "Virto Commerce"
@@ -2845,7 +2845,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import",
     "IconUrl": "Modules/$(VirtoCommerce.CustomerExportImport)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
     "Tags": "customer export import",
     "Groups": null,
     "Versions": [
@@ -2873,9 +2873,9 @@
       },
       {
         "Version": "3.200.0",
-        "VersionTag": "alpha.114",
+        "VersionTag": "alpha.115",
         "PlatformVersion": "3.253.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.200.0-alpha.114.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.200.0-alpha.115.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

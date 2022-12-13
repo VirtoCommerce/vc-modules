@@ -2051,9 +2051,9 @@
       },
       {
         "Version": "3.212.0",
-        "VersionTag": "alpha.338",
+        "VersionTag": "alpha.339",
         "PlatformVersion": "3.210.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.212.0-alpha.338.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.212.0-alpha.339.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

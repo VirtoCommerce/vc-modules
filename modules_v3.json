@@ -3446,10 +3446,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.204.0",
-        "VersionTag": "alpha.64",
+        "Version": "3.205.0",
+        "VersionTag": "alpha.65",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticAppSearch_3.204.0-alpha.64.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticAppSearch_3.205.0-alpha.65.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

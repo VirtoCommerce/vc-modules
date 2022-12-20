@@ -351,7 +351,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-customer-module",
     "IconUrl": "Modules/$(VirtoCommerce.Customer)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2022 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
     "Tags": "customer",
     "Groups": [
       "commerce"
@@ -381,9 +381,9 @@
       },
       {
         "Version": "3.217.0",
-        "VersionTag": "alpha.739",
+        "VersionTag": "alpha.740",
         "PlatformVersion": "3.230.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.217.0-alpha.739.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.217.0-alpha.740.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

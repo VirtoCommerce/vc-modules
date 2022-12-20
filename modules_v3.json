@@ -2499,7 +2499,7 @@
     "ProjectUrl": null,
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2022 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2023 Virto Commerce. All rights reserved",
     "Tags": "webhooks module",
     "Groups": null,
     "Versions": [
@@ -2519,9 +2519,9 @@
       },
       {
         "Version": "3.207.0",
-        "VersionTag": "alpha.246",
+        "VersionTag": "alpha.247",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.207.0-alpha.246.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.207.0-alpha.247.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

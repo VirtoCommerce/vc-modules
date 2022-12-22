@@ -676,7 +676,8 @@
     "Title": "Marketing module",
     "Description": "Marketing system with dynamic contents and promotions management",
     "Authors": [
-      "Virto Commerce"
+      "Virto Commerce",
+      "Evgeny Okhrimenko"
     ],
     "Owners": [
       "Virto Commerce"
@@ -727,17 +728,17 @@
       },
       {
         "Version": "3.203.0",
-        "VersionTag": "alpha.781",
+        "VersionTag": "alpha.782",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.203.0-alpha.781.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.203.0-alpha.782.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Core",
+            "Id": "VirtoCommerce.Assets",
             "Version": "3.200.0"
           },
           {
-            "Id": "VirtoCommerce.Store",
+            "Id": "VirtoCommerce.Core",
             "Version": "3.200.0"
           },
           {
@@ -745,15 +746,15 @@
             "Version": "3.200.0"
           },
           {
-            "Id": "VirtoCommerce.Shipping",
-            "Version": "3.200.0"
-          },
-          {
             "Id": "VirtoCommerce.Payment",
             "Version": "3.200.0"
           },
           {
-            "Id": "VirtoCommerce.Assets",
+            "Id": "VirtoCommerce.Shipping",
+            "Version": "3.200.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
             "Version": "3.200.0"
           }
         ],

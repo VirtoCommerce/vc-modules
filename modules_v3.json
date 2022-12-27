@@ -2270,9 +2270,9 @@
       },
       {
         "Version": "3.246.0",
-        "VersionTag": "alpha.1064",
+        "VersionTag": "alpha.1065",
         "PlatformVersion": "3.259.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.246.0-alpha.1064.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.246.0-alpha.1065.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
@@ -2325,7 +2325,7 @@
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.213.0"
+            "Version": "3.249.0"
           },
           {
             "Id": "VirtoCommerce.Tax",

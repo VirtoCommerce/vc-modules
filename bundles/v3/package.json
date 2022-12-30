@@ -1,11 +1,10 @@
 {
     "ManifestVersion": "2.0",
-    "PlatformVersion": "3.253.7",
+    "PlatformVersion": "3.253.8",
     "PlatformImage": "ghcr.io/virtocommerce/platform",
-    "PlatformImageTag": "3.253.7",
+    "PlatformImageTag": "3.253.8",
     "PlatformAssetUrl": "",
     "Sources": [
-        {
             "Name": "GithubReleases",
             "ModuleSources": [
                 "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/modules_v3.json"
@@ -25,15 +24,15 @@
                 },
                 {
                   "Id": "VirtoCommerce.Catalog",
-                  "Version": "3.230.9"
+                  "Version": "3.230.13"
                 },
                 {
                   "Id": "VirtoCommerce.Content",
-                  "Version": "3.204.2"
+                  "Version": "3.204.3"
                 },
                 {
                   "Id": "VirtoCommerce.Customer",
-                  "Version": "3.211.2"
+                  "Version": "3.211.3"
                 },
                 {
                   "Id": "VirtoCommerce.ElasticSearch",
@@ -57,7 +56,7 @@
                 },
                 {
                   "Id": "VirtoCommerce.Marketing",
-                  "Version": "3.200.0"
+                  "Version": "3.200.1"
                 },
                 {
                   "Id": "VirtoCommerce.Notifications",
@@ -77,7 +76,7 @@
                 },
                 {
                   "Id": "VirtoCommerce.Search",
-                  "Version": "3.209.4"
+                  "Version": "3.209.5"
                 },
                 {
                   "Id": "VirtoCommerce.Shipping",
@@ -97,7 +96,7 @@
                 },
                 {
                   "Id": "VirtoCommerce.ExperienceApi",
-                  "Version": "3.227.7"
+                  "Version": "3.227.8"
                 },
                 {
                   "Id": "VirtoCommerce.CatalogCsvImportModule",
@@ -109,7 +108,7 @@
                 },
                 {
                   "Id": "VirtoCommerce.AzureBlobAssets",
-                  "Version": "3.200.5"
+                  "Version": "3.200.6"
                 },
                 {
                   "Id": "VirtoCommerce.FileSystemAssets",
@@ -117,7 +116,7 @@
                 },
                 {
                   "Id": "VirtoCommerce.ProfileExperienceApiModule",
-                  "Version": "3.214.4"
+                  "Version": "3.214.5"
                 },
                 {
                   "Id": "VirtoCommerce.AvalaraTax",

@@ -1097,10 +1097,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.218.0",
-        "VersionTag": "alpha.679",
+        "Version": "3.219.0",
+        "VersionTag": "alpha.680",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.218.0-alpha.679.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.219.0-alpha.680.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

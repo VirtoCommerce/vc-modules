@@ -569,7 +569,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-inventory-module",
     "IconUrl": "Modules/$(VirtoCommerce.Inventory)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2022 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
     "Tags": "order system",
     "Groups": [
       "commerce"
@@ -599,9 +599,9 @@
       },
       {
         "Version": "3.211.0",
-        "VersionTag": "alpha.398",
+        "VersionTag": "alpha.399",
         "PlatformVersion": "3.218.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.211.0-alpha.398.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.211.0-alpha.399.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

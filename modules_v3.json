@@ -999,7 +999,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-pricing-module",
     "IconUrl": "Modules/$(VirtoCommerce.Pricing)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
     "Tags": "price pricelist merchandise",
     "Groups": [
       "commerce"
@@ -1037,9 +1037,9 @@
       },
       {
         "Version": "3.216.0",
-        "VersionTag": "alpha.673",
+        "VersionTag": "alpha.674",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.216.0-alpha.673.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.216.0-alpha.674.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

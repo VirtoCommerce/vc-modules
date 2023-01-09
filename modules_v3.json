@@ -1786,11 +1786,9 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/catalog-publishing",
     "IconUrl": "Modules/$(VirtoCommerce.CatalogPublishing)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2020 - 2021 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2020 - 2023 Virto Commerce. All rights reserved",
     "Tags": "publishing filling",
-    "Groups": [
-      "commerce"
-    ],
+    "Groups": null,
     "Versions": [
       {
         "Version": "3.200.0",
@@ -1812,9 +1810,9 @@
       },
       {
         "Version": "3.201.0",
-        "VersionTag": "alpha.296",
+        "VersionTag": "alpha.308",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.201.0-alpha.296.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.201.0-alpha.308.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

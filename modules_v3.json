@@ -834,10 +834,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.218.0",
+        "Version": "3.219.0",
         "VersionTag": "",
         "PlatformVersion": "3.239.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.218.0/VirtoCommerce.Orders_3.218.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.219.0/VirtoCommerce.Orders_3.219.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -866,7 +866,7 @@
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.200.0"
+            "Version": "3.208.0"
           },
           {
             "Id": "VirtoCommerce.Inventory",

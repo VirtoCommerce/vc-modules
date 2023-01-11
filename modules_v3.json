@@ -2214,7 +2214,7 @@
     "ProjectUrl": "https://virtocommerce.com",
     "IconUrl": "Modules/$(VirtoCommerce.ExperienceApi)/Content/logoVC.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2022 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
     "Tags": "security core",
     "Groups": [
       "commerce"
@@ -2288,9 +2288,9 @@
       },
       {
         "Version": "3.248.0",
-        "VersionTag": "alpha.1071",
+        "VersionTag": "alpha.1072",
         "PlatformVersion": "3.259.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.248.0-alpha.1071.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.248.0-alpha.1072.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
@@ -2303,7 +2303,7 @@
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.206.0"
+            "Version": "3.208.0"
           },
           {
             "Id": "VirtoCommerce.Marketing",
@@ -2335,7 +2335,7 @@
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.210.0"
+            "Version": "3.219.0"
           },
           {
             "Id": "VirtoCommerce.Store",

@@ -3370,7 +3370,7 @@
     "ProjectUrl": null,
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2021 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2021–2023 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": [
       "commerce"
@@ -3404,25 +3404,25 @@
       },
       {
         "Version": "3.233.0",
-        "VersionTag": "alpha.122",
+        "VersionTag": "alpha.123",
         "PlatformVersion": "3.259.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.233.0-alpha.122.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.233.0-alpha.123.zip",
         "Incompatibilities": null,
         "Dependencies": [
-          {
-            "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.237.0"
-          },
           {
             "Id": "VirtoCommerce.Customer",
             "Version": "3.210.0"
           },
           {
-            "Id": "VirtoCommerce.Store",
-            "Version": "3.207.0"
+            "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "3.237.0"
           },
           {
             "Id": "VirtoCommerce.Marketing",
+            "Version": "3.200.0"
+          },
+          {
+            "Id": "VirtoCommerce.Pricing",
             "Version": "3.200.0"
           }
         ],

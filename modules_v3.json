@@ -1719,7 +1719,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
     "Tags": "catalog personalization products categories",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.202.0",
@@ -1745,9 +1747,9 @@
       },
       {
         "Version": "3.203.0",
-        "VersionTag": "alpha.212",
+        "VersionTag": "alpha.215",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.203.0-alpha.212.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.203.0-alpha.215.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

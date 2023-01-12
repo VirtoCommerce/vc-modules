@@ -1788,7 +1788,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2020 - 2023 Virto Commerce. All rights reserved",
     "Tags": "publishing filling",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.201.0",
@@ -1810,9 +1812,9 @@
       },
       {
         "Version": "3.202.0",
-        "VersionTag": "alpha.309",
+        "VersionTag": "alpha.310",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.202.0-alpha.309.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.202.0-alpha.310.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

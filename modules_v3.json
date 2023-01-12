@@ -54,7 +54,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-azure-search-module",
     "IconUrl": "Modules/$(VirtoCommerce.AzureSearch)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2020 - 2022 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2020 - 2023 Virto Commerce. All rights reserved",
     "Tags": "azure search",
     "Groups": [
       "commerce"
@@ -76,14 +76,14 @@
       },
       {
         "Version": "3.205.0",
-        "VersionTag": "alpha.181",
+        "VersionTag": "alpha.184",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.205.0-alpha.181.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.205.0-alpha.184.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.204.0"
+            "Version": "3.218.0"
           }
         ],
         "ReleaseNotes": "Third version."

@@ -1471,7 +1471,7 @@
     "ProjectUrl": null,
     "IconUrl": "Modules/$(VirtoCommerce.CustomerReviews)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2022 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2022–2023 Virto Commerce. All rights reserved",
     "Tags": "customer review",
     "Groups": null,
     "Versions": [
@@ -1511,9 +1511,9 @@
       },
       {
         "Version": "3.209.0",
-        "VersionTag": "alpha.158",
+        "VersionTag": "alpha.159",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.209.0-alpha.158.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.209.0-alpha.159.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

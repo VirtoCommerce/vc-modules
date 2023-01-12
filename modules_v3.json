@@ -417,7 +417,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search",
     "IconUrl": "Modules/$(VirtoCommerce.Elasticsearch)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2020 - 2022 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2020 - 2023 Virto Commerce. All rights reserved",
     "Tags": "elastic search",
     "Groups": [
       "commerce"
@@ -439,14 +439,14 @@
       },
       {
         "Version": "3.211.0",
-        "VersionTag": "alpha.201",
+        "VersionTag": "alpha.202",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch_3.211.0-alpha.201.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch_3.211.0-alpha.202.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.204.0"
+            "Version": "3.218.0"
           }
         ],
         "ReleaseNotes": "Third version."

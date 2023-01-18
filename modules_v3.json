@@ -3791,5 +3791,47 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.MarketingExperienceApi",
+    "Title": "VirtoCommerce MarketingExperienceApi module",
+    "Description": "VirtoCommerce MarketingExperienceApi module",
+    "Authors": [
+      "Evgeny Okhrimenko"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-marketing-experience-api",
+    "IconUrl": "Modules/$(VirtoCommerce.MarketingExperienceApi)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2011-2023 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.200.0",
+        "VersionTag": "alpha.5",
+        "PlatformVersion": "3.265.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.200.0-alpha.5.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.218.0"
+          },
+          {
+            "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "3.248.0"
+          },
+          {
+            "Id": "VirtoCommerce.Marketing",
+            "Version": "3.204.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

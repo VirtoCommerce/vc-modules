@@ -2073,10 +2073,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.212.0",
-        "VersionTag": "alpha.339",
+        "Version": "3.213.0",
+        "VersionTag": "alpha.341",
         "PlatformVersion": "3.210.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.212.0-alpha.339.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.213.0-alpha.341.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

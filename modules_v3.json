@@ -2892,14 +2892,14 @@
       },
       {
         "Version": "3.202.0",
-        "VersionTag": "alpha.117",
+        "VersionTag": "alpha.118",
         "PlatformVersion": "3.253.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.202.0-alpha.117.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.202.0-alpha.118.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.211.0"
+            "Version": "3.219.0"
           },
           {
             "Id": "VirtoCommerce.Store",

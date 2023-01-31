@@ -3366,7 +3366,8 @@
     "Title": "Commerce Profile Experience API module",
     "Description": "",
     "Authors": [
-      "Konstantin Savosteev"
+      "Konstantin Savosteev",
+      "Aleksandr Vishnyakov"
     ],
     "Owners": [
       "VirtoCommerce"
@@ -3408,10 +3409,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.234.0",
-        "VersionTag": "alpha.125",
+        "Version": "3.235.0",
+        "VersionTag": "alpha.127",
         "PlatformVersion": "3.259.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.234.0-alpha.125.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.235.0-alpha.127.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3420,7 +3421,7 @@
           },
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.237.0"
+            "Version": "3.254.0"
           },
           {
             "Id": "VirtoCommerce.Marketing",

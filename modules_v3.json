@@ -3610,10 +3610,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.203.0",
+        "Version": "3.204.0",
         "VersionTag": "",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-authorize-net/releases/download/3.203.0/VirtoCommerce.AuthorizeNetPayment_3.203.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-authorize-net/releases/download/3.204.0/VirtoCommerce.AuthorizeNetPayment_3.204.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

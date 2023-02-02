@@ -3863,5 +3863,36 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.AzureAD",
+    "Title": "VirtoCommerce AzureAD module",
+    "Description": "VirtoCommerce AzureAD module",
+    "Authors": [
+      "Konstantin Savosteev"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-azure-ad",
+    "IconUrl": "Modules/$(VirtoCommerce.AzureAD)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2023 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.200.0",
+        "VersionTag": "alpha.3",
+        "PlatformVersion": "3.276.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureAD_3.200.0-alpha.3.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

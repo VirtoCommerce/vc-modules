@@ -3527,13 +3527,13 @@
   },
   {
     "Id": "VirtoCommerce.AuthorizeNetPayment",
-    "Title": "VirtoCommerce AuthorizeNetPayment extension module",
-    "Description": "VirtoCommerce AuthorizeNetPayment extension module",
+    "Title": "Authorize.Net Payment Method",
+    "Description": "Provides the integration with Authorize.Net payment provider",
     "Authors": [
       "Konstantin Savosteev"
     ],
     "Owners": [
-      "VirtoCommerce"
+      "Virto Commerce"
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-AuthorizeNetPayment",
@@ -3554,9 +3554,9 @@
       },
       {
         "Version": "3.205.0",
-        "VersionTag": "alpha.39",
+        "VersionTag": "alpha.40",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNetPayment_3.205.0-alpha.39.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNetPayment_3.205.0-alpha.40.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

@@ -1121,7 +1121,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-shipping-module",
     "IconUrl": "Modules/$(VirtoCommerce.Shipping)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
     "Tags": "shipping",
     "Groups": [
       "commerce"
@@ -1147,9 +1147,9 @@
       },
       {
         "Version": "3.203.0",
-        "VersionTag": "alpha.148",
+        "VersionTag": "alpha.149",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.203.0-alpha.148.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.203.0-alpha.149.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

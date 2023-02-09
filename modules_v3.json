@@ -3720,6 +3720,20 @@
     "Versions": [
       {
         "Version": "3.202.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.200.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-task-management/releases/download/3.202.0/VirtoCommerce.TaskManagement_3.202.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "3.233.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.202.0",
         "VersionTag": "alpha.23",
         "PlatformVersion": "3.200.0",
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.202.0-alpha.23.zip",

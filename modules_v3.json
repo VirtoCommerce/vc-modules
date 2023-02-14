@@ -3325,10 +3325,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.235.0",
+        "Version": "3.236.0",
         "VersionTag": "",
         "PlatformVersion": "3.259.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api/releases/download/3.235.0/VirtoCommerce.ProfileExperienceApiModule_3.235.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api/releases/download/3.236.0/VirtoCommerce.ProfileExperienceApiModule_3.236.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

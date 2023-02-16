@@ -3851,5 +3851,43 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.PowerBiReports",
+    "Title": "Power BI Commerce Reports",
+    "Description": "Power BI Commerce Reports for Virto Commerce",
+    "Authors": [
+      "Oleg Zhuk"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-power-bi-reports",
+    "IconUrl": "Modules/$(VirtoCommerce.PowerBiReports)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2023 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.200.0",
+        "VersionTag": "alpha.7",
+        "PlatformVersion": "3.264.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PowerBiReports_3.200.0-alpha.7.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.216.0"
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.215.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

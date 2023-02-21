@@ -3719,10 +3719,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.205.0",
+        "Version": "3.210.0",
         "VersionTag": "",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-task-management/releases/download/3.205.0/VirtoCommerce.TaskManagement_3.205.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-task-management/releases/download/3.210.0/VirtoCommerce.TaskManagement_3.210.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

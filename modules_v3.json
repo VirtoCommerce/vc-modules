@@ -673,7 +673,7 @@
   },
   {
     "Id": "VirtoCommerce.Marketing",
-    "Title": "Marketing module",
+    "Title": "Marketing",
     "Description": "Marketing system with dynamic contents and promotions management",
     "Authors": [
       "Virto Commerce",
@@ -728,9 +728,9 @@
       },
       {
         "Version": "3.208.0",
-        "VersionTag": "alpha.791",
+        "VersionTag": "alpha.796",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.208.0-alpha.791.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.208.0-alpha.796.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

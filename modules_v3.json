@@ -138,9 +138,9 @@
       },
       {
         "Version": "3.213.0",
-        "VersionTag": "alpha.596",
+        "VersionTag": "alpha.601",
         "PlatformVersion": "3.282.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Cart_3.213.0-alpha.596.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Cart_3.213.0-alpha.601.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

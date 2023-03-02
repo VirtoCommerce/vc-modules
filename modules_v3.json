@@ -3644,7 +3644,7 @@
   },
   {
     "Id": "VirtoCommerce.Contracts",
-    "Title": "Contracts module",
+    "Title": "Contracts",
     "Description": "Cotract based price personalization for customers and organisations",
     "Authors": [
       "Konstantin Savosteev"
@@ -3656,7 +3656,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-contract",
     "IconUrl": "Modules/$(VirtoCommerce.Contracts)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2023 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": null,
     "Versions": [
@@ -3680,9 +3680,9 @@
       },
       {
         "Version": "3.205.0",
-        "VersionTag": "alpha.42",
+        "VersionTag": "alpha.48",
         "PlatformVersion": "3.240.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.205.0-alpha.42.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.205.0-alpha.48.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

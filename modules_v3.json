@@ -305,30 +305,30 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.212.0",
-        "VersionTag": "alpha.851",
+        "Version": "3.213.0",
+        "VersionTag": "alpha.859",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.212.0-alpha.851.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.213.0-alpha.859.zip",
         "Incompatibilities": null,
         "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Core",
-            "Version": "3.200.0"
-          },
-          {
-            "Id": "VirtoCommerce.Store",
-            "Version": "3.200.0"
-          },
           {
             "Id": "VirtoCommerce.Assets",
             "Version": "3.200.0"
           },
           {
             "Id": "VirtoCommerce.AzureBlobAssets",
-            "Version": "3.207.0"
+            "Version": "3.210.0"
+          },
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.200.0"
           },
           {
             "Id": "VirtoCommerce.FileSystemAssets",
+            "Version": "3.200.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
             "Version": "3.200.0"
           }
         ],

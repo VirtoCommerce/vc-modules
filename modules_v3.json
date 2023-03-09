@@ -1569,9 +1569,7 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2021 Virto Commerce. All rights reserved",
     "Tags": "avalara tax",
-    "Groups": [
-      "commerce"
-    ],
+    "Groups": null,
     "Versions": [
       {
         "Version": "3.201.0",
@@ -1609,9 +1607,9 @@
       },
       {
         "Version": "3.202.0",
-        "VersionTag": "alpha.258",
+        "VersionTag": "alpha.275",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.202.0-alpha.258.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.202.0-alpha.275.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

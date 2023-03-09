@@ -2687,9 +2687,9 @@
       },
       {
         "Version": "3.205.0",
-        "VersionTag": "alpha.274",
+        "VersionTag": "alpha.280",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.205.0-alpha.274.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.205.0-alpha.280.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

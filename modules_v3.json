@@ -2076,9 +2076,7 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2020-2021 Virto Commerce. All rights reserved",
     "Tags": "dynamicAssociations",
-    "Groups": [
-      "commerce"
-    ],
+    "Groups": null,
     "Versions": [
       {
         "Version": "3.200.0",
@@ -2108,9 +2106,9 @@
       },
       {
         "Version": "3.201.0",
-        "VersionTag": "alpha.103",
+        "VersionTag": "alpha.120",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DynamicAssociationsModule_3.201.0-alpha.103.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DynamicAssociationsModule_3.201.0-alpha.120.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

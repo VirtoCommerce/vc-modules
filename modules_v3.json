@@ -1929,10 +1929,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.202.0",
-        "VersionTag": "alpha.186",
+        "Version": "3.203.0",
+        "VersionTag": "alpha.187",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.202.0-alpha.186.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.203.0-alpha.187.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

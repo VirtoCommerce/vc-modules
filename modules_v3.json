@@ -21,10 +21,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.210.0",
+        "Version": "3.211.0",
         "VersionTag": "",
         "PlatformVersion": "3.286.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/3.210.0/VirtoCommerce.Core_3.210.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-core/releases/download/3.211.0/VirtoCommerce.Core_3.211.0.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

@@ -1733,10 +1733,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.202.0",
+        "Version": "3.203.0",
         "VersionTag": "",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/3.202.0/VirtoCommerce.CatalogPublishing_3.202.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/3.203.0/VirtoCommerce.CatalogPublishing_3.203.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

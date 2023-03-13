@@ -3864,9 +3864,9 @@
     "Versions": [
       {
         "Version": "3.200.0",
-        "VersionTag": "alpha.8",
+        "VersionTag": "alpha.16",
         "PlatformVersion": "3.264.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PowerBiReports_3.200.0-alpha.8.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PowerBiReports_3.200.0-alpha.16.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

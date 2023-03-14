@@ -1436,9 +1436,9 @@
       },
       {
         "Version": "3.204.0",
-        "VersionTag": "alpha.148",
+        "VersionTag": "alpha.154",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Tax_3.204.0-alpha.148.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Tax_3.204.0-alpha.154.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

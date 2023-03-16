@@ -2328,10 +2328,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "4.2.0",
-        "VersionTag": "alpha.159",
+        "Version": "4.3.0",
+        "VersionTag": "alpha.160",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleEcommerceAnalytics_4.2.0-alpha.159.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleEcommerceAnalytics_4.3.0-alpha.160.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -3110,8 +3110,8 @@
   },
   {
     "Id": "VirtoCommerce.AzureBlobAssets",
-    "Title": "Azure blob assets module",
-    "Description": "",
+    "Title": "Azure Blob Storage Assets Provider",
+    "Description": "Provide integration with Azure Blob Storage for Assets Management",
     "Authors": [
       "Virto Commerce"
     ],
@@ -3144,9 +3144,9 @@
       },
       {
         "Version": "3.211.0",
-        "VersionTag": "alpha.85",
+        "VersionTag": "alpha.87",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.211.0-alpha.85.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.211.0-alpha.87.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

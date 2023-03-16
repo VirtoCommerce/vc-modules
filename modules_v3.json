@@ -3070,8 +3070,8 @@
   },
   {
     "Id": "VirtoCommerce.Assets",
-    "Title": "Assets module",
-    "Description": "",
+    "Title": "Assets Management",
+    "Description": "Common abstractions for asset search, retrieval, and manipulation, making it easy for developers to work with assets regardless of their underlying storage location.",
     "Authors": [
       "Virto Commerce"
     ],
@@ -3099,9 +3099,9 @@
       },
       {
         "Version": "3.204.0",
-        "VersionTag": "alpha.90",
+        "VersionTag": "alpha.91",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.204.0-alpha.90.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.204.0-alpha.91.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

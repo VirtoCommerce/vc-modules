@@ -306,9 +306,9 @@
       },
       {
         "Version": "3.216.0",
-        "VersionTag": "alpha.865",
+        "VersionTag": "alpha.866",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.216.0-alpha.865.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.216.0-alpha.866.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -317,7 +317,7 @@
           },
           {
             "Id": "VirtoCommerce.AzureBlobAssets",
-            "Version": "3.210.0"
+            "Version": "3.211.0"
           },
           {
             "Id": "VirtoCommerce.Core",

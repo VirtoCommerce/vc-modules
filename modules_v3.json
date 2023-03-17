@@ -3129,15 +3129,15 @@
     ],
     "Versions": [
       {
-        "Version": "3.210.0",
+        "Version": "3.211.0",
         "VersionTag": "",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-azureblob-assets/releases/download/3.210.0/VirtoCommerce.AzureBlobAssets_3.210.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-azureblob-assets/releases/download/3.211.0/VirtoCommerce.AzureBlobAssets_3.211.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.200.0"
+            "Version": "3.204.0"
           }
         ],
         "ReleaseNotes": ""

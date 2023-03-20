@@ -1514,10 +1514,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.214.0",
-        "VersionTag": "alpha.174",
+        "Version": "3.215.0",
+        "VersionTag": "alpha.175",
         "PlatformVersion": "3.271.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.214.0-alpha.174.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.215.0-alpha.175.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

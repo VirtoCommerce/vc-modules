@@ -3726,14 +3726,14 @@
       },
       {
         "Version": "3.211.0",
-        "VersionTag": "alpha.41",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.211.0-alpha.41.zip",
+        "VersionTag": "alpha.44",
+        "PlatformVersion": "3.271.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.211.0-alpha.44.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.233.0"
+            "Version": "3.300.0"
           }
         ],
         "ReleaseNotes": "First version."

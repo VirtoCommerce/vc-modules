@@ -1515,9 +1515,9 @@
       },
       {
         "Version": "3.214.0",
-        "VersionTag": "alpha.173",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.214.0-alpha.173.zip",
+        "VersionTag": "alpha.174",
+        "PlatformVersion": "3.271.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.214.0-alpha.174.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1530,11 +1530,11 @@
           },
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.254.0"
+            "Version": "3.300.0"
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.235.0"
+            "Version": "3.300.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",

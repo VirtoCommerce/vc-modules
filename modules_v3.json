@@ -3742,8 +3742,8 @@
   },
   {
     "Id": "VirtoCommerce.MarketingExperienceApi",
-    "Title": "VirtoCommerce MarketingExperienceApi module",
-    "Description": "VirtoCommerce MarketingExperienceApi module",
+    "Title": "Marketing Experience API",
+    "Description": "Experience Api extension for Marketing",
     "Authors": [
       "Evgeny Okhrimenko"
     ],
@@ -3782,9 +3782,9 @@
       },
       {
         "Version": "3.202.0",
-        "VersionTag": "alpha.7",
-        "PlatformVersion": "3.265.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.202.0-alpha.7.zip",
+        "VersionTag": "alpha.22",
+        "PlatformVersion": "3.271.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.202.0-alpha.22.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3793,7 +3793,7 @@
           },
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.248.0"
+            "Version": "3.300.0"
           },
           {
             "Id": "VirtoCommerce.Marketing",

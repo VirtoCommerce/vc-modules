@@ -1476,10 +1476,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.213.0",
+        "Version": "3.214.0",
         "VersionTag": "",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.213.0/VirtoCommerce.CustomerReviews_3.213.0.zip",
+        "PlatformVersion": "3.271.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.214.0/VirtoCommerce.CustomerReviews_3.214.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1492,11 +1492,11 @@
           },
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.254.0"
+            "Version": "3.300.0"
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.235.0"
+            "Version": "3.300.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",

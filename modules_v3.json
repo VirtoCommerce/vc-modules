@@ -3533,7 +3533,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2022–2023 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.205.0",
@@ -3546,9 +3548,9 @@
       },
       {
         "Version": "3.206.0",
-        "VersionTag": "alpha.41",
+        "VersionTag": "alpha.47",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNetPayment_3.206.0-alpha.41.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNetPayment_3.206.0-alpha.47.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

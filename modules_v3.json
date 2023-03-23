@@ -948,10 +948,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.207.0",
+        "Version": "3.208.0",
         "VersionTag": "",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-payment/releases/download/3.207.0/VirtoCommerce.Payment_3.207.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-payment/releases/download/3.208.0/VirtoCommerce.Payment_3.208.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

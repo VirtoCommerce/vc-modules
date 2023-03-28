@@ -1643,8 +1643,8 @@
   },
   {
     "Id": "VirtoCommerce.CatalogPersonalization",
-    "Title": "Catalog personalization module",
-    "Description": "Personalization feature for the products and categories.",
+    "Title": "Catalog Personalization",
+    "Description": "Help businesses personalize their categories and products to specific User Groups",
     "Authors": [
       "Eugeney Tarincev",
       "Artyom Androsov",
@@ -1687,9 +1687,9 @@
       },
       {
         "Version": "3.205.0",
-        "VersionTag": "alpha.223",
+        "VersionTag": "alpha.225",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.205.0-alpha.223.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-personalization/releases/download/3.205.0-alpha.225/VirtoCommerce.CatalogPersonalization_3.205.0-alpha.225.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

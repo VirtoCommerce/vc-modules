@@ -1711,7 +1711,7 @@
   },
   {
     "Id": "VirtoCommerce.CatalogPublishing",
-    "Title": "Catalog publishing module",
+    "Title": "Catalog Publishing",
     "Description": "Allow you to see progress on filling in information about products and marks missed info.",
     "Authors": [
       "Alexey Antonov",
@@ -1752,9 +1752,9 @@
       },
       {
         "Version": "3.204.0",
-        "VersionTag": "alpha.318",
+        "VersionTag": "alpha.323",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.204.0-alpha.318.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.204.0-alpha.323.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

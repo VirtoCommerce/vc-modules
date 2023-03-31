@@ -42,8 +42,8 @@
   },
   {
     "Id": "VirtoCommerce.AzureSearch",
-    "Title": "Azure Search module",
-    "Description": "Indexed search functionality with AzureSearch engine",
+    "Title": "Azure Search",
+    "Description": "Search functionality with Elastic Azure Search service",
     "Authors": [
       "Artem Dudarev"
     ],
@@ -76,9 +76,9 @@
       },
       {
         "Version": "3.206.0",
-        "VersionTag": "alpha.185",
+        "VersionTag": "alpha.195",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.206.0-alpha.185.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.206.0-alpha.195.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

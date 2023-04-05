@@ -3649,15 +3649,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.210.0",
+        "Version": "3.211.0",
         "VersionTag": "",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-task-management/releases/download/3.210.0/VirtoCommerce.TaskManagement_3.210.0.zip",
+        "PlatformVersion": "3.271.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-task-management/releases/download/3.211.0/VirtoCommerce.TaskManagement_3.211.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.233.0"
+            "Version": "3.300.0"
           }
         ],
         "ReleaseNotes": "First version."

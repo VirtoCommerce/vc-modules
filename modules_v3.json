@@ -834,12 +834,16 @@
     ],
     "Versions": [
       {
-        "Version": "3.227.0",
+        "Version": "3.228.0",
         "VersionTag": "",
         "PlatformVersion": "3.282.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.227.0/VirtoCommerce.Orders_3.227.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.228.0/VirtoCommerce.Orders_3.228.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Cart",
+            "Version": "3.210.0"
+          },
           {
             "Id": "VirtoCommerce.Core",
             "Version": "3.200.0"
@@ -849,15 +853,7 @@
             "Version": "3.200.0"
           },
           {
-            "Id": "VirtoCommerce.Store",
-            "Version": "3.200.0"
-          },
-          {
-            "Id": "VirtoCommerce.Payment",
-            "Version": "3.200.0"
-          },
-          {
-            "Id": "VirtoCommerce.Shipping",
+            "Id": "VirtoCommerce.Inventory",
             "Version": "3.200.0"
           },
           {
@@ -865,16 +861,20 @@
             "Version": "3.200.0"
           },
           {
-            "Id": "VirtoCommerce.Cart",
-            "Version": "3.210.0"
-          },
-          {
-            "Id": "VirtoCommerce.Inventory",
-            "Version": "3.200.0"
+            "Id": "VirtoCommerce.Payment",
+            "Version": "3.208.0"
           },
           {
             "Id": "VirtoCommerce.Search",
             "Version": "3.202.0"
+          },
+          {
+            "Id": "VirtoCommerce.Shipping",
+            "Version": "3.200.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.200.0"
           }
         ],
         "ReleaseNotes": null

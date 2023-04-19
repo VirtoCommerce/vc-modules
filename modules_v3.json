@@ -693,10 +693,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.209.0",
+        "Version": "3.210.0",
         "VersionTag": "",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.209.0/VirtoCommerce.Marketing_3.209.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.210.0/VirtoCommerce.Marketing_3.210.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -2746,10 +2746,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.202.0",
+        "Version": "3.203.0",
         "VersionTag": "",
-        "PlatformVersion": "3.253.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import/releases/download/3.202.0/VirtoCommerce.CustomerExportImport_3.202.0.zip",
+        "PlatformVersion": "3.280.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import/releases/download/3.203.0/VirtoCommerce.CustomerExportImport_3.203.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

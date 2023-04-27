@@ -598,10 +598,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.215.0",
-        "VersionTag": "alpha.419",
+        "Version": "3.216.0",
+        "VersionTag": "alpha.420",
         "PlatformVersion": "3.218.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.215.0-alpha.419.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.216.0-alpha.420.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -3851,9 +3851,9 @@
       },
       {
         "Version": "3.201.0",
-        "VersionTag": "alpha.4",
+        "VersionTag": "alpha.5",
         "PlatformVersion": "3.302.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ApplicationInsights_3.201.0-alpha.4.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ApplicationInsights_3.201.0-alpha.5.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

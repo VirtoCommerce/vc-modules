@@ -505,8 +505,8 @@
   },
   {
     "Id": "VirtoCommerce.ImageTools",
-    "Title": "Image tools module",
-    "Description": "Image tools helps to automate image transformation procedures such as resizing and cropping",
+    "Title": "Image Tools",
+    "Description": "Image tools helps to automate thumbnail generation procedures with resizing and cropping",
     "Authors": [
       "Konstantin Savosteev",
       "Nikolay Prohorov",
@@ -541,9 +541,9 @@
       },
       {
         "Version": "3.208.0",
-        "VersionTag": "alpha.309",
+        "VersionTag": "alpha.314",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.208.0-alpha.309.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.208.0-alpha.314.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

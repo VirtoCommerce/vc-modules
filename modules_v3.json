@@ -3322,7 +3322,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-elastic-app-search",
     "IconUrl": "Modules/$(VirtoCommerce.ElasticAppSearch)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2023 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2022–2023 VirtoCommerce. All rights reserved",
     "Tags": "elastic app search",
     "Groups": null,
     "Versions": [
@@ -3342,9 +3342,9 @@
       },
       {
         "Version": "3.209.0",
-        "VersionTag": "alpha.78",
+        "VersionTag": "alpha.85",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticAppSearch_3.209.0-alpha.78.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticAppSearch_3.209.0-alpha.85.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

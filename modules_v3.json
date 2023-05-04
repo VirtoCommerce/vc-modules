@@ -1398,8 +1398,8 @@
   },
   {
     "Id": "VirtoCommerce.Tax",
-    "Title": "Tax module",
-    "Description": "Tax and fees",
+    "Title": "Tax Core",
+    "Description": "Defines Core Abstractions for taxe evaluation by using different tax providers and FixedRateTaxProvider.",
     "Authors": [
       "Virto Commerce"
     ],
@@ -1436,9 +1436,9 @@
       },
       {
         "Version": "3.204.0",
-        "VersionTag": "alpha.154",
+        "VersionTag": "alpha.159",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Tax_3.204.0-alpha.154.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Tax_3.204.0-alpha.159.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

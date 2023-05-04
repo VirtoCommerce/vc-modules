@@ -3664,9 +3664,9 @@
       },
       {
         "Version": "3.214.0",
-        "VersionTag": "alpha.53",
+        "VersionTag": "alpha.55",
         "PlatformVersion": "3.271.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.214.0-alpha.53.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.214.0-alpha.55.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

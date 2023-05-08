@@ -1,10 +1,10 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.264.7",
+  "PlatformVersion": "3.264.11",
   "StorefrontVersion": "6.10.0-master-3a9a6e30",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-theme-b2b-vue/releases/download/1.17.0/vc-theme-b2b-vue-1.17.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.264.7",
+  "PlatformImageTag": "3.264.11",
   "PlatformAssetUrl": "",
   "Sources": [
     {
@@ -39,7 +39,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.246.8"
+          "Version": "3.246.11"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",
@@ -83,7 +83,7 @@
         },
         {
           "Id": "VirtoCommerce.ElasticSearch",
-          "Version": "3.210.0"
+          "Version": "3.210.2"
         },
         {
           "Id": "VirtoCommerce.EventBus",
@@ -91,7 +91,7 @@
         },
         {
           "Id": "VirtoCommerce.ExperienceApi",
-          "Version": "3.245.11"
+          "Version": "3.245.15"
         },
         {
           "Id": "VirtoCommerce.Export",
@@ -111,7 +111,7 @@
         },
         {
           "Id": "VirtoCommerce.ImageTools",
-          "Version": "3.205.0"
+          "Version": "3.205.1"
         },
         {
           "Id": "VirtoCommerce.Inventory",
@@ -127,7 +127,7 @@
         },
         {
           "Id": "VirtoCommerce.Orders",
-          "Version": "3.216.1"
+          "Version": "3.216.4"
         },
         {
           "Id": "VirtoCommerce.Payment",
@@ -139,7 +139,7 @@
         },
         {
           "Id": "VirtoCommerce.ProfileExperienceApiModule",
-          "Version": "3.232.2"
+          "Version": "3.232.3"
         },
         {
           "Id": "VirtoCommerce.Quote",
@@ -151,7 +151,7 @@
         },
         {
           "Id": "VirtoCommerce.Search",
-          "Version": "3.216.2"
+          "Version": "3.216.3"
         },
         {
           "Id": "VirtoCommerce.Shipping",

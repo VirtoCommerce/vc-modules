@@ -3890,5 +3890,39 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Hotjar",
+    "Title": "Hotjar",
+    "Description": "Allows to assign Hotjar Site Id for a Store and get insights about the shopping behaviour of your users with Heatmaps, Recordings, Feedback and etc.",
+    "Authors": [
+      "Oleg Zhuk"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-hotjar",
+    "IconUrl": "Modules/$(VirtoCommerce.Hotjar)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2023 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.201.0",
+        "VersionTag": "alpha.5",
+        "PlatformVersion": "3.200.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Hotjar_3.201.0-alpha.5.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.200.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

@@ -2098,12 +2098,20 @@
     ],
     "Versions": [
       {
-        "Version": "3.317.0",
+        "Version": "3.318.0",
         "VersionTag": "",
         "PlatformVersion": "3.302.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.317.0/VirtoCommerce.ExperienceApi_3.317.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.318.0/VirtoCommerce.ExperienceApi_3.318.0.zip",
         "Incompatibilities": [],
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Cart",
+            "Version": "3.219.0"
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.262.0"
+          },
           {
             "Id": "VirtoCommerce.Content",
             "Version": "3.200.0"
@@ -2113,16 +2121,20 @@
             "Version": "3.203.0"
           },
           {
-            "Id": "VirtoCommerce.Cart",
-            "Version": "3.219.0"
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.210.0"
+          },
+          {
+            "Id": "VirtoCommerce.Inventory",
+            "Version": "3.205.0"
           },
           {
             "Id": "VirtoCommerce.Marketing",
             "Version": "3.210.0"
           },
           {
-            "Id": "VirtoCommerce.Inventory",
-            "Version": "3.205.0"
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.231.0"
           },
           {
             "Id": "VirtoCommerce.Payment",
@@ -2141,20 +2153,8 @@
             "Version": "3.200.0"
           },
           {
-            "Id": "VirtoCommerce.Customer",
-            "Version": "3.210.0"
-          },
-          {
-            "Id": "VirtoCommerce.Orders",
-            "Version": "3.231.0"
-          },
-          {
             "Id": "VirtoCommerce.Store",
             "Version": "3.201.0"
-          },
-          {
-            "Id": "VirtoCommerce.Catalog",
-            "Version": "3.262.0"
           },
           {
             "Id": "VirtoCommerce.Tax",

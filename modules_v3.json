@@ -3910,6 +3910,20 @@
     "Groups": null,
     "Versions": [
       {
+        "Version": "3.200.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.200.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-hotjar/releases/download/3.200.0/VirtoCommerce.Hotjar_3.200.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.200.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
         "Version": "3.201.0",
         "VersionTag": "alpha.5",
         "PlatformVersion": "3.200.0",

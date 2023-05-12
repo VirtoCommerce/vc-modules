@@ -4,5 +4,6 @@
   "2": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v2/package.json",
   "3": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v3/package.json",
   "4": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v4/package.json",
+  "5": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v5/package.json",
   "latest": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/latest/package.json"
 }

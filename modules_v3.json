@@ -764,8 +764,8 @@
   },
   {
     "Id": "VirtoCommerce.Notifications",
-    "Title": "Notifications module",
-    "Description": "description",
+    "Title": "Notifications",
+    "Description": "Provides a comprehensive infrastructure for managing and delivering notifications within the Virto Commerce platform.",
     "Authors": [
       "Eugeny Tatarincev",
       "Andrei Kostyrin"
@@ -799,9 +799,9 @@
       },
       {
         "Version": "3.217.0",
-        "VersionTag": "alpha.322",
+        "VersionTag": "alpha.323",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.217.0-alpha.322.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.217.0-alpha.323.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

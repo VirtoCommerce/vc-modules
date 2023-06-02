@@ -880,10 +880,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.236.0",
-        "VersionTag": "alpha.1116",
+        "Version": "3.237.0",
+        "VersionTag": "alpha.1118",
         "PlatformVersion": "3.282.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.236.0-alpha.1116.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.237.0-alpha.1118.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

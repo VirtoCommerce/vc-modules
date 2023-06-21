@@ -3281,9 +3281,9 @@
       },
       {
         "Version": "3.303.0",
-        "VersionTag": "alpha.148",
+        "VersionTag": "alpha.149",
         "PlatformVersion": "3.259.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.303.0-alpha.148.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.303.0-alpha.149.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

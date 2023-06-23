@@ -3774,9 +3774,9 @@
       },
       {
         "Version": "3.204.0",
-        "VersionTag": "alpha.17",
-        "PlatformVersion": "3.314.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureAD_3.204.0-alpha.17.zip",
+        "VersionTag": "alpha.18",
+        "PlatformVersion": "3.315.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureAD_3.204.0-alpha.18.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

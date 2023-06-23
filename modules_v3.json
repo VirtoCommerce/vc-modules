@@ -3764,10 +3764,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.203.0",
+        "Version": "3.204.0",
         "VersionTag": "",
-        "PlatformVersion": "3.314.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-azure-ad/releases/download/3.203.0/VirtoCommerce.AzureAD_3.203.0.zip",
+        "PlatformVersion": "3.315.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-azure-ad/releases/download/3.204.0/VirtoCommerce.AzureAD_3.204.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

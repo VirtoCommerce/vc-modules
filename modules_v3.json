@@ -4001,9 +4001,9 @@
     "Versions": [
       {
         "Version": "3.200.0",
-        "VersionTag": "alpha.515",
+        "VersionTag": "alpha.514",
         "PlatformVersion": "3.293.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketplaceVendor_3.200.0-alpha.515.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketplaceVendor_3.200.0-alpha.514.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

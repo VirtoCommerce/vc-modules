@@ -799,9 +799,9 @@
       },
       {
         "Version": "3.219.0",
-        "VersionTag": "alpha.328",
+        "VersionTag": "alpha.330",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.219.0-alpha.328.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.219.0-alpha.330.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

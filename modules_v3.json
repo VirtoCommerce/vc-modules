@@ -3026,10 +3026,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.204.0",
+        "Version": "3.400.0",
         "VersionTag": "",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-assets/releases/download/3.204.0/VirtoCommerce.Assets_3.204.0.zip",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-assets/releases/download/3.400.0/VirtoCommerce.Assets_3.400.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

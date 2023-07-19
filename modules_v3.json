@@ -599,9 +599,9 @@
       },
       {
         "Version": "3.400.0",
-        "VersionTag": "alpha.427",
-        "PlatformVersion": "3.218.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.400.0-alpha.427.zip",
+        "VersionTag": "alpha.428",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.400.0-alpha.428.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -610,11 +610,11 @@
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.201.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.202.0"
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": null

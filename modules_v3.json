@@ -1294,19 +1294,19 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.212.0",
-        "VersionTag": "alpha.663",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.212.0-alpha.663.zip",
+        "Version": "3.400.0",
+        "VersionTag": "alpha.666",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.400.0-alpha.666.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": ""

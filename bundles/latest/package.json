@@ -1,10 +1,10 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.293.8",
+  "PlatformVersion": "3.293.13",
   "StorefrontVersion": "6.13.0-master-4b0306b0",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-theme-b2b-vue/releases/download/1.24.0/vc-theme-b2b-vue-1.24.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.293.8",
+  "PlatformImageTag": "3.293.13",
   "PlatformAssetUrl": "",
   "Sources": [
     {
@@ -99,7 +99,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.223.0"
+          "Version": "3.223.1"
         },
         {
           "Id": "VirtoCommerce.CatalogPersonalization",
@@ -127,7 +127,7 @@
         },
         {
           "Id": "VirtoCommerce.ExperienceApi",
-          "Version": "3.301.6"
+          "Version": "3.301.15"
         },
         {
           "Id": "VirtoCommerce.GoogleEcommerceAnalytics",
@@ -135,11 +135,11 @@
         },
         {
           "Id": "VirtoCommerce.ElasticAppSearch",
-          "Version": "3.208.0"
+          "Version": "3.208.1"
         },
         {
           "Id": "VirtoCommerce.Orders",
-          "Version": "3.225.3"
+          "Version": "3.225.9"
         },
         {
           "Id": "VirtoCommerce.Assets",
@@ -175,7 +175,7 @@
         },
         {
           "Id": "VirtoCommerce.Notifications",
-          "Version": "3.215.0"
+          "Version": "3.215.2"
         },
         {
           "Id": "VirtoCommerce.AuthorizeNetPayment",
@@ -183,7 +183,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.261.3"
+          "Version": "3.261.4"
         },
         {
           "Id": "VirtoCommerce.Cart",

@@ -2251,15 +2251,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "4.2.0",
+        "Version": "4.400.0",
         "VersionTag": "",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/4.2.0/VirtoCommerce.GoogleEcommerceAnalytics_4.2.0.zip",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/4.400.0/VirtoCommerce.GoogleEcommerceAnalytics_4.400.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": "First version."

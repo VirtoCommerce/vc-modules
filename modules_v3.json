@@ -1036,10 +1036,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.220.0",
-        "VersionTag": "alpha.695",
+        "Version": "3.221.0",
+        "VersionTag": "alpha.696",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.220.0-alpha.695.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.221.0-alpha.696.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

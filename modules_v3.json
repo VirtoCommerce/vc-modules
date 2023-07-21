@@ -185,15 +185,15 @@
     ],
     "Versions": [
       {
-        "Version": "3.277.0",
+        "Version": "3.400.0",
         "VersionTag": "",
-        "PlatformVersion": "3.286.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.277.0/VirtoCommerce.Catalog_3.277.0.zip",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.400.0/VirtoCommerce.Catalog_3.400.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.BulkActionsModule",
@@ -201,7 +201,7 @@
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.202.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Export",
@@ -209,11 +209,11 @@
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.223.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.204.0"
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": "Third version."

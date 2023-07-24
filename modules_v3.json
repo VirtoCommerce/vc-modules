@@ -309,10 +309,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.401.0",
-        "VersionTag": "alpha.894",
+        "Version": "3.402.0",
+        "VersionTag": "alpha.895",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.401.0-alpha.894.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.402.0-alpha.895.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -3616,19 +3616,23 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.207.0",
+        "Version": "3.400.0",
         "VersionTag": "",
-        "PlatformVersion": "3.240.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-contract/releases/download/3.207.0/VirtoCommerce.Contracts_3.207.0.zip",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-contract/releases/download/3.400.0/VirtoCommerce.Contracts_3.400.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Pricing",
-            "Version": "3.210.0"
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.400.0"
           },
           {
-            "Id": "VirtoCommerce.Customer",
-            "Version": "3.212.0"
+            "Id": "VirtoCommerce.Pricing",
+            "Version": "3.400.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": "First version."

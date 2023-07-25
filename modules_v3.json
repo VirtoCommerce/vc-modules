@@ -3600,7 +3600,7 @@
   {
     "Id": "VirtoCommerce.Contracts",
     "Title": "Contracts",
-    "Description": "Cotract based price personalization for customers and organisations",
+    "Description": "Contract based price personalization for customers and organizations",
     "Authors": [
       "Konstantin Savosteev"
     ],
@@ -3635,18 +3635,22 @@
       },
       {
         "Version": "3.400.0",
-        "VersionTag": "alpha.63",
-        "PlatformVersion": "3.240.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.400.0-alpha.63.zip",
+        "VersionTag": "alpha.64",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.400.0-alpha.64.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Pricing",
-            "Version": "3.210.0"
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.400.0"
           },
           {
-            "Id": "VirtoCommerce.Customer",
-            "Version": "3.212.0"
+            "Id": "VirtoCommerce.Pricing",
+            "Version": "3.400.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": "First version."

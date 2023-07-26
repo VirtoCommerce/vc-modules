@@ -3816,10 +3816,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.203.0",
-        "VersionTag": "alpha.23",
+        "Version": "3.400.0",
+        "VersionTag": "alpha.32",
         "PlatformVersion": "3.271.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.203.0-alpha.23.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.400.0-alpha.32.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

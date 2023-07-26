@@ -3302,27 +3302,43 @@
     ],
     "Versions": [
       {
-        "Version": "3.303.0",
+        "Version": "3.400.0",
         "VersionTag": "",
-        "PlatformVersion": "3.259.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api/releases/download/3.303.0/VirtoCommerce.ProfileExperienceApiModule_3.303.0.zip",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api/releases/download/3.400.0/VirtoCommerce.ProfileExperienceApiModule_3.400.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.400.0"
+          },
+          {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.210.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.300.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
+          },
+          {
+            "Id": "VirtoCommerce.Notifications",
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.400.0"
+          },
+          {
+            "Id": "VirtoCommerce.Tax",
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": ""

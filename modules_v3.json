@@ -3817,9 +3817,9 @@
       },
       {
         "Version": "3.400.0",
-        "VersionTag": "alpha.33",
+        "VersionTag": "alpha.34",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.400.0-alpha.33.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.400.0-alpha.34.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

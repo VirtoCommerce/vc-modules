@@ -1655,34 +1655,34 @@
       },
       {
         "Version": "3.400.0",
-        "VersionTag": "alpha.287",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.400.0-alpha.287.zip",
+        "VersionTag": "alpha.288",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.400.0-alpha.288.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
+            "Id": "VirtoCommerce.Inventory",
+            "Version": "3.402.0"
+          },
+          {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.200.0"
-          },
-          {
-            "Id": "VirtoCommerce.Inventory",
-            "Version": "3.200.0"
+            "Version": "3.401.0"
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": "First version."

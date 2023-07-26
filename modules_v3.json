@@ -751,10 +751,10 @@
         "ReleaseNotes": "Third version."
       },
       {
-        "Version": "3.212.0",
-        "VersionTag": "alpha.810",
+        "Version": "3.400.0",
+        "VersionTag": "alpha.812",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.212.0-alpha.810.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.400.0-alpha.812.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

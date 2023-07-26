@@ -1620,35 +1620,35 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.202.0",
+        "Version": "3.400.0",
         "VersionTag": "",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/3.202.0/VirtoCommerce.AvalaraTax_3.202.0.zip",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-avatax/releases/download/3.400.0/VirtoCommerce.AvalaraTax_3.400.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
+            "Id": "VirtoCommerce.Inventory",
+            "Version": "3.402.0"
+          },
+          {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.200.0"
-          },
-          {
-            "Id": "VirtoCommerce.Inventory",
-            "Version": "3.200.0"
+            "Version": "3.401.0"
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": "First version."

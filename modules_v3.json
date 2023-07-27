@@ -1524,39 +1524,39 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.214.0",
+        "Version": "3.400.0",
         "VersionTag": "",
-        "PlatformVersion": "3.271.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.214.0/VirtoCommerce.CustomerReviews_3.214.0.zip",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.400.0/VirtoCommerce.CustomerReviews_3.400.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.200.0"
+            "Version": "3.401.0"
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.300.0"
-          },
-          {
-            "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.300.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
+          },
+          {
+            "Id": "VirtoCommerce.ProfileExperienceApiModule",
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": null

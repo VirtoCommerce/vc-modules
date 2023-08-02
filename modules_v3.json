@@ -1195,9 +1195,9 @@
       },
       {
         "Version": "3.401.0",
-        "VersionTag": "alpha.166",
+        "VersionTag": "alpha.167",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.401.0-alpha.166.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.401.0-alpha.167.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -448,15 +448,15 @@
     ],
     "Versions": [
       {
-        "Version": "3.214.0",
+        "Version": "3.400.0",
         "VersionTag": "",
-        "PlatformVersion": "3.210.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search/releases/download/3.214.0/VirtoCommerce.ElasticSearch_3.214.0.zip",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search/releases/download/3.400.0/VirtoCommerce.ElasticSearch_3.400.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.223.0"
+            "Version": "3.401.0"
           }
         ],
         "ReleaseNotes": "Third version."

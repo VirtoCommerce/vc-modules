@@ -4089,10 +4089,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.212.0",
-        "VersionTag": "alpha.460",
+        "Version": "3.213.0",
+        "VersionTag": "alpha.461",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.212.0-alpha.460.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.213.0-alpha.461.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

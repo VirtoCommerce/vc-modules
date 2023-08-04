@@ -3341,9 +3341,9 @@
       },
       {
         "Version": "3.402.0",
-        "VersionTag": "alpha.155",
+        "VersionTag": "alpha.159",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.402.0-alpha.155.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.402.0-alpha.159.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3372,7 +3372,7 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.400.0"
+            "Version": "3.401.0"
           },
           {
             "Id": "VirtoCommerce.Tax",

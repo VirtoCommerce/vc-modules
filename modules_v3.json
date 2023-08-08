@@ -4169,10 +4169,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.202.0",
-        "VersionTag": "alpha.5",
+        "Version": "3.203.0",
+        "VersionTag": "alpha.7",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ScalableIndexation_3.202.0-alpha.5.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ScalableIndexation_3.203.0-alpha.7.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -2749,10 +2749,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.400.0",
-        "VersionTag": "alpha.131",
+        "Version": "3.401.0",
+        "VersionTag": "alpha.132",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PriceExportImport_3.400.0-alpha.131.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PriceExportImport_3.401.0-alpha.132.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

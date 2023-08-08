@@ -2718,7 +2718,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-price-export-import",
     "IconUrl": "Modules/$(VirtoCommerce.PriceExportImport)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2022 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
     "Tags": "price import export",
     "Groups": null,
     "Versions": [
@@ -2749,19 +2749,19 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.208.0",
-        "VersionTag": "alpha.123",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PriceExportImport_3.208.0-alpha.123.zip",
+        "Version": "3.400.0",
+        "VersionTag": "alpha.131",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PriceExportImport_3.400.0-alpha.131.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Export",

@@ -4173,10 +4173,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.202.0",
+        "Version": "3.400.0",
         "VersionTag": "",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://github.com/VirtoEnterprise/vc-module-scalable-indexation/releases/download/3.202.0/VirtoCommerce.ScalableIndexation_3.202.0.zip",
+        "PackageUrl": "https://github.com/VirtoEnterprise/vc-module-scalable-indexation/releases/download/3.400.0/VirtoCommerce.ScalableIndexation_3.400.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

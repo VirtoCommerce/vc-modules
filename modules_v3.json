@@ -1603,8 +1603,8 @@
   },
   {
     "Id": "VirtoCommerce.AvalaraTax",
-    "Title": "Avalara tax",
-    "Description": "APIs and UI for Avalara tax integration",
+    "Title": "Avalara Tax Provider",
+    "Description": "Provides real time integration with Avalara Tax https://www.avalara.com/",
     "Authors": [
       "Virto Commerce"
     ],
@@ -1655,9 +1655,9 @@
       },
       {
         "Version": "3.401.0",
-        "VersionTag": "alpha.290",
+        "VersionTag": "alpha.291",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.401.0-alpha.290.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.401.0-alpha.291.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

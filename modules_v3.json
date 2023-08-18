@@ -2795,19 +2795,23 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.204.0",
+        "Version": "3.400.0",
         "VersionTag": "",
-        "PlatformVersion": "3.280.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import/releases/download/3.204.0/VirtoCommerce.CustomerExportImport_3.204.0.zip",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import/releases/download/3.400.0/VirtoCommerce.CustomerExportImport_3.400.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "3.400.0"
+          },
+          {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.219.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.206.0"
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": "First version."

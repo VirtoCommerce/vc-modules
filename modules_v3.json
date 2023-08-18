@@ -3703,14 +3703,18 @@
       },
       {
         "Version": "3.402.0",
-        "VersionTag": "alpha.68",
-        "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.402.0-alpha.68.zip",
+        "VersionTag": "alpha.71",
+        "PlatformVersion": "3.410.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.402.0-alpha.71.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
             "Version": "3.400.0"
+          },
+          {
+            "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "3.404.0"
           },
           {
             "Id": "VirtoCommerce.Pricing",

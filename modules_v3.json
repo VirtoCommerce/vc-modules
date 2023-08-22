@@ -874,10 +874,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.408.0",
+        "Version": "3.409.0",
         "VersionTag": "",
         "PlatformVersion": "3.406.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.408.0/VirtoCommerce.Orders_3.408.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.409.0/VirtoCommerce.Orders_3.409.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -910,7 +910,7 @@
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.401.0"
+            "Version": "3.402.0"
           },
           {
             "Id": "VirtoCommerce.Shipping",

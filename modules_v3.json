@@ -397,9 +397,9 @@
       },
       {
         "Version": "3.403.0",
-        "VersionTag": "alpha.781",
+        "VersionTag": "alpha.784",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.403.0-alpha.781.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.403.0-alpha.784.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -416,7 +416,7 @@
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.401.0"
+            "Version": "3.402.0"
           },
           {
             "Id": "VirtoCommerce.Store",

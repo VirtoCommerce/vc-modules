@@ -1835,23 +1835,23 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.201.0",
+        "Version": "3.400.0",
         "VersionTag": null,
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-contentful/releases/download/3.201.0/VirtoCommerce.Contentful_3.201.0.zip",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-contentful/releases/download/3.400.0/VirtoCommerce.Contentful_3.400.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.200.0"
+            "Version": "3.400.0"
           }
         ],
         "ReleaseNotes": null

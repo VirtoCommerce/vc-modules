@@ -3416,10 +3416,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.211.0",
+        "Version": "3.212.0",
         "VersionTag": "",
         "PlatformVersion": "3.210.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-app-search/releases/download/3.211.0/VirtoCommerce.ElasticAppSearch_3.211.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-app-search/releases/download/3.212.0/VirtoCommerce.ElasticAppSearch_3.212.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

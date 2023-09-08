@@ -4060,35 +4060,6 @@
     ]
   },
   {
-    "Id": "VirtoCommerce.ElasticSearch8x",
-    "Title": "Elastic Search 8x",
-    "Description": "Indexed search functionality with Elastic 8 engines",
-    "Authors": [
-      "Konstantin Savosteev"
-    ],
-    "Owners": [
-      "VirtoCommerce"
-    ],
-    "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-8-x",
-    "IconUrl": "Modules/$(VirtoCommerce.ElasticSearch8x)/Content/logo.png",
-    "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2023 VirtoCommerce. All rights reserved",
-    "Tags": "extension module",
-    "Groups": null,
-    "Versions": [
-      {
-        "Version": "3.200.0",
-        "VersionTag": "alpha.39",
-        "PlatformVersion": "3.253.1",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch8x_3.200.0-alpha.39.zip",
-        "Incompatibilities": null,
-        "Dependencies": [],
-        "ReleaseNotes": "First version."
-      }
-    ]
-  },
-  {
     "Id": "VirtoCommerce.PageBuilderModule",
     "Title": "CMS Page Builder",
     "Description": "Compose pages in visual page builder.",

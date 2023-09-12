@@ -35,11 +35,11 @@
         },
         {
           "Id": "VirtoCommerce.Cart",
-          "Version": "3.207.2"
+          "Version": "3.207.3"
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.246.15"
+          "Version": "3.246.16"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",
@@ -55,7 +55,7 @@
         },
         {
           "Id": "VirtoCommerce.Content",
-          "Version": "3.210.1"
+          "Version": "3.210.2"
         },
         {
           "Id": "VirtoCommerce.Contracts",
@@ -91,7 +91,7 @@
         },
         {
           "Id": "VirtoCommerce.ExperienceApi",
-          "Version": "3.245.24"
+          "Version": "3.245.27"
         },
         {
           "Id": "VirtoCommerce.Export",
@@ -127,7 +127,7 @@
         },
         {
           "Id": "VirtoCommerce.Orders",
-          "Version": "3.216.11"
+          "Version": "3.216.14"
         },
         {
           "Id": "VirtoCommerce.Payment",
@@ -155,7 +155,7 @@
         },
         {
           "Id": "VirtoCommerce.Shipping",
-          "Version": "3.201.0"
+          "Version": "3.201.1"
         },
         {
           "Id": "VirtoCommerce.Sitemaps",

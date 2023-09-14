@@ -1194,10 +1194,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.403.0",
-        "VersionTag": "alpha.173",
+        "Version": "3.404.0",
+        "VersionTag": "alpha.174",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.403.0-alpha.173.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.404.0-alpha.174.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

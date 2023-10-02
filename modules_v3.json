@@ -3484,9 +3484,9 @@
       },
       {
         "Version": "3.402.0",
-        "VersionTag": "alpha.76",
+        "VersionTag": "alpha.79",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Return_3.402.0-alpha.76.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Return_3.402.0-alpha.79.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -4206,12 +4206,17 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.200.0",
+        "Version": "3.201.0",
         "VersionTag": "",
         "PlatformVersion": "3.253.1",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-8/releases/download/3.200.0/VirtoCommerce.ElasticSearch8_3.200.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-8/releases/download/3.201.0/VirtoCommerce.ElasticSearch8_3.201.0.zip",
         "Incompatibilities": null,
-        "Dependencies": [],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.233.0"
+          }
+        ],
         "ReleaseNotes": "First version."
       },
       {

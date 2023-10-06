@@ -430,7 +430,7 @@
   {
     "Id": "VirtoCommerce.ElasticSearch",
     "Title": "Elastic Search",
-    "Description": "Indexed search functionality with Elastic engine",
+    "Description": "Indexed search functionality with Elasticsearch and OpenSearch engines",
     "Authors": [
       "Artem Dudarev"
     ],
@@ -463,9 +463,9 @@
       },
       {
         "Version": "3.401.0",
-        "VersionTag": "alpha.227",
+        "VersionTag": "alpha.231",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch_3.401.0-alpha.227.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch_3.401.0-alpha.231.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

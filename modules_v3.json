@@ -3302,10 +3302,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.409.0",
+        "Version": "3.410.0",
         "VersionTag": "",
-        "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api/releases/download/3.409.0/VirtoCommerce.ProfileExperienceApiModule_3.409.0.zip",
+        "PlatformVersion": "3.413.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api/releases/download/3.410.0/VirtoCommerce.ProfileExperienceApiModule_3.410.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3318,7 +3318,7 @@
           },
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.411.0"
+            "Version": "3.422.0"
           },
           {
             "Id": "VirtoCommerce.Marketing",
@@ -3326,7 +3326,7 @@
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.400.0"
+            "Version": "3.403.0"
           },
           {
             "Id": "VirtoCommerce.Pricing",

@@ -3129,9 +3129,9 @@
       },
       {
         "Version": "3.212.0",
-        "VersionTag": "alpha.89",
+        "VersionTag": "alpha.101",
         "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.212.0-alpha.89.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.212.0-alpha.101.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

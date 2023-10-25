@@ -1406,9 +1406,9 @@
       },
       {
         "Version": "3.402.0",
-        "VersionTag": "alpha.311",
+        "VersionTag": "alpha.312",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.402.0-alpha.311.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.402.0-alpha.312.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

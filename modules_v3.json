@@ -4070,10 +4070,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.404.0",
+        "Version": "3.405.0",
         "VersionTag": "",
         "PlatformVersion": "3.410.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.404.0/VirtoCommerce.PageBuilderModule_3.404.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.405.0/VirtoCommerce.PageBuilderModule_3.405.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4082,7 +4082,7 @@
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.409.0"
+            "Version": "3.412.0"
           },
           {
             "Id": "VirtoCommerce.Core",

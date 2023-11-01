@@ -4100,10 +4100,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.405.0",
-        "VersionTag": "alpha.506",
+        "Version": "3.406.0",
+        "VersionTag": "alpha.507",
         "PlatformVersion": "3.410.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.405.0-alpha.506.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.406.0-alpha.507.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

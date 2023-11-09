@@ -4275,6 +4275,20 @@
     "Groups": null,
     "Versions": [
       {
+        "Version": "3.403.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-audit-log/releases/download/3.403.0/VirtoCommerce.AuditLog_3.403.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.ApplicationInsights",
+            "Version": "3.200.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
         "Version": "3.404.0",
         "VersionTag": "alpha.7",
         "PlatformVersion": "3.400.0",

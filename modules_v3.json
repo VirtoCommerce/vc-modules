@@ -2139,10 +2139,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.429.0",
+        "Version": "3.430.0",
         "VersionTag": "",
         "PlatformVersion": "3.413.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.429.0/VirtoCommerce.ExperienceApi_3.429.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.430.0/VirtoCommerce.ExperienceApi_3.430.0.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

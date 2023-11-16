@@ -4212,10 +4212,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.202.0",
-        "VersionTag": "alpha.55",
+        "Version": "3.203.0",
+        "VersionTag": "alpha.56",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch8_3.202.0-alpha.55.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch8_3.203.0-alpha.56.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

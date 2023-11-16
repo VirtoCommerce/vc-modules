@@ -1138,9 +1138,9 @@
       },
       {
         "Version": "3.403.0",
-        "VersionTag": "alpha.718",
+        "VersionTag": "alpha.719",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.403.0-alpha.718.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.403.0-alpha.719.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

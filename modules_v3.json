@@ -454,10 +454,10 @@
         "ReleaseNotes": "Third version."
       },
       {
-        "Version": "3.401.0",
-        "VersionTag": "alpha.232",
+        "Version": "3.402.0",
+        "VersionTag": "alpha.233",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch_3.401.0-alpha.232.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch_3.402.0-alpha.233.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

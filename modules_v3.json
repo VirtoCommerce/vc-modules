@@ -3422,10 +3422,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.214.0",
-        "VersionTag": "alpha.106",
+        "Version": "3.215.0",
+        "VersionTag": "alpha.107",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticAppSearch_3.214.0-alpha.106.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticAppSearch_3.215.0-alpha.107.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

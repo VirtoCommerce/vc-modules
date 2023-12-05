@@ -673,14 +673,14 @@
       },
       {
         "Version": "3.205.0",
-        "VersionTag": "alpha.166",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.LuceneSearch_3.205.0-alpha.166.zip",
+        "VersionTag": "alpha.181",
+        "PlatformVersion": "3.400.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.LuceneSearch_3.205.0-alpha.181.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.218.0"
+            "Version": "3.404.0"
           }
         ],
         "ReleaseNotes": "Third version."

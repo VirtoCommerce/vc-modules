@@ -1137,10 +1137,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.405.0",
-        "VersionTag": "alpha.723",
+        "Version": "3.406.0",
+        "VersionTag": "alpha.724",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.405.0-alpha.723.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.406.0-alpha.724.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

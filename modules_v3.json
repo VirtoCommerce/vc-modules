@@ -75,10 +75,10 @@
         "ReleaseNotes": "Third version."
       },
       {
-        "Version": "3.213.0",
-        "VersionTag": "alpha.220",
+        "Version": "3.214.0",
+        "VersionTag": "alpha.221",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.213.0-alpha.220.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.214.0-alpha.221.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

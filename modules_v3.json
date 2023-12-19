@@ -219,10 +219,10 @@
         "ReleaseNotes": "Third version."
       },
       {
-        "Version": "3.420.0",
-        "VersionTag": "alpha.2179",
+        "Version": "3.421.0",
+        "VersionTag": "alpha.2180",
         "PlatformVersion": "3.413.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.420.0-alpha.2179.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.421.0-alpha.2180.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

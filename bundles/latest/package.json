@@ -1,10 +1,10 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.414.18",
+  "PlatformVersion": "3.414.19",
   "StorefrontVersion": "6.27.0-master-2ab4d9cd",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-theme-b2b-vue/releases/download/1.38.0/vc-theme-b2b-vue-1.38.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.414.18",
+  "PlatformImageTag": "3.414.19",
   "PlatformAssetUrl": "",
   "Sources": [
     {
@@ -43,7 +43,7 @@
         },
         {
           "Id": "VirtoCommerce.Search",
-          "Version": "3.402.0"
+          "Version": "3.402.1"
         },
         {
           "Id": "VirtoCommerce.AzureAD",
@@ -99,7 +99,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.405.0"
+          "Version": "3.405.1"
         },
         {
           "Id": "VirtoCommerce.CatalogPersonalization",
@@ -127,7 +127,7 @@
         },
         {
           "Id": "VirtoCommerce.ExperienceApi",
-          "Version": "3.411.3"
+          "Version": "3.411.6"
         },
         {
           "Id": "VirtoCommerce.GoogleEcommerceAnalytics",
@@ -139,7 +139,7 @@
         },
         {
           "Id": "VirtoCommerce.Orders",
-          "Version": "3.412.1"
+          "Version": "3.412.2"
         },
         {
           "Id": "VirtoCommerce.Assets",
@@ -183,11 +183,11 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.408.7"
+          "Version": "3.408.9"
         },
         {
           "Id": "VirtoCommerce.Cart",
-          "Version": "3.402.0"
+          "Version": "3.402.1"
         },
         {
           "Id": "VirtoCommerce.MarketingExperienceApi",

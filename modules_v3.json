@@ -3457,10 +3457,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.402.0",
+        "Version": "3.403.0",
         "VersionTag": "",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-return/releases/download/3.402.0/VirtoCommerce.Return_3.402.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-return/releases/download/3.403.0/VirtoCommerce.Return_3.403.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

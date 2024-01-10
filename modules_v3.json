@@ -1941,10 +1941,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.404.0",
+        "Version": "3.405.0",
         "VersionTag": "",
         "PlatformVersion": "3.413.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.404.0/VirtoCommerce.Quote_3.404.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.405.0/VirtoCommerce.Quote_3.405.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

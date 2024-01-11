@@ -585,7 +585,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-inventory-module",
     "IconUrl": "Modules/$(VirtoCommerce.Inventory)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
     "Tags": "order system",
     "Groups": [
       "commerce"
@@ -614,23 +614,23 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.406.0",
-        "VersionTag": "alpha.441",
-        "PlatformVersion": "3.413.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.406.0-alpha.441.zip",
+        "Version": "3.800.0",
+        "VersionTag": "alpha.442",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.800.0-alpha.442.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.200.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.401.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": null

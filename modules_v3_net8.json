@@ -3563,12 +3563,17 @@
     ],
     "Versions": [
       {
-        "Version": "3.206.0",
+        "Version": "3.800.0",
         "VersionTag": "",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-authorize-net/releases/download/3.206.0/VirtoCommerce.AuthorizeNetPayment_3.206.0.zip",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-authorize-net/releases/download/3.800.0/VirtoCommerce.AuthorizeNetPayment_3.800.0.zip",
         "Incompatibilities": null,
-        "Dependencies": [],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Payment",
+            "Version": "3.800.0"
+          }
+        ],
         "ReleaseNotes": "First version."
       },
       {

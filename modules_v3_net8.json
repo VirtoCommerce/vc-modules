@@ -859,7 +859,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-orders-module",
     "IconUrl": "Modules/$(VirtoCommerce.Orders)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
     "Tags": "order system",
     "Groups": [
       "commerce"
@@ -916,51 +916,51 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.427.0",
-        "VersionTag": "alpha.1206",
-        "PlatformVersion": "3.447.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.427.0-alpha.1206.zip",
+        "Version": "3.800.0",
+        "VersionTag": "alpha.1207",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.800.0-alpha.1207.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.409.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.401.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.402.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.402.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": null

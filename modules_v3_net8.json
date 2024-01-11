@@ -1186,10 +1186,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.800.0",
-        "VersionTag": "alpha.177",
+        "Version": "3.801.0",
+        "VersionTag": "alpha.178",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.800.0-alpha.177.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.801.0-alpha.178.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -3083,10 +3083,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.800.0",
-        "VersionTag": "alpha.110",
+        "Version": "3.801.0",
+        "VersionTag": "alpha.111",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.800.0-alpha.110.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.801.0-alpha.111.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

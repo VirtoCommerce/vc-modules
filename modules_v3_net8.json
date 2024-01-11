@@ -1450,7 +1450,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-tax-module",
     "IconUrl": "Modules/$(VirtoCommerce.Tax)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
     "Tags": "stores",
     "Groups": [
       "commerce"
@@ -1475,19 +1475,19 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.401.0",
-        "VersionTag": "alpha.166",
-        "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Tax_3.401.0-alpha.166.zip",
+        "Version": "3.800.0",
+        "VersionTag": "alpha.169",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Tax_3.800.0-alpha.169.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.200.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": ""

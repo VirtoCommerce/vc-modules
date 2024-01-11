@@ -111,27 +111,27 @@
     ],
     "Versions": [
       {
-        "Version": "3.409.0",
+        "Version": "3.800.0",
         "VersionTag": "",
-        "PlatformVersion": "3.413.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/3.409.0/VirtoCommerce.Cart_3.409.0.zip",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/3.800.0/VirtoCommerce.Cart_3.800.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": "First version."

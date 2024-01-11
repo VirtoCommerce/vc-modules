@@ -1457,19 +1457,19 @@
     ],
     "Versions": [
       {
-        "Version": "3.400.0",
+        "Version": "3.800.0",
         "VersionTag": "",
-        "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-tax/releases/download/3.400.0/VirtoCommerce.Tax_3.400.0.zip",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-tax/releases/download/3.800.0/VirtoCommerce.Tax_3.800.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.200.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": ""

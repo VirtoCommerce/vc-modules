@@ -3982,10 +3982,10 @@
     "Groups": [],
     "Versions": [
       {
-        "Version": "3.200.0",
+        "Version": "3.800.0",
         "VersionTag": "",
-        "PlatformVersion": "3.300.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-seq-log/releases/download/3.200.0/VirtoCommerce.SeqLog_3.200.0.zip",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-seq-log/releases/download/3.800.0/VirtoCommerce.SeqLog_3.800.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

@@ -178,7 +178,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-catalog-module",
     "IconUrl": "Modules/$(VirtoCommerce.Catalog)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
     "Tags": "catalog",
     "Groups": [
       "commerce"
@@ -219,35 +219,35 @@
         "ReleaseNotes": "Third version."
       },
       {
-        "Version": "3.425.0",
-        "VersionTag": "alpha.2187",
-        "PlatformVersion": "3.413.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.425.0-alpha.2187.zip",
+        "Version": "3.800.0",
+        "VersionTag": "alpha.2188",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.800.0-alpha.2188.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.BulkActionsModule",
-            "Version": "3.200.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Export",
-            "Version": "3.200.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.403.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": "Third version."

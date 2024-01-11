@@ -2485,7 +2485,7 @@
     "ProjectUrl": null,
     "IconUrl": "Modules/$(VirtoCommerce.EventBus)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2023 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
     "Tags": "eventbus azureveventgrid",
     "Groups": [
       "commerce"
@@ -2501,10 +2501,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.401.0",
-        "VersionTag": "alpha.116",
-        "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_3.401.0-alpha.116.zip",
+        "Version": "3.800.0",
+        "VersionTag": "alpha.117",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_3.800.0-alpha.117.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

@@ -1891,15 +1891,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.202.0",
+        "Version": "3.800.0",
         "VersionTag": "",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions/releases/download/3.202.0/VirtoCommerce.BulkActionsModule_3.202.0.zip",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions/releases/download/3.800.0/VirtoCommerce.BulkActionsModule_3.800.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.200.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": "First version."

@@ -2455,10 +2455,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.800.0",
-        "VersionTag": "alpha.277",
+        "Version": "3.801.0",
+        "VersionTag": "alpha.278",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.800.0-alpha.277.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.801.0-alpha.278.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

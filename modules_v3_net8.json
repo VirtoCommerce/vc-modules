@@ -3084,9 +3084,9 @@
       },
       {
         "Version": "3.401.0",
-        "VersionTag": "alpha.105",
+        "VersionTag": "alpha.108",
         "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.401.0-alpha.105.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.401.0-alpha.108.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

@@ -3832,10 +3832,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.800.0",
-        "VersionTag": "alpha.38",
+        "Version": "3.801.0",
+        "VersionTag": "alpha.39",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.800.0-alpha.38.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.801.0-alpha.39.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

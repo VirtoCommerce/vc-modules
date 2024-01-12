@@ -2286,7 +2286,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/google-ecommerce-analytics-module",
     "IconUrl": "Modules/$(VirtoCommerce.GoogleEcommerceAnalytics)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2023 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
     "Tags": "analytics",
     "Groups": null,
     "Versions": [
@@ -2305,15 +2305,15 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "4.401.0",
-        "VersionTag": "alpha.170",
-        "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleEcommerceAnalytics_4.401.0-alpha.170.zip",
+        "Version": "3.800.0",
+        "VersionTag": "alpha.173",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleEcommerceAnalytics_3.800.0-alpha.173.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": "First version."

@@ -1375,31 +1375,31 @@
     ],
     "Versions": [
       {
-        "Version": "3.402.0",
+        "Version": "3.800.0",
         "VersionTag": "",
-        "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/3.402.0/VirtoCommerce.Subscription_3.402.0.zip",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-subscription/releases/download/3.800.0/VirtoCommerce.Subscription_3.800.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": null

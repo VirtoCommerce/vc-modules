@@ -3700,27 +3700,27 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.801.0",
-        "VersionTag": "alpha.82",
-        "PlatformVersion": "3.800.0-alpha.12831-net8",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.801.0-alpha.82.zip",
+        "Version": "3.800.0",
+        "VersionTag": "alpha.84",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.800.0-alpha.84.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.800.0-alpha.805-pt-14740-net8"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.800.0-alpha.1306-pt-14740-net8"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.800.0-alpha.712-pt-14740-net8"
+            "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0-alpha.676-pt-14740-net8"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": "First version."

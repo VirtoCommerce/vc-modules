@@ -3596,7 +3596,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-ShipStation",
     "IconUrl": "Modules/$(VirtoCommerce.ShipStation)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2023 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": null,
     "Versions": [
@@ -3615,15 +3615,15 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.401.0",
-        "VersionTag": "alpha.105",
-        "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ShipStation_3.401.0-alpha.105.zip",
+        "Version": "3.800.0",
+        "VersionTag": "alpha.106",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ShipStation_3.800.0-alpha.106.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": "First version."

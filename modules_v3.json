@@ -3601,15 +3601,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.400.0",
+        "Version": "3.800.0",
         "VersionTag": "",
-        "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-shipstation/releases/download/3.400.0/VirtoCommerce.ShipStation_3.400.0.zip",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-shipstation/releases/download/3.800.0/VirtoCommerce.ShipStation_3.800.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.400.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": "First version."

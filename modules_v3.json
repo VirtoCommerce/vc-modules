@@ -1406,9 +1406,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.315",
+        "VersionTag": "alpha.317",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.801.0-alpha.315.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.801.0-alpha.317.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1425,7 +1425,7 @@
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0"
+            "Version": "3.801.0"
           },
           {
             "Id": "VirtoCommerce.Store",

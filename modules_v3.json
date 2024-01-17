@@ -3905,15 +3905,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.403.0",
+        "Version": "3.800.0",
         "VersionTag": "",
-        "PlatformVersion": "3.400.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-audit-log/releases/download/3.403.0/VirtoCommerce.AuditLog_3.403.0.zip",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-audit-log/releases/download/3.800.0/VirtoCommerce.AuditLog_3.800.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.ApplicationInsights",
-            "Version": "3.200.0"
+            "Version": "3.800.0"
           }
         ],
         "ReleaseNotes": "First version."

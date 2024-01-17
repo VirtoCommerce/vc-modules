@@ -3644,15 +3644,15 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-ci-test",
     "IconUrl": "Modules/$(VirtoCommerce.CITest)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2022 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.200.118",
+        "Version": "3.800.0",
         "VersionTag": "",
-        "PlatformVersion": "3.200.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.200.118/VirtoCommerce.CITest_3.200.118.zip",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.0/VirtoCommerce.CITest_3.800.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

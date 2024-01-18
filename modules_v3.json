@@ -3933,5 +3933,39 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.AlgoliaSearch",
+    "Title": "Algolia Search",
+    "Description": "Indexed search functionality with Algolia Search Engine",
+    "Authors": [
+      "Alexander Siniouguine"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-algolia-search",
+    "IconUrl": "Modules/$(VirtoCommerce.AlgoliaSearch)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2020 - 2024 Virto Commerce. All rights reserved",
+    "Tags": "algolia search",
+    "Groups": [],
+    "Versions": [
+      {
+        "Version": "3.800.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.800.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-algolia-search/releases/download/3.800.0/VirtoCommerce.AlgoliaSearch_3.800.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.800.0"
+          }
+        ],
+        "ReleaseNotes": "Third version."
+      }
+    ]
   }
 ]

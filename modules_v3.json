@@ -2653,9 +2653,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.146",
+        "VersionTag": "alpha.148",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.801.0-alpha.146.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.801.0-alpha.148.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

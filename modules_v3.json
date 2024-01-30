@@ -752,9 +752,9 @@
       },
       {
         "Version": "3.804.0",
-        "VersionTag": "alpha.829",
+        "VersionTag": "alpha.830",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.804.0-alpha.829.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.804.0-alpha.830.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

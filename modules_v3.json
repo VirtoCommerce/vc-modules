@@ -1888,7 +1888,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.800.0",
@@ -1906,9 +1908,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.200",
+        "VersionTag": "alpha.203",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.801.0-alpha.200.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.801.0-alpha.203.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

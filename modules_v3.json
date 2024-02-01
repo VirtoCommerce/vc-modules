@@ -2207,10 +2207,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.802.0",
-        "VersionTag": "alpha.1330",
+        "Version": "3.803.0",
+        "VersionTag": "alpha.1332",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.802.0-alpha.1330.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.803.0-alpha.1332.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
@@ -2243,7 +2243,7 @@
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.802.0"
+            "Version": "3.803.0"
           },
           {
             "Id": "VirtoCommerce.Payment",

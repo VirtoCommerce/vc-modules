@@ -1928,7 +1928,7 @@
     "Description": "Quoter enables business users to execute quote requests online. Once initiated, an online conversation takes place with internal users who interact with the business user's request. The internal user can set prices for quantity breaks or discounts. The quote is then made available to the business user online. The business user can accept the quote and place the order, continue the conversation, or reject the quote.",
     "Authors": [
       "Artem Dudarev",
-      "Egidijus MaЕѕeika",
+      "Egidijus Mažeika",
       "Konstantin Savosteev"
     ],
     "Owners": [
@@ -1938,7 +1938,7 @@
     "ProjectUrl": "https://virtocommerce.com/apps/extensions/quote-module",
     "IconUrl": "Modules/$(VirtoCommerce.Quote)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011–2024 Virto Commerce. All rights reserved",
     "Tags": "b2b quotes",
     "Groups": null,
     "Versions": [
@@ -1990,9 +1990,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.381",
+        "VersionTag": "alpha.382",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.801.0-alpha.381.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.801.0-alpha.382.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -2013,6 +2013,10 @@
           },
           {
             "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.FileExperienceApi",
             "Version": "3.800.0"
           },
           {

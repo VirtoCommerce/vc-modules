@@ -2208,9 +2208,9 @@
       },
       {
         "Version": "3.803.0",
-        "VersionTag": "alpha.1332",
+        "VersionTag": "alpha.1333",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.803.0-alpha.1332.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.803.0-alpha.1333.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
@@ -3988,14 +3988,14 @@
     "Tags": "extension module",
     "Groups": null,
     "Versions": [
-         {
+      {
         "Version": "3.800.0",
         "VersionTag": "",
         "PlatformVersion": "3.800.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-file-experience-api/releases/download/3.800.0/VirtoCommerce.FileExperienceApi_3.800.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
-            {
+          {
             "Id": "VirtoCommerce.Assets",
             "Version": "3.801.0"
           },

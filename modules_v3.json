@@ -3989,10 +3989,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.0",
-        "VersionTag": "alpha.8",
+        "Version": "3.801.0",
+        "VersionTag": "alpha.10",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.800.0-alpha.8.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.801.0-alpha.10.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -1943,10 +1943,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.0",
+        "Version": "3.801.0",
         "VersionTag": "",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.800.0/VirtoCommerce.Quote_3.800.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.801.0/VirtoCommerce.Quote_3.801.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1967,6 +1967,10 @@
           },
           {
             "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.FileExperienceApi",
             "Version": "3.800.0"
           },
           {

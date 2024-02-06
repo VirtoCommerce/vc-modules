@@ -3990,7 +3990,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024 Virto Commerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.800.0",

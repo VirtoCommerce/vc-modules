@@ -350,7 +350,7 @@
     "Description": "Managing customers contacts and organizations",
     "Authors": [
       "Artem Dudarev",
-      "Egidijus Mažeika"
+      "Egidijus MaÅ¾eika"
     ],
     "Owners": [
       "Virto Commerce"
@@ -393,9 +393,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.805",
+        "VersionTag": "alpha.810",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.801.0-alpha.805.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.801.0-alpha.810.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

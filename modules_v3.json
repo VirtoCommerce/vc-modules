@@ -2715,10 +2715,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.802.0",
-        "VersionTag": "alpha.118",
+        "Version": "3.803.0",
+        "VersionTag": "alpha.119",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.802.0-alpha.118.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.803.0-alpha.119.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

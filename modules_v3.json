@@ -1994,9 +1994,9 @@
       },
       {
         "Version": "3.803.0",
-        "VersionTag": "alpha.388",
+        "VersionTag": "alpha.391",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.803.0-alpha.388.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.803.0-alpha.391.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

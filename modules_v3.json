@@ -3291,10 +3291,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.34",
+        "Version": "3.800.35",
         "VersionTag": "",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.34/VirtoCommerce.CITest_3.800.34.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.35/VirtoCommerce.CITest_3.800.35.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

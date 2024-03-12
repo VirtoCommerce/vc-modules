@@ -2301,10 +2301,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "4.800.0",
+        "Version": "4.801.0",
         "VersionTag": "",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/4.800.0/VirtoCommerce.GoogleEcommerceAnalytics_4.800.0.zip",
+        "PlatformVersion": "3.813.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/4.801.0/VirtoCommerce.GoogleEcommerceAnalytics_4.801.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

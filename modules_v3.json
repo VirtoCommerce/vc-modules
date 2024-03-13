@@ -866,10 +866,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.808.0",
+        "Version": "3.809.0",
         "VersionTag": "",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.808.0/VirtoCommerce.Orders_3.808.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.809.0/VirtoCommerce.Orders_3.809.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

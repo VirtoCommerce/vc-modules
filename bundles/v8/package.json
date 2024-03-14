@@ -1,10 +1,10 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.800.10",
+  "PlatformVersion": "3.800.12",
   "StorefrontVersion": "6.34.0-master-d8f90289",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-theme-b2b-vue/releases/download/1.46.0/vc-theme-b2b-vue-1.46.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.800.10",
+  "PlatformImageTag": "3.800.12",
   "PlatformAssetUrl": "",
   "Sources": [
     {
@@ -15,7 +15,7 @@
       "Modules": [
         {
           "Id": "VirtoCommerce.Return",
-          "Version": "3.800.0"
+          "Version": "3.800.1"
         },
         {
           "Id": "VirtoCommerce.FileSystemAssets",
@@ -67,7 +67,7 @@
         },
         {
           "Id": "VirtoCommerce.Sitemaps",
-          "Version": "3.800.0"
+          "Version": "3.800.1"
         },
         {
           "Id": "VirtoCommerce.AvalaraTax",
@@ -95,7 +95,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.800.0"
+          "Version": "3.800.1"
         },
         {
           "Id": "VirtoCommerce.CatalogPersonalization",
@@ -123,7 +123,7 @@
         },
         {
           "Id": "VirtoCommerce.ExperienceApi",
-          "Version": "3.800.2"
+          "Version": "3.800.3"
         },
         {
           "Id": "VirtoCommerce.GoogleEcommerceAnalytics",
@@ -135,7 +135,7 @@
         },
         {
           "Id": "VirtoCommerce.Orders",
-          "Version": "3.800.2"
+          "Version": "3.800.6"
         },
         {
           "Id": "VirtoCommerce.Assets",

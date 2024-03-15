@@ -2403,10 +2403,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.802.0",
-        "VersionTag": "alpha.292",
+        "Version": "3.803.0",
+        "VersionTag": "alpha.293",
         "PlatformVersion": "3.814.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.802.0-alpha.292.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.803.0-alpha.293.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

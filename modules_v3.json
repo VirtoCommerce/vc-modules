@@ -4068,9 +4068,9 @@
       },
       {
         "Version": "3.802.0",
-        "VersionTag": "alpha.14",
+        "VersionTag": "alpha.15",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Skyflow_3.802.0-alpha.14.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Skyflow_3.802.0-alpha.15.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

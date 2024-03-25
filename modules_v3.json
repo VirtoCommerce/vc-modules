@@ -4081,5 +4081,43 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.PushMessages",
+    "Title": "VirtoCommerce PushMessages module",
+    "Description": "VirtoCommerce PushMessages module",
+    "Authors": [
+      "Virto Commerce"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-push-messages",
+    "IconUrl": "Modules/$(VirtoCommerce.PushMessages)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.800.0",
+        "VersionTag": "alpha.5",
+        "PlatformVersion": "3.814.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.800.0-alpha.5.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.803.0"
+          },
+          {
+            "Id": "VirtoCommerce.ExperienceApi",
+            "Version": "3.816.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

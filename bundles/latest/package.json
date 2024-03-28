@@ -123,7 +123,7 @@
         },
         {
           "Id": "VirtoCommerce.ExperienceApi",
-          "Version": "3.800.3"
+          "Version": "3.800.5"
         },
         {
           "Id": "VirtoCommerce.GoogleEcommerceAnalytics",
@@ -155,7 +155,7 @@
         },
         {
           "Id": "VirtoCommerce.Content",
-          "Version": "3.800.0"
+          "Version": "3.800.1"
         },
         {
           "Id": "VirtoCommerce.ProfileExperienceApiModule",
@@ -179,7 +179,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.800.0"
+          "Version": "3.800.1"
         },
         {
           "Id": "VirtoCommerce.Cart",

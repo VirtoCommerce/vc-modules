@@ -3301,9 +3301,9 @@
       },
       {
         "Version": "3.800.57",
-        "VersionTag": "main",
+        "VersionTag": "alpha.194",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.57/VirtoCommerce.CITest_3.800.57-main.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CITest_3.800.57-alpha.194.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

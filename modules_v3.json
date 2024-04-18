@@ -4214,10 +4214,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.803.0",
-        "VersionTag": "alpha.32",
+        "Version": "3.804.0",
+        "VersionTag": "alpha.33",
         "PlatformVersion": "3.813.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BuilderIO_3.803.0-alpha.32.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BuilderIO_3.804.0-alpha.33.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

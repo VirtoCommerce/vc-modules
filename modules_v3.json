@@ -4200,10 +4200,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.0",
-        "VersionTag": "alpha.22",
+        "Version": "3.801.0",
+        "VersionTag": "alpha.26",
         "PlatformVersion": "3.813.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BuilderIO_3.800.0-alpha.22.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BuilderIO_3.801.0-alpha.26.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

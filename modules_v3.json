@@ -4200,10 +4200,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.801.0",
+        "Version": "3.802.0",
         "VersionTag": "",
         "PlatformVersion": "3.813.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-builder-io/releases/download/3.801.0/VirtoCommerce.BuilderIO_3.801.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-builder-io/releases/download/3.802.0/VirtoCommerce.BuilderIO_3.802.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

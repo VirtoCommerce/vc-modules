@@ -27,7 +27,7 @@
         },
         {
           "Id": "VirtoCommerce.EventBus",
-          "Version": "3.400.0"
+          "Version": "3.400.1"
         },
         {
           "Id": "VirtoCommerce.AzureSearch",

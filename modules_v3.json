@@ -4129,9 +4129,9 @@
       },
       {
         "Version": "3.803.0",
-        "VersionTag": "alpha.18",
+        "VersionTag": "alpha.20",
         "PlatformVersion": "3.814.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.803.0-alpha.18.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.803.0-alpha.20.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

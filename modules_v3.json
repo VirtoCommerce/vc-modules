@@ -1297,7 +1297,7 @@
   },
   {
     "Id": "VirtoCommerce.Store",
-    "Title": "Store module",
+    "Title": "Store",
     "Description": "Multi store management with individual store settings",
     "Authors": [
       "Virto Commerce"
@@ -1335,9 +1335,9 @@
       },
       {
         "Version": "3.802.0",
-        "VersionTag": "alpha.685",
+        "VersionTag": "alpha.687",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.802.0-alpha.685.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.802.0-alpha.687.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

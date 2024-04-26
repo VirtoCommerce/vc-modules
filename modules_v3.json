@@ -4149,8 +4149,8 @@
   },
   {
     "Id": "VirtoCommerce.WhiteLabeling",
-    "Title": "VirtoCommerce WhiteLabeling module",
-    "Description": "VirtoCommerce WhiteLabeling module",
+    "Title": "White Labeling",
+    "Description": "Provides White labeling factionality for organizations",
     "Authors": [
       "Konstantin Savosteev"
     ],
@@ -4167,9 +4167,9 @@
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.4",
+        "VersionTag": "alpha.5",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WhiteLabeling_3.800.0-alpha.4.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WhiteLabeling_3.800.0-alpha.5.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

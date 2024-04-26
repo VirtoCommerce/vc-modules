@@ -830,10 +830,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.805.0",
-        "VersionTag": "alpha.370",
+        "Version": "3.806.0",
+        "VersionTag": "alpha.371",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.805.0-alpha.370.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.806.0-alpha.371.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

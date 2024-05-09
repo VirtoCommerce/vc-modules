@@ -1812,8 +1812,8 @@
   },
   {
     "Id": "VirtoCommerce.Contentful",
-    "Title": "Contentful Module (preview)",
-    "Description": "Integration module for contentful.com.",
+    "Title": "Contentful (preview)",
+    "Description": "Integration for contentful.com.",
     "Authors": [
       "Alexander Siniouguine"
     ],
@@ -1850,9 +1850,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.56",
+        "VersionTag": "alpha.57",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contentful_3.801.0-alpha.56.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contentful_3.801.0-alpha.57.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

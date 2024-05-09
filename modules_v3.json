@@ -1027,7 +1027,7 @@
   },
   {
     "Id": "VirtoCommerce.Pricing",
-    "Title": "Pricing module",
+    "Title": "Pricing",
     "Description": "Robust pricing management functionality based on price list and dynamic evaluation",
     "Authors": [
       "Eugeney Tatarincev"
@@ -1076,10 +1076,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.801.0",
-        "VersionTag": "alpha.720",
+        "Version": "3.802.0",
+        "VersionTag": "alpha.724",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.801.0-alpha.720.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.802.0-alpha.724.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

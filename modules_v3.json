@@ -4103,7 +4103,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-push-messages",
-    "IconUrl": "Modules/$(VirtoCommerce.PushMessages)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.PushMessages)/Content/push-messages/img/icons/apple-touch-icon.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
@@ -4129,9 +4129,9 @@
       },
       {
         "Version": "3.805.0",
-        "VersionTag": "alpha.24",
+        "VersionTag": "alpha.27",
         "PlatformVersion": "3.814.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.805.0-alpha.24.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.805.0-alpha.27.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

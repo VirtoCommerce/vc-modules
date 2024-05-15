@@ -3356,9 +3356,9 @@
       },
       {
         "Version": "3.802.0",
-        "VersionTag": "alpha.93",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.802.0-alpha.93.zip",
+        "VersionTag": "alpha.96",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.802.0-alpha.96.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

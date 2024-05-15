@@ -2092,9 +2092,9 @@
       },
       {
         "Version": "3.802.0",
-        "VersionTag": "alpha.140",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DynamicAssociationsModule_3.802.0-alpha.140.zip",
+        "VersionTag": "alpha.148",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.DynamicAssociationsModule_3.802.0-alpha.148.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

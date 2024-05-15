@@ -3939,9 +3939,9 @@
       },
       {
         "Version": "3.803.0",
-        "VersionTag": "alpha.22",
-        "PlatformVersion": "3.814.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.803.0-alpha.22.zip",
+        "VersionTag": "alpha.23",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.803.0-alpha.23.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

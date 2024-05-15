@@ -2716,9 +2716,9 @@
       },
       {
         "Version": "3.806.0",
-        "VersionTag": "alpha.131",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.806.0-alpha.131.zip",
+        "VersionTag": "alpha.132",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.806.0-alpha.132.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

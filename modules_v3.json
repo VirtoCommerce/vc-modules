@@ -3089,10 +3089,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.802.0",
+        "Version": "3.803.0",
         "VersionTag": "",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-return/releases/download/3.802.0/VirtoCommerce.Return_3.802.0.zip",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-return/releases/download/3.803.0/VirtoCommerce.Return_3.803.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

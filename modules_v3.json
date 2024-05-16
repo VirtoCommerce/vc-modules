@@ -2450,9 +2450,9 @@
       },
       {
         "Version": "3.803.0",
-        "VersionTag": "alpha.128",
-        "PlatformVersion": "3.814.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_3.803.0-alpha.128.zip",
+        "VersionTag": "alpha.131",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_3.803.0-alpha.131.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

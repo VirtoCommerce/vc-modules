@@ -557,9 +557,9 @@
       },
       {
         "Version": "3.803.0",
-        "VersionTag": "alpha.342",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.803.0-alpha.342.zip",
+        "VersionTag": "alpha.344",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.803.0-alpha.344.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

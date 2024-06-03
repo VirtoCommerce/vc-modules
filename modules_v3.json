@@ -76,9 +76,9 @@
       },
       {
         "Version": "3.802.0",
-        "VersionTag": "alpha.229",
+        "VersionTag": "alpha.234",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.802.0-alpha.229.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.802.0-alpha.234.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

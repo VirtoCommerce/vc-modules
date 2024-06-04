@@ -3418,9 +3418,9 @@
       },
       {
         "Version": "3.802.0",
-        "VersionTag": "alpha.71",
+        "VersionTag": "alpha.99",
         "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.802.0-alpha.71.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.802.0-alpha.99.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

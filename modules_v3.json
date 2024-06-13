@@ -4110,10 +4110,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.807.0",
+        "Version": "3.808.0",
         "VersionTag": "",
         "PlatformVersion": "3.829.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-push-messages/releases/download/3.807.0/VirtoCommerce.PushMessages_3.807.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-push-messages/releases/download/3.808.0/VirtoCommerce.PushMessages_3.808.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

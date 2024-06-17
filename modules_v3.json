@@ -2663,9 +2663,9 @@
       },
       {
         "Version": "3.806.0",
-        "VersionTag": "alpha.164",
+        "VersionTag": "alpha.165",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.806.0-alpha.164.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.806.0-alpha.165.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

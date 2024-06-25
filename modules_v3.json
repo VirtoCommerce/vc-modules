@@ -3210,9 +3210,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.61",
+        "VersionTag": "alpha.70",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNetPayment_3.801.0-alpha.61.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNetPayment_3.801.0-alpha.70.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

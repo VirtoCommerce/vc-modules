@@ -4046,7 +4046,7 @@
   {
     "Id": "VirtoCommerce.Skyflow",
     "Title": "Skyflow",
-    "Description": "SkyFlow Integration as payment provider enables a unified user experience for Credit Card transactions across diverse payment providers.",
+    "Description": "Skyflow Integration as payment provider enables a unified user experience for Credit Card transactions across diverse payment providers.",
     "Authors": [
       "Vasily Kotov"
     ],
@@ -4077,9 +4077,9 @@
       },
       {
         "Version": "3.804.0",
-        "VersionTag": "alpha.20",
+        "VersionTag": "alpha.21",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Skyflow_3.804.0-alpha.20.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Skyflow_3.804.0-alpha.21.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

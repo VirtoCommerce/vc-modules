@@ -3924,10 +3924,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.804.0",
+        "Version": "3.805.0",
         "VersionTag": "",
         "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-audit-log/releases/download/3.804.0/VirtoCommerce.AuditLog_3.804.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-audit-log/releases/download/3.805.0/VirtoCommerce.AuditLog_3.805.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

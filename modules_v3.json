@@ -2215,10 +2215,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.838.0",
-        "VersionTag": "alpha.1422",
+        "Version": "3.839.0",
+        "VersionTag": "alpha.1423",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.838.0-alpha.1422.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.839.0-alpha.1423.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

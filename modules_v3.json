@@ -2811,9 +2811,9 @@
       },
       {
         "Version": "3.803.0",
-        "VersionTag": "alpha.94",
+        "VersionTag": "alpha.95",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.803.0-alpha.94.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.803.0-alpha.95.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

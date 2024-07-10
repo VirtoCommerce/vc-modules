@@ -2149,15 +2149,15 @@
     ],
     "Versions": [
       {
-        "Version": "3.838.0",
+        "Version": "3.839.0",
         "VersionTag": "",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.838.0/VirtoCommerce.ExperienceApi_3.838.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-experience-api/releases/download/3.839.0/VirtoCommerce.ExperienceApi_3.839.0.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.803.0"
+            "Version": "3.810.0"
           },
           {
             "Id": "VirtoCommerce.Catalog",

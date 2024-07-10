@@ -2216,14 +2216,14 @@
       },
       {
         "Version": "3.839.0",
-        "VersionTag": "alpha.1423",
+        "VersionTag": "alpha.1424",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.839.0-alpha.1423.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.839.0-alpha.1424.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.803.0"
+            "Version": "3.810.0"
           },
           {
             "Id": "VirtoCommerce.Catalog",

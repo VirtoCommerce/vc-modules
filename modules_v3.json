@@ -4001,9 +4001,9 @@
       },
       {
         "Version": "3.802.0",
-        "VersionTag": "alpha.18",
+        "VersionTag": "alpha.21",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.802.0-alpha.18.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.802.0-alpha.21.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -4420,10 +4420,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.800.0",
-        "VersionTag": "alpha.2",
+        "Version": "3.801.0",
+        "VersionTag": "alpha.3",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.800.0-alpha.2.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.801.0-alpha.3.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

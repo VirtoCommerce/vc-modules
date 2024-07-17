@@ -4326,5 +4326,67 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.XCatalog",
+    "Title": "VirtoCommerce XCatalog module",
+    "Description": "VirtoCommerce XCatalog module",
+    "Authors": [
+      "Eugeny Tatarincev",
+      "Yan Brovkin",
+      "Fillip Kuksov",
+      "Egidijus Mažeika",
+      "Andrei Kostyrin",
+      "Dmitri Pushnitsa",
+      "Alexandr Andreev",
+      "Andrey Kozlov",
+      "Konstantin Savosteev",
+      "Aleksandr Vishniakov",
+      "Artem Dudarev"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-x-catalog",
+    "IconUrl": "Modules/$(VirtoCommerce.XCatalog)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.800.0",
+        "VersionTag": "alpha.2",
+        "PlatformVersion": "3.841.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.800.0-alpha.2.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.Inventory",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.Marketing",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.Pricing",
+            "Version": "3.800.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

@@ -4101,13 +4101,17 @@
       },
       {
         "Version": "3.806.0",
-        "VersionTag": "alpha.24",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Skyflow_3.806.0-alpha.24.zip",
+        "VersionTag": "alpha.25",
+        "PlatformVersion": "3.841.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Skyflow_3.806.0-alpha.25.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Payment",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.Xapi",
             "Version": "3.800.0"
           }
         ],

@@ -4190,19 +4190,23 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.801.0",
+        "Version": "3.802.0",
         "VersionTag": "",
-        "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-white-labeling/releases/download/3.801.0/VirtoCommerce.WhiteLabeling_3.801.0.zip",
+        "PlatformVersion": "3.841.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-white-labeling/releases/download/3.802.0/VirtoCommerce.WhiteLabeling_3.802.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.ExperienceApi",
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.XCMS",
             "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.800.0"
+            "Version": "3.811.0"
           },
           {
             "Id": "VirtoCommerce.ImageTools",

@@ -1555,22 +1555,30 @@
       },
       {
         "Version": "3.804.0",
-        "VersionTag": "alpha.208",
-        "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.804.0-alpha.208.zip",
+        "VersionTag": "alpha.209",
+        "PlatformVersion": "3.841.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.804.0-alpha.209.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.XCatalog",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.ProfileExperienceApiModule",
+            "Version": "3.800.0"
+          },
           {
             "Id": "VirtoCommerce.Catalog",
             "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.800.0"
-          },
-          {
-            "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.800.0"
+            "Version": "3.811.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",
@@ -1578,10 +1586,6 @@
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0"
-          },
-          {
-            "Id": "VirtoCommerce.ProfileExperienceApiModule",
             "Version": "3.800.0"
           },
           {

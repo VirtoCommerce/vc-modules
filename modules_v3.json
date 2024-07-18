@@ -4486,5 +4486,79 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.XCart",
+    "Title": "VirtoCommerce XCart module",
+    "Description": "VirtoCommerce XCart module",
+    "Authors": [
+      "Eugeny Tatarincev",
+      "Yan Brovkin",
+      "Fillip Kuksov",
+      "Egidijus Mažeika",
+      "Andrei Kostyrin",
+      "Dmitri Pushnitsa",
+      "Alexandr Andreev",
+      "Andrey Kozlov",
+      "Konstantin Savosteev",
+      "Aleksandr Vishniakov",
+      "Artem Dudarev"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-x-cart",
+    "IconUrl": "Modules/$(VirtoCommerce.XCart)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.800.0",
+        "VersionTag": "alpha.2",
+        "PlatformVersion": "3.841.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.800.0-alpha.2.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.XCatalog",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.Cart",
+            "Version": "3.810.0"
+          },
+          {
+            "Id": "VirtoCommerce.Inventory",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.Marketing",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.Payment",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.Pricing",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.Shipping",
+            "Version": "3.800.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

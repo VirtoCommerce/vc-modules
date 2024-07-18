@@ -4033,18 +4033,18 @@
       },
       {
         "Version": "3.803.0",
-        "VersionTag": "alpha.22",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.803.0-alpha.22.zip",
+        "VersionTag": "alpha.23",
+        "PlatformVersion": "3.841.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.803.0-alpha.23.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Assets",
-            "Version": "3.801.0"
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.800.0"
           },
           {
-            "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.800.0"
+            "Id": "VirtoCommerce.Assets",
+            "Version": "3.801.0"
           }
         ],
         "ReleaseNotes": "First version."

@@ -2002,9 +2002,9 @@
       },
       {
         "Version": "3.816.0",
-        "VersionTag": "alpha.417",
-        "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.816.0-alpha.417.zip",
+        "VersionTag": "alpha.418",
+        "PlatformVersion": "3.841.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.816.0-alpha.418.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -2013,7 +2013,7 @@
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.800.0"
+            "Version": "3.810.0"
           },
           {
             "Id": "VirtoCommerce.Catalog",
@@ -2024,12 +2024,20 @@
             "Version": "3.800.0"
           },
           {
-            "Id": "VirtoCommerce.ExperienceApi",
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.XCart",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.XCatalog",
             "Version": "3.800.0"
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.800.0"
+            "Version": "3.803.0"
           },
           {
             "Id": "VirtoCommerce.Orders",

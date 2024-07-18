@@ -4086,14 +4086,18 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.805.0",
+        "Version": "3.806.0",
         "VersionTag": "",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-skyflow/releases/download/3.805.0/VirtoCommerce.Skyflow_3.805.0.zip",
+        "PlatformVersion": "3.841.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-skyflow/releases/download/3.806.0/VirtoCommerce.Skyflow_3.806.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Payment",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.Xapi",
             "Version": "3.800.0"
           }
         ],

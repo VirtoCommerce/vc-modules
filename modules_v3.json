@@ -4161,18 +4161,18 @@
       },
       {
         "Version": "3.810.0",
-        "VersionTag": "alpha.38",
-        "PlatformVersion": "3.829.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.810.0-alpha.38.zip",
+        "VersionTag": "alpha.39",
+        "PlatformVersion": "3.841.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.810.0-alpha.39.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Customer",
-            "Version": "3.803.0"
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.800.0"
           },
           {
-            "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.816.0"
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.811.0"
           }
         ],
         "ReleaseNotes": "First version."

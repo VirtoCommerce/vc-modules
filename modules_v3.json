@@ -2144,8 +2144,8 @@
   },
   {
     "Id": "VirtoCommerce.ExperienceApi",
-    "Title": "Commerce Experience API - Depricated",
-    "Description": "The module is deprecated. Migrate to new X-API family modules. An intermediated layer between clients and enterprise services powered by GraphQL protocol",
+    "Title": "Commerce Experience API - Deprecated",
+    "Description": "The module is Deprecated. Migrate to new X-API family modules. An intermediated layer between clients and enterprise services powered by GraphQL protocol",
     "Authors": [
       "Eugeny Tatarincev",
       "Yan Brovkin",
@@ -2238,9 +2238,9 @@
       },
       {
         "Version": "3.842.0",
-        "VersionTag": "alpha.1436",
+        "VersionTag": "alpha.1437",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.842.0-alpha.1436.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ExperienceApi_3.842.0-alpha.1437.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

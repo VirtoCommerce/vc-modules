@@ -4667,8 +4667,8 @@
   },
   {
     "Id": "VirtoCommerce.XOrder",
-    "Title": "VirtoCommerce XOrder module",
-    "Description": "VirtoCommerce XOrder module",
+    "Title": "Order Experience API",
+    "Description": "Focuses on order processing, providing robust support for order lifecycle management.",
     "Authors": [
       "Eugeny Tatarincev",
       "Yan Brovkin",
@@ -4723,9 +4723,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.4",
+        "VersionTag": "alpha.6",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.801.0-alpha.4.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.801.0-alpha.6.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

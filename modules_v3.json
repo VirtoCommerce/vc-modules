@@ -4391,8 +4391,8 @@
   },
   {
     "Id": "VirtoCommerce.XCatalog",
-    "Title": "VirtoCommerce XCatalog module",
-    "Description": "VirtoCommerce XCatalog module",
+    "Title": "Catalog Experience API",
+    "Description": "Manages all catalog-related operations, from product listings to detailed item information.",
     "Authors": [
       "Eugeny Tatarincev",
       "Yan Brovkin",
@@ -4451,9 +4451,9 @@
       },
       {
         "Version": "3.802.0",
-        "VersionTag": "alpha.6",
+        "VersionTag": "alpha.8",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.802.0-alpha.6.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.802.0-alpha.8.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

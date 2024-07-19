@@ -2168,8 +2168,7 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
     "Tags": "security core",
-    "Groups": [
-    ],
+    "Groups": [],
     "Versions": [
       {
         "Version": "3.841.0",
@@ -3314,10 +3313,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.131",
+        "Version": "3.800.132",
         "VersionTag": "",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.131/VirtoCommerce.CITest_3.800.131.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.132/VirtoCommerce.CITest_3.800.132.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

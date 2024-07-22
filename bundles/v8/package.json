@@ -19,11 +19,11 @@
         },
         {
           "Id": "VirtoCommerce.FileSystemAssets",
-          "Version": "3.800.0"
+          "Version": "3.800.1"
         },
         {
           "Id": "VirtoCommerce.Store",
-          "Version": "3.800.0"
+          "Version": "3.800.1"
         },
         {
           "Id": "VirtoCommerce.EventBus",
@@ -35,7 +35,7 @@
         },
         {
           "Id": "VirtoCommerce.ElasticSearch",
-          "Version": "3.800.0"
+          "Version": "3.800.1"
         },
         {
           "Id": "VirtoCommerce.LuceneSearch",
@@ -87,7 +87,7 @@
         },
         {
           "Id": "VirtoCommerce.Core",
-          "Version": "3.800.1"
+          "Version": "3.800.3"
         },
         {
           "Id": "VirtoCommerce.BulkActionsModule",
@@ -95,7 +95,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.800.1"
+          "Version": "3.800.2"
         },
         {
           "Id": "VirtoCommerce.CatalogPersonalization",
@@ -111,7 +111,7 @@
         },
         {
           "Id": "VirtoCommerce.Inventory",
-          "Version": "3.800.0"
+          "Version": "3.800.1"
         },
         {
           "Id": "VirtoCommerce.Marketing",
@@ -159,7 +159,7 @@
         },
         {
           "Id": "VirtoCommerce.ProfileExperienceApiModule",
-          "Version": "3.800.0"
+          "Version": "3.800.4"
         },
         {
           "Id": "VirtoCommerce.Quote",
@@ -171,7 +171,7 @@
         },
         {
           "Id": "VirtoCommerce.Notifications",
-          "Version": "3.800.0"
+          "Version": "3.800.1"
         },
         {
           "Id": "VirtoCommerce.AuthorizeNetPayment",

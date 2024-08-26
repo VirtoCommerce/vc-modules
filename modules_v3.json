@@ -4761,8 +4761,8 @@
   },
   {
     "Id": "VirtoCommerce.GoogleSSO",
-    "Title": "VirtoCommerce GoogleSSO module",
-    "Description": "VirtoCommerce GoogleSSO module",
+    "Title": "Google Single Sign-On",
+    "Description": "Enables Google external login setup (Single Sign-On) for Virto Commerce Platform and Frontend",
     "Authors": [
       "Vasily Kotov"
     ],
@@ -4774,14 +4774,14 @@
     "IconUrl": "Modules/$(VirtoCommerce.GoogleSSO)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
-    "Tags": "extension module",
+    "Tags": "Google",
     "Groups": null,
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.5",
+        "VersionTag": "alpha.7",
         "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleSSO_3.800.0-alpha.5.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleSSO_3.800.0-alpha.7.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

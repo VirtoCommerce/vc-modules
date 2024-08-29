@@ -4816,6 +4816,24 @@
     "Groups": null,
     "Versions": [
       {
+        "Version": "3.800.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.841.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-recommend/releases/download/3.800.0/VirtoCommerce.XRecommend_3.800.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.800.0"
+          },
+          {
+            "Id": "VirtoCommerce.XCatalog",
+            "Version": "3.800.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
         "Version": "3.801.0",
         "VersionTag": "alpha.4",
         "PlatformVersion": "3.841.0",

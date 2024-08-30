@@ -4799,8 +4799,8 @@
   },
   {
     "Id": "VirtoCommerce.XRecommend",
-    "Title": "VirtoCommerce XRecommend module",
-    "Description": "VirtoCommerce XRecommend module",
+    "Title": "Product Recommendations",
+    "Description": "Recommendations encourage users to expand their search and browse more broadly. Users can jump to similar or complementary items if they don’t find a precise match.",
     "Authors": [
       "Konstantin Savosteev"
     ],
@@ -4835,9 +4835,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.4",
+        "VersionTag": "alpha.6",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XRecommend_3.801.0-alpha.4.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XRecommend_3.801.0-alpha.6.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

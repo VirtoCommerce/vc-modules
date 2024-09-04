@@ -4011,7 +4011,7 @@
   },
   {
     "Id": "VirtoCommerce.FileExperienceApi",
-    "Title": "File Experience Api",
+    "Title": "File Experience API",
     "Description": "Manages all file-related operations, from file upload to file content download for different client applications.",
     "Authors": [
       "Virto Commerce"
@@ -4047,9 +4047,9 @@
       },
       {
         "Version": "3.804.0",
-        "VersionTag": "alpha.26",
+        "VersionTag": "alpha.27",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.804.0-alpha.26.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.804.0-alpha.27.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -1516,10 +1516,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.804.0",
+        "Version": "3.805.0",
         "VersionTag": "",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.804.0/VirtoCommerce.CustomerReviews_3.804.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.805.0/VirtoCommerce.CustomerReviews_3.805.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1532,7 +1532,7 @@
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.800.0"
+            "Version": "3.809.0"
           },
           {
             "Id": "VirtoCommerce.Catalog",

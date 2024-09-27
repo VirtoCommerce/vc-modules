@@ -220,9 +220,9 @@
       },
       {
         "Version": "3.821.0",
-        "VersionTag": "alpha.2240",
+        "VersionTag": "alpha.2241",
         "PlatformVersion": "3.851.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.821.0-alpha.2240.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.821.0-alpha.2241.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -243,7 +243,7 @@
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.800.0"
+            "Version": "3.803.0"
           },
           {
             "Id": "VirtoCommerce.Store",

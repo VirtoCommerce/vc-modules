@@ -658,15 +658,15 @@
     ],
     "Versions": [
       {
-        "Version": "3.803.0",
+        "Version": "3.804.0",
         "VersionTag": "",
         "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/3.803.0/VirtoCommerce.LuceneSearch_3.803.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-lucene-search/releases/download/3.804.0/VirtoCommerce.LuceneSearch_3.804.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.802.0"
+            "Version": "3.803.0"
           }
         ],
         "ReleaseNotes": "Third version."

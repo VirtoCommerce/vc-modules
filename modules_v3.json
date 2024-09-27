@@ -4461,9 +4461,9 @@
       },
       {
         "Version": "3.812.0",
-        "VersionTag": "alpha.32",
+        "VersionTag": "alpha.33",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.812.0-alpha.32.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.812.0-alpha.33.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4472,7 +4472,7 @@
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.820.0"
+            "Version": "3.821.0"
           },
           {
             "Id": "VirtoCommerce.Inventory",

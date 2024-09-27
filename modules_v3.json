@@ -455,14 +455,14 @@
       },
       {
         "Version": "3.802.0",
-        "VersionTag": "alpha.249",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch_3.802.0-alpha.249.zip",
+        "VersionTag": "alpha.251",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch_3.802.0-alpha.251.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.800.0"
+            "Version": "3.803.0"
           }
         ],
         "ReleaseNotes": "Third version."

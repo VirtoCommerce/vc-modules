@@ -1118,7 +1118,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-core-module",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-search",
     "IconUrl": "Modules/$(VirtoCommerce.Search)/Content/logoVC.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
@@ -1138,9 +1138,9 @@
       },
       {
         "Version": "3.804.0",
-        "VersionTag": "alpha.747",
-        "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.804.0-alpha.747.zip",
+        "VersionTag": "alpha.748",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.804.0-alpha.748.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

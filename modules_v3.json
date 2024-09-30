@@ -4512,7 +4512,7 @@
       "VirtoCommerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-xcms",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-x-cms",
     "IconUrl": "Modules/$(VirtoCommerce.XCMS)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
@@ -4541,9 +4541,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.5",
+        "VersionTag": "alpha.8",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.801.0-alpha.5.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.801.0-alpha.8.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

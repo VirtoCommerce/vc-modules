@@ -2758,7 +2758,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://virtocommerce.com/apps/extensions/vc-module-azureblob-assets",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-azureblob-assets",
     "IconUrl": "Modules/$(VirtoCommerce.AzureBlobAssetsModule)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024 Virto Commerce. All rights reserved",
@@ -2783,14 +2783,14 @@
       },
       {
         "Version": "3.809.0",
-        "VersionTag": "alpha.130",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.809.0-alpha.130.zip",
+        "VersionTag": "alpha.131",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.809.0-alpha.131.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.803.0"
+            "Version": "3.808.0"
           }
         ],
         "ReleaseNotes": ""

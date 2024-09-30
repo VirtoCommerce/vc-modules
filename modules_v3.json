@@ -3607,7 +3607,7 @@
       "VirtoCommerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-application-insights",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-app-insights",
     "IconUrl": "Modules/$(VirtoCommerce.ApplicationInsights)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
@@ -3627,9 +3627,9 @@
       },
       {
         "Version": "3.802.0",
-        "VersionTag": "alpha.13",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ApplicationInsights_3.802.0-alpha.13.zip",
+        "VersionTag": "alpha.14",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ApplicationInsights_3.802.0-alpha.14.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

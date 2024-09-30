@@ -3062,15 +3062,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.805.0",
+        "Version": "3.806.0",
         "VersionTag": "",
-        "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-app-search/releases/download/3.805.0/VirtoCommerce.ElasticAppSearch_3.805.0.zip",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-app-search/releases/download/3.806.0/VirtoCommerce.ElasticAppSearch_3.806.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.803.0"
+            "Version": "3.804.0"
           }
         ],
         "ReleaseNotes": "First version."

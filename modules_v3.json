@@ -2452,7 +2452,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-event-bus",
     "IconUrl": "Modules/$(VirtoCommerce.EventBus)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
@@ -2472,9 +2472,9 @@
       },
       {
         "Version": "3.804.0",
-        "VersionTag": "alpha.132",
-        "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_3.804.0-alpha.132.zip",
+        "VersionTag": "alpha.134",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EventBus_3.804.0-alpha.134.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

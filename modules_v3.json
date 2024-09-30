@@ -4313,7 +4313,7 @@
       "VirtoCommerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-xapi",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-x-api",
     "IconUrl": "Modules/$(VirtoCommerce.Xapi)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
@@ -4359,9 +4359,9 @@
       },
       {
         "Version": "3.808.0",
-        "VersionTag": "alpha.38",
+        "VersionTag": "alpha.39",
         "PlatformVersion": "3.848.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Xapi_3.808.0-alpha.38.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Xapi_3.808.0-alpha.39.zip",
         "Incompatibilities": [
           {
             "Id": "VirtoCommerce.ExperienceApi",

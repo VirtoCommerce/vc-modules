@@ -265,7 +265,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-cms-module",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-content",
     "IconUrl": "Modules/$(VirtoCommerce.Content)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
@@ -310,34 +310,34 @@
       },
       {
         "Version": "3.823.0",
-        "VersionTag": "alpha.984",
-        "PlatformVersion": "3.851.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.823.0-alpha.984.zip",
+        "VersionTag": "alpha.985",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.823.0-alpha.985.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.802.0"
+            "Version": "3.808.0"
           },
           {
             "Id": "VirtoCommerce.AzureBlobAssets",
-            "Version": "3.802.0"
+            "Version": "3.809.0"
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.807.0"
+            "Version": "3.808.0"
           },
           {
             "Id": "VirtoCommerce.FileSystemAssets",
-            "Version": "3.801.0"
+            "Version": "3.805.0"
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.800.0"
+            "Version": "3.804.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0"
+            "Version": "3.809.0"
           }
         ],
         "ReleaseNotes": "First version."

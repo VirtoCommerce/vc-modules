@@ -1612,7 +1612,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://virtocommerce.com/apps/extensions/integration-with-avalara-tax-service",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-avatax",
     "IconUrl": "Modules/$(VirtoCommerce.AvalaraTax)/Content/400.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
@@ -1655,34 +1655,34 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.298",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.801.0-alpha.298.zip",
+        "VersionTag": "alpha.308",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.801.0-alpha.308.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.800.0"
+            "Version": "3.805.0"
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0"
+            "Version": "3.830.0"
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.800.0"
+            "Version": "3.804.0"
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.800.0"
+            "Version": "3.802.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0"
+            "Version": "3.809.0"
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.800.0"
+            "Version": "3.802.0"
           }
         ],
         "ReleaseNotes": "First version."

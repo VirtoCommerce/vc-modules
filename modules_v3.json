@@ -542,15 +542,15 @@
     ],
     "Versions": [
       {
-        "Version": "3.805.0",
+        "Version": "3.806.0",
         "VersionTag": "",
-        "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/3.805.0/VirtoCommerce.ImageTools_3.805.0.zip",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-image-tools/releases/download/3.806.0/VirtoCommerce.ImageTools_3.806.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.804.0"
+            "Version": "3.808.0"
           }
         ],
         "ReleaseNotes": "First version."

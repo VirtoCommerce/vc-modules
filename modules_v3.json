@@ -356,7 +356,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://virtocommerce.com/apps/extensions/virto-customer-module",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-customer",
     "IconUrl": "Modules/$(VirtoCommerce.Customer)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
@@ -393,26 +393,26 @@
       },
       {
         "Version": "3.817.0",
-        "VersionTag": "alpha.852",
-        "PlatformVersion": "3.851.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.817.0-alpha.852.zip",
+        "VersionTag": "alpha.853",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.817.0-alpha.853.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.800.0"
+            "Version": "3.808.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.800.0"
+            "Version": "3.809.0"
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.803.0"
+            "Version": "3.804.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0"
+            "Version": "3.809.0"
           }
         ],
         "ReleaseNotes": "First version."

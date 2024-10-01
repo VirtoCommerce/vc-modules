@@ -1076,10 +1076,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.809.0",
-        "VersionTag": "alpha.739",
+        "Version": "3.810.0",
+        "VersionTag": "alpha.740",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.809.0-alpha.739.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.810.0-alpha.740.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

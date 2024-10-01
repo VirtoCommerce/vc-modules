@@ -2411,17 +2411,12 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.804.0",
+        "Version": "3.805.0",
         "VersionTag": "",
-        "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-webhooks/releases/download/3.804.0/VirtoCommerce.WebHooks_3.804.0.zip",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-webhooks/releases/download/3.805.0/VirtoCommerce.WebHooks_3.805.0.zip",
         "Incompatibilities": null,
-        "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Core",
-            "Version": "3.800.0"
-          }
-        ],
+        "Dependencies": [],
         "ReleaseNotes": ""
       },
       {

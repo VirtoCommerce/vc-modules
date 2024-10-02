@@ -3221,10 +3221,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.802.0",
-        "VersionTag": "alpha.73",
+        "Version": "3.803.0",
+        "VersionTag": "alpha.74",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNetPayment_3.802.0-alpha.73.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNetPayment_3.803.0-alpha.74.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

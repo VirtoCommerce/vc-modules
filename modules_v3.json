@@ -4424,31 +4424,31 @@
     ],
     "Versions": [
       {
-        "Version": "3.812.0",
+        "Version": "3.813.0",
         "VersionTag": "",
-        "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-catalog/releases/download/3.812.0/VirtoCommerce.XCatalog_3.812.0.zip",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-catalog/releases/download/3.813.0/VirtoCommerce.XCatalog_3.813.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Xapi",
-            "Version": "3.800.0"
-          },
-          {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.821.0"
+            "Version": "3.822.0"
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.800.0"
+            "Version": "3.805.0"
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.800.0"
+            "Version": "3.812.0"
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.800.0"
+            "Version": "3.809.0"
+          },
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.809.0"
           }
         ],
         "ReleaseNotes": "First version."

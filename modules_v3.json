@@ -3093,7 +3093,7 @@
       "VirtoCommerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-return",
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
@@ -3120,18 +3120,18 @@
       },
       {
         "Version": "3.804.0",
-        "VersionTag": "alpha.98",
-        "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Return_3.804.0-alpha.98.zip",
+        "VersionTag": "alpha.100",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Return_3.804.0-alpha.100.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0"
+            "Version": "3.830.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0"
+            "Version": "3.809.0"
           }
         ],
         "ReleaseNotes": "First version."

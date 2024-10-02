@@ -2946,43 +2946,43 @@
     ],
     "Versions": [
       {
-        "Version": "3.816.0",
+        "Version": "3.817.0",
         "VersionTag": "",
-        "PlatformVersion": "3.848.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api/releases/download/3.816.0/VirtoCommerce.ProfileExperienceApiModule_3.816.0.zip",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api/releases/download/3.817.0/VirtoCommerce.ProfileExperienceApiModule_3.817.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Xapi",
-            "Version": "3.802.0"
-          },
-          {
-            "Id": "VirtoCommerce.XOrder",
-            "Version": "3.800.0"
-          },
-          {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.800.0"
+            "Version": "3.808.0"
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.811.0"
+            "Version": "3.817.0"
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.800.0"
+            "Version": "3.812.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.800.0"
+            "Version": "3.809.0"
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.800.0"
+            "Version": "3.809.0"
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.800.0"
+            "Version": "3.802.0"
+          },
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.809.0"
+          },
+          {
+            "Id": "VirtoCommerce.XOrder",
+            "Version": "3.806.0"
           }
         ],
         "ReleaseNotes": ""

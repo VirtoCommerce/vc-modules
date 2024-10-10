@@ -2638,7 +2638,7 @@
     "Title": "Customer Export Import",
     "Description": "This module adds customers export and import functionality. Use it for customer management.",
     "Authors": [
-      "Alexei Shibanov"
+      "Alexey Shibanov"
     ],
     "Owners": [
       "Virto Commerce"
@@ -2675,22 +2675,22 @@
       },
       {
         "Version": "3.808.0",
-        "VersionTag": "alpha.168",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.808.0-alpha.168.zip",
+        "VersionTag": "alpha.170",
+        "PlatformVersion": "3.853.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.808.0-alpha.170.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.800.0"
+            "Version": "3.808.0"
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.800.0"
+            "Version": "3.817.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0"
+            "Version": "3.809.0"
           }
         ],
         "ReleaseNotes": "First version."

@@ -4100,10 +4100,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.807.0",
-        "VersionTag": "alpha.30",
+        "Version": "3.808.0",
+        "VersionTag": "alpha.32",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Skyflow_3.807.0-alpha.30.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Skyflow_3.808.0-alpha.32.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

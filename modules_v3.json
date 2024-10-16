@@ -4082,10 +4082,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.807.0",
+        "Version": "3.808.0",
         "VersionTag": "",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-skyflow/releases/download/3.807.0/VirtoCommerce.Skyflow_3.807.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-skyflow/releases/download/3.808.0/VirtoCommerce.Skyflow_3.808.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

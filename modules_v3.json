@@ -1857,10 +1857,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.803.0",
-        "VersionTag": "alpha.63",
+        "Version": "3.804.0",
+        "VersionTag": "alpha.65",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contentful_3.803.0-alpha.63.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contentful_3.804.0-alpha.65.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

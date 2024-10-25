@@ -1951,10 +1951,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.816.0",
+        "Version": "3.817.0",
         "VersionTag": "",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.816.0/VirtoCommerce.Quote_3.816.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.817.0/VirtoCommerce.Quote_3.817.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

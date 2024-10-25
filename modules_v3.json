@@ -2452,10 +2452,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.804.0",
+        "Version": "3.805.0",
         "VersionTag": "",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-event-bus/releases/download/3.804.0/VirtoCommerce.EventBus_3.804.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-event-bus/releases/download/3.805.0/VirtoCommerce.EventBus_3.805.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

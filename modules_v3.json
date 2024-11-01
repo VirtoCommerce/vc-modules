@@ -4026,10 +4026,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.803.0",
+        "Version": "3.804.0",
         "VersionTag": "",
-        "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-file-experience-api/releases/download/3.803.0/VirtoCommerce.FileExperienceApi_3.803.0.zip",
+        "PlatformVersion": "3.861.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-file-experience-api/releases/download/3.804.0/VirtoCommerce.FileExperienceApi_3.804.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

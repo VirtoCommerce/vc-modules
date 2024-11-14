@@ -4872,7 +4872,8 @@
     "Title": "VirtoCommerce OpenIdConnect module",
     "Description": "VirtoCommerce OpenId Connect module",
     "Authors": [
-      "Igoris Berniukevicius"
+      "Igoris Berniukevicius",
+      "Artem Dudarev"
     ],
     "Owners": [
       "VirtoCommerce"
@@ -4887,9 +4888,9 @@
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.11",
-        "PlatformVersion": "3.849.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OpenIdConnectModule_3.800.0-alpha.11.zip",
+        "VersionTag": "alpha.13",
+        "PlatformVersion": "3.865.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OpenIdConnectModule_3.800.0-alpha.13.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

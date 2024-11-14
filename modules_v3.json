@@ -4887,6 +4887,15 @@
     "Groups": null,
     "Versions": [
       {
+        "Version": "3.800.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.865.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-openid-connect/releases/download/3.800.0/VirtoCommerce.OpenIdConnectModule_3.800.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "First version."
+      },
+      {
         "Version": "3.801.0",
         "VersionTag": "alpha.14",
         "PlatformVersion": "3.865.0",

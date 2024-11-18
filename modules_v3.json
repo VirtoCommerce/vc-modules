@@ -5034,10 +5034,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.801.0",
-        "VersionTag": "alpha.6",
-        "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pages_3.801.0-alpha.6.zip",
+        "Version": "3.802.0",
+        "VersionTag": "alpha.8",
+        "PlatformVersion": "3.861.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pages_3.802.0-alpha.8.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5046,11 +5046,11 @@
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.805.0"
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.810.0"
           },
           {
             "Id": "VirtoCommerce.Customer",

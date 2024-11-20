@@ -4762,10 +4762,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.810.0",
-        "VersionTag": "alpha.31",
+        "Version": "3.811.0",
+        "VersionTag": "alpha.32",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.810.0-alpha.31.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.811.0-alpha.32.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

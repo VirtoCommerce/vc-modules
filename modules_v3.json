@@ -5007,8 +5007,8 @@
   },
   {
     "Id": "VirtoCommerce.Pages",
-    "Title": "VirtoPages",
-    "Description": "VirtoCommerce Pages module",
+    "Title": "Virto Pages",
+    "Description": "Provides a robust and flexible solution for managing content in digital commerce scenarios. Decoupling the CMS post-publishing ensures long-term efficiency, adaptability, and performance.",
     "Authors": [
       "Basil Kotov"
     ],
@@ -5051,9 +5051,9 @@
       },
       {
         "Version": "3.805.0",
-        "VersionTag": "alpha.16",
+        "VersionTag": "alpha.19",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pages_3.805.0-alpha.16.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pages_3.805.0-alpha.19.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

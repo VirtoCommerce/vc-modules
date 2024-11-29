@@ -23,7 +23,7 @@
         },
         {
           "Id": "VirtoCommerce.Store",
-          "Version": "3.805.0"
+          "Version": "3.805.1"
         },
         {
           "Id": "VirtoCommerce.EventBus",

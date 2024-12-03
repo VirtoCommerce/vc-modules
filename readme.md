@@ -30,12 +30,12 @@ Packaged Business Capabilities (PBCs) are a core component of Virto Commerce's m
 
 Virto Commerce currently offers PBCs:
 
-* **Virto Start**: Intall and go with common B2B and B2C ecommerce configuration. Native integration with Virto Commerce Frontend. 
-* **Identity Provider (IdP)**: System that authenticates users' identities and authorizes their access to various applications and services. Allows for quick and easy authorization and authentication of customers.
-* **Digital Catalog**: Ready for creating, managing and browsing a comprehensive digital catalog of products or services. Already includes PIM and rich search xApi capabilities with keyword search, semantic search, personalization, etc. 
-* **Product Information Management (PIM)**: Encompasses all functionality that is needed to set up your product catalog. With PIM, you can create and extend the product catalog to match your business needs.
-* **Purchase**: The online shopping cart and checkout process act as a gateway for customer and order management.
-* **Customer & Organizations (CRM)**: The online shopping cart and checkout process act as a gateway for customer and order management.
+* **Virto Start**: Ideal for businesses that want a quick and hassle-free start with common B2B and B2C e-commerce configurations. This package is perfect for getting up and running swiftly, with native integration with Virto Commerce Frontend.
+* **Identity Provider (IdP)**: Virto Commerce can be used as an Identity Provider, essential for organizations needing secure and efficient user identity management. This system authenticates users' identities and authorizes their access to various applications and services, enhancing security and streamlining customer authentication processes.
+* **Digital Catalog**: A must-have if you need to grant access to your catalog data via Frontend or API without the ability to buy products. This package supports modern scenarios with advanced search, browsing, and filtering capabilities, making it ideal for businesses that require robust catalog management solutions.
+* **Purchase**: This package is crucial if you already have an e-commerce catalog or are building a marketplace that aggregates catalog data from multiple vendor APIs, like Amazon, Booking, etc. Virto Commerce can be used to build cart and checkout experiences for placing orders.
+* **Product Information Management (PIM)**: If you need just a PIM, Virto Commerce can play this role by granting access for category managers, building, and improving e-commerce catalogs. PIM is indispensable for companies looking to streamline their product data management to match specific business needs.
+* **Customer & Organizations (CRM)**: If you need just a CRM, Virto Commerce can play this role, allowing you to grant access to CRM data. This package is essential for managing customer interactions and data throughout the customer lifecycle, improving business relationships and customer retention.
 * **🔥 You idea here**: We can help you to create a custom PBC for your business needs.
 
 You can find packages by [following link](/pbc). 

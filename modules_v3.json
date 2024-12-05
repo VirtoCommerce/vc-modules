@@ -2026,9 +2026,9 @@
       },
       {
         "Version": "3.822.0",
-        "VersionTag": "alpha.433",
+        "VersionTag": "alpha.434",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.822.0-alpha.433.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.822.0-alpha.434.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -2049,7 +2049,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.800.0"
+            "Version": "3.814.0"
           },
           {
             "Id": "VirtoCommerce.XCart",

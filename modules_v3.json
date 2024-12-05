@@ -4154,10 +4154,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.813.0",
+        "Version": "3.814.0",
         "VersionTag": "",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-push-messages/releases/download/3.813.0/VirtoCommerce.PushMessages_3.813.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-push-messages/releases/download/3.814.0/VirtoCommerce.PushMessages_3.814.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4166,7 +4166,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.809.0"
+            "Version": "3.814.0"
           }
         ],
         "ReleaseNotes": "First version."

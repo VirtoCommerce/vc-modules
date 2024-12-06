@@ -4987,14 +4987,14 @@
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.63",
-        "PlatformVersion": "3.863.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AIDocumentProcessing_3.800.0-alpha.63.zip",
+        "VersionTag": "alpha.64",
+        "PlatformVersion": "3.867.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AIDocumentProcessing_3.800.0-alpha.64.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.810.0"
+            "Version": "3.813.0"
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
@@ -5006,15 +5006,15 @@
           },
           {
             "Id": "VirtoCommerce.Quote",
-            "Version": "3.819.0"
+            "Version": "3.822.0"
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.812.0"
+            "Version": "3.814.0"
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.812.0"
+            "Version": "3.817.0"
           }
         ],
         "ReleaseNotes": "First version."

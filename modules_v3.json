@@ -3319,7 +3319,7 @@
       "VirtoCommerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-ci-test",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-ci-test",
     "IconUrl": "Modules/$(VirtoCommerce.CITest)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
@@ -3327,10 +3327,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.231",
+        "Version": "3.800.232",
         "VersionTag": "",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.231/VirtoCommerce.CITest_3.800.231.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.232/VirtoCommerce.CITest_3.800.232.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

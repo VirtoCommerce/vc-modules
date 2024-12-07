@@ -4958,9 +4958,9 @@
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.4",
+        "VersionTag": "alpha.8",
         "PlatformVersion": "3.832.3",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackInStockModule_3.800.0-alpha.4.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackInStockModule_3.800.0-alpha.8.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

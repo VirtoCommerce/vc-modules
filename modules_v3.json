@@ -4949,7 +4949,7 @@
       "VirtoCommerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-back-in-stock-module",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-back-in-stock",
     "IconUrl": "Modules/$(VirtoCommerce.BackInStockModule)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",

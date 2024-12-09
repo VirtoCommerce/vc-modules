@@ -4394,9 +4394,9 @@
       },
       {
         "Version": "3.815.0",
-        "VersionTag": "alpha.53",
+        "VersionTag": "alpha.54",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Xapi_3.815.0-alpha.53.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Xapi_3.815.0-alpha.54.zip",
         "Incompatibilities": [
           {
             "Id": "VirtoCommerce.ExperienceApi",

@@ -9,6 +9,6 @@
   "7": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v7/package.json",
   "8": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v8/package.json",
   "9": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v9/package.json",
-  "10": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v10/package.json"
+  "10": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v10/package.json",
   "latest": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/latest/package.json"
 }

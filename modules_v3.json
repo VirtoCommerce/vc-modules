@@ -5003,9 +5003,9 @@
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.64",
+        "VersionTag": "alpha.65",
         "PlatformVersion": "3.867.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AIDocumentProcessing_3.800.0-alpha.64.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AIDocumentProcessing_3.800.0-alpha.65.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

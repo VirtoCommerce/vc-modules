@@ -30,10 +30,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.814.0",
-        "VersionTag": "alpha.1638",
+        "Version": "3.815.0",
+        "VersionTag": "alpha.1639",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.814.0-alpha.1638.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.815.0-alpha.1639.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

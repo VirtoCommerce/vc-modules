@@ -40,7 +40,12 @@ jobs:
       id: vars
       run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
 
+    - name: Get Dockerfile
+      run: |
+        git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
+
     - name: Build and Publish Docker Image
+      working-directory: ./vc-docker/linux/platform
       run: |
         vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY
         docker tag $IMAGE_REPOSITORY:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
@@ -48,7 +53,7 @@ jobs:
       env:
         DOCKER_LOGIN: VirtoPaaSRegistryMain
         DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}
-        DOCKERFILE_PATH: ./backend/Dockerfile
+        DOCKERFILE_PATH: ./Dockerfile
         CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
         IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
         TAG: ${{ env.PLATFORM_VERSION }}-stable

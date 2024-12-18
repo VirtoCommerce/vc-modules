@@ -43,6 +43,8 @@ jobs:
     - name: Build and Publish Docker Image
       run: |
         vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY
+        docker tag $IMAGE_REPOSITORY:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
+        docker push $IMAGE_REPOSITORY:$LATEST_TAG
       env:
         DOCKER_LOGIN: VirtoPaaSRegistryMain
         DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}
@@ -50,3 +52,4 @@ jobs:
         CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
         IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
         TAG: ${{ env.PLATFORM_VERSION }}-stable
+        LATEST_TAG: latest-stable

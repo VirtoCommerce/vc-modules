@@ -4797,14 +4797,14 @@
       },
       {
         "Version": "3.814.0",
-        "VersionTag": "alpha.38",
+        "VersionTag": "alpha.39",
         "PlatformVersion": "3.867.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.814.0-alpha.38.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.814.0-alpha.39.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.836.0"
+            "Version": "3.838.0"
           },
           {
             "Id": "VirtoCommerce.Xapi",
@@ -4812,11 +4812,11 @@
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.816.0"
+            "Version": "3.820.0"
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.817.0"
+            "Version": "3.820.0"
           }
         ],
         "ReleaseNotes": "First version."

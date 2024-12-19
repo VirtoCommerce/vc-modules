@@ -1421,10 +1421,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.807.0",
-        "VersionTag": "alpha.339",
+        "Version": "3.808.0",
+        "VersionTag": "alpha.340",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.807.0-alpha.339.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.808.0-alpha.340.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

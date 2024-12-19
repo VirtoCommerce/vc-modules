@@ -1,9 +1,9 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.854.1",
+  "PlatformVersion": "3.854.4",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.6.0/vc-theme-b2b-vue-2.6.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.854.1",
+  "PlatformImageTag": "3.854.4",
   "PlatformAssetUrl": "",
   "Sources": [
     {
@@ -22,7 +22,7 @@
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",
-          "Version": "3.802.0"
+          "Version": "3.802.1"
         },
         {
           "Id": "VirtoCommerce.ApplicationInsights",
@@ -50,7 +50,7 @@
         },
         {
           "Id": "VirtoCommerce.Assets",
-          "Version": "3.808.0"
+          "Version": "3.808.1"
         },
         {
           "Id": "VirtoCommerce.CatalogPersonalization",
@@ -154,7 +154,7 @@
         },
         {
           "Id": "VirtoCommerce.Pricing",
-          "Version": "3.809.0"
+          "Version": "3.809.1"
         },
         {
           "Id": "VirtoCommerce.ElasticAppSearch",
@@ -190,11 +190,11 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.822.2"
+          "Version": "3.822.3"
         },
         {
           "Id": "VirtoCommerce.Store",
-          "Version": "3.809.0"
+          "Version": "3.809.1"
         },
         {
           "Id": "VirtoCommerce.XCart",

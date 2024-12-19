@@ -725,10 +725,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.814.0",
+        "Version": "3.815.0",
         "VersionTag": "",
-        "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.814.0/VirtoCommerce.Marketing_3.814.0.zip",
+        "PlatformVersion": "3.867.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing/releases/download/3.815.0/VirtoCommerce.Marketing_3.815.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -741,7 +741,7 @@
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.815.0"
           },
           {
             "Id": "VirtoCommerce.Customer",
@@ -749,7 +749,7 @@
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.838.0"
           },
           {
             "Id": "VirtoCommerce.Payment",

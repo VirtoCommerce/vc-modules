@@ -3934,9 +3934,9 @@
       },
       {
         "Version": "3.812.0",
-        "VersionTag": "alpha.102",
+        "VersionTag": "alpha.106",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch8_3.812.0-alpha.102.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch8_3.812.0-alpha.106.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

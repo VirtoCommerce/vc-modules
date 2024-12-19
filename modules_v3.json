@@ -4478,10 +4478,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.819.0",
+        "Version": "3.820.0",
         "VersionTag": "",
-        "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-catalog/releases/download/3.819.0/VirtoCommerce.XCatalog_3.819.0.zip",
+        "PlatformVersion": "3.867.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-catalog/releases/download/3.820.0/VirtoCommerce.XCatalog_3.820.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4494,7 +4494,7 @@
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.812.0"
+            "Version": "3.815.0"
           },
           {
             "Id": "VirtoCommerce.Pricing",

@@ -5166,5 +5166,43 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.AiCategorization",
+    "Title": "VirtoCommerce AiCategorization module",
+    "Description": "VirtoCommerce AiCategorization module",
+    "Authors": [
+      "Alexander Siniouguine"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-ai-categorization",
+    "IconUrl": "Modules/$(VirtoCommerce.AiCategorization)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.800.0",
+        "VersionTag": "alpha.30",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AiCategorization_3.800.0-alpha.30.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Export",
+            "Version": "3.803.0"
+          },
+          {
+            "Id": "VirtoCommerce.Import",
+            "Version": "3.807.0"
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

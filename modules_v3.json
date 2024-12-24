@@ -846,10 +846,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.816.0",
-        "VersionTag": "alpha.396",
+        "Version": "3.817.0",
+        "VersionTag": "alpha.397",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.816.0-alpha.396.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.817.0-alpha.397.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

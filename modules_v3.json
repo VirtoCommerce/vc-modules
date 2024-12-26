@@ -2640,10 +2640,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.802.0",
-        "VersionTag": "alpha.149",
+        "Version": "3.803.0",
+        "VersionTag": "alpha.150",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PriceExportImport_3.802.0-alpha.149.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PriceExportImport_3.803.0-alpha.150.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

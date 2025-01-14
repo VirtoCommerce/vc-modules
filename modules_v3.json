@@ -5204,5 +5204,34 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.BackInStock",
+    "Title": "VirtoCommerce BackInStock module",
+    "Description": "VirtoCommerce BackInStock module",
+    "Authors": [
+      "Virto Commerce"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-back-in-stock",
+    "IconUrl": "Modules/$(VirtoCommerce.BackInStock)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2025 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.800.0",
+        "VersionTag": "alpha.9",
+        "PlatformVersion": "3.875.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackInStock_3.800.0-alpha.9.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

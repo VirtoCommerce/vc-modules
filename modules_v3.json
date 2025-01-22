@@ -2507,10 +2507,10 @@
   },
   {
     "Id": "VirtoCommerce.CatalogCsvImportModule",
-    "Title": "Csv Catalog Import Module",
-    "Description": "Adds CSV import functionality to catalog",
+    "Title": "CSV Catalog Export and Import Module",
+    "Description": "Enables seamless export and import of catalog data in CSV format, simplifying data management and integration with external systems.",
     "Authors": [
-      "ksa"
+      "Konstantin Savosteev"
     ],
     "Owners": [
       "Virto Commerce"
@@ -2519,7 +2519,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-csv-import",
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
     "Tags": "catalog csv export import",
     "Groups": [
       "commerce"
@@ -2561,9 +2561,9 @@
       },
       {
         "Version": "3.805.0",
-        "VersionTag": "alpha.315",
+        "VersionTag": "alpha.316",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.805.0-alpha.315.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.805.0-alpha.316.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

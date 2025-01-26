@@ -1574,10 +1574,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.812.0",
-        "VersionTag": "alpha.229",
+        "Version": "3.813.0",
+        "VersionTag": "alpha.230",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.812.0-alpha.229.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.813.0-alpha.230.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

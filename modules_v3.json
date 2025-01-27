@@ -3399,10 +3399,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.808.0",
+        "Version": "3.900.0",
         "VersionTag": "",
         "PlatformVersion": "3.867.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-contract/releases/download/3.808.0/VirtoCommerce.Contracts_3.808.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-contract/releases/download/3.900.0/VirtoCommerce.Contracts_3.900.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3419,7 +3419,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.809.0"
+            "Version": "3.900.0"
           }
         ],
         "ReleaseNotes": "First version."

@@ -2001,10 +2001,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.824.0",
+        "Version": "3.900.0",
         "VersionTag": "",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.824.0/VirtoCommerce.Quote_3.824.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.900.0/VirtoCommerce.Quote_3.900.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -2025,19 +2025,19 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.814.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.800.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.800.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.803.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.Orders",

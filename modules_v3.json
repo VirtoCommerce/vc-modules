@@ -2059,10 +2059,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.825.0",
-        "VersionTag": "alpha.439",
+        "Version": "3.900.0",
+        "VersionTag": "alpha.440",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.825.0-alpha.439.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.900.0-alpha.440.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -2083,19 +2083,19 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.814.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.800.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.800.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.803.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.Orders",

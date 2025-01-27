@@ -4597,7 +4597,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-x-cms",
     "IconUrl": "Modules/$(VirtoCommerce.XCMS)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2024–2025 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": [
       "commerce"
@@ -4630,15 +4630,15 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.806.0",
-        "VersionTag": "alpha.18",
+        "Version": "3.900.0",
+        "VersionTag": "alpha.19",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.806.0-alpha.18.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.900.0-alpha.19.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.800.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.Content",

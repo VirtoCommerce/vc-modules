@@ -1527,7 +1527,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-customer-review",
     "IconUrl": "Modules/$(VirtoCommerce.CustomerReviews)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
     "Tags": "customer review",
     "Groups": null,
     "Versions": [
@@ -1582,10 +1582,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.813.0",
-        "VersionTag": "alpha.230",
+        "Version": "3.900.0",
+        "VersionTag": "alpha.231",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.813.0-alpha.230.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.900.0-alpha.231.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1602,7 +1602,7 @@
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.805.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",
@@ -1614,7 +1614,7 @@
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.817.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.Store",
@@ -1622,11 +1622,11 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.814.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.813.0"
+            "Version": "3.900.0"
           }
         ],
         "ReleaseNotes": null

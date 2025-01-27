@@ -2989,7 +2989,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api",
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
     "Tags": "extension module",
     "Groups": [
       "commerce"
@@ -3038,10 +3038,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.821.0",
-        "VersionTag": "alpha.246",
+        "Version": "3.900.0",
+        "VersionTag": "alpha.247",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.821.0-alpha.246.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.900.0-alpha.247.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3054,11 +3054,11 @@
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.812.0"
+            "Version": "3.815.0"
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.809.0"
+            "Version": "3.811.0"
           },
           {
             "Id": "VirtoCommerce.Pricing",
@@ -3070,11 +3070,11 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.815.0"
+            "Version": "3.900.0"
           },
           {
             "Id": "VirtoCommerce.XOrder",
-            "Version": "3.806.0"
+            "Version": "3.900.0"
           }
         ],
         "ReleaseNotes": ""

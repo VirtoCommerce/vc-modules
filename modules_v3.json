@@ -4262,12 +4262,16 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.804.0",
+        "Version": "3.805.0",
         "VersionTag": "",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-white-labeling/releases/download/3.804.0/VirtoCommerce.WhiteLabeling_3.804.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-white-labeling/releases/download/3.805.0/VirtoCommerce.WhiteLabeling_3.805.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.FileExperienceApi",
+            "Version": "3.803.0"
+          },
           {
             "Id": "VirtoCommerce.Xapi",
             "Version": "3.800.0"

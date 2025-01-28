@@ -4454,9 +4454,9 @@
       },
       {
         "Version": "3.901.0",
-        "VersionTag": "alpha.59",
+        "VersionTag": "alpha.60",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Xapi_3.901.0-alpha.59.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Xapi_3.901.0-alpha.60.zip",
         "Incompatibilities": [
           {
             "Id": "VirtoCommerce.ExperienceApi",
@@ -4464,6 +4464,10 @@
           }
         ],
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.ApplicationInsights",
+            "Version": "3.804.0"
+          },
           {
             "Id": "VirtoCommerce.Core",
             "Version": "3.811.0"

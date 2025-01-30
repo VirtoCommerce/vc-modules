@@ -1582,10 +1582,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.901.0",
-        "VersionTag": "alpha.234",
+        "Version": "3.902.0",
+        "VersionTag": "alpha.235",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.901.0-alpha.234.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.902.0-alpha.235.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

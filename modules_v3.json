@@ -2540,7 +2540,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-csv-import",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-catalog-csv-export-import",
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
@@ -2585,9 +2585,9 @@
       },
       {
         "Version": "3.806.0",
-        "VersionTag": "alpha.318",
+        "VersionTag": "alpha.323",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.806.0-alpha.318.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.806.0-alpha.323.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

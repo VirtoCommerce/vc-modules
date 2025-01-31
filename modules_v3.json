@@ -14,7 +14,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-core",
     "IconUrl": "Modules/$(VirtoCommerce.Core)/Content/logoVC.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
     "Tags": "security core",
     "Groups": [
       "commerce"
@@ -31,9 +31,9 @@
       },
       {
         "Version": "3.816.0",
-        "VersionTag": "alpha.1641",
-        "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.816.0-alpha.1641.zip",
+        "VersionTag": "alpha.1643",
+        "PlatformVersion": "3.877.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Core_3.816.0-alpha.1643.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

@@ -5101,9 +5101,9 @@
       },
       {
         "Version": "3.900.0",
-        "VersionTag": "alpha.72",
+        "VersionTag": "alpha.73",
         "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AIDocumentProcessing_3.900.0-alpha.72.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AIDocumentProcessing_3.900.0-alpha.73.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5124,7 +5124,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.9001.0"
+            "Version": "3.901.0"
           },
           {
             "Id": "VirtoCommerce.XCart",

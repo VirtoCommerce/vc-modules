@@ -4465,10 +4465,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.901.0",
-        "VersionTag": "alpha.60",
+        "Version": "3.902.0",
+        "VersionTag": "alpha.63",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Xapi_3.901.0-alpha.60.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Xapi_3.902.0-alpha.63.zip",
         "Incompatibilities": [
           {
             "Id": "VirtoCommerce.ExperienceApi",

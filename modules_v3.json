@@ -69,7 +69,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Third version."
@@ -83,7 +84,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Third version."
@@ -119,27 +121,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.813.0"
+            "Version": "3.813.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -153,27 +161,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.813.0"
+            "Version": "3.813.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -209,27 +223,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.BulkActionsModule",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.816.0"
+            "Version": "3.816.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Export",
-            "Version": "3.803.0"
+            "Version": "3.803.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Third version."
@@ -243,27 +263,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.BulkActionsModule",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.816.0"
+            "Version": "3.816.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Export",
-            "Version": "3.803.0"
+            "Version": "3.803.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Third version."
@@ -299,27 +325,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.AzureBlobAssets",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.FileSystemAssets",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -333,27 +365,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.AzureBlobAssets",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.FileSystemAssets",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -390,19 +428,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -416,19 +458,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -464,7 +510,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Third version."
@@ -478,7 +525,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Third version."
@@ -514,7 +562,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -528,7 +577,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -566,7 +616,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -580,7 +631,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -616,15 +668,18 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -638,15 +693,18 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -682,7 +740,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Third version."
@@ -696,7 +755,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Third version."
@@ -733,35 +793,43 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.838.0"
+            "Version": "3.838.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Third version."
@@ -775,35 +843,43 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.838.0"
+            "Version": "3.838.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Third version."
@@ -840,7 +916,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -854,7 +931,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -890,43 +968,53 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.823.0"
+            "Version": "3.823.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.813.0"
+            "Version": "3.813.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -940,43 +1028,53 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.823.0"
+            "Version": "3.823.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.813.0"
+            "Version": "3.813.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -1012,11 +1110,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -1030,11 +1130,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -1070,23 +1172,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Export",
-            "Version": "3.803.0"
+            "Version": "3.803.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -1100,23 +1207,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Export",
-            "Version": "3.803.0"
+            "Version": "3.803.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -1192,11 +1304,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -1210,11 +1324,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -1250,27 +1366,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.823.0"
+            "Version": "3.823.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -1284,27 +1406,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.823.0"
+            "Version": "3.823.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -1340,11 +1468,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -1358,11 +1488,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -1399,23 +1531,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -1429,23 +1566,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -1481,11 +1623,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -1499,11 +1643,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -1540,43 +1686,53 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.834.0"
+            "Version": "3.834.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.832.0"
+            "Version": "3.832.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -1590,43 +1746,53 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.834.0"
+            "Version": "3.834.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.832.0"
+            "Version": "3.832.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -1660,27 +1826,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -1694,27 +1866,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -1752,15 +1930,18 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -1774,15 +1955,18 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -1821,11 +2005,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Initial implementation of module features."
@@ -1839,11 +2025,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Initial implementation of module features."
@@ -1877,23 +2065,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.828.0"
+            "Version": "3.828.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.824.0"
+            "Version": "3.824.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.812.0"
+            "Version": "3.812.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -1907,23 +2100,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.828.0"
+            "Version": "3.828.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.824.0"
+            "Version": "3.824.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.812.0"
+            "Version": "3.812.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -1959,7 +2157,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -1973,7 +2172,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2009,55 +2209,68 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.810.0"
+            "Version": "3.810.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2071,55 +2284,68 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.810.0"
+            "Version": "3.810.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2155,19 +2381,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.812.0"
+            "Version": "3.812.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2181,19 +2411,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.812.0"
+            "Version": "3.812.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2237,59 +2471,73 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.810.0"
+            "Version": "3.810.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.807.0"
+            "Version": "3.807.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.807.0"
+            "Version": "3.807.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.803.0"
+            "Version": "3.803.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.803.0"
+            "Version": "3.803.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -2303,59 +2551,73 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.810.0"
+            "Version": "3.810.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.807.0"
+            "Version": "3.807.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.807.0"
+            "Version": "3.807.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.803.0"
+            "Version": "3.803.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.803.0"
+            "Version": "3.803.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -2389,7 +2651,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2403,7 +2666,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2558,27 +2822,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -2592,27 +2862,33 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -2646,19 +2922,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Export",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2672,19 +2952,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0"
+            "Version": "3.822.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Export",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2718,15 +3002,18 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2740,15 +3027,18 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2824,7 +3114,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -2838,7 +3129,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -2874,7 +3166,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -2888,7 +3181,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -2922,11 +3216,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -2940,11 +3236,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3012,35 +3310,43 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XOrder",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -3054,35 +3360,43 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0"
+            "Version": "3.808.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XOrder",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": ""
@@ -3118,7 +3432,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3132,7 +3447,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3167,11 +3483,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3185,11 +3503,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3223,7 +3543,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3237,7 +3558,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3273,11 +3595,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3291,11 +3615,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3329,7 +3655,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3343,7 +3670,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3369,10 +3697,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.273",
+        "Version": "3.800.274",
         "VersionTag": "",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.273/VirtoCommerce.CITest_3.800.273.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.274/VirtoCommerce.CITest_3.800.274.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."
@@ -3415,19 +3743,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3441,19 +3773,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3489,7 +3825,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3503,7 +3840,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3537,15 +3875,18 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.812.0"
+            "Version": "3.812.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3559,15 +3900,18 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.812.0"
+            "Version": "3.812.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3641,11 +3985,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3659,11 +4005,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3775,7 +4123,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3789,7 +4138,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3823,23 +4173,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -3853,23 +4208,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null
@@ -3903,7 +4263,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3917,7 +4278,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3951,7 +4313,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -3965,7 +4328,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4028,7 +4392,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.ApplicationInsights",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4042,7 +4407,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.ApplicationInsights",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4076,7 +4442,8 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "Third version."
@@ -4110,11 +4477,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.801.0"
+            "Version": "3.801.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4128,11 +4497,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.801.0"
+            "Version": "3.801.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4166,11 +4537,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4184,11 +4557,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4222,11 +4597,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4240,11 +4617,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4278,23 +4657,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCMS",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.ImageTools",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4308,23 +4692,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCMS",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.ImageTools",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4358,15 +4747,18 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4380,15 +4772,18 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4433,33 +4828,40 @@
         "Incompatibilities": [
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "Dependencies": [
           {
             "Id": "VirtoCommerce.ApplicationInsights",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4472,33 +4874,40 @@
         "Incompatibilities": [
           {
             "Id": "VirtoCommerce.ExperienceApi",
-            "Version": "3.800.0"
+            "Version": "3.800.0",
+            "Optional": false
           }
         ],
         "Dependencies": [
           {
             "Id": "VirtoCommerce.ApplicationInsights",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4544,23 +4953,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.839.0"
+            "Version": "3.839.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4574,23 +4988,28 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.839.0"
+            "Version": "3.839.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.903.0"
+            "Version": "3.903.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4636,19 +5055,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4662,19 +5085,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4720,35 +5147,43 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.823.0"
+            "Version": "3.823.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4762,35 +5197,43 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.823.0"
+            "Version": "3.823.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.805.0"
+            "Version": "3.805.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0"
+            "Version": "3.802.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.901.0"
+            "Version": "3.901.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4836,19 +5279,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.838.0"
+            "Version": "3.838.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4862,19 +5309,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.838.0"
+            "Version": "3.838.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4946,11 +5397,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -4964,11 +5417,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -5070,31 +5525,38 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.901.0"
+            "Version": "3.901.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Quote",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.901.0"
+            "Version": "3.901.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.ApplicationInsights",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -5108,31 +5570,38 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.815.0"
+            "Version": "3.815.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.901.0"
+            "Version": "3.901.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Quote",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.901.0"
+            "Version": "3.901.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.ApplicationInsights",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -5166,19 +5635,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -5192,19 +5665,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.811.0"
+            "Version": "3.811.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0"
+            "Version": "3.809.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0"
+            "Version": "3.817.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -5238,11 +5715,13 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Export",
-            "Version": "3.803.0"
+            "Version": "3.803.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Import",
-            "Version": "3.807.0"
+            "Version": "3.807.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -5276,31 +5755,38 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.837.0"
+            "Version": "3.837.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.823.0"
+            "Version": "3.823.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.807.0"
+            "Version": "3.807.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.816.0"
+            "Version": "3.816.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.812.0"
+            "Version": "3.812.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -5314,31 +5800,38 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.837.0"
+            "Version": "3.837.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.823.0"
+            "Version": "3.823.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.807.0"
+            "Version": "3.807.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.816.0"
+            "Version": "3.816.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.812.0"
+            "Version": "3.812.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0"
+            "Version": "3.900.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -5372,19 +5865,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.812.0"
+            "Version": "3.812.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.821.0"
+            "Version": "3.821.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."
@@ -5398,19 +5895,23 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.812.0"
+            "Version": "3.812.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.821.0"
+            "Version": "3.821.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0"
+            "Version": "3.830.0",
+            "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0"
+            "Version": "3.804.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."

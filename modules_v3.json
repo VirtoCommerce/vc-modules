@@ -3352,10 +3352,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.903.0",
-        "VersionTag": "alpha.255",
+        "Version": "3.904.0",
+        "VersionTag": "alpha.257",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.903.0-alpha.255.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.904.0-alpha.257.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3371,7 +3371,7 @@
           {
             "Id": "VirtoCommerce.Marketing",
             "Version": "3.815.0",
-            "Optional": false
+            "Optional": true
           },
           {
             "Id": "VirtoCommerce.Notifications",
@@ -3381,7 +3381,7 @@
           {
             "Id": "VirtoCommerce.Pricing",
             "Version": "3.809.0",
-            "Optional": false
+            "Optional": true
           },
           {
             "Id": "VirtoCommerce.Tax",
@@ -3396,7 +3396,7 @@
           {
             "Id": "VirtoCommerce.XOrder",
             "Version": "3.900.0",
-            "Optional": false
+            "Optional": true
           }
         ],
         "ReleaseNotes": ""

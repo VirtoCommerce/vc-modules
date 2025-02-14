@@ -4981,9 +4981,9 @@
       },
       {
         "Version": "3.903.0",
-        "VersionTag": "alpha.64",
+        "VersionTag": "alpha.67",
         "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.903.0-alpha.64.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.903.0-alpha.67.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4994,17 +4994,17 @@
           {
             "Id": "VirtoCommerce.Inventory",
             "Version": "3.805.0",
-            "Optional": false
+            "Optional": true
           },
           {
             "Id": "VirtoCommerce.Marketing",
             "Version": "3.815.0",
-            "Optional": false
+            "Optional": true
           },
           {
             "Id": "VirtoCommerce.Pricing",
             "Version": "3.809.0",
-            "Optional": false
+            "Optional": true
           },
           {
             "Id": "VirtoCommerce.Xapi",

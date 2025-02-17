@@ -215,10 +215,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.842.0",
+        "Version": "3.843.0",
         "VersionTag": "",
         "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.842.0/VirtoCommerce.Catalog_3.842.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.843.0/VirtoCommerce.Catalog_3.843.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -229,7 +229,7 @@
           {
             "Id": "VirtoCommerce.BulkActionsModule",
             "Version": "3.802.0",
-            "Optional": false
+            "Optional": true
           },
           {
             "Id": "VirtoCommerce.Core",
@@ -239,7 +239,7 @@
           {
             "Id": "VirtoCommerce.Export",
             "Version": "3.803.0",
-            "Optional": false
+            "Optional": true
           },
           {
             "Id": "VirtoCommerce.Search",

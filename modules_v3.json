@@ -5301,15 +5301,15 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.900.0",
-        "VersionTag": "alpha.41",
+        "Version": "3.901.0",
+        "VersionTag": "alpha.46",
         "PlatformVersion": "3.867.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.900.0-alpha.41.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.901.0-alpha.46.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.838.0",
+            "Version": "3.840.0",
             "Optional": false
           },
           {

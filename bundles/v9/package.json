@@ -43,7 +43,7 @@
         },
         {
           "Id": "VirtoCommerce.Search",
-          "Version": "3.802.0"
+          "Version": "3.802.1"
         },
         {
           "Id": "VirtoCommerce.AzureAD",

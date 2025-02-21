@@ -110,7 +110,7 @@
         },
         {
           "Id": "VirtoCommerce.Core",
-          "Version": "3.808.1"
+          "Version": "3.808.3"
         },
         {
           "Id": "VirtoCommerce.AuthorizeNetPayment",
@@ -190,7 +190,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.822.4"
+          "Version": "3.822.6"
         },
         {
           "Id": "VirtoCommerce.Store",
@@ -206,7 +206,7 @@
         },
         {
           "Id": "VirtoCommerce.ProfileExperienceApiModule",
-          "Version": "3.817.0"
+          "Version": "3.817.1"
         },
         {
           "Id": "VirtoCommerce.PushMessages",

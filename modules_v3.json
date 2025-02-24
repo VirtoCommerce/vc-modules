@@ -1084,7 +1084,7 @@
   {
     "Id": "VirtoCommerce.Payment",
     "Title": "Payment module",
-    "Description": "Add payment methods management",
+    "Description": "Provides management and integration of various payment methods.",
     "Authors": [
       "Virto Commerce"
     ],
@@ -1095,7 +1095,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-payment",
     "IconUrl": "Modules/$(VirtoCommerce.Payment)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
     "Tags": "payments",
     "Groups": [
       "commerce"
@@ -1123,9 +1123,9 @@
       },
       {
         "Version": "3.806.0",
-        "VersionTag": "alpha.232",
+        "VersionTag": "alpha.238",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Payment_3.806.0-alpha.232.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Payment_3.806.0-alpha.238.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

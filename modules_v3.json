@@ -942,7 +942,7 @@
   {
     "Id": "VirtoCommerce.Orders",
     "Title": "Order Management",
-    "Description": "Document based flexible order management system",
+    "Description": "Document based flexible order management system.",
     "Authors": [
       "Virto Commerce"
     ],
@@ -1021,9 +1021,9 @@
       },
       {
         "Version": "3.841.0",
-        "VersionTag": "alpha.1310",
+        "VersionTag": "alpha.1313",
         "PlatformVersion": "3.867.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.841.0-alpha.1310.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.841.0-alpha.1313.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -5792,10 +5792,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.801.0",
-        "VersionTag": "alpha.20",
+        "Version": "3.802.0",
+        "VersionTag": "alpha.21",
         "PlatformVersion": "3.875.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackInStock_3.801.0-alpha.20.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackInStock_3.802.0-alpha.21.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

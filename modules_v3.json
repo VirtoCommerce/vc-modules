@@ -5302,9 +5302,9 @@
       },
       {
         "Version": "3.903.0",
-        "VersionTag": "alpha.49",
+        "VersionTag": "alpha.50",
         "PlatformVersion": "3.867.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.903.0-alpha.49.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.903.0-alpha.50.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5314,17 +5314,17 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0",
+            "Version": "3.904.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.900.0",
+            "Version": "3.905.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0",
+            "Version": "3.905.0",
             "Optional": false
           }
         ],

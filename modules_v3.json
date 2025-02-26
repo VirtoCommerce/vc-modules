@@ -1739,9 +1739,9 @@
       },
       {
         "Version": "3.902.0",
-        "VersionTag": "alpha.235",
+        "VersionTag": "alpha.239",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.902.0-alpha.235.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.902.0-alpha.239.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1761,7 +1761,7 @@
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.900.0",
+            "Version": "3.903.0",
             "Optional": false
           },
           {
@@ -1776,7 +1776,7 @@
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.900.0",
+            "Version": "3.904.0",
             "Optional": false
           },
           {
@@ -1786,12 +1786,12 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0",
+            "Version": "3.904.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.900.0",
+            "Version": "3.905.0",
             "Optional": false
           }
         ],

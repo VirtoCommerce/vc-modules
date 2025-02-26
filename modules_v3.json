@@ -5047,15 +5047,15 @@
     ],
     "Versions": [
       {
-        "Version": "3.900.0",
+        "Version": "3.901.0",
         "VersionTag": "",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cms/releases/download/3.900.0/VirtoCommerce.XCMS_3.900.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cms/releases/download/3.901.0/VirtoCommerce.XCMS_3.901.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0",
+            "Version": "3.904.0",
             "Optional": false
           },
           {
@@ -5071,7 +5071,7 @@
           {
             "Id": "VirtoCommerce.Pages",
             "Version": "3.804.0",
-            "Optional": false
+            "Optional": true
           }
         ],
         "ReleaseNotes": "First version."

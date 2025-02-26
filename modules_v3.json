@@ -3892,10 +3892,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.900.0",
-        "VersionTag": "alpha.57",
+        "Version": "3.901.0",
+        "VersionTag": "alpha.62",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.900.0-alpha.57.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.901.0-alpha.62.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3910,7 +3910,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.900.0",
+            "Version": "3.904.0",
             "Optional": false
           }
         ],

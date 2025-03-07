@@ -4420,7 +4420,8 @@
     "Title": "Algolia Search",
     "Description": "Indexed search functionality with Algolia Search Engine",
     "Authors": [
-      "Alexander Siniouguine"
+      "Alexander Siniouguine",
+      "Oleg Zhuk"
     ],
     "Owners": [
       "Virto Commerce"
@@ -4429,9 +4430,11 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-algolia-search",
     "IconUrl": "Modules/$(VirtoCommerce.AlgoliaSearch)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2020 - 2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2020 - 2025 Virto Commerce. All rights reserved",
     "Tags": "algolia search",
-    "Groups": [],
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.800.0",
@@ -4447,6 +4450,21 @@
           }
         ],
         "ReleaseNotes": "Third version."
+      },
+      {
+        "Version": "3.801.0",
+        "VersionTag": "alpha.58",
+        "PlatformVersion": "3.854.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AlgoliaSearch_3.801.0-alpha.58.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.804.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "Update to NET8 and Stable 10 release."
       }
     ]
   },

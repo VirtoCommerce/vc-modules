@@ -4703,9 +4703,9 @@
       },
       {
         "Version": "3.903.0",
-        "VersionTag": "alpha.36",
+        "VersionTag": "alpha.38",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WhiteLabeling_3.903.0-alpha.36.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WhiteLabeling_3.903.0-alpha.38.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

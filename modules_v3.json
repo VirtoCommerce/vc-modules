@@ -5955,6 +5955,21 @@
     "Groups": null,
     "Versions": [
       {
+        "Version": "3.800.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.876.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-open-search/releases/download/3.800.0/VirtoCommerce.OpenSearch_3.800.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.807.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
         "Version": "3.801.0",
         "VersionTag": "alpha.4",
         "PlatformVersion": "3.876.0",

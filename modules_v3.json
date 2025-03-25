@@ -1351,7 +1351,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps",
     "IconUrl": "Modules/$(VirtoCommerce.Sitemaps)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011–2025 Virto Commerce. All rights reserved",
     "Tags": "sitemaps",
     "Groups": [
       "commerce"
@@ -1399,9 +1399,9 @@
       },
       {
         "Version": "3.813.0",
-        "VersionTag": "alpha.369",
-        "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.813.0-alpha.369.zip",
+        "VersionTag": "alpha.370",
+        "PlatformVersion": "3.877.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.813.0-alpha.370.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1411,7 +1411,7 @@
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.822.0",
+            "Version": "3.850.0",
             "Optional": false
           },
           {
@@ -1431,7 +1431,7 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0",
+            "Version": "3.813.0",
             "Optional": false
           }
         ],

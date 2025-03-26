@@ -78,7 +78,7 @@
         },
         {
           "Id": "VirtoCommerce.Shipping",
-          "Version": "3.802.0"
+          "Version": "3.802.1"
         },
         {
           "Id": "VirtoCommerce.Tax",
@@ -206,7 +206,7 @@
         },
         {
           "Id": "VirtoCommerce.ProfileExperienceApiModule",
-          "Version": "3.817.2"
+          "Version": "3.817.3"
         },
         {
           "Id": "VirtoCommerce.PushMessages",

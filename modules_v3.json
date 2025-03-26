@@ -5407,20 +5407,20 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.901.0",
+        "Version": "3.902.0",
         "VersionTag": "",
-        "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-recommend/releases/download/3.901.0/VirtoCommerce.XRecommend_3.901.0.zip",
+        "PlatformVersion": "3.877.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-recommend/releases/download/3.902.0/VirtoCommerce.XRecommend_3.902.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.904.0",
+            "Version": "3.906.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.905.0",
+            "Version": "3.908.0",
             "Optional": false
           }
         ],

@@ -1678,10 +1678,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.902.0",
+        "Version": "3.903.0",
         "VersionTag": "",
-        "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.902.0/VirtoCommerce.CustomerReviews_3.902.0.zip",
+        "PlatformVersion": "3.877.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.903.0/VirtoCommerce.CustomerReviews_3.903.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1691,7 +1691,7 @@
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.834.0",
+            "Version": "3.850.0",
             "Optional": false
           },
           {
@@ -1716,22 +1716,22 @@
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.904.0",
+            "Version": "3.907.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0",
+            "Version": "3.813.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.904.0",
+            "Version": "3.906.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.905.0",
+            "Version": "3.908.0",
             "Optional": false
           }
         ],

@@ -4504,13 +4504,35 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024–2025 Virto Commerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.904.0",
         "VersionTag": "",
         "PlatformVersion": "3.861.0",
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-file-experience-api/releases/download/3.904.0/VirtoCommerce.FileExperienceApi_3.904.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.904.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "3.801.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.905.0",
+        "VersionTag": "alpha.48",
+        "PlatformVersion": "3.861.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.905.0-alpha.48.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

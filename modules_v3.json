@@ -5179,10 +5179,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.909.0",
+        "Version": "3.910.0",
         "VersionTag": "",
         "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cart/releases/download/3.909.0/VirtoCommerce.XCart_3.909.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cart/releases/download/3.910.0/VirtoCommerce.XCart_3.910.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5217,7 +5217,7 @@
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0",
+            "Version": "3.806.0",
             "Optional": false
           },
           {

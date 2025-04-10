@@ -4689,10 +4689,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.904.0",
+        "Version": "3.905.0",
         "VersionTag": "",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-white-labeling/releases/download/3.904.0/VirtoCommerce.WhiteLabeling_3.904.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-white-labeling/releases/download/3.905.0/VirtoCommerce.WhiteLabeling_3.905.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

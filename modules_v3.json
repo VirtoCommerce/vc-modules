@@ -6058,9 +6058,9 @@
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.2",
+        "VersionTag": "alpha.3",
         "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OrderManagement_3.800.0-alpha.2.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OrderManagement_3.800.0-alpha.3.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -6070,7 +6070,7 @@
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.844.0-pr-450-e088",
+            "Version": "3.844.0",
             "Optional": false
           },
           {

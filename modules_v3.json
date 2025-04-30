@@ -5372,9 +5372,9 @@
       },
       {
         "Version": "3.907.0",
-        "VersionTag": "alpha.59",
+        "VersionTag": "alpha.60",
         "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.907.0-alpha.59.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.907.0-alpha.60.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5384,7 +5384,7 @@
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.843.0",
+            "Version": "3.845.0",
             "Optional": false
           },
           {
@@ -5399,7 +5399,7 @@
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.909.0",
+            "Version": "3.915.0",
             "Optional": false
           }
         ],

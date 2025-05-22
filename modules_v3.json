@@ -4480,10 +4480,10 @@
         "ReleaseNotes": "Update to NET8 and Stable 10 release."
       },
       {
-        "Version": "3.803.0",
-        "VersionTag": "alpha.61",
+        "Version": "3.804.0",
+        "VersionTag": "alpha.62",
         "PlatformVersion": "3.854.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AlgoliaSearch_3.803.0-alpha.61.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AlgoliaSearch_3.804.0-alpha.62.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

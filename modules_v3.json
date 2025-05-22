@@ -4465,10 +4465,10 @@
     "Groups": [],
     "Versions": [
       {
-        "Version": "3.802.0",
+        "Version": "3.803.0",
         "VersionTag": "",
         "PlatformVersion": "3.854.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-algolia-search/releases/download/3.802.0/VirtoCommerce.AlgoliaSearch_3.802.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-algolia-search/releases/download/3.803.0/VirtoCommerce.AlgoliaSearch_3.803.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

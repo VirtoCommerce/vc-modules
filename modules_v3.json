@@ -4462,9 +4462,7 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2020 - 2025 Virto Commerce. All rights reserved",
     "Tags": "algolia search",
-    "Groups": [
-      "commerce"
-    ],
+    "Groups": [],
     "Versions": [
       {
         "Version": "3.802.0",
@@ -4483,9 +4481,9 @@
       },
       {
         "Version": "3.803.0",
-        "VersionTag": "alpha.60",
+        "VersionTag": "alpha.61",
         "PlatformVersion": "3.854.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AlgoliaSearch_3.803.0-alpha.60.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AlgoliaSearch_3.803.0-alpha.61.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

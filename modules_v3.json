@@ -6171,10 +6171,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.807.0",
-        "VersionTag": "alpha.260",
+        "Version": "3.808.0",
+        "VersionTag": "alpha.261",
         "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Import_3.807.0-alpha.260.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Import_3.808.0-alpha.261.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

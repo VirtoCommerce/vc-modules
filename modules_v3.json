@@ -6150,5 +6150,51 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Import",
+    "Title": "Import module",
+    "Description": "Provides flexible functionality for writing Importers",
+    "Authors": [
+      "Eugeney Tatarincev",
+      "Vladimir Buravlev"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-Import",
+    "IconUrl": "Modules/$(VirtoCommerce.Import)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2023-2025 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.807.0",
+        "VersionTag": "alpha.260",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Import_3.807.0-alpha.260.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "3.800.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.800.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Notifications",
+            "Version": "3.800.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

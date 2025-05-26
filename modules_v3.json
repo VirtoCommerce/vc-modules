@@ -6171,6 +6171,31 @@
     "Groups": null,
     "Versions": [
       {
+        "Version": "3.807.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-import/releases/download/3.807.0/VirtoCommerce.Import_3.807.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "3.800.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.800.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Notifications",
+            "Version": "3.800.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
         "Version": "3.808.0",
         "VersionTag": "alpha.261",
         "PlatformVersion": "3.825.0",

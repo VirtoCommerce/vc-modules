@@ -1220,9 +1220,9 @@
       },
       {
         "Version": "3.814.0",
-        "VersionTag": "alpha.749",
+        "VersionTag": "alpha.755",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.814.0-alpha.749.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.814.0-alpha.755.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1243,7 +1243,7 @@
           {
             "Id": "VirtoCommerce.Export",
             "Version": "3.803.0",
-            "Optional": false
+            "Optional": true
           },
           {
             "Id": "VirtoCommerce.Search",

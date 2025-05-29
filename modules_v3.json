@@ -1336,10 +1336,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.808.0",
-        "VersionTag": "alpha.207",
+        "Version": "3.809.0",
+        "VersionTag": "alpha.209",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.808.0-alpha.207.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.809.0-alpha.209.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

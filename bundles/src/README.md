@@ -28,13 +28,11 @@ modules/
 ## 📦 Requirements
 
 - Python 3.8+
-- Git installed and available in `PATH`
+- Python installed and available in `PATH`
 - Create a folder with files. Name example - release-notes-bot. Inside it, add:
   - A JSON config file (modules_config.json)
   - GitHub token 
   - The script file (collect_releases.py)
-
-
 
 Open a terminal
 
@@ -49,7 +47,7 @@ Navigate to your folder:
 
 Install dependencies:
 ```bash
-cd path_to_your_folder
+ cd path_to_your_folder
  pip install requests
 ```
 
@@ -60,7 +58,7 @@ cd path_to_your_folder
 Run the script from the project:
 
 ```bash
-python collect_releases.py
+  python collect_releases.py
 ```
 
 ## 📄 Output

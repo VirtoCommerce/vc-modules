@@ -9,7 +9,7 @@ This project provides a script to generate a structured `release_notes.html` fil
 modules/
 └── src/
     ├── collect_releases.py # The release notes generator
-    └── modules_config.py 
+    └── modules_config.json
 ```
 
 ## 🚀 Features

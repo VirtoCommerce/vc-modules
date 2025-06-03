@@ -1,0 +1,280 @@
+{
+    "modules": [
+        {
+            "name": "AzureAD",
+            "oldVersion": "3.803.0",
+            "newVersion": "3.804.0",
+            "url": "vc-module-azure-ad/releases/tags"
+        },
+        {
+            "name": "Tax",
+            "oldVersion": "3.802.0",
+            "newVersion": "3.803.0",
+            "url": "vc-module-tax/releases/tags"
+        },
+        {
+            "name": "WebHooks",
+            "oldVersion": "3.805.0",
+            "newVersion": "3.806.0",
+            "url": "vc-module-webhooks/releases/tags"
+        },
+        {
+            "name": "Export",
+            "oldVersion": "3.803.0",
+            "newVersion": "3.804.0",
+            "url": "vc-module-export/releases/tags"
+        },
+        {
+            "name": "DynamicAssociationModule",
+            "oldVersion": "3.804.0",
+            "newVersion": "3.806.0",
+            "url": "vc-module-dynamic-associations/releases/tags"
+        },
+        {
+            "name": "GDPR",
+            "oldVersion": "3.803.0",
+            "newVersion": "3.805.0",
+            "url": "vc-module-gdpr/releases/tags"
+        },
+        {
+            "name": "Return",
+            "oldVersion": "3.804.0",
+            "newVersion": "3.806.0",
+            "url": "vc-module-Return/releases/tags"
+        },
+        {
+            "name": "AvalaraTax",
+            "oldVersion": "3.801.0",
+            "newVersion": "3.802.0",
+            "url": "vc-module-avatax/releases/tags"
+        },
+        {
+            "name": "GoogleEccomerceAnalitics",
+            "oldVersion": "4.802.0",
+            "newVersion": "4.803.0",
+            "url": "vc-module-google-ecommerce-analytics/releases/tags"
+        },
+        {
+            "name": "Application insight",
+            "oldVersion": "3.802.0",
+            "newVersion": "3.804.0",
+            "url": "vc-module-app-insights/releases/tags"
+        },
+        {
+            "name": "AzureSearch",
+            "oldVersion": "3.805.0",
+            "newVersion": "3.806.0",
+            "url": "vc-module-azure-search/releases/tags"
+        },
+        {
+            "name": "CatalogPersonalization",
+            "oldVersion": "3.802.0",
+            "newVersion": "3.803.0",
+            "url": "vc-module-catalog-personalization/releases/tags"
+        },
+        {
+            "name": "BulkActionsModule",
+            "oldVersion": "3.802.0",
+            "newVersion": "3.803.0",
+            "url": "vc-module-bulk-actions/releases/tags"
+        },
+        {
+            "name": "Subscription",
+            "oldVersion": "3.806.0",
+            "newVersion": "3.807.0",
+            "url": "vc-module-subscription/releases/tags"
+        },
+        {
+            "name": "Pricing",
+            "oldVersion": "3.809.0",
+            "newVersion": "3.813.0",
+            "url": "vc-module-pricing/releases/tags"
+        },
+        {
+            "name": "CatalogCsvImportModule",
+            "oldVersion": "3.802.0",
+            "newVersion": "3.806.0",
+            "url": "vc-module-catalog-csv-export-import/releases/tags"
+        },
+        {
+            "name": "ElasticSearch 8",
+            "oldVersion": "3.810.0",
+            "newVersion": "3.814.0",
+            "url": "vc-module-elastic-search-8/releases/tags"
+        },
+        {
+            "name": "Assets",
+            "oldVersion": "3.808.0",
+            "newVersion": "3.810.0",
+            "url": "vc-module-assets/releases/tags"
+        },
+        {
+            "name": "Content",
+            "oldVersion": "3.823.0",
+            "newVersion": "3.826.0",
+            "url": "vc-module-content/releases/tags"
+        },
+        {
+            "name": "AuthorizeNetPayment",
+            "oldVersion": "3.802.0",
+            "newVersion": "3.804.0",
+            "url": "vc-module-authorize-net/releases/tags"
+        },
+        {
+            "name": "XCMS",
+            "oldVersion": "3.801.0",
+            "newVersion": "3.901.0",
+            "url": "vc-module-x-cms/releases/tags"
+        },
+        {
+            "name": "PushMessages",
+            "oldVersion": "3.811.0",
+            "newVersion": "3.901.0",
+            "url": "vc-module-push-messages/releases/tags"
+        },
+        {
+            "name": "Contracts",
+            "oldVersion": "3.804.0",
+            "newVersion": "3.901.0",
+            "url": "vc-module-contract/releases/tags"
+        },
+        {
+            "name": "Marketing",
+            "oldVersion": "3.812.0",
+            "newVersion": "3.817.0",
+            "url": "vc-module-marketing/releases/tags"
+        },
+        {
+            "name": "GoogleSSO",
+            "oldVersion": "3.801.0",
+            "newVersion": "3.803.0",
+            "url": "vc-module-google-sso/releases/tags"
+        },
+        {
+            "name": "Notifications",
+            "oldVersion": "3.809.0",
+            "newVersion": "3.819.0",
+            "url": "vc-module-notification/releases/tags"
+        },
+        {
+            "name": "ImageTools",
+            "oldVersion": "3.806.0",
+            "newVersion": "3.809.0",
+            "url": "vc-module-image-tools/releases/tags"
+        },
+        {
+            "name": "Core",
+            "oldVersion": "3.808.0",
+            "newVersion": "3.819.0",
+            "url": "vc-module-core/releases/tags"
+        },
+        {
+            "name": "Payment",
+            "oldVersion": "3.804.0",
+            "newVersion": "3.808.0",
+            "url": "vc-module-payment/releases/tags"
+        },
+        {
+            "name": "Store",
+            "oldVersion": "3.809.0",
+            "newVersion": "3.813.0",
+            "url": "vc-module-store/releases/tags"
+        },
+        {
+            "name": "Sitemaps",
+            "oldVersion": "3.808.0",
+            "newVersion": "3.815.0",
+            "url": "vc-module-sitemaps/releases/tags"
+        },
+        {
+            "name": "ElasticAppSearch",
+            "oldVersion": "3.806.0",
+            "newVersion": "3.809.0",
+            "url": "vc-module-elastic-app-search/releases/tags"
+        },
+        {
+            "name": "Customer Reviews",
+            "oldVersion": "3.806.0",
+            "newVersion": "3.903.0",
+            "url": "vc-module-customer-review/releases/tags"
+        },
+        {
+            "name": "Cart",
+            "oldVersion": "3.813.0",
+            "newVersion": "3.827.0",
+            "url": "vc-module-cart/releases/tags"
+        },
+        {
+            "name": "Orders",
+            "oldVersion": "3.830.0",
+            "newVersion": "3.845.0",
+            "url": "vc-module-order/releases/tags"
+        },
+        {
+            "name": "Xorder",
+            "oldVersion": "3.806.0",
+            "newVersion": "3.907.0",
+            "url": "vc-module-x-order/releases/tags"
+        },
+        {
+            "name": "Customer",
+            "oldVersion": "3.817.0",
+            "newVersion": "3.829.0",
+            "url": "vc-module-customer/releases/tags"
+        },
+        {
+            "name": "Catalog",
+            "oldVersion": "3.822.0",
+            "newVersion": "3.861.0",
+            "url": "vc-module-catalog/releases/tags"
+        },
+        {
+            "name": "ProfileExperienceApi",
+            "oldVersion": "3.817.0",
+            "newVersion": "3.911.0",
+            "url": "vc-module-profile-experience-api/releases/tags"
+        },
+        {
+            "name": "Xcatalog",
+            "oldVersion": "3.813.0",
+            "newVersion": "3.915.0",
+            "url": "vc-module-x-catalog/releases/tags"
+        },
+        {
+            "name": "Xapi",
+            "oldVersion": "3.809.0",
+            "newVersion": "3.913.0",
+            "url": "vc-module-x-api/releases/tags"
+        },
+        {
+            "name": "CatalogPublishing",
+            "oldVersion": "3.802.0",
+            "newVersion": "3.805.0",
+            "url": "vc-module-catalog-publishing/releases/tags"
+        },
+        {
+            "name": "Shipping",
+            "oldVersion": "3.802.0",
+            "newVersion": "3.808.0",
+            "url": "vc-module-shipping/releases/tags"
+        },
+        {
+            "name": "Xcart",
+            "oldVersion": "3.808.0",
+            "newVersion": "3.913.0",
+            "url": "vc-module-x-cart/releases/tags"
+        },
+        {
+            "name": "Search",
+            "oldVersion": "3.804.0",
+            "newVersion": "3.811.0",
+            "url": "vc-module-search/releases/tags"
+        },
+        {
+            "name": "Inventory",
+            "oldVersion": "3.805.0",
+            "newVersion": "3.808.0",
+            "url": "vc-module-inventory/releases/tags"
+        }
+    ]
+}

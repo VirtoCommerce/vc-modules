@@ -5003,15 +5003,15 @@
     ],
     "Versions": [
       {
-        "Version": "3.918.0",
+        "Version": "3.919.0",
         "VersionTag": "",
-        "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-catalog/releases/download/3.918.0/VirtoCommerce.XCatalog_3.918.0.zip",
+        "PlatformVersion": "3.889.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-catalog/releases/download/3.919.0/VirtoCommerce.XCatalog_3.919.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.863.0",
+            "Version": "3.868.0",
             "Optional": false
           },
           {
@@ -5031,7 +5031,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.913.0",
+            "Version": "3.915.0",
             "Optional": false
           }
         ],

@@ -4931,9 +4931,9 @@
       },
       {
         "Version": "3.915.0",
-        "VersionTag": "alpha.92",
-        "PlatformVersion": "3.887.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Xapi_3.915.0-alpha.92.zip",
+        "VersionTag": "alpha.96",
+        "PlatformVersion": "3.889.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Xapi_3.915.0-alpha.96.zip",
         "Incompatibilities": [
           {
             "Id": "VirtoCommerce.ExperienceApi",
@@ -4948,13 +4948,8 @@
             "Optional": true
           },
           {
-            "Id": "VirtoCommerce.Core",
-            "Version": "3.811.0",
-            "Optional": false
-          },
-          {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0",
+            "Version": "3.833.0",
             "Optional": false
           },
           {
@@ -4963,8 +4958,13 @@
             "Optional": false
           },
           {
+            "Id": "VirtoCommerce.Seo",
+            "Version": "3.801.0",
+            "Optional": false
+          },
+          {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.814.0",
+            "Version": "3.818.0",
             "Optional": false
           },
           {

@@ -327,10 +327,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.826.0",
+        "Version": "3.827.0",
         "VersionTag": "",
-        "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/3.826.0/VirtoCommerce.Content_3.826.0.zip",
+        "PlatformVersion": "3.889.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-content/releases/download/3.827.0/VirtoCommerce.Content_3.827.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -344,11 +344,6 @@
             "Optional": false
           },
           {
-            "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0",
-            "Optional": false
-          },
-          {
             "Id": "VirtoCommerce.FileSystemAssets",
             "Version": "3.805.0",
             "Optional": false
@@ -359,8 +354,13 @@
             "Optional": false
           },
           {
+            "Id": "VirtoCommerce.Seo",
+            "Version": "3.801.0",
+            "Optional": false
+          },
+          {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0",
+            "Version": "3.818.0",
             "Optional": false
           }
         ],

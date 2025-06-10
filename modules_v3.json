@@ -4345,10 +4345,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.814.0",
+        "Version": "3.815.0",
         "VersionTag": "",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-8/releases/download/3.814.0/VirtoCommerce.ElasticSearch8_3.814.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-8/releases/download/3.815.0/VirtoCommerce.ElasticSearch8_3.815.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

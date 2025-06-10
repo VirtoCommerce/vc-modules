@@ -1480,20 +1480,25 @@
     ],
     "Versions": [
       {
-        "Version": "3.817.0",
+        "Version": "3.818.0",
         "VersionTag": "",
         "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.817.0/VirtoCommerce.Store_3.817.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.818.0/VirtoCommerce.Store_3.818.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0",
+            "Version": "3.821.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
             "Version": "3.809.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Seo",
+            "Version": "3.801.0",
             "Optional": false
           }
         ],

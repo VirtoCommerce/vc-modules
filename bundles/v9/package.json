@@ -1,10 +1,10 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.832.14",
+  "PlatformVersion": "3.832.15",
   "StorefrontVersion": "8.2.0-master-5d02a6de",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-theme-b2b-vue/releases/download/1.60.0/vc-theme-b2b-vue-1.60.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.832.12",
+  "PlatformImageTag": "3.832.15",
   "PlatformAssetUrl": "",
   "Sources": [
     {
@@ -43,7 +43,7 @@
         },
         {
           "Id": "VirtoCommerce.Search",
-          "Version": "3.802.2"
+          "Version": "3.802.3"
         },
         {
           "Id": "VirtoCommerce.AzureAD",
@@ -111,7 +111,7 @@
         },
         {
           "Id": "VirtoCommerce.Inventory",
-          "Version": "3.804.0"
+          "Version": "3.804.1"
         },
         {
           "Id": "VirtoCommerce.Marketing",

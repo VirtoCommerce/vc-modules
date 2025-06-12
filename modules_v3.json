@@ -4362,7 +4362,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
     "Tags": "extension module",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.815.0",
@@ -4381,9 +4383,9 @@
       },
       {
         "Version": "3.816.0",
-        "VersionTag": "alpha.118",
+        "VersionTag": "alpha.119",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch8_3.816.0-alpha.118.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch8_3.816.0-alpha.119.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

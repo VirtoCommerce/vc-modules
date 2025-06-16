@@ -6256,5 +6256,40 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.News",
+    "Title": "VirtoCommerce News",
+    "Description": "VirtoCommerce News",
+    "Authors": [
+      "Iusupov Kirill"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-news",
+    "IconUrl": "Modules/$(VirtoCommerce.News)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2025 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.800.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.876.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-news/releases/download/3.800.0/VirtoCommerce.News_3.800.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.904.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

@@ -5730,20 +5730,20 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-pages",
     "IconUrl": "Modules/$(VirtoCommerce.Pages)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2025 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.807.0",
+        "Version": "3.808.0",
         "VersionTag": "",
-        "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pages/releases/download/3.807.0/VirtoCommerce.Pages_3.807.0.zip",
+        "PlatformVersion": "3.889.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pages/releases/download/3.808.0/VirtoCommerce.Pages_3.808.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Core",
-            "Version": "3.811.0",
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.833.0",
             "Optional": false
           },
           {
@@ -5752,13 +5752,13 @@
             "Optional": false
           },
           {
-            "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0",
+            "Id": "VirtoCommerce.Seo",
+            "Version": "3.801.0",
             "Optional": false
           },
           {
-            "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0",
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.818.0",
             "Optional": false
           }
         ],

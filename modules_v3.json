@@ -5278,9 +5278,9 @@
       },
       {
         "Version": "3.919.0",
-        "VersionTag": "alpha.107",
+        "VersionTag": "alpha.108",
         "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.919.0-alpha.107.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.919.0-alpha.108.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5310,7 +5310,7 @@
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.804.0",
+            "Version": "3.809.0",
             "Optional": false
           },
           {

@@ -2200,7 +2200,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions",
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
     "Tags": "extension module",
     "Groups": [
       "commerce"
@@ -2223,9 +2223,9 @@
       },
       {
         "Version": "3.804.0",
-        "VersionTag": "alpha.217",
+        "VersionTag": "alpha.222",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.804.0-alpha.217.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.804.0-alpha.222.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

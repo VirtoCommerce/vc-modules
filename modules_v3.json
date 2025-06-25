@@ -340,7 +340,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-content",
     "IconUrl": "Modules/$(VirtoCommerce.Content)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
     "Tags": "cms menu",
     "Groups": [
       "commerce"
@@ -388,9 +388,9 @@
       },
       {
         "Version": "3.828.0",
-        "VersionTag": "alpha.1003",
+        "VersionTag": "alpha.1004",
         "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.828.0-alpha.1003.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.828.0-alpha.1004.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

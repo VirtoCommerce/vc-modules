@@ -1871,7 +1871,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-avatax",
     "IconUrl": "Modules/$(VirtoCommerce.AvalaraTax)/Content/400.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
     "Tags": "avalara tax",
     "Groups": null,
     "Versions": [
@@ -1917,9 +1917,9 @@
       },
       {
         "Version": "3.803.0",
-        "VersionTag": "alpha.313",
+        "VersionTag": "alpha.319",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.803.0-alpha.313.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AvalaraTax_3.803.0-alpha.319.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

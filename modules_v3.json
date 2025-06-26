@@ -4762,10 +4762,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.906.0",
-        "VersionTag": "alpha.45",
+        "Version": "3.907.0",
+        "VersionTag": "alpha.46",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WhiteLabeling_3.906.0-alpha.45.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WhiteLabeling_3.907.0-alpha.46.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

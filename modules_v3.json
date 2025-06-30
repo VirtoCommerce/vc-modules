@@ -6312,9 +6312,9 @@
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.3",
+        "VersionTag": "alpha.4",
         "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch9_3.800.0-alpha.3.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch9_3.800.0-alpha.4.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

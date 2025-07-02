@@ -5059,9 +5059,9 @@
       },
       {
         "Version": "3.923.0",
-        "VersionTag": "alpha.112",
+        "VersionTag": "alpha.113",
         "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.923.0-alpha.112.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.923.0-alpha.113.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5076,7 +5076,7 @@
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.815.0",
+            "Version": "3.819.0",
             "Optional": true
           },
           {

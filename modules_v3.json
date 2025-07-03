@@ -5023,10 +5023,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.923.0",
+        "Version": "3.924.0",
         "VersionTag": "",
         "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-catalog/releases/download/3.923.0/VirtoCommerce.XCatalog_3.923.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-catalog/releases/download/3.924.0/VirtoCommerce.XCatalog_3.924.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

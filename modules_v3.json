@@ -1314,9 +1314,9 @@
       },
       {
         "Version": "3.816.0",
-        "VersionTag": "alpha.781",
+        "VersionTag": "alpha.782",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.816.0-alpha.781.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.816.0-alpha.782.zip",
         "Incompatibilities": [],
         "Dependencies": null,
         "ReleaseNotes": ""

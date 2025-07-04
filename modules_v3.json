@@ -6176,10 +6176,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.805.0",
-        "VersionTag": "alpha.36",
+        "Version": "3.806.0",
+        "VersionTag": "alpha.39",
         "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Seo_3.805.0-alpha.36.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Seo_3.806.0-alpha.39.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

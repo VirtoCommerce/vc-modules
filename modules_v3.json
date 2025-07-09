@@ -4688,9 +4688,9 @@
       },
       {
         "Version": "3.902.0",
-        "VersionTag": "alpha.60",
+        "VersionTag": "alpha.63",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.902.0-alpha.60.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.902.0-alpha.63.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

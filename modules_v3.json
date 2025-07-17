@@ -5410,9 +5410,9 @@
       },
       {
         "Version": "3.912.0",
-        "VersionTag": "alpha.70",
+        "VersionTag": "alpha.71",
         "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.912.0-alpha.70.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.912.0-alpha.71.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

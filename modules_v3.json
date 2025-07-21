@@ -6351,5 +6351,34 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.SqlQueries",
+    "Title": "VirtoCommerce SqlQueries",
+    "Description": "VirtoCommerce SqlQueries",
+    "Authors": [
+      "VirtoCommerce"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-sql-queries",
+    "IconUrl": "Modules/$(VirtoCommerce.SqlQueries)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2025 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.800.0",
+        "VersionTag": "alpha.3",
+        "PlatformVersion": "3.887.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SqlQueries_3.800.0-alpha.3.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

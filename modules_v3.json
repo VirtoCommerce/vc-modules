@@ -998,10 +998,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.852.0",
+        "Version": "3.853.0",
         "VersionTag": "",
         "PlatformVersion": "3.891.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.852.0/VirtoCommerce.Orders_3.852.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order/releases/download/3.853.0/VirtoCommerce.Orders_3.853.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1011,7 +1011,7 @@
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.825.0",
+            "Version": "3.832.0",
             "Optional": false
           },
           {
@@ -1051,7 +1051,7 @@
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.802.0",
+            "Version": "3.811.0",
             "Optional": false
           },
           {

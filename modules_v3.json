@@ -6299,6 +6299,26 @@
           }
         ],
         "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.800.0",
+        "VersionTag": "alpha.6",
+        "PlatformVersion": "3.890.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.News_3.800.0-alpha.6.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Seo",
+            "Version": "3.801.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.904.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
       }
     ]
   },

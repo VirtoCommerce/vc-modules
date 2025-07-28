@@ -4687,10 +4687,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.904.0",
-        "VersionTag": "alpha.67",
+        "Version": "3.905.0",
+        "VersionTag": "alpha.68",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.904.0-alpha.67.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.905.0-alpha.68.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

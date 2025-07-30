@@ -4108,7 +4108,7 @@
   },
   {
     "Id": "VirtoCommerce.SeqLog",
-    "Title": "VirtoCommerce SeqLog extension module",
+    "Title": "SeqLog",
     "Description": "Writes logs events to Serilog Seq",
     "Authors": [
       "VirtoCommerce"
@@ -4134,10 +4134,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.801.0",
-        "VersionTag": "alpha.17",
+        "Version": "3.802.0",
+        "VersionTag": "alpha.20",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SeqLog_3.801.0-alpha.17.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SeqLog_3.802.0-alpha.20.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

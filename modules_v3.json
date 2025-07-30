@@ -5550,8 +5550,8 @@
   },
   {
     "Id": "VirtoCommerce.OpenIdConnectModule",
-    "Title": "VirtoCommerce OpenIdConnect module",
-    "Description": "VirtoCommerce OpenId Connect module",
+    "Title": "OpenID Connect",
+    "Description": "OpenID Connect is an identity module on top of the OAuth 2.0",
     "Authors": [
       "Igoris Berniukevicius",
       "Artem Dudarev"
@@ -5577,10 +5577,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.802.0",
-        "VersionTag": "alpha.17",
+        "Version": "3.803.0",
+        "VersionTag": "alpha.21",
         "PlatformVersion": "3.865.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OpenIdConnectModule_3.802.0-alpha.17.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OpenIdConnectModule_3.803.0-alpha.21.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

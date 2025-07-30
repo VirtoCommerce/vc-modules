@@ -6379,8 +6379,8 @@
   },
   {
     "Id": "VirtoCommerce.SqlQueries",
-    "Title": "VirtoCommerce SqlQueries",
-    "Description": "VirtoCommerce SqlQueries",
+    "Title": "Sql Queries",
+    "Description": "Adds SQL query/report capabilities to the VirtoCommerce platform, enabling advanced data access directly through SQL.",
     "Authors": [
       "VirtoCommerce"
     ],
@@ -6406,9 +6406,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.5",
+        "VersionTag": "alpha.7",
         "PlatformVersion": "3.890.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SqlQueries_3.801.0-alpha.5.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SqlQueries_3.801.0-alpha.7.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

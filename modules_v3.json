@@ -6055,10 +6055,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.0",
+        "Version": "3.801.0",
         "VersionTag": "",
         "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-open-search/releases/download/3.800.0/VirtoCommerce.OpenSearch_3.800.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-open-search/releases/download/3.801.0/VirtoCommerce.OpenSearch_3.801.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -6385,5 +6385,70 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.IntentSearch",
+    "Title": "VirtoCommerce IntentSearch module",
+    "Description": "VirtoCommerce IntentSearch module",
+    "Authors": [
+      "Alexander Siniouguine"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-ai-categorization",
+    "IconUrl": "Modules/$(VirtoCommerce.IntentSearch)/Content/intentsense-logo.svg",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.800.0",
+        "VersionTag": "alpha.133",
+        "PlatformVersion": "3.825.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.IntentSearch_3.800.0-alpha.133.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Export",
+            "Version": "3.803.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Import",
+            "Version": "3.807.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.837.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.815.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.819.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.900.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.XCatalog",
+            "Version": "3.900.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

@@ -4305,7 +4305,7 @@
       "VirtoEnterprise"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-scalable-indexation",
+    "ProjectUrl": "https://github.com/VirtoEnterprise/vc-module-scalable-indexation",
     "IconUrl": "Modules/$(VirtoCommerce.ScalableIndexation)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2023–2024 Virto Commerce. All rights reserved",
@@ -5581,35 +5581,6 @@
         "VersionTag": "alpha.21",
         "PlatformVersion": "3.865.0",
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OpenIdConnectModule_3.803.0-alpha.21.zip",
-        "Incompatibilities": null,
-        "Dependencies": [],
-        "ReleaseNotes": "First version."
-      }
-    ]
-  },
-  {
-    "Id": "VirtoCommerce.BackInStockModule",
-    "Title": "VirtoCommerce BackInStockModule module",
-    "Description": "VirtoCommerce BackInStockModule module",
-    "Authors": [
-      "Mikhail Lyakhov"
-    ],
-    "Owners": [
-      "VirtoCommerce"
-    ],
-    "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-back-in-stock",
-    "IconUrl": "Modules/$(VirtoCommerce.BackInStockModule)/Content/logo.png",
-    "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
-    "Tags": "extension module",
-    "Groups": null,
-    "Versions": [
-      {
-        "Version": "3.800.0",
-        "VersionTag": "alpha.8",
-        "PlatformVersion": "3.832.3",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackInStockModule_3.800.0-alpha.8.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

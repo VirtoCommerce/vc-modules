@@ -4459,10 +4459,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.810.0",
-        "VersionTag": "alpha.45",
+        "Version": "3.811.0",
+        "VersionTag": "alpha.46",
         "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.810.0-alpha.45.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.811.0-alpha.46.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

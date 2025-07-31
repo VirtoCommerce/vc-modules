@@ -4427,8 +4427,8 @@
   },
   {
     "Id": "VirtoCommerce.AuditLog",
-    "Title": "VirtoCommerce AuditLog extension module",
-    "Description": "VirtoCommerce AuditLog extension module",
+    "Title": "Audit Log",
+    "Description": "Provides extended audit features",
     "Authors": [
       "John Doe"
     ],
@@ -4459,10 +4459,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.809.0",
-        "VersionTag": "alpha.39",
+        "Version": "3.810.0",
+        "VersionTag": "alpha.45",
         "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.809.0-alpha.39.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.810.0-alpha.45.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

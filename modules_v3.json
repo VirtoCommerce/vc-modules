@@ -3847,7 +3847,7 @@
   {
     "Id": "VirtoCommerce.TaskManagement",
     "Title": "Task Management",
-    "Description": "Virto Commerce Task Management module",
+    "Description": "Headquarters personas can use task management to create task lists for retail stores, and to track status by store or worker.",
     "Authors": [
       "Artem Dudarev",
       "Oleg Zhuk",
@@ -3857,7 +3857,7 @@
       "VirtoCommerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-TaskManagement",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-task-management",
     "IconUrl": "Modules/$(VirtoCommerce.TaskManagement)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
@@ -3881,9 +3881,9 @@
       },
       {
         "Version": "3.902.0",
-        "VersionTag": "alpha.113",
+        "VersionTag": "alpha.137",
         "PlatformVersion": "3.841.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.902.0-alpha.113.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.902.0-alpha.137.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

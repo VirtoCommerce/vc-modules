@@ -6240,8 +6240,8 @@
   },
   {
     "Id": "VirtoCommerce.News",
-    "Title": "VirtoCommerce News",
-    "Description": "VirtoCommerce News",
+    "Title": "News",
+    "Description": "Module allowing content managers to publish news articles",
     "Authors": [
       "Iusupov Kirill"
     ],
@@ -6250,7 +6250,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-news",
-    "IconUrl": "Modules/$(VirtoCommerce.News)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.News)/Content/news.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2025 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
@@ -6278,9 +6278,9 @@
       },
       {
         "Version": "3.802.0",
-        "VersionTag": "alpha.8",
+        "VersionTag": "alpha.9",
         "PlatformVersion": "3.890.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.News_3.802.0-alpha.8.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.News_3.802.0-alpha.9.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

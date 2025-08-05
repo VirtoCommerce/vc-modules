@@ -1,9 +1,9 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.887.0",
+  "PlatformVersion": "3.887.2",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.21.0/vc-theme-b2b-vue-2.21.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.887.0",
+  "PlatformImageTag": "3.887.2",
   "PlatformAssetUrl": "",
  "Sources": [
     {
@@ -88,7 +88,7 @@
         },
         {
           "Id": "VirtoCommerce.Pricing",
-          "Version": "3.813.0"
+          "Version": "3.813.2"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",
@@ -180,11 +180,11 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.829.0"
+          "Version": "3.829.1"
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.861.2"
+          "Version": "3.861.3"
         },
         {
           "Id": "VirtoCommerce.ProfileExperienceApiModule",

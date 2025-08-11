@@ -6213,9 +6213,9 @@
       },
       {
         "Version": "3.808.0",
-        "VersionTag": "alpha.271",
+        "VersionTag": "alpha.272",
         "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Import_3.808.0-alpha.271.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Import_3.808.0-alpha.272.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

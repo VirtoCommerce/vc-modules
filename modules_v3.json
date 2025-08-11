@@ -4069,7 +4069,7 @@
   {
     "Id": "VirtoCommerce.ApplicationInsights",
     "Title": "Azure Application Insights",
-    "Description": "Writes logs events and telemetry to Microsoft Azure Application Insights",
+    "Description": "Enables developers and administrators to collect, monitor, and analyze application performance, usage, and diagnostic data",
     "Authors": [
       "Konstantin Savosteev"
     ],
@@ -4080,7 +4080,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-app-insights",
     "IconUrl": "Modules/$(VirtoCommerce.ApplicationInsights)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
     "Tags": "extension module",
     "Groups": [
       "commerce"
@@ -4097,9 +4097,9 @@
       },
       {
         "Version": "3.805.0",
-        "VersionTag": "alpha.21",
+        "VersionTag": "alpha.28",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ApplicationInsights_3.805.0-alpha.21.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ApplicationInsights_3.805.0-alpha.28.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

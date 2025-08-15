@@ -6388,10 +6388,11 @@
   },
   {
     "Id": "VirtoCommerce.IntentSearch",
-    "Title": "VirtoCommerce IntentSearch module",
-    "Description": "VirtoCommerce IntentSearch module",
+    "Title": "Intent Search (AI-powered)",
+    "Description": "Advanced AI-powered search intent classification and product categorization module that intelligently analyzes search queries and classifies products for e-commerce platforms.",
     "Authors": [
-      "Alexander Siniouguine"
+      "Alexander Siniouguine",
+      "Artem Dudarev"
     ],
     "Owners": [
       "Virto Commerce"
@@ -6406,14 +6407,14 @@
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.137",
+        "VersionTag": "alpha.138",
         "PlatformVersion": "3.887.4",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.IntentSearch_3.800.0-alpha.137.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.IntentSearch_3.800.0-alpha.138.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.861.3",
+            "Version": "3.881.0",
             "Optional": false
           },
           {
@@ -6423,12 +6424,12 @@
           },
           {
             "Id": "VirtoCommerce.Import",
-            "Version": "3.807.0-alpha.259-vcst-1906",
+            "Version": "3.808.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.815.0",
+            "Version": "3.816.0",
             "Optional": false
           },
           {
@@ -6438,12 +6439,12 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.913.0",
+            "Version": "3.919.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.915.1",
+            "Version": "3.927.0",
             "Optional": false
           }
         ],

@@ -6277,10 +6277,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.808.0",
-        "VersionTag": "alpha.24",
+        "Version": "3.809.0",
+        "VersionTag": "alpha.25",
         "PlatformVersion": "3.890.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.News_3.808.0-alpha.24.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.News_3.809.0-alpha.25.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

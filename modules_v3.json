@@ -3406,9 +3406,9 @@
       },
       {
         "Version": "3.922.0",
-        "VersionTag": "alpha.300",
+        "VersionTag": "alpha.301",
         "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.922.0-alpha.300.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProfileExperienceApiModule_3.922.0-alpha.301.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3438,7 +3438,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.918.0",
+            "Version": "3.922.0",
             "Optional": false
           },
           {

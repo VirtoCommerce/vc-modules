@@ -2006,9 +2006,9 @@
       },
       {
         "Version": "3.807.0",
-        "VersionTag": "alpha.270",
+        "VersionTag": "alpha.271",
         "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.807.0-alpha.270.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.807.0-alpha.271.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

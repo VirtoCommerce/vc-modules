@@ -20,17 +20,17 @@ jobs:
         ref: ${{ github.ref_name }}
         fetch-depth: 0
   
-    # - name: Az config
-    #   run: |
-    #     az config set extension.use_dynamic_install=yes_without_prompt
+    - name: Az config
+      run: |
+        az config set extension.use_dynamic_install=yes_without_prompt
     
-    # - name: Install vc-build
-    #   run: |
-    #     dotnet tool install --global VirtoCommerce.GlobalTool
+    - name: Install vc-build
+      run: |
+        dotnet tool install --global VirtoCommerce.GlobalTool
 
-    # - name: Pack
-    #   run: |
-    #     vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
+    - name: Pack
+      run: |
+        vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
   
     - name: Get platform version
       run: |
@@ -49,10 +49,10 @@ jobs:
     - name: Build and Publish Docker Image
       # working-directory: ./vc-docker/linux/platform
       run: |
+        echo "vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY"
         # vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY
         # docker tag $IMAGE_REPOSITORY:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
         # docker push $IMAGE_REPOSITORY:$LATEST_TAG
-        echo "TAG: $TAG"
       env:
         DOCKER_LOGIN: VirtoPaaSRegistryMain
         DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}

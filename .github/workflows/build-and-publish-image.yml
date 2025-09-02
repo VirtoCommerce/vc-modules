@@ -34,7 +34,7 @@ jobs:
     - name: Get platfrom version
       id: platform-version
       run: |
-        echo "PlatformVersion=$(cat ./bundles/latest/package.json | jq -r '.PlatformVersion')"
+        echo "BundleVersion=$(cat ./bundles/latest/package.json | jq -r '.BundleVersion')"
         echo "BundleVersion=$(cat ./bundles/latest/package.json | jq -r '.BundleVersion')" >> $GITHUB_ENV
 
     # - name: Set outputs

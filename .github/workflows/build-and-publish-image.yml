@@ -34,28 +34,29 @@ jobs:
     - name: Get platfrom version
       id: platform-version
       run: |
+        echo "PlatformVersion=$(cat ./bundles/latest/package.json | jq -r '.PlatformVersion')"
         echo "BundleVersion=$(cat ./bundles/latest/package.json | jq -r '.BundleVersion')" >> $GITHUB_ENV
 
     # - name: Set outputs
     #   id: vars
     #   run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
 
-    - name: Get Dockerfile
-      run: |
-        git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
-        mv ./backend/platform ./vc-docker/linux/platform/publish
+    # - name: Get Dockerfile
+    #   run: |
+    #     git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
+    #     mv ./backend/platform ./vc-docker/linux/platform/publish
 
-    - name: Build and Publish Docker Image
-      working-directory: ./vc-docker/linux/platform
-      run: |
-        vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY
-        docker tag $IMAGE_REPOSITORY:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
-        docker push $IMAGE_REPOSITORY:$LATEST_TAG
-      env:
-        DOCKER_LOGIN: VirtoPaaSRegistryMain
-        DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}
-        DOCKERFILE_PATH: ./Dockerfile
-        CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
-        IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
-        TAG: ${{ env.BundleVersion }}-stable
-        LATEST_TAG: latest-stable
+    # - name: Build and Publish Docker Image
+    #   working-directory: ./vc-docker/linux/platform
+    #   run: |
+    #     vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY
+    #     docker tag $IMAGE_REPOSITORY:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
+    #     docker push $IMAGE_REPOSITORY:$LATEST_TAG
+    #   env:
+    #     DOCKER_LOGIN: VirtoPaaSRegistryMain
+    #     DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}
+    #     DOCKERFILE_PATH: ./Dockerfile
+    #     CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
+    #     IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
+    #     TAG: ${{ env.BundleVersion }}-stable
+    #     LATEST_TAG: latest-stable

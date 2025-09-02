@@ -34,11 +34,11 @@ jobs:
     - name: Get platfrom version
       id: platform-version
       run: |
-        echo "PLATFORM_VERSION=$(cat ./bundles/latest/package.json | jq -r '.PlatformVersion')" >> $GITHUB_ENV
+        echo "PLATFORM_VERSION=$(cat ./bundles/latest/package.json | jq -r '.BundleVersion')" >> $GITHUB_ENV
 
-    - name: Set outputs
-      id: vars
-      run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
+    # - name: Set outputs
+    #   id: vars
+    #   run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
 
     - name: Get Dockerfile
       run: |
@@ -57,5 +57,5 @@ jobs:
         DOCKERFILE_PATH: ./Dockerfile
         CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
         IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
-        TAG: ${{ env.PLATFORM_VERSION }}-stable
+        TAG: ${{ env.BundleVersion }}-stable
         LATEST_TAG: latest-stable

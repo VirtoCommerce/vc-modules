@@ -15,25 +15,24 @@ jobs:
       ARGO_APP_NAME: ${{ github.ref_name }}
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v5
       with:
         ref: ${{ github.ref_name }}
         fetch-depth: 0
   
-    - name: Az config
-      run: |
-        az config set extension.use_dynamic_install=yes_without_prompt
+    # - name: Az config
+    #   run: |
+    #     az config set extension.use_dynamic_install=yes_without_prompt
     
-    - name: Install vc-build
-      run: |
-        dotnet tool install --global VirtoCommerce.GlobalTool
+    # - name: Install vc-build
+    #   run: |
+    #     dotnet tool install --global VirtoCommerce.GlobalTool
 
-    - name: Pack
-      run: |
-        vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
+    # - name: Pack
+    #   run: |
+    #     vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
   
-    - name: Get platfrom version
-      id: platform-version
+    - name: Get platform version
       run: |
         echo "BUNDLE_VERSION=$(cat ./bundles/latest/package.json | jq -r '.BundleVersion')"
         echo "BUNDLE_VERSION=$(cat ./bundles/latest/package.json | jq -r '.BundleVersion')" >> $GITHUB_ENV
@@ -42,17 +41,18 @@ jobs:
     #   id: vars
     #   run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
 
-    - name: Get Dockerfile
-      run: |
-        git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
-        mv ./backend/platform ./vc-docker/linux/platform/publish
+    # - name: Get Dockerfile
+    #   run: |
+    #     git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
+    #     mv ./backend/platform ./vc-docker/linux/platform/publish
 
     - name: Build and Publish Docker Image
-      working-directory: ./vc-docker/linux/platform
+      # working-directory: ./vc-docker/linux/platform
       run: |
-        vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY
-        docker tag $IMAGE_REPOSITORY:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
-        docker push $IMAGE_REPOSITORY:$LATEST_TAG
+        # vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY
+        # docker tag $IMAGE_REPOSITORY:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
+        # docker push $IMAGE_REPOSITORY:$LATEST_TAG
+        echo "TAG: $TAG"
       env:
         DOCKER_LOGIN: VirtoPaaSRegistryMain
         DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}

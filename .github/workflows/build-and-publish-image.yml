@@ -61,7 +61,6 @@ jobs:
     #     TAG: ${{ env.BundleVersion }}-stable
     #     LATEST_TAG: latest-stable
     - name: Build and Publish Docker Image
-      working-directory: ./vc-docker/linux/platform
       run: |
         echo "TAG: $TAG"
       env:

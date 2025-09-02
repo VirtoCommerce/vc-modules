@@ -30,10 +30,12 @@ jobs:
 
     - name: Pack
       run: |
+        ls ./
         vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
   
     - name: Get platform version
       run: |
+        ls./
         echo "BUNDLE_VERSION=$(cat ./bundles/latest/package.json | jq -r '.BundleVersion')"
         echo "BUNDLE_VERSION=$(cat ./bundles/latest/package.json | jq -r '.BundleVersion')" >> $GITHUB_ENV
 
@@ -47,7 +49,7 @@ jobs:
     #     mv ./backend/platform ./vc-docker/linux/platform/publish
 
     - name: Build and Publish Docker Image
-      # working-directory: ./vc-docker/linux/platform
+      working-directory: ./vc-docker/linux/platform
       run: |
         echo "vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY"
         # vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY

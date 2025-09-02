@@ -17,8 +17,14 @@ jobs:
     steps:
     - uses: actions/checkout@v5
       with:
-        ref: VCST-2795
+        ref: 'VCST-2795'
         fetch-depth: 0
+    
+    - name: Debug checkout
+      run: |
+        echo "Current branch: $(git branch --show-current)"
+        echo "Git log:"
+        git log --oneline -5
   
     - name: Az config
       run: |

@@ -19,17 +19,17 @@ jobs:
       with:
         fetch-depth: 0
   
-    - name: Az config
-      run: |
-        az config set extension.use_dynamic_install=yes_without_prompt
+    # - name: Az config
+    #   run: |
+    #     az config set extension.use_dynamic_install=yes_without_prompt
     
-    - name: Install vc-build
-      run: |
-        dotnet tool install --global VirtoCommerce.GlobalTool
+    # - name: Install vc-build
+    #   run: |
+    #     dotnet tool install --global VirtoCommerce.GlobalTool
 
-    - name: Pack
-      run: |
-        vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
+    # - name: Pack
+    #   run: |
+    #     vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
   
     - name: Get platfrom version
       id: platform-version

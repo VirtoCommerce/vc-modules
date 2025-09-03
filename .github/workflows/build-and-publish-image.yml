@@ -56,10 +56,10 @@ jobs:
     #   id: vars
     #   run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
 
-    # - name: Get Dockerfile
-    #   run: |
-    #     git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
-    #     mv ./backend/platform ./vc-docker/linux/platform/publish
+    - name: Get Dockerfile
+      run: |
+        git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
+        mv ./backend/platform ./vc-docker/linux/platform/publish
 
     - name: Build and Publish Docker Image
       working-directory: ./vc-docker/linux/platform

@@ -17,7 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v5
       with:
-        ref: 'VCST-279'
+        ref: 'VCST-2795'
         # fetch-depth: 0
   
     - name: Az config
@@ -38,8 +38,10 @@ jobs:
         echo "Current branch: $(git branch --show-current)"
         echo "Git log:"
         git log --oneline -5
-        ls ./bundles/latest/
-        get-content ./bundles/latest/package.json
+        echo "Files in bundles/latest:"
+        ls -l ./bundles/latest/
+        echo "Package.json content:"
+        get-content ./bundles/latest/package.json 
         $bundleVersion = (Get-Content ./bundles/latest/package.json | ConvertFrom-Json).BundleVersion
         echo "BUNDLE_VERSION=$bundleVersion"
         if ($bundleVersion -eq $null) {

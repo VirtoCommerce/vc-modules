@@ -1064,9 +1064,9 @@
       },
       {
         "Version": "3.855.0",
-        "VersionTag": "alpha.1346",
+        "VersionTag": "alpha.1348",
         "PlatformVersion": "3.891.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.855.0-alpha.1346.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.855.0-alpha.1348.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3745,10 +3745,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.416",
+        "Version": "3.800.417",
         "VersionTag": "",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.416/VirtoCommerce.CITest_3.800.416.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.417/VirtoCommerce.CITest_3.800.417.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."
@@ -4365,10 +4365,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.817.0",
+        "Version": "3.818.0",
         "VersionTag": "",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-8/releases/download/3.817.0/VirtoCommerce.ElasticSearch8_3.817.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-8/releases/download/3.818.0/VirtoCommerce.ElasticSearch8_3.818.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4380,10 +4380,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.818.0",
-        "VersionTag": "alpha.123",
+        "Version": "3.819.0",
+        "VersionTag": "alpha.125",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch8_3.818.0-alpha.123.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch8_3.819.0-alpha.125.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -6317,10 +6317,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.801.0",
+        "Version": "3.802.0",
         "VersionTag": "",
         "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-9/releases/download/3.801.0/VirtoCommerce.ElasticSearch9_3.801.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-9/releases/download/3.802.0/VirtoCommerce.ElasticSearch9_3.802.0.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
@@ -6332,10 +6332,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.802.0",
-        "VersionTag": "alpha.7",
+        "Version": "3.803.0",
+        "VersionTag": "alpha.9",
         "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch9_3.802.0-alpha.7.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch9_3.803.0-alpha.9.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

@@ -19,6 +19,21 @@ jobs:
       with:
         ref: 'VCST-2795'
         # fetch-depth: 0
+
+    - name: Get bundle version
+      shell: pwsh
+      run: |
+        echo "Current branch: $(git branch --show-current)"
+        echo "Git log:"
+        git log --oneline -5
+        echo "Package.json content:"
+        get-content ./bundles/latest/package.json
+        $bundleVersion = (Get-Content ./bundles/latest/package.json | ConvertFrom-Json).BundleVersion
+        echo "BUNDLE_VERSION=$bundleVersion"
+        if ($bundleVersion -eq $null) {
+          throw "Bundle version is null"
+        }
+        echo "BUNDLE_VERSION=$bundleVersion" >> $env:GITHUB_ENV
   
     - name: Az config
       run: |
@@ -36,22 +51,6 @@ jobs:
         echo "Package.json content:"
         cat ./bundles/latest/package.json
   
-    - name: Get platform version
-      shell: pwsh
-      run: |
-        echo "Current branch: $(git branch --show-current)"
-        echo "Git log:"
-        git log --oneline -5
-        echo "Files in bundles/latest:"
-        ls -l ./bundles/latest/
-        echo "Package.json content:"
-        get-content ./bundles/latest/package.json
-        $bundleVersion = (Get-Content ./bundles/latest/package.json | ConvertFrom-Json).BundleVersion
-        echo "BUNDLE_VERSION=$bundleVersion"
-        if ($bundleVersion -eq $null) {
-          throw "Bundle version is null"
-        }
-        echo "BUNDLE_VERSION=$bundleVersion" >> $env:GITHUB_ENV
 
     # - name: Set outputs
     #   id: vars

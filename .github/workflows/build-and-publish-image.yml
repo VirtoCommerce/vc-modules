@@ -17,23 +17,18 @@ jobs:
     steps:
     - uses: actions/checkout@v5
       with:
-        ref: 'VCST-2795'
         fetch-depth: 0
 
     - name: Get bundle version
       shell: pwsh
       run: |
-        echo "Current branch: $(git branch --show-current)"
-        echo "Git log:"
-        git log --oneline -5
-        echo "Package.json content:"
-        get-content ./bundles/latest/package.json
         $bundleVersion = (Get-Content ./bundles/latest/package.json | ConvertFrom-Json).BundleVersion
         echo "BUNDLE_VERSION=$bundleVersion"
         if ($bundleVersion -eq $null) {
           throw "Bundle version is null"
+        } else {
+          echo "BUNDLE_VERSION=$bundleVersion" >> $env:GITHUB_ENV
         }
-        echo "BUNDLE_VERSION=$bundleVersion" >> $env:GITHUB_ENV
   
     - name: Az config
       run: |
@@ -45,15 +40,7 @@ jobs:
 
     - name: Pack
       run: |
-        echo "Package.json content:"
-        cat ./bundles/latest/package.json
         vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
-        echo "Package.json content:"
-        cat ./bundles/latest/package.json
-
-    # - name: Set outputs
-    #   id: vars
-    #   run: echo "::set-output name=sha_short::$(git rev-parse --short HEAD)"
 
     - name: Get Dockerfile
       run: |

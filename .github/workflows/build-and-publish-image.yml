@@ -18,7 +18,7 @@ jobs:
     - uses: actions/checkout@v5
       with:
         ref: 'VCST-2795'
-        # fetch-depth: 0
+        fetch-depth: 0
 
     - name: Get bundle version
       shell: pwsh
@@ -50,7 +50,6 @@ jobs:
         vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
         echo "Package.json content:"
         cat ./bundles/latest/package.json
-  
 
     # - name: Set outputs
     #   id: vars
@@ -64,10 +63,9 @@ jobs:
     - name: Build and Publish Docker Image
       working-directory: ./vc-docker/linux/platform
       run: |
-        echo "vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY"
-        # vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY
-        # docker tag $IMAGE_REPOSITORY:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
-        # docker push $IMAGE_REPOSITORY:$LATEST_TAG
+        vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY
+        docker tag $IMAGE_REPOSITORY:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
+        docker push $IMAGE_REPOSITORY:$LATEST_TAG
       env:
         DOCKER_LOGIN: VirtoPaaSRegistryMain
         DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}

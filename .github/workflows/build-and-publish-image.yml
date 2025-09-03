@@ -30,7 +30,11 @@ jobs:
 
     - name: Pack
       run: |
+        echo "Package.json content:"
+        cat ./bundles/latest/package.json
         vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
+        echo "Package.json content:"
+        cat ./bundles/latest/package.json
   
     - name: Get platform version
       shell: pwsh
@@ -41,7 +45,7 @@ jobs:
         echo "Files in bundles/latest:"
         ls -l ./bundles/latest/
         echo "Package.json content:"
-        get-content ./bundles/latest/package.json 
+        get-content ./bundles/latest/package.json
         $bundleVersion = (Get-Content ./bundles/latest/package.json | ConvertFrom-Json).BundleVersion
         echo "BUNDLE_VERSION=$bundleVersion"
         if ($bundleVersion -eq $null) {

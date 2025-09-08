@@ -6489,5 +6489,45 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Loyalty",
+    "Title": "VirtoCommerce Loyalty",
+    "Description": "VirtoCommerce Loyalty",
+    "Authors": [
+      "Konstantin Savosteev"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-loyalty",
+    "IconUrl": "Modules/$(VirtoCommerce.Loyalty)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2025 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.800.0",
+        "VersionTag": "alpha.2",
+        "PlatformVersion": "3.895.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Loyalty_3.800.0-alpha.2.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.822.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.853.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

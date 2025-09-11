@@ -5058,10 +5058,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.934.0",
-        "VersionTag": "alpha.137",
+        "Version": "3.935.0",
+        "VersionTag": "alpha.138",
         "PlatformVersion": "3.895.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.934.0-alpha.137.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.935.0-alpha.138.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

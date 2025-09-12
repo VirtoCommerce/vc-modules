@@ -2856,7 +2856,8 @@
     "Title": "CSV Catalog Export and Import Module",
     "Description": "Enables seamless export and import of catalog data in CSV format, simplifying data management and integration with external systems.",
     "Authors": [
-      "Konstantin Savosteev"
+      "Konstantin Savosteev",
+      "Artem Dudarev"
     ],
     "Owners": [
       "Virto Commerce"
@@ -2913,9 +2914,9 @@
       },
       {
         "Version": "3.811.0",
-        "VersionTag": "alpha.339",
+        "VersionTag": "alpha.341",
         "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.811.0-alpha.339.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.811.0-alpha.341.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

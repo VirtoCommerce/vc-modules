@@ -6483,8 +6483,8 @@
   },
   {
     "Id": "VirtoCommerce.Loyalty",
-    "Title": "VirtoCommerce Loyalty",
-    "Description": "VirtoCommerce Loyalty",
+    "Title": "Loyalty",
+    "Description": "Customer loyalty program is offering your customers some reward for shopping at your store.",
     "Authors": [
       "Konstantin Savosteev"
     ],
@@ -6501,9 +6501,9 @@
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.2",
+        "VersionTag": "alpha.3",
         "PlatformVersion": "3.895.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Loyalty_3.800.0-alpha.2.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Loyalty_3.800.0-alpha.3.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

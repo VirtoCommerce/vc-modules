@@ -24,7 +24,7 @@ jobs:
       shell: pwsh
       run: |
         # $commitSha = "31dd3911f76363d8f6716861ae41a1b3d894068a"
-        $commitSha =  ${{ github.sha }}
+        $commitSha =  "${{ github.sha }}"
         
         # Get BundleVersion from parent commit
         [System.Version]$oldVersion = git show "$commitSha^:bundles/latest/package.json" | ConvertFrom-Json | Select-Object -ExpandProperty BundleVersion

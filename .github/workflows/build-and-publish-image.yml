@@ -23,18 +23,13 @@ jobs:
     - name: Check BundleVersion changes
       shell: pwsh
       run: |
-        # $commitSha = "31dd3911f76363d8f6716861ae41a1b3d894068a"
         $commitSha =  "${{ github.sha }}"
-        # git config --global user.email "VC-CI@virto.com"
-        # git config --global user.name "VC-CI"
-        
+        git config --global user.email "VC-CI@virto.com"
+        git config --global user.name "VC-CI"
         [System.Version]$oldVersion = git show "$commitSha^:bundles/latest/package.json" | ConvertFrom-Json | Select-Object -ExpandProperty BundleVersion
-        
         [System.Version]$newVersion = git show "$commitSha`:bundles/latest/package.json" | ConvertFrom-Json | Select-Object -ExpandProperty BundleVersion
-        
         Write-Host "Previous commit BundleVersion: $oldVersion"
         Write-Host "Current commit BundleVersion: $newVersion"
-        
         if ($newVersion -le $oldVersion) {
           Write-Host "BundleVersion was not changed in the last commit. Bumping the version..."
           $packageJson = Get-Content ./bundles/latest/package.json | ConvertFrom-Json

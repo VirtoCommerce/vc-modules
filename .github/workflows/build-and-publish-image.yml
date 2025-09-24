@@ -6,7 +6,7 @@ on:
     paths:
       - 'bundles/latest/**'
     branches: 
-      - 'master'
+      - 'master, test-VCST-3877'
 
 jobs:
   gitops:

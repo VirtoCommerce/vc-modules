@@ -3,10 +3,10 @@ name: Stable platform
 on:
   workflow_dispatch:
   push:
-    # paths:
-    #   - 'bundles/latest/**'
+    paths:
+      - 'bundles/latest/**'
     branches: 
-      - 'master,test-VCST-3877'
+      - 'master'
 
 jobs:
   gitops:
@@ -40,7 +40,7 @@ jobs:
           Write-Host "New BundleVersion: $bumpVersion. Committing and pushing..."
           git add ./bundles/latest/package.json
           if ($lastExitCode -ne 0) { throw "Failed to add file to git" }
-          git commit -m "[skip ci] Automatic bump of BundleVersion to $bumpVersion"
+          git commit -m "[skip ci] Automatic BundleVersion bump to $bumpVersion"
           if ($lastExitCode -ne 0) { throw "Failed to commit changes" }
           git push
           if ($lastExitCode -ne 0) { throw "Failed to push changes" }

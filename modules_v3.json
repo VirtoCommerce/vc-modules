@@ -6398,16 +6398,11 @@
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.142",
+        "VersionTag": "alpha.143",
         "PlatformVersion": "3.887.4",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.IntentSearch_3.800.0-alpha.142.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.IntentSearch_3.800.0-alpha.143.zip",
         "Incompatibilities": null,
         "Dependencies": [
-          {
-            "Id": "VirtoCommerce.Catalog",
-            "Version": "3.881.0",
-            "Optional": false
-          },
           {
             "Id": "VirtoCommerce.Export",
             "Version": "3.804.0",
@@ -6419,23 +6414,8 @@
             "Optional": false
           },
           {
-            "Id": "VirtoCommerce.Search",
-            "Version": "3.816.0",
-            "Optional": false
-          },
-          {
-            "Id": "VirtoCommerce.Store",
-            "Version": "3.819.0",
-            "Optional": false
-          },
-          {
-            "Id": "VirtoCommerce.Xapi",
-            "Version": "3.919.0",
-            "Optional": false
-          },
-          {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.927.0",
+            "Version": "3.937.0",
             "Optional": false
           }
         ],

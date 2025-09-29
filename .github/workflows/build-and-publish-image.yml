@@ -18,6 +18,36 @@ jobs:
     - uses: actions/checkout@v5
       with:
         fetch-depth: 0
+        persist-credentials: true
+
+    - name: Check BundleVersion changes
+      shell: pwsh
+      run: |
+        $commitSha =  "${{ github.sha }}"
+        git config --global user.email "VC-CI@virto.com"
+        git config --global user.name "VC-CI"
+        [System.Version]$oldVersion = git show "$commitSha^:bundles/latest/package.json" | ConvertFrom-Json | Select-Object -ExpandProperty BundleVersion
+        [System.Version]$newVersion = git show "$commitSha`:bundles/latest/package.json" | ConvertFrom-Json | Select-Object -ExpandProperty BundleVersion
+        Write-Host "Previous commit BundleVersion: $oldVersion"
+        Write-Host "Current commit BundleVersion: $newVersion"
+        if ($newVersion -le $oldVersion) {
+          Write-Host "BundleVersion was not changed in the last commit. Bumping the version..."
+          $packageJson = Get-Content ./bundles/latest/package.json | ConvertFrom-Json
+          $oldVersion = $packageJson.BundleVersion
+          $bumpVersion = [System.Version]::new($oldVersion.Major, $oldVersion.Minor, $oldVersion.Build + 1)
+          $packageJson.BundleVersion = $bumpVersion.ToString()
+          $packageJson | ConvertTo-Json -Depth 10 | Set-Content ./bundles/latest/package.json
+          Write-Host "New BundleVersion: $bumpVersion. Committing and pushing..."
+          git add ./bundles/latest/package.json
+          if ($lastExitCode -ne 0) { throw "Failed to add file to git" }
+          git commit -m "[skip ci] Automatic BundleVersion bump to $bumpVersion"
+          if ($lastExitCode -ne 0) { throw "Failed to commit changes" }
+          git push
+          if ($lastExitCode -ne 0) { throw "Failed to push changes" }
+          Write-Host "Committed and pushed successfully"
+        } else {
+          Write-Host "BundleVersion was changed from $oldVersion to $newVersion"
+        }
 
     - name: Get bundle version
       shell: pwsh

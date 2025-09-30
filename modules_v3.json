@@ -6398,9 +6398,9 @@
     "Versions": [
       {
         "Version": "3.800.0",
-        "VersionTag": "alpha.143",
+        "VersionTag": "alpha.144",
         "PlatformVersion": "3.887.4",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.IntentSearch_3.800.0-alpha.143.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.IntentSearch_3.800.0-alpha.144.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

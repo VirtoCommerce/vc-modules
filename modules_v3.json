@@ -4234,10 +4234,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.826.0",
+        "Version": "3.827.0",
         "VersionTag": "",
-        "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.826.0/VirtoCommerce.PageBuilderModule_3.826.0.zip",
+        "PlatformVersion": "3.881.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.827.0/VirtoCommerce.PageBuilderModule_3.827.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

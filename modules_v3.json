@@ -2913,10 +2913,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.814.0",
-        "VersionTag": "alpha.352",
+        "Version": "3.815.0",
+        "VersionTag": "alpha.353",
         "PlatformVersion": "3.895.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.814.0-alpha.352.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogCsvImportModule_3.815.0-alpha.353.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

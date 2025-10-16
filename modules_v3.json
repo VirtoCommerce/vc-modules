@@ -113,10 +113,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.836.0",
+        "Version": "3.837.0",
         "VersionTag": "",
         "PlatformVersion": "3.903.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/3.836.0/VirtoCommerce.Cart_3.836.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-cart/releases/download/3.837.0/VirtoCommerce.Cart_3.837.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

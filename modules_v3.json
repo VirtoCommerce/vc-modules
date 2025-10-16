@@ -723,10 +723,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.813.0",
-        "VersionTag": "alpha.490",
+        "Version": "3.814.0",
+        "VersionTag": "alpha.491",
         "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.813.0-alpha.490.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.814.0-alpha.491.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

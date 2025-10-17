@@ -3746,10 +3746,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.448",
+        "Version": "3.800.449",
         "VersionTag": "",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.448/VirtoCommerce.CITest_3.800.448.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.449/VirtoCommerce.CITest_3.800.449.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

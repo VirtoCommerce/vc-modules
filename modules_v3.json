@@ -4275,9 +4275,9 @@
       },
       {
         "Version": "3.828.0",
-        "VersionTag": "alpha.745",
+        "VersionTag": "alpha.748",
         "PlatformVersion": "3.881.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.828.0-alpha.745.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.828.0-alpha.748.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

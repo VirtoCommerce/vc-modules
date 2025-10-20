@@ -5080,9 +5080,9 @@
       },
       {
         "Version": "3.941.0",
-        "VersionTag": "alpha.151",
+        "VersionTag": "alpha.152",
         "PlatformVersion": "3.895.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.941.0-alpha.151.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.941.0-alpha.152.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

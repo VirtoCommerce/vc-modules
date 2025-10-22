@@ -2259,10 +2259,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.908.0",
+        "Version": "3.910.0",
         "VersionTag": "",
         "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.908.0/VirtoCommerce.Quote_3.908.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.910.0/VirtoCommerce.Quote_3.910.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -2272,7 +2272,7 @@
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.810.0",
+            "Version": "3.826.0",
             "Optional": false
           },
           {
@@ -2302,7 +2302,7 @@
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.800.0",
+            "Version": "3.802.0",
             "Optional": false
           },
           {

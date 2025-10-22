@@ -5298,10 +5298,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.947.0",
-        "VersionTag": "alpha.169",
+        "Version": "3.948.0",
+        "VersionTag": "alpha.170",
         "PlatformVersion": "3.903.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.947.0-alpha.169.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.948.0-alpha.170.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

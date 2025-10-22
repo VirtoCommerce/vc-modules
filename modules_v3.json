@@ -5299,9 +5299,9 @@
       },
       {
         "Version": "3.947.0",
-        "VersionTag": "alpha.168",
+        "VersionTag": "alpha.169",
         "PlatformVersion": "3.903.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.947.0-alpha.168.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.947.0-alpha.169.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

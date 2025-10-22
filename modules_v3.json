@@ -2334,10 +2334,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.909.0",
-        "VersionTag": "alpha.464",
+        "Version": "3.910.0",
+        "VersionTag": "alpha.472",
         "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.909.0-alpha.464.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.910.0-alpha.472.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -2347,7 +2347,7 @@
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.810.0",
+            "Version": "3.826.0",
             "Optional": false
           },
           {
@@ -2377,7 +2377,7 @@
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.800.0",
+            "Version": "3.802.0",
             "Optional": false
           },
           {

@@ -3544,10 +3544,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.810.0",
-        "VersionTag": "alpha.121",
+        "Version": "3.811.0",
+        "VersionTag": "alpha.122",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Return_3.810.0-alpha.121.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Return_3.811.0-alpha.122.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

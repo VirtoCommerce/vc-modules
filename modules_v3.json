@@ -3814,10 +3814,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.905.0",
-        "VersionTag": "alpha.135",
+        "Version": "3.906.0",
+        "VersionTag": "alpha.136",
         "PlatformVersion": "3.867.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.905.0-alpha.135.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.906.0-alpha.136.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

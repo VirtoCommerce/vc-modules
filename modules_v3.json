@@ -962,9 +962,9 @@
       },
       {
         "Version": "3.825.0",
-        "VersionTag": "alpha.420",
+        "VersionTag": "alpha.422",
         "PlatformVersion": "3.891.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.825.0-alpha.420.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.825.0-alpha.422.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

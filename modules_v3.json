@@ -3288,9 +3288,9 @@
       },
       {
         "Version": "3.808.0",
-        "VersionTag": "alpha.144",
+        "VersionTag": "alpha.145",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GDPR_3.808.0-alpha.144.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GDPR_3.808.0-alpha.145.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

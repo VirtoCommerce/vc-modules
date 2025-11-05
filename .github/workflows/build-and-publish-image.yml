@@ -82,6 +82,7 @@ jobs:
       run: |
         docker build -t local-platform:$TAG .
         docker save -o $TAG.tar local-platform:$TAG
+        pwd
       env:
         TAG: ${{ env.BUNDLE_VERSION }}-stable
 
@@ -89,7 +90,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: image-4test
-        path: ${{ env.BUNDLE_VERSION }}-stable.tar
+        path: ./vc-docker/linux/platform/${{ env.BUNDLE_VERSION }}-stable.tar
         retention-days: 1
 
   trivy-scan:

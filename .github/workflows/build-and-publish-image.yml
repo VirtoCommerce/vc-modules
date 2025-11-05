@@ -98,6 +98,7 @@ jobs:
       assigneeAccountId: '621c47c0302c6b006af0a1cd'
       assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
       exitCodeOnFoundVulnerabilities: '0'
+      imageRef: 'virtopaasregistrymain.azurecr.io'
       imageTag: ${{ needs.ci.outputs.tag }}
       imageTarName: 'image-4test'
       jiraProject: 'VDS'

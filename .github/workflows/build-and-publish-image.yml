@@ -42,7 +42,7 @@ jobs:
           if ($lastExitCode -ne 0) { throw "Failed to add file to git" }
           git commit -m "[skip ci] Automatic BundleVersion bump to $bumpVersion"
           if ($lastExitCode -ne 0) { throw "Failed to commit changes" }
-          git push
+          # git push
           if ($lastExitCode -ne 0) { throw "Failed to push changes" }
           Write-Host "Committed and pushed successfully"
         } else {
@@ -78,9 +78,10 @@ jobs:
         mv ./backend/platform ./vc-docker/linux/platform/publish
 
     - name: Build tarball file
+      working-directory: ./vc-docker/linux/platform
       run: |
-        docker build -t local-platform:$TAG .
-        docker save -o $TAG.tar local-platform:$TAG
+        docker build -t local-platform:`$TAG .
+        docker save -o $TAG.tar local-platform:`$TAG
       env:
         TAG: ${{ env.BUNDLE_VERSION }}-stable
 

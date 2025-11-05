@@ -80,8 +80,8 @@ jobs:
     - name: Build tarball file
       working-directory: ./vc-docker/linux/platform
       run: |
-        docker build -t local-platform:`$TAG .
-        docker save -o $TAG.tar local-platform:`$TAG
+        docker build -t local-platform:$TAG .
+        docker save -o $TAG.tar local-platform:$TAG
       env:
         TAG: ${{ env.BUNDLE_VERSION }}-stable
 

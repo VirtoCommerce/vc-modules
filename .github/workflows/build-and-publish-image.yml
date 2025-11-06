@@ -101,7 +101,7 @@ jobs:
       assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
       exitCodeOnFoundVulnerabilities: '0'
       imageRef: 'virtopaasregistrymain.azurecr.io'
-      imageTag: ${{ needs.ci.outputs.tag }}
+      imageTag: ${{ github.BUNDLE_VERSION }}-stable
       imageTarName: 'image-4test'
       jiraProject: 'VDS'
       trivyMode: 'tarball'

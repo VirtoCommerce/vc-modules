@@ -126,7 +126,9 @@ jobs:
         name: 'image-4test'
 
     - name: Load Docker image
-      run: docker load -i image-4test.tar
+      run: docker load -i $TAG.tar
+      env:
+        TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
 
     - name: Log in to Docker Registry
       uses: docker/login-action@v3

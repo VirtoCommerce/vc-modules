@@ -139,8 +139,8 @@ jobs:
 
     - name: Push Docker image
       run: |
-        docker tag image-4test:$TAG $CONTAINER_REGISTRY:$TAG
-        docker tag image-4test:$LATEST_TAG $CONTAINER_REGISTRY:$LATEST_TAG
+        docker tag local-platform:$TAG $CONTAINER_REGISTRY:$TAG
+        docker tag local-platform:$LATEST_TAG $CONTAINER_REGISTRY:$LATEST_TAG
         echo "docker push $CONTAINER_REGISTRY:$TAG"
         echo "docker push $CONTAINER_REGISTRY:$LATEST_TAG"
         # docker push $CONTAINER_REGISTRY:$TAG

@@ -60,9 +60,9 @@ jobs:
           echo "BUNDLE_VERSION=$bundleVersion" >> $env:GITHUB_ENV
         }
   
-    - name: Az config
-      run: |
-        az config set extension.use_dynamic_install=yes_without_prompt
+    # - name: Az config
+    #   run: |
+    #     az config set extension.use_dynamic_install=yes_without_prompt
     
     - name: Install vc-build
       run: |
@@ -77,21 +77,21 @@ jobs:
         git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
         mv ./backend/platform ./vc-docker/linux/platform/publish
 
-    - name: Build tarball file
-      working-directory: ./vc-docker/linux/platform
-      run: |
-        docker build -t local-platform:$TAG .
-        docker save -o $TAG.tar local-platform:$TAG
-        pwd
-      env:
-        TAG: ${{ env.BUNDLE_VERSION }}-stable
+    # - name: Build tarball file
+    #   working-directory: ./vc-docker/linux/platform
+    #   run: |
+    #     docker build -t local-platform:$TAG .
+    #     docker save -o $TAG.tar local-platform:$TAG
+    #     pwd
+    #   env:
+    #     TAG: ${{ env.BUNDLE_VERSION }}-stable
 
-    - name: Upload Docker image tarball
-      uses: actions/upload-artifact@v4
-      with:
-        name: image-4test
-        path: ./vc-docker/linux/platform/${{ env.BUNDLE_VERSION }}-stable.tar
-        retention-days: 1
+    # - name: Upload Docker image tarball
+    #   uses: actions/upload-artifact@v4
+    #   with:
+    #     name: image-4test
+    #     path: ./vc-docker/linux/platform/${{ env.BUNDLE_VERSION }}-stable.tar
+    #     retention-days: 1
 
   trivy-scan:
     needs: 'ci'

@@ -64,18 +64,18 @@ jobs:
     #   run: |
     #     az config set extension.use_dynamic_install=yes_without_prompt
     
-    - name: Install vc-build
-      run: |
-        dotnet tool install --global VirtoCommerce.GlobalTool
+    # - name: Install vc-build
+    #   run: |
+    #     dotnet tool install --global VirtoCommerce.GlobalTool
 
-    - name: Pack
-      run: |
-        vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
+    # - name: Pack
+    #   run: |
+    #     vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
 
-    - name: Get Dockerfile
-      run: |
-        git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
-        mv ./backend/platform ./vc-docker/linux/platform/publish
+    # - name: Get Dockerfile
+    #   run: |
+    #     git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
+    #     mv ./backend/platform ./vc-docker/linux/platform/publish
 
     # - name: Build tarball file
     #   working-directory: ./vc-docker/linux/platform
@@ -101,7 +101,7 @@ jobs:
       assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
       exitCodeOnFoundVulnerabilities: '0'
       imageRef: 'virtopaasregistrymain.azurecr.io'
-      imageTag: $env:BUNDLE_VERSION-stable
+      imageTag: ${{ env:BUNDLE_VERSION }}-stable
       imageTarName: 'image-4test'
       jiraProject: 'VDS'
       trivyMode: 'tarball'

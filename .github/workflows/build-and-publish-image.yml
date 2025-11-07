@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       BUNDLE_VERSION: ${{ steps.getBundleVersion.outputs.BUNDLE_VERSION }}
-
+      vulnSkipList: ${{ steps.vulnSkipList.outputs.vulnSkipList }}
     steps:
     - uses: actions/checkout@v5
       with:
@@ -95,6 +95,19 @@ jobs:
         path: ./vc-docker/linux/platform/${{ env.BUNDLE_VERSION }}-stable.tar
         retention-days: 1
 
+    - name: Extract vulnerabilities skip list
+      id: vulnSkipList
+      shell: pwsh
+      run: |
+        $vulnSkipList = @()
+        $skipList = (Get-Content ./trivyScan-ignore.json | ConvertFrom-Json)
+        foreach ($vulnerability in $skipList.PSObject.Properties.Name){
+          echo "Adding '$vulnerability' with '$($skipList.$vulnerability.Severity)' severity entry to trivy scan ignore list"
+          $vulnSkipList += $($skipList.$vulnerability.VulnerabilityID)
+        }
+        $stringSkipList = $vulnSkipList -join ","
+        echo "vulnSkipList=$stringSkipList" >> $env:GITHUB_OUTPUT
+
   trivy-scan:
     needs: 'ci'
     uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.18
@@ -107,7 +120,7 @@ jobs:
       imageTarName: 'image-4test'
       jiraProject: 'VCST'
       trivyMode: 'tarball'
-      vulnerabilitySkipList: ''
+      vulnerabilitySkipList: ${{ needs.ci.outputs.vulnSkipList }}
     secrets:
       JIRA_USER: ${{ secrets.JIRA_USER }}
       JIRA_TOKEN: ${{ secrets.JIRA_TOKEN }}

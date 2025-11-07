@@ -99,7 +99,7 @@ jobs:
 
   trivy-scan:
     needs: 'ci'
-    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@VCST-923  
+    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.18
     with:
       assigneeAccountId: '621c47c0302c6b006af0a1cd'
       assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
@@ -107,7 +107,7 @@ jobs:
       imageRef: 'virtopaasregistrymain.azurecr.io'
       imageTag: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
       imageTarName: 'image-4test'
-      jiraProject: 'VDS'
+      jiraProject: 'VCST'
       trivyMode: 'tarball'
       vulnerabilitySkipList: ''
     secrets:
@@ -153,20 +153,5 @@ jobs:
         IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
         TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
         LATEST_TAG: latest-stable
-
-    # - name: Build and Publish Docker Image
-    #   working-directory: ./vc-docker/linux/platform
-    #   run: |
-    #     vc-build BuildAndPush -DockerUsername $DOCKER_LOGIN -DockerPassword $DOCKER_PASSWORD -DockerfilePath $DOCKERFILE_PATH -DockerImageName $IMAGE_REPOSITORY -DockerImageTag $TAG -DockerRegistryUrl $CONTAINER_REGISTRY
-    #     docker tag $IMAGE_REPOSITORY:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
-    #     docker push $IMAGE_REPOSITORY:$LATEST_TAG
-    #   env:
-    #     DOCKER_LOGIN: VirtoPaaSRegistryMain
-    #     DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}
-    #     DOCKERFILE_PATH: ./Dockerfile
-    #     CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
-    #     IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
-    #     TAG: ${{ env.BUNDLE_VERSION }}-stable
-    #     LATEST_TAG: latest-stable
 
     

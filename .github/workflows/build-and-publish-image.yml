@@ -152,10 +152,8 @@ jobs:
       run: |
         docker tag local-platform:$TAG $CONTAINER_REGISTRY:$TAG
         docker tag local-platform:$TAG $CONTAINER_REGISTRY:$LATEST_TAG
-        echo "docker push $CONTAINER_REGISTRY:$TAG"
-        echo "docker push $CONTAINER_REGISTRY:$LATEST_TAG"
-        # docker push $CONTAINER_REGISTRY:$TAG
-        # docker push $CONTAINER_REGISTRY:$LATEST_TAG
+        docker push $CONTAINER_REGISTRY:$TAG
+        docker push $CONTAINER_REGISTRY:$LATEST_TAG
       env:
         DOCKER_LOGIN: VirtoPaaSRegistryMain
         DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}

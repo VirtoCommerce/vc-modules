@@ -1,9 +1,9 @@
 {
-    "GHSA-gmc6-fwg3-75m5": {
-        "VulnerabilityID": "GHSA-gmc6-fwg3-75m5",
-        "Title": "Mimekit has vulnerable dependency that can lead to denial of service",
-        "Description": "Denial of service vulnerability.",
-        "Severity": "HIGH",
-        "PrimaryURL": "https://github.com/advisories/GHSA-gmc6-fwg3-75m5"
-    }
+    // "GHSA-gmc6-fwg3-75m5": {
+    //     "VulnerabilityID": "GHSA-gmc6-fwg3-75m5",
+    //     "Title": "Mimekit has vulnerable dependency that can lead to denial of service",
+    //     "Description": "Denial of service vulnerability.",
+    //     "Severity": "HIGH",
+    //     "PrimaryURL": "https://github.com/advisories/GHSA-gmc6-fwg3-75m5"
+    // }
 }

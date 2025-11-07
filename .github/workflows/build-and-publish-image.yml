@@ -13,8 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     outputs:
       BUNDLE_VERSION: ${{ steps.getBundleVersion.outputs.BUNDLE_VERSION }}
-    # env:
-    #   ARGO_APP_NAME: ${{ github.ref_name }}
 
     steps:
     - uses: actions/checkout@v5
@@ -44,7 +42,7 @@ jobs:
           if ($lastExitCode -ne 0) { throw "Failed to add file to git" }
           git commit -m "[skip ci] Automatic BundleVersion bump to $bumpVersion"
           if ($lastExitCode -ne 0) { throw "Failed to commit changes" }
-          # git push
+          git push
           if ($lastExitCode -ne 0) { throw "Failed to push changes" }
           Write-Host "Committed and pushed successfully"
         } else {

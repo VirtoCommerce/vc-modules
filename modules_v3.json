@@ -1365,9 +1365,9 @@
       },
       {
         "Version": "3.814.0",
-        "VersionTag": "alpha.224",
+        "VersionTag": "alpha.225",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.814.0-alpha.224.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.814.0-alpha.225.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1378,6 +1378,11 @@
           {
             "Id": "VirtoCommerce.Store",
             "Version": "3.809.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.818.0",
             "Optional": false
           }
         ],

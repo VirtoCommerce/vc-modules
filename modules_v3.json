@@ -1746,10 +1746,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.905.0",
+        "Version": "3.906.0",
         "VersionTag": "",
         "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.905.0/VirtoCommerce.CustomerReviews_3.905.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-review/releases/download/3.906.0/VirtoCommerce.CustomerReviews_3.906.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -2269,10 +2269,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.911.0",
+        "Version": "3.912.0",
         "VersionTag": "",
         "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.911.0/VirtoCommerce.Quote_3.911.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.912.0/VirtoCommerce.Quote_3.912.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

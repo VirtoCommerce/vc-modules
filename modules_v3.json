@@ -4920,10 +4920,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.926.0",
+        "Version": "3.927.0",
         "VersionTag": "",
         "PlatformVersion": "3.895.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-api/releases/download/3.926.0/VirtoCommerce.Xapi_3.926.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-api/releases/download/3.927.0/VirtoCommerce.Xapi_3.927.0.zip",
         "Incompatibilities": [
           {
             "Id": "VirtoCommerce.ExperienceApi",
@@ -4949,7 +4949,7 @@
           },
           {
             "Id": "VirtoCommerce.Seo",
-            "Version": "3.807.0",
+            "Version": "3.810.0",
             "Optional": false
           },
           {

@@ -4275,9 +4275,9 @@
       },
       {
         "Version": "3.829.0",
-        "VersionTag": "alpha.749",
-        "PlatformVersion": "3.881.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.829.0-alpha.749.zip",
+        "VersionTag": "alpha.756",
+        "PlatformVersion": "3.895.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.829.0-alpha.756.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4287,7 +4287,7 @@
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.824.0",
+            "Version": "3.831.0",
             "Optional": false
           },
           {
@@ -4296,19 +4296,24 @@
             "Optional": false
           },
           {
-            "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0",
-            "Optional": false
-          },
-          {
-            "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0",
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.833.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.805.0",
+            "Version": "3.810.0",
             "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.816.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.818.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": null

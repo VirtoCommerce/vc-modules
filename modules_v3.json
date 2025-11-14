@@ -5182,29 +5182,29 @@
       },
       {
         "Version": "3.903.0",
-        "VersionTag": "alpha.29",
+        "VersionTag": "alpha.35",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.903.0-alpha.29.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.903.0-alpha.35.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.904.0",
+            "Version": "3.927.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.815.0",
+            "Version": "3.831.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0",
+            "Version": "3.833.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.804.0",
+            "Version": "3.810.0",
             "Optional": true
           }
         ],

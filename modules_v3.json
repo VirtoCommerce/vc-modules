@@ -1457,9 +1457,9 @@
       },
       {
         "Version": "3.820.0",
-        "VersionTag": "alpha.386",
+        "VersionTag": "alpha.389",
         "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.820.0-alpha.386.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.820.0-alpha.389.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

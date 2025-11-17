@@ -4843,10 +4843,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.805.0",
+        "Version": "3.806.0",
         "VersionTag": "",
-        "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-builder-io/releases/download/3.805.0/VirtoCommerce.BuilderIO_3.805.0.zip",
+        "PlatformVersion": "3.895.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-builder-io/releases/download/3.806.0/VirtoCommerce.BuilderIO_3.806.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4856,13 +4856,13 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0",
+            "Version": "3.818.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.804.0",
-            "Optional": false
+            "Version": "3.810.0",
+            "Optional": true
           }
         ],
         "ReleaseNotes": "First version."

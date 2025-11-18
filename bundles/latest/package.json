@@ -1,12 +1,11 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.887.7",
+  "PlatformVersion": "3.887.8",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.21.0/vc-theme-b2b-vue-2.21.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.887.7",
+  "PlatformImageTag": "3.887.8",
   "PlatformAssetUrl": "",
-  "BundleVersion": "11.0.3",
-  "Sources": [
+ "Sources": [
     {
       "Name": "AzureBlob",
       "Container": "packages",
@@ -125,7 +124,7 @@
         },
         {
           "Id": "VirtoCommerce.Marketing",
-          "Version": "3.817.0"
+          "Version": "3.817.1"
         },
         {
           "Id": "VirtoCommerce.GoogleSSO",
@@ -181,19 +180,19 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.829.1"
+          "Version": "3.829.3"
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.861.6"
+          "Version": "3.861.9"
         },
         {
           "Id": "VirtoCommerce.ProfileExperienceApiModule",
-          "Version": "3.911.0"
+          "Version": "3.911.1"
         },
         {
           "Id": "VirtoCommerce.XCatalog",
-          "Version": "3.915.0"
+          "Version": "3.915.1"
         },
         {
           "Id": "VirtoCommerce.Xapi",

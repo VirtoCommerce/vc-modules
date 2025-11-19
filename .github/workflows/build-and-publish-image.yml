@@ -109,7 +109,7 @@ jobs:
 
   trivy-scan:
     needs: 'ci'
-    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@VCST-923 #v3.800.18
+    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.19
     with:
       assigneeAccountId: '621c47c0302c6b006af0a1cd'
       assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'

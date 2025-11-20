@@ -36,6 +36,10 @@
     "Version": "3.904.0-alpha.2432-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.CatalogPersonalization",
+    "Version": "3.808.0-alpha.279-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.Content",
     "Version": "3.832.0-alpha.1022-vcst-4203-cleanup"
   },

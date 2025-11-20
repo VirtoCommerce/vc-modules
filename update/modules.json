@@ -112,6 +112,10 @@
     "Version": "3.816.0-alpha.232-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.Sitemaps",
+    "Version": "3.821.0-alpha.394-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.Store",
     "Version": "3.823.0-alpha.763-vcst-4203-cleanup"
   },

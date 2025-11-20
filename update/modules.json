@@ -40,6 +40,10 @@
     "Version": "3.823.0-alpha.1666-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.Customer",
+    "Version": "3.846.0-alpha.929-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.ElasticAppSearch",
     "Version": "3.816.0-alpha.161-vcst-4203-cleanup"
   },

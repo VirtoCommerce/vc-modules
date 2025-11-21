@@ -52,6 +52,10 @@
     "Version": "3.832.0-alpha.1022-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.Contracts",
+    "Version": "3.906.0-alpha.140-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.Core",
     "Version": "3.823.0-alpha.1666-vcst-4203-cleanup"
   },

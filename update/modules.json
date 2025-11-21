@@ -104,6 +104,10 @@
     "Version": "3.806.0-alpha.218-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.Marketing",
+    "Version": "3.824.0-alpha.901-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.Notifications",
     "Version": "3.828.0-alpha.429-vcst-4203-cleanup"
   },

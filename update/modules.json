@@ -40,6 +40,10 @@
     "Version": "3.808.0-alpha.279-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.CatalogPublishing",
+    "Version": "3.809.0-alpha.377-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.Content",
     "Version": "3.832.0-alpha.1022-vcst-4203-cleanup"
   },

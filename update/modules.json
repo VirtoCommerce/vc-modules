@@ -72,6 +72,10 @@
     "Version": "3.808.0-alpha.258-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.FileExperienceApi",
+    "Version": "3.906.0-alpha.58-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.FileSystemAssets",
     "Version": "3.806.0-alpha.113-vcst-4203-cleanup"
   },

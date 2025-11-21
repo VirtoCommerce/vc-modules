@@ -16,6 +16,10 @@
     "Version": "3.806.0-alpha.94-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.AvalaraTax",
+    "Version": "3.805.0-alpha.331-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.AzureAD",
     "Version": "3.805.0-alpha.52-vcst-4203-cleanup"
   },
@@ -109,7 +113,7 @@
   },
   {
     "Id": "VirtoCommerce.Marketing",
-    "Version": "3.824.0-alpha.901-vcst-4203-cleanup"
+    "Version": "3.824.0-alpha.902-vcst-4203-cleanup"
   },
   {
     "Id": "VirtoCommerce.Notifications",

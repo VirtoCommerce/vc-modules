@@ -12,6 +12,10 @@
     "Version": "3.814.0-alpha.161-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.AuthorizeNetPayment",
+    "Version": "3.806.0-alpha.94-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.AzureAD",
     "Version": "3.805.0-alpha.52-vcst-4203-cleanup"
   },

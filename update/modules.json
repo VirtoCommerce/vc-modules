@@ -188,6 +188,10 @@
     "Version": "3.928.0-alpha.130-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.XCatalog",
+    "Version": "3.942.0-alpha.157-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.XCMS",
     "Version": "3.904.0-alpha.40-vcst-4203-cleanup"
   }

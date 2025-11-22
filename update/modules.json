@@ -198,5 +198,9 @@
   {
     "Id": "VirtoCommerce.XCMS",
     "Version": "3.904.0-alpha.40-vcst-4203-cleanup"
+  },
+  {
+    "Id": "VirtoCommerce.XOrder",
+    "Version": "3.914.0-alpha.81-vcst-4203-cleanup"
   }
 ]

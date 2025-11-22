@@ -144,6 +144,10 @@
     "Version": "3.906.0-alpha.77-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.Return",
+    "Version": "3.813.0-alpha.129-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.Search",
     "Version": "3.820.0-alpha.795-vcst-4203-cleanup"
   },

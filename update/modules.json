@@ -188,6 +188,10 @@
     "Version": "3.928.0-alpha.130-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.XCart",
+    "Version": "3.949.0-alpha.176-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.XCatalog",
     "Version": "3.942.0-alpha.157-vcst-4203-cleanup"
   },

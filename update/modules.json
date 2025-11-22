@@ -168,6 +168,10 @@
     "Version": "3.823.0-alpha.763-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.Subscription",
+    "Version": "3.812.0-alpha.362-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.Tax",
     "Version": "3.807.0-alpha.205-vcst-4203-cleanup"
   },

@@ -92,6 +92,10 @@
     "Version": "3.806.0-alpha.113-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.GDPR",
+    "Version": "3.809.0-alpha.150-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.GoogleEcommerceAnalytics",
     "Version": "4.806.0-alpha.210-vcst-4203-cleanup"
   },

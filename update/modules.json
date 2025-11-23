@@ -72,6 +72,10 @@
     "Version": "3.846.0-alpha.929-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.CustomerReviews",
+    "Version": "3.907.0-alpha.258-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.DynamicAssociationsModule",
     "Version": "3.811.0-alpha.181-vcst-4203-cleanup"
   },

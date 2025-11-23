@@ -144,6 +144,10 @@
     "Version": "3.822.0-alpha.781-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.ProfileExperienceApiModule",
+    "Version": "3.925.0-alpha.313-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.PushMessages",
     "Version": "3.906.0-alpha.77-vcst-4203-cleanup"
   },

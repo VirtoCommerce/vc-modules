@@ -2251,7 +2251,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://virtocommerce.com/apps/extensions/quote-module",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-quote",
     "IconUrl": "Modules/$(VirtoCommerce.Quote)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011–2025 Virto Commerce. All rights reserved",

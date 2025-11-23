@@ -160,6 +160,10 @@
     "Version": "3.906.0-alpha.77-vcst-4203-cleanup"
   },
   {
+    "Id": "VirtoCommerce.Quote",
+    "Version": "3.913.0-alpha.481-vcst-4203-cleanup"
+  },
+  {
     "Id": "VirtoCommerce.Return",
     "Version": "3.813.0-alpha.129-vcst-4203-cleanup"
   },

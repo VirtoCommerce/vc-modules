@@ -936,10 +936,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.827.0",
+        "Version": "3.828.0",
         "VersionTag": "",
         "PlatformVersion": "3.891.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.827.0/VirtoCommerce.Notifications_3.827.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.828.0/VirtoCommerce.Notifications_3.828.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -951,10 +951,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.828.0",
-        "VersionTag": "alpha.428",
+        "Version": "3.829.0",
+        "VersionTag": "alpha.433",
         "PlatformVersion": "3.891.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.828.0-alpha.428.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.829.0-alpha.433.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1294,19 +1294,19 @@
     ],
     "Versions": [
       {
-        "Version": "3.819.0",
+        "Version": "3.820.0",
         "VersionTag": "",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.819.0/VirtoCommerce.Search_3.819.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-search/releases/download/3.820.0/VirtoCommerce.Search_3.820.0.zip",
         "Incompatibilities": [],
         "Dependencies": [],
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.820.0",
-        "VersionTag": "alpha.794",
+        "Version": "3.821.0",
+        "VersionTag": "alpha.799",
         "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.820.0-alpha.794.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.821.0-alpha.799.zip",
         "Incompatibilities": [],
         "Dependencies": [],
         "ReleaseNotes": ""
@@ -2251,7 +2251,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://virtocommerce.com/apps/extensions/quote-module",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-quote",
     "IconUrl": "Modules/$(VirtoCommerce.Quote)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011–2025 Virto Commerce. All rights reserved",
@@ -3746,10 +3746,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.470",
+        "Version": "3.800.471",
         "VersionTag": "",
         "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.470/VirtoCommerce.CITest_3.800.470.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.471/VirtoCommerce.CITest_3.800.471.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."
@@ -5248,10 +5248,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.947.0",
+        "Version": "3.948.0",
         "VersionTag": "",
         "PlatformVersion": "3.903.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cart/releases/download/3.947.0/VirtoCommerce.XCart_3.947.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cart/releases/download/3.948.0/VirtoCommerce.XCart_3.948.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5308,10 +5308,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.948.0",
-        "VersionTag": "alpha.170",
+        "Version": "3.949.0",
+        "VersionTag": "alpha.175",
         "PlatformVersion": "3.903.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.948.0-alpha.170.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.949.0-alpha.175.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

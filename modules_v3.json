@@ -951,10 +951,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.829.0",
-        "VersionTag": "alpha.434",
+        "Version": "3.830.0",
+        "VersionTag": "alpha.435",
         "PlatformVersion": "3.891.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.829.0-alpha.434.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.830.0-alpha.435.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

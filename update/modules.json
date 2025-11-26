@@ -1,7 +1,7 @@
 [
   {
     "Id": "VirtoCommerce.Platform",
-    "Version": "3.916.0-alpha.13164-vcst-4203-cleanup"
+    "Version": "3.917.0"
   },
   {
     "Id": "VirtoCommerce.ApplicationInsights",

@@ -93,7 +93,7 @@
   },
   {
     "Id": "VirtoCommerce.Export",
-    "Version": "3.808.0-alpha.258-vcst-4203-cleanup"
+    "Version": "3.808.0"
   },
   {
     "Id": "VirtoCommerce.FileExperienceApi",

@@ -4001,7 +4001,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-azure-ad",
     "IconUrl": "Modules/$(VirtoCommerce.AzureAD)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
     "Tags": "extension module",
     "Groups": [
       "commerce"
@@ -4018,9 +4018,9 @@
       },
       {
         "Version": "3.805.0",
-        "VersionTag": "alpha.41",
-        "PlatformVersion": "3.856.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureAD_3.805.0-alpha.41.zip",
+        "VersionTag": "alpha.55",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureAD_3.805.0-alpha.55.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

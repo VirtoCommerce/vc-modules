@@ -133,7 +133,7 @@
   },
   {
     "Id": "VirtoCommerce.Notifications",
-    "Version": "3.828.0-alpha.429-vcst-4203-cleanup"
+    "Version": "3.830.0"
   },
   {
     "Id": "VirtoCommerce.Orders",

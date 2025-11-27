@@ -2207,15 +2207,15 @@
     ],
     "Versions": [
       {
-        "Version": "3.804.0",
+        "Version": "3.805.0",
         "VersionTag": "",
-        "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions/releases/download/3.804.0/VirtoCommerce.BulkActionsModule_3.804.0.zip",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions/releases/download/3.805.0/VirtoCommerce.BulkActionsModule_3.805.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.808.0",
+            "Version": "3.824.0",
             "Optional": false
           }
         ],

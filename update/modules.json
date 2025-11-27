@@ -33,7 +33,7 @@
   },
   {
     "Id": "VirtoCommerce.BulkActionsModule",
-    "Version": "3.805.0-alpha.229-vcst-4203-cleanup"
+    "Version": "3.805.0"
   },
   {
     "Id": "VirtoCommerce.Cart",

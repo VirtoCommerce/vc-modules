@@ -29,7 +29,7 @@
   },
   {
     "Id": "VirtoCommerce.AzureSearch",
-    "Version": "3.809.0-alpha.260-vcst-4203-cleanup"
+    "Version": "3.809.0"
   },
   {
     "Id": "VirtoCommerce.BulkActionsModule",

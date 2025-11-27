@@ -85,7 +85,7 @@
   },
   {
     "Id": "VirtoCommerce.ElasticSearch8",
-    "Version": "3.823.0-alpha.137-vcst-4203-cleanup"
+    "Version": "3.824.0"
   },
   {
     "Id": "VirtoCommerce.EventBus",

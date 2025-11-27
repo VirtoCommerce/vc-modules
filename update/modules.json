@@ -113,7 +113,7 @@
   },
   {
     "Id": "VirtoCommerce.GoogleSSO",
-    "Version": "3.804.0-alpha.31-vcst-4203-cleanup"
+    "Version": "3.804.0"
   },
   {
     "Id": "VirtoCommerce.ImageTools",

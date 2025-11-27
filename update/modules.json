@@ -89,7 +89,7 @@
   },
   {
     "Id": "VirtoCommerce.EventBus",
-    "Version": "3.809.0-alpha.159-vcst-4203-cleanup"
+    "Version": "3.809.0"
   },
   {
     "Id": "VirtoCommerce.Export",

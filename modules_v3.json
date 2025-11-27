@@ -952,14 +952,14 @@
       },
       {
         "Version": "3.830.0",
-        "VersionTag": "alpha.435",
-        "PlatformVersion": "3.891.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.830.0-alpha.435.zip",
+        "VersionTag": "alpha.436",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.830.0-alpha.436.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0",
+            "Version": "3.814.0",
             "Optional": false
           }
         ],

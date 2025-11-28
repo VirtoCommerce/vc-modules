@@ -936,15 +936,15 @@
     ],
     "Versions": [
       {
-        "Version": "3.829.0",
+        "Version": "3.830.0",
         "VersionTag": "",
-        "PlatformVersion": "3.891.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.829.0/VirtoCommerce.Notifications_3.829.0.zip",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-notification/releases/download/3.830.0/VirtoCommerce.Notifications_3.830.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0",
+            "Version": "3.814.0",
             "Optional": false
           }
         ],

@@ -2006,24 +2006,24 @@
       },
       {
         "Version": "3.808.0",
-        "VersionTag": "alpha.272",
-        "PlatformVersion": "3.889.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.808.0-alpha.272.zip",
+        "VersionTag": "alpha.279",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.808.0-alpha.279.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.868.0",
+            "Version": "3.904.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.821.0",
+            "Version": "3.824.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.808.0",
+            "Version": "3.821.0",
             "Optional": false
           }
         ],

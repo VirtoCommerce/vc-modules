@@ -41,7 +41,7 @@
   },
   {
     "Id": "VirtoCommerce.Catalog",
-    "Version": "3.904.0-alpha.2432-vcst-4203-cleanup"
+    "Version": "3.904.0"
   },
   {
     "Id": "VirtoCommerce.CatalogCsvImportModule",
@@ -57,7 +57,7 @@
   },
   {
     "Id": "VirtoCommerce.Content",
-    "Version": "3.832.0-alpha.1022-vcst-4203-cleanup"
+    "Version": "3.833.0"
   },
   {
     "Id": "VirtoCommerce.Contracts",
@@ -69,7 +69,7 @@
   },
   {
     "Id": "VirtoCommerce.Customer",
-    "Version": "3.846.0-alpha.929-vcst-4203-cleanup"
+    "Version": "3.846.0"
   },
   {
     "Id": "VirtoCommerce.CustomerReviews",
@@ -109,7 +109,7 @@
   },
   {
     "Id": "VirtoCommerce.GoogleEcommerceAnalytics",
-    "Version": "4.806.0-alpha.210-vcst-4203-cleanup"
+    "Version": "4.806.0"
   },
   {
     "Id": "VirtoCommerce.GoogleSSO",
@@ -145,7 +145,7 @@
   },
   {
     "Id": "VirtoCommerce.Payment",
-    "Version": "3.811.0-alpha.257-vcst-4203-cleanup"
+    "Version": "3.811.0"
   },
   {
     "Id": "VirtoCommerce.Pricing",
@@ -177,7 +177,7 @@
   },
   {
     "Id": "VirtoCommerce.Shipping",
-    "Version": "3.816.0-alpha.232-vcst-4203-cleanup"
+    "Version": "3.816.0"
   },
   {
     "Id": "VirtoCommerce.Sitemaps",
@@ -193,7 +193,7 @@
   },
   {
     "Id": "VirtoCommerce.Tax",
-    "Version": "3.807.0-alpha.205-vcst-4203-cleanup"
+    "Version": "3.807.0"
   },
   {
     "Id": "VirtoCommerce.WebHooks",

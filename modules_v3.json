@@ -2005,10 +2005,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.808.0",
-        "VersionTag": "alpha.279",
+        "Version": "3.809.0",
+        "VersionTag": "alpha.280",
         "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.808.0-alpha.279.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.809.0-alpha.280.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

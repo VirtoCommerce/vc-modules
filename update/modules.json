@@ -222,5 +222,13 @@
   {
     "Id": "VirtoCommerce.WhiteLabeling",
     "Version": "3.908.0"
+  },
+  {
+    "Id": "VirtoCommerce.AuthorizeNetPayment",
+    "Version": "3.805.0"
+  },
+  {
+    "Id": "VirtoCommerce.AvalaraTax",
+    "Version": "3.804.0"
   }
 ]

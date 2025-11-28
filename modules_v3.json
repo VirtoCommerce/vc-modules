@@ -1446,10 +1446,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.821.0",
-        "VersionTag": "alpha.394",
+        "Version": "3.822.0",
+        "VersionTag": "alpha.395",
         "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.821.0-alpha.394.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.822.0-alpha.395.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

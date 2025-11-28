@@ -1406,10 +1406,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.821.0",
+        "Version": "3.822.0",
         "VersionTag": "",
         "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/3.821.0/VirtoCommerce.Sitemaps_3.821.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps/releases/download/3.822.0/VirtoCommerce.Sitemaps_3.822.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1424,7 +1424,7 @@
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.833.0",
+            "Version": "3.834.0",
             "Optional": false
           },
           {

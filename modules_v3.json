@@ -2513,7 +2513,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://virtocommerce.com",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-experience-api",
     "IconUrl": "Modules/$(VirtoCommerce.ExperienceApi)/Content/logoVC.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2024 Virto Commerce. All rights reserved",
@@ -3319,7 +3319,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://virtocommerce.com/apps/extensions/vc-module-changes-collector",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-changes-collector",
     "IconUrl": "Modules/$(VirtoCommerce.MetadataModule)/Content/logo.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2021 Virto Commerce. All rights reserved",

@@ -5441,39 +5441,39 @@
       },
       {
         "Version": "3.914.0",
-        "VersionTag": "alpha.74",
-        "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.914.0-alpha.74.zip",
+        "VersionTag": "alpha.81",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.914.0-alpha.81.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.904.0",
+            "Version": "3.906.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.853.0",
+            "Version": "3.863.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.809.0",
+            "Version": "3.811.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.915.0",
+            "Version": "3.929.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.926.0",
+            "Version": "3.950.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.919.0",
+            "Version": "3.942.0",
             "Optional": false
           }
         ],

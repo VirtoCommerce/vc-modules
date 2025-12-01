@@ -45,7 +45,7 @@
   },
   {
     "Id": "VirtoCommerce.CatalogCsvImportModule",
-    "Version": "3.817.0-alpha.361-vcst-4203-cleanup"
+    "Version": "3.817.0"
   },
   {
     "Id": "VirtoCommerce.CatalogPersonalization",
@@ -53,7 +53,7 @@
   },
   {
     "Id": "VirtoCommerce.CatalogPublishing",
-    "Version": "3.809.0-alpha.377-vcst-4203-cleanup"
+    "Version": "3.809.0"
   },
   {
     "Id": "VirtoCommerce.Content",
@@ -61,7 +61,7 @@
   },
   {
     "Id": "VirtoCommerce.Contracts",
-    "Version": "3.906.0-alpha.140-vcst-4203-cleanup"
+    "Version": "3.906.0"
   },
   {
     "Id": "VirtoCommerce.Core",
@@ -97,7 +97,7 @@
   },
   {
     "Id": "VirtoCommerce.FileExperienceApi",
-    "Version": "3.906.0-alpha.58-vcst-4203-cleanup"
+    "Version": "3.906.0"
   },
   {
     "Id": "VirtoCommerce.FileSystemAssets",
@@ -137,7 +137,7 @@
   },
   {
     "Id": "VirtoCommerce.Orders",
-    "Version": "3.863.0-alpha.1370-vcst-4203-cleanup"
+    "Version": "3.863.0"
   },
   {
     "Id": "VirtoCommerce.Pages",
@@ -157,7 +157,7 @@
   },
   {
     "Id": "VirtoCommerce.PushMessages",
-    "Version": "3.906.0-alpha.77-vcst-4203-cleanup"
+    "Version": "3.906.0"
   },
   {
     "Id": "VirtoCommerce.Quote",
@@ -181,7 +181,7 @@
   },
   {
     "Id": "VirtoCommerce.Sitemaps",
-    "Version": "3.821.0"
+    "Version": "3.822.0"
   },
   {
     "Id": "VirtoCommerce.Store",
@@ -213,7 +213,7 @@
   },
   {
     "Id": "VirtoCommerce.XCMS",
-    "Version": "3.904.0-alpha.40-vcst-4203-cleanup"
+    "Version": "3.904.0"
   },
   {
     "Id": "VirtoCommerce.XOrder",

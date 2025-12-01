@@ -3288,19 +3288,19 @@
       },
       {
         "Version": "3.809.0",
-        "VersionTag": "alpha.146",
-        "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GDPR_3.809.0-alpha.146.zip",
+        "VersionTag": "alpha.150",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GDPR_3.809.0-alpha.150.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0",
+            "Version": "3.846.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0",
+            "Version": "3.863.0",
             "Optional": false
           }
         ],

@@ -153,7 +153,7 @@
   },
   {
     "Id": "VirtoCommerce.ProfileExperienceApiModule",
-    "Version": "3.925.0-alpha.313-vcst-4203-cleanup"
+    "Version": "3.926.0"
   },
   {
     "Id": "VirtoCommerce.PushMessages",
@@ -161,7 +161,7 @@
   },
   {
     "Id": "VirtoCommerce.Quote",
-    "Version": "3.913.0-alpha.481-vcst-4203-cleanup"
+    "Version": "3.913.0"
   },
   {
     "Id": "VirtoCommerce.Return",
@@ -217,6 +217,6 @@
   },
   {
     "Id": "VirtoCommerce.XOrder",
-    "Version": "3.914.0-alpha.81-vcst-4203-cleanup"
+    "Version": "3.914.0"
   }
 ]

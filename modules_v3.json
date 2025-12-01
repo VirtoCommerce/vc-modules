@@ -3287,10 +3287,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.809.0",
-        "VersionTag": "alpha.150",
+        "Version": "3.810.0",
+        "VersionTag": "alpha.151",
         "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GDPR_3.809.0-alpha.150.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GDPR_3.810.0-alpha.151.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

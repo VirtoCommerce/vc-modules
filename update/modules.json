@@ -77,7 +77,7 @@
   },
   {
     "Id": "VirtoCommerce.DynamicAssociationsModule",
-    "Version": "3.811.0-alpha.181-vcst-4203-cleanup"
+    "Version": "3.811.0"
   },
   {
     "Id": "VirtoCommerce.ElasticAppSearch",
@@ -209,7 +209,7 @@
   },
   {
     "Id": "VirtoCommerce.XCatalog",
-    "Version": "3.942.0-alpha.157-vcst-4203-cleanup"
+    "Version": "3.942.0"
   },
   {
     "Id": "VirtoCommerce.XCMS",

@@ -13,11 +13,11 @@
   },
   {
     "Id": "VirtoCommerce.AuthorizeNetPayment",
-    "Version": "3.806.0-alpha.94-vcst-4203-cleanup"
+    "Version": "3.806.0"
   },
   {
     "Id": "VirtoCommerce.AvalaraTax",
-    "Version": "3.805.0-alpha.331-vcst-4203-cleanup"
+    "Version": "3.805.0"
   },
   {
     "Id": "VirtoCommerce.AzureAD",
@@ -105,7 +105,7 @@
   },
   {
     "Id": "VirtoCommerce.GDPR",
-    "Version": "3.809.0-alpha.150-vcst-4203-cleanup"
+    "Version": "3.809.0"
   },
   {
     "Id": "VirtoCommerce.GoogleEcommerceAnalytics",
@@ -129,7 +129,7 @@
   },
   {
     "Id": "VirtoCommerce.Marketing",
-    "Version": "3.824.0-alpha.902-vcst-4203-cleanup"
+    "Version": "3.824.0"
   },
   {
     "Id": "VirtoCommerce.Notifications",
@@ -165,7 +165,7 @@
   },
   {
     "Id": "VirtoCommerce.Return",
-    "Version": "3.813.0-alpha.129-vcst-4203-cleanup"
+    "Version": "3.813.0"
   },
   {
     "Id": "VirtoCommerce.Search",
@@ -189,7 +189,7 @@
   },
   {
     "Id": "VirtoCommerce.Subscription",
-    "Version": "3.812.0-alpha.362-vcst-4203-cleanup"
+    "Version": "3.812.0"
   },
   {
     "Id": "VirtoCommerce.Tax",

@@ -5309,59 +5309,59 @@
       },
       {
         "Version": "3.950.0",
-        "VersionTag": "alpha.177",
-        "PlatformVersion": "3.903.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.950.0-alpha.177.zip",
+        "VersionTag": "alpha.178",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.950.0-alpha.178.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.868.0",
-            "Optional": false
-          },
-          {
-            "Id": "VirtoCommerce.Cart",
-            "Version": "3.836.0",
-            "Optional": false
-          },
-          {
-            "Id": "VirtoCommerce.FileExperienceApi",
             "Version": "3.904.0",
             "Optional": false
           },
           {
+            "Id": "VirtoCommerce.Cart",
+            "Version": "3.840.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.FileExperienceApi",
+            "Version": "3.906.0",
+            "Optional": false
+          },
+          {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.805.0",
+            "Version": "3.815.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.820.0",
+            "Version": "3.824.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.809.0",
-            "Optional": false
-          },
-          {
-            "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0",
-            "Optional": false
-          },
-          {
-            "Id": "VirtoCommerce.Shipping",
             "Version": "3.811.0",
             "Optional": false
           },
           {
+            "Id": "VirtoCommerce.Pricing",
+            "Version": "3.822.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Shipping",
+            "Version": "3.816.0",
+            "Optional": false
+          },
+          {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.918.0",
+            "Version": "3.929.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.919.0",
+            "Version": "3.942.0",
             "Optional": false
           }
         ],

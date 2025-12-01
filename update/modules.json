@@ -25,7 +25,7 @@
   },
   {
     "Id": "VirtoCommerce.AzureBlobAssets",
-    "Version": "3.812.0"
+    "Version": "3.813.0"
   },
   {
     "Id": "VirtoCommerce.AzureSearch",
@@ -37,7 +37,7 @@
   },
   {
     "Id": "VirtoCommerce.Cart",
-    "Version": "3.840.0-alpha.764-vcst-4203-cleanup"
+    "Version": "3.840.0"
   },
   {
     "Id": "VirtoCommerce.Catalog",
@@ -49,7 +49,7 @@
   },
   {
     "Id": "VirtoCommerce.CatalogPersonalization",
-    "Version": "3.808.0-alpha.279-vcst-4203-cleanup"
+    "Version": "3.808.0"
   },
   {
     "Id": "VirtoCommerce.CatalogPublishing",
@@ -57,7 +57,7 @@
   },
   {
     "Id": "VirtoCommerce.Content",
-    "Version": "3.833.0"
+    "Version": "3.834.0"
   },
   {
     "Id": "VirtoCommerce.Contracts",
@@ -101,7 +101,7 @@
   },
   {
     "Id": "VirtoCommerce.FileSystemAssets",
-    "Version": "3.806.0"
+    "Version": "3.807.0"
   },
   {
     "Id": "VirtoCommerce.GDPR",
@@ -121,7 +121,7 @@
   },
   {
     "Id": "VirtoCommerce.Inventory",
-    "Version": "3.815.0-alpha.498-vcst-4203-cleanup"
+    "Version": "3.815.0"
   },
   {
     "Id": "VirtoCommerce.LuceneSearch",
@@ -141,7 +141,7 @@
   },
   {
     "Id": "VirtoCommerce.Pages",
-    "Version": "3.811.0-alpha.38-vcst-4203-cleanup"
+    "Version": "3.811.0"
   },
   {
     "Id": "VirtoCommerce.Payment",
@@ -149,7 +149,7 @@
   },
   {
     "Id": "VirtoCommerce.Pricing",
-    "Version": "3.822.0-alpha.781-vcst-4203-cleanup"
+    "Version": "3.822.0"
   },
   {
     "Id": "VirtoCommerce.ProfileExperienceApiModule",
@@ -181,7 +181,7 @@
   },
   {
     "Id": "VirtoCommerce.Sitemaps",
-    "Version": "3.821.0-alpha.394-vcst-4203-cleanup"
+    "Version": "3.821.0"
   },
   {
     "Id": "VirtoCommerce.Store",
@@ -201,7 +201,7 @@
   },
   {
     "Id": "VirtoCommerce.Xapi",
-    "Version": "3.928.0-alpha.130-vcst-4203-cleanup"
+    "Version": "3.929.0"
   },
   {
     "Id": "VirtoCommerce.XCart",

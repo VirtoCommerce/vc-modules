@@ -3784,30 +3784,30 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.905.0",
+        "Version": "3.906.0",
         "VersionTag": "",
-        "PlatformVersion": "3.867.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-contract/releases/download/3.905.0/VirtoCommerce.Contracts_3.905.0.zip",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-contract/releases/download/3.906.0/VirtoCommerce.Contracts_3.906.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0",
+            "Version": "3.846.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.809.0",
+            "Version": "3.822.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0",
+            "Version": "3.823.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.904.0",
+            "Version": "3.929.0",
             "Optional": false
           }
         ],

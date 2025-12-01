@@ -5400,40 +5400,40 @@
     ],
     "Versions": [
       {
-        "Version": "3.913.0",
+        "Version": "3.914.0",
         "VersionTag": "",
-        "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-order/releases/download/3.913.0/VirtoCommerce.XOrder_3.913.0.zip",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-order/releases/download/3.914.0/VirtoCommerce.XOrder_3.914.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.904.0",
+            "Version": "3.906.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.853.0",
+            "Version": "3.863.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.809.0",
+            "Version": "3.811.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.915.0",
+            "Version": "3.929.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.926.0",
+            "Version": "3.950.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.919.0",
+            "Version": "3.942.0",
             "Optional": false
           }
         ],

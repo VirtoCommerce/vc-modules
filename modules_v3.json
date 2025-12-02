@@ -6767,26 +6767,26 @@
     ],
     "Versions": [
       {
-        "Version": "3.800.0",
+        "Version": "3.801.0",
         "VersionTag": "",
-        "PlatformVersion": "3.895.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-frontend/releases/download/3.800.0/VirtoCommerce.XFrontend_3.800.0.zip",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-frontend/releases/download/3.801.0/VirtoCommerce.XFrontend_3.801.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Xapi",
-            "Version": "3.928.0",
-            "Optional": false
-          },
-          {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.922.0",
+            "Version": "3.926.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.WhiteLabeling",
             "Version": "3.908.0",
             "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.929.0",
+            "Optional": false
           }
         ],
         "ReleaseNotes": "First version."

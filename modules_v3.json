@@ -4598,10 +4598,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.907.0",
-        "VersionTag": "alpha.61",
+        "Version": "3.908.0",
+        "VersionTag": "alpha.62",
         "PlatformVersion": "3.919.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.907.0-alpha.61.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.908.0-alpha.62.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

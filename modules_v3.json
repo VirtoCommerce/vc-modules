@@ -3134,10 +3134,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.816.0",
-        "VersionTag": "alpha.168",
+        "Version": "3.817.0",
+        "VersionTag": "alpha.169",
         "PlatformVersion": "3.919.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.816.0-alpha.168.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.817.0-alpha.169.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

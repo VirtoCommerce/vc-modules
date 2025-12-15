@@ -133,7 +133,7 @@
         },
         {
           "Id": "VirtoCommerce.Inventory",
-          "Version": "3.815.0"
+          "Version": "3.815.1"
         },
         {
           "Id": "VirtoCommerce.LuceneSearch",

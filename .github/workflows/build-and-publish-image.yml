@@ -144,7 +144,7 @@ jobs:
       uses: docker/login-action@v3
       with:
         registry: virtopaasregistrymain.azurecr.io
-        username: VirtoPaaSRegistryMain
+        username: saas-token
         password: ${{ secrets.MAIN_DOCKER_PASSWORD }}
 
     - name: Push Docker image

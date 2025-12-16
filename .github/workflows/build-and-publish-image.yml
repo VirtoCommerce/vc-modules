@@ -149,10 +149,10 @@ jobs:
 
     - name: Push Docker image
       run: |
-        docker tag local-platform:$TAG $CONTAINER_REGISTRY:$TAG
-        docker tag local-platform:$TAG $CONTAINER_REGISTRY:$LATEST_TAG
-        docker push $CONTAINER_REGISTRY:$TAG
-        docker push $CONTAINER_REGISTRY:$LATEST_TAG
+        docker tag local-platform:$TAG $IMAGE_REPOSITORY:$TAG
+        docker tag local-platform:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
+        docker push $IMAGE_REPOSITORY:$TAG
+        docker push $IMAGE_REPOSITORY:$LATEST_TAG
       env:
         DOCKER_LOGIN: VirtoPaaSRegistryMain
         DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}

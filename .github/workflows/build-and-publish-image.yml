@@ -9,157 +9,157 @@ on:
       - 'master'
 
 jobs:
-  ci:
-    runs-on: ubuntu-latest
-    outputs:
-      BUNDLE_VERSION: ${{ steps.getBundleVersion.outputs.BUNDLE_VERSION }}
-      vulnSkipList: ${{ steps.vulnSkipList.outputs.vulnSkipList }}
-    steps:
-    - uses: actions/checkout@v5
-      with:
-        fetch-depth: 0
-        persist-credentials: true
+  # ci:
+  #   runs-on: ubuntu-latest
+  #   outputs:
+  #     BUNDLE_VERSION: ${{ steps.getBundleVersion.outputs.BUNDLE_VERSION }}
+  #     vulnSkipList: ${{ steps.vulnSkipList.outputs.vulnSkipList }}
+  #   steps:
+  #   - uses: actions/checkout@v5
+  #     with:
+  #       fetch-depth: 0
+  #       persist-credentials: true
 
-    - name: Check BundleVersion changes
-      shell: pwsh
-      run: |
-        $commitSha =  "${{ github.sha }}"
-        git config --global user.email "VC-CI@virto.com"
-        git config --global user.name "VC-CI"
-        [System.Version]$oldVersion = git show "$commitSha^:bundles/latest/package.json" | ConvertFrom-Json | Select-Object -ExpandProperty BundleVersion
-        [System.Version]$newVersion = git show "$commitSha`:bundles/latest/package.json" | ConvertFrom-Json | Select-Object -ExpandProperty BundleVersion
-        Write-Host "Previous commit BundleVersion: $oldVersion"
-        Write-Host "Current commit BundleVersion: $newVersion"
-        if ($newVersion -le $oldVersion) {
-          Write-Host "BundleVersion was not changed in the last commit. Bumping the version..."
-          $packageJson = Get-Content ./bundles/latest/package.json | ConvertFrom-Json
-          $oldVersion = $packageJson.BundleVersion
-          $bumpVersion = [System.Version]::new($oldVersion.Major, $oldVersion.Minor, $oldVersion.Build + 1)
-          $packageJson.BundleVersion = $bumpVersion.ToString()
-          $packageJson | ConvertTo-Json -Depth 10 | Set-Content ./bundles/latest/package.json
-          Write-Host "New BundleVersion: $bumpVersion. Committing and pushing..."
-          git add ./bundles/latest/package.json
-          if ($lastExitCode -ne 0) { throw "Failed to add file to git" }
-          git commit -m "[skip ci] Automatic BundleVersion bump to $bumpVersion"
-          if ($lastExitCode -ne 0) { throw "Failed to commit changes" }
-          git push
-          if ($lastExitCode -ne 0) { throw "Failed to push changes" }
-          Write-Host "Committed and pushed successfully"
-        } else {
-          Write-Host "BundleVersion was changed from $oldVersion to $newVersion"
-        }
+  #   - name: Check BundleVersion changes
+  #     shell: pwsh
+  #     run: |
+  #       $commitSha =  "${{ github.sha }}"
+  #       git config --global user.email "VC-CI@virto.com"
+  #       git config --global user.name "VC-CI"
+  #       [System.Version]$oldVersion = git show "$commitSha^:bundles/latest/package.json" | ConvertFrom-Json | Select-Object -ExpandProperty BundleVersion
+  #       [System.Version]$newVersion = git show "$commitSha`:bundles/latest/package.json" | ConvertFrom-Json | Select-Object -ExpandProperty BundleVersion
+  #       Write-Host "Previous commit BundleVersion: $oldVersion"
+  #       Write-Host "Current commit BundleVersion: $newVersion"
+  #       if ($newVersion -le $oldVersion) {
+  #         Write-Host "BundleVersion was not changed in the last commit. Bumping the version..."
+  #         $packageJson = Get-Content ./bundles/latest/package.json | ConvertFrom-Json
+  #         $oldVersion = $packageJson.BundleVersion
+  #         $bumpVersion = [System.Version]::new($oldVersion.Major, $oldVersion.Minor, $oldVersion.Build + 1)
+  #         $packageJson.BundleVersion = $bumpVersion.ToString()
+  #         $packageJson | ConvertTo-Json -Depth 10 | Set-Content ./bundles/latest/package.json
+  #         Write-Host "New BundleVersion: $bumpVersion. Committing and pushing..."
+  #         git add ./bundles/latest/package.json
+  #         if ($lastExitCode -ne 0) { throw "Failed to add file to git" }
+  #         git commit -m "[skip ci] Automatic BundleVersion bump to $bumpVersion"
+  #         if ($lastExitCode -ne 0) { throw "Failed to commit changes" }
+  #         git push
+  #         if ($lastExitCode -ne 0) { throw "Failed to push changes" }
+  #         Write-Host "Committed and pushed successfully"
+  #       } else {
+  #         Write-Host "BundleVersion was changed from $oldVersion to $newVersion"
+  #       }
 
-    - name: Get bundle version
-      id: getBundleVersion
-      shell: pwsh
-      run: |
-        $bundleVersion = (Get-Content ./bundles/latest/package.json | ConvertFrom-Json).BundleVersion
-        echo "BUNDLE_VERSION=$bundleVersion"
-        if ($bundleVersion -eq $null) {
-          throw "Bundle version is null"
-        } else {
-          echo "BUNDLE_VERSION=$bundleVersion" >> $env:GITHUB_ENV
-          echo "BUNDLE_VERSION=$bundleVersion" >> $env:GITHUB_OUTPUT
-        }
+  #   - name: Get bundle version
+  #     id: getBundleVersion
+  #     shell: pwsh
+  #     run: |
+  #       $bundleVersion = (Get-Content ./bundles/latest/package.json | ConvertFrom-Json).BundleVersion
+  #       echo "BUNDLE_VERSION=$bundleVersion"
+  #       if ($bundleVersion -eq $null) {
+  #         throw "Bundle version is null"
+  #       } else {
+  #         echo "BUNDLE_VERSION=$bundleVersion" >> $env:GITHUB_ENV
+  #         echo "BUNDLE_VERSION=$bundleVersion" >> $env:GITHUB_OUTPUT
+  #       }
   
-    - name: Az config
-      run: |
-        az config set extension.use_dynamic_install=yes_without_prompt
+  #   - name: Az config
+  #     run: |
+  #       az config set extension.use_dynamic_install=yes_without_prompt
     
-    - name: Install vc-build
-      run: |
-        dotnet tool install --global VirtoCommerce.GlobalTool
+  #   - name: Install vc-build
+  #     run: |
+  #       dotnet tool install --global VirtoCommerce.GlobalTool
 
-    - name: Pack
-      run: |
-        vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
+  #   - name: Pack
+  #     run: |
+  #       vc-build install -PackageManifestPath ./bundles/latest/package.json -ProbingPath ./backend/platform/app_data/modules -DiscoveryPath ./backend/platform/modules --root ./backend/platform -SkipDependencySolving
 
-    - name: Get Dockerfile
-      run: |
-        git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
-        mv ./backend/platform ./vc-docker/linux/platform/publish
+  #   - name: Get Dockerfile
+  #     run: |
+  #       git clone -b feat/net8 https://github.com/VirtoCommerce/vc-docker.git
+  #       mv ./backend/platform ./vc-docker/linux/platform/publish
 
-    - name: Build tarball file
-      working-directory: ./vc-docker/linux/platform
-      run: |
-        docker build -t local-platform:$TAG .
-        docker save -o $TAG.tar local-platform:$TAG
-      env:
-        TAG: ${{ env.BUNDLE_VERSION }}-stable
+  #   - name: Build tarball file
+  #     working-directory: ./vc-docker/linux/platform
+  #     run: |
+  #       docker build -t local-platform:$TAG .
+  #       docker save -o $TAG.tar local-platform:$TAG
+  #     env:
+  #       TAG: ${{ env.BUNDLE_VERSION }}-stable
 
-    - name: Upload Docker image tarball
-      uses: actions/upload-artifact@v4
-      with:
-        name: image-4test
-        path: ./vc-docker/linux/platform/${{ env.BUNDLE_VERSION }}-stable.tar
-        retention-days: 1
+  #   - name: Upload Docker image tarball
+  #     uses: actions/upload-artifact@v4
+  #     with:
+  #       name: image-4test
+  #       path: ./vc-docker/linux/platform/${{ env.BUNDLE_VERSION }}-stable.tar
+  #       retention-days: 1
 
-    - name: Extract vulnerabilities skip list
-      id: vulnSkipList
-      shell: pwsh
-      run: |
-        $vulnSkipList = @()
-        $skipList = (Get-Content ./trivyScan-ignore.json | ConvertFrom-Json)
-        foreach ($vulnerability in $skipList.PSObject.Properties.Name){
-          echo "Adding '$vulnerability' with '$($skipList.$vulnerability.Severity)' severity entry to trivy scan ignore list"
-          $vulnSkipList += $($skipList.$vulnerability.VulnerabilityID)
-        }
-        $stringSkipList = $vulnSkipList -join ","
-        echo "vulnSkipList=$stringSkipList" >> $env:GITHUB_OUTPUT
+  #   - name: Extract vulnerabilities skip list
+  #     id: vulnSkipList
+  #     shell: pwsh
+  #     run: |
+  #       $vulnSkipList = @()
+  #       $skipList = (Get-Content ./trivyScan-ignore.json | ConvertFrom-Json)
+  #       foreach ($vulnerability in $skipList.PSObject.Properties.Name){
+  #         echo "Adding '$vulnerability' with '$($skipList.$vulnerability.Severity)' severity entry to trivy scan ignore list"
+  #         $vulnSkipList += $($skipList.$vulnerability.VulnerabilityID)
+  #       }
+  #       $stringSkipList = $vulnSkipList -join ","
+  #       echo "vulnSkipList=$stringSkipList" >> $env:GITHUB_OUTPUT
 
-  trivy-scan:
-    needs: 'ci'
-    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.19
-    with:
-      assigneeAccountId: '621c47c0302c6b006af0a1cd'
-      assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
-      exitCodeOnFoundVulnerabilities: '1'
-      imageRef: 'virtopaasregistrymain.azurecr.io'
-      imageTag: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
-      imageTarName: 'image-4test'
-      jiraProject: 'VCST'
-      trivyMode: 'tarball'
-      vulnerabilitySkipList: ${{ needs.ci.outputs.vulnSkipList }}
-    secrets:
-      JIRA_USER: ${{ secrets.JIRA_USER }}
-      JIRA_TOKEN: ${{ secrets.JIRA_TOKEN }}
+  # trivy-scan:
+  #   needs: 'ci'
+  #   uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.19
+  #   with:
+  #     assigneeAccountId: '621c47c0302c6b006af0a1cd'
+  #     assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
+  #     exitCodeOnFoundVulnerabilities: '1'
+  #     imageRef: 'virtopaasregistrymain.azurecr.io'
+  #     imageTag: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
+  #     imageTarName: 'image-4test'
+  #     jiraProject: 'VCST'
+  #     trivyMode: 'tarball'
+  #     vulnerabilitySkipList: ${{ needs.ci.outputs.vulnSkipList }}
+  #   secrets:
+  #     JIRA_USER: ${{ secrets.JIRA_USER }}
+  #     JIRA_TOKEN: ${{ secrets.JIRA_TOKEN }}
 
   push-docker-image:
     runs-on: ubuntu-latest
-    needs:
-    - ci
-    - trivy-scan
+    # needs:
+    # - ci
+    # - trivy-scan
     steps:
-    - name: Download Docker image tarball
-      uses: actions/download-artifact@v4
-      with:
-        name: 'image-4test'
+    # - name: Download Docker image tarball
+    #   uses: actions/download-artifact@v4
+    #   with:
+    #     name: 'image-4test'
 
-    - name: Load Docker image
-      run: docker load -i $TAG.tar
-      env:
-        TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
+    # - name: Load Docker image
+    #   run: docker load -i $TAG.tar
+    #   env:
+    #     TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
 
     - name: Log in to Docker Registry
       uses: docker/login-action@v3
       with:
         registry: virtopaasregistrymain.azurecr.io
-        username: VirtoPaaSRegistryMain
+        username: saas-token #VirtoPaaSRegistryMain
         password: ${{ secrets.MAIN_DOCKER_PASSWORD }}
 
-    - name: Push Docker image
-      run: |
-        docker tag local-platform:$TAG $CONTAINER_REGISTRY:$TAG
-        docker tag local-platform:$TAG $CONTAINER_REGISTRY:$LATEST_TAG
-        docker push $CONTAINER_REGISTRY:$TAG
-        docker push $CONTAINER_REGISTRY:$LATEST_TAG
-      env:
-        DOCKER_LOGIN: VirtoPaaSRegistryMain
-        DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}
-        DOCKERFILE_PATH: ./Dockerfile
-        CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
-        IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
-        TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
-        LATEST_TAG: latest-stable
+    # - name: Push Docker image
+    #   run: |
+    #     docker tag local-platform:$TAG $CONTAINER_REGISTRY:$TAG
+    #     docker tag local-platform:$TAG $CONTAINER_REGISTRY:$LATEST_TAG
+    #     docker push $CONTAINER_REGISTRY:$TAG
+    #     docker push $CONTAINER_REGISTRY:$LATEST_TAG
+    #   env:
+    #     DOCKER_LOGIN: VirtoPaaSRegistryMain
+    #     DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}
+    #     DOCKERFILE_PATH: ./Dockerfile
+    #     CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
+    #     IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
+    #     TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
+    #     LATEST_TAG: latest-stable
 
     

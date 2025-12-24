@@ -5187,9 +5187,9 @@
       },
       {
         "Version": "3.906.0",
-        "VersionTag": "alpha.44",
+        "VersionTag": "alpha.45",
         "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.906.0-alpha.44.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.906.0-alpha.45.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5210,6 +5210,11 @@
           {
             "Id": "VirtoCommerce.Pages",
             "Version": "3.811.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.PageBuilderModule",
+            "Version": "3.831.0",
             "Optional": true
           }
         ],

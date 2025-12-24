@@ -5,22 +5,21 @@
   "PlatformImage": "ghcr.io/virtocommerce/platform",
   "PlatformImageTag": "3.917.1",
   "PlatformAssetUrl": "",
-  "BundleVersion": "12.0.0",
+  "BundleVersion": "12.0.1",
   "Sources": [
     {
       "Name": "AzureBlob",
       "Container": "packages",
       "ServiceUri": "https://vc3prerelease.blob.core.windows.net",
-      "Modules": [
-      ]
+      "Modules": []
     },
     {
       "Name": "GithubReleases",
       "ModuleSources": [
         "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/modules_v3.json"
       ],
-     "Modules": [
-       {
+      "Modules": [
+        {
           "Id": "VirtoCommerce.ApplicationInsights",
           "Version": "3.807.0"
         },

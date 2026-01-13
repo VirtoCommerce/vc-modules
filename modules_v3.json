@@ -4046,20 +4046,20 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.0",
+        "Version": "3.801.0",
         "VersionTag": "",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-power-bi-reports/releases/download/3.800.0/VirtoCommerce.PowerBiReports_3.800.0.zip",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-power-bi-reports/releases/download/3.801.0/VirtoCommerce.PowerBiReports_3.801.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0",
+            "Version": "3.863.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.800.0",
+            "Version": "3.846.0",
             "Optional": false
           }
         ],

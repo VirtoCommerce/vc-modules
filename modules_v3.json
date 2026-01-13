@@ -4041,7 +4041,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-power-bi-reports",
     "IconUrl": "Modules/$(VirtoCommerce.PowerBiReports)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": null,
     "Versions": [
@@ -4066,20 +4066,20 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.801.0",
-        "VersionTag": "alpha.43",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PowerBiReports_3.801.0-alpha.43.zip",
+        "Version": "3.802.0",
+        "VersionTag": "alpha.60",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PowerBiReports_3.802.0-alpha.60.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.800.0",
+            "Version": "3.863.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.800.0",
+            "Version": "3.846.0",
             "Optional": false
           }
         ],

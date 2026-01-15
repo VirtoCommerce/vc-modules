@@ -6897,9 +6897,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.6",
+        "VersionTag": "alpha.8",
         "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AI_3.801.0-alpha.6.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AI_3.801.0-alpha.8.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "\n    First version.\n    Features:\n    - Aggregates AI tool and agent definitions from all modules\n    - Exposes /api/ai/manifest endpoint with ETag caching\n    - Supports YAML tool definitions from module ai/tools/ directories\n    - Supports Markdown agent definitions from module ai/agents/ directories\n    - Cache invalidation endpoint for dynamic updates\n  "

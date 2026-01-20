@@ -440,10 +440,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.850.0",
+        "Version": "3.851.0",
         "VersionTag": "",
         "PlatformVersion": "3.920.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/3.850.0/VirtoCommerce.Customer_3.850.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/3.851.0/VirtoCommerce.Customer_3.851.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

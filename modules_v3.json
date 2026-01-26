@@ -5637,15 +5637,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.900.0",
+        "Version": "3.901.0",
         "VersionTag": "",
-        "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-ai-document-processing/releases/download/3.900.0/VirtoCommerce.AIDocumentProcessing_3.900.0.zip",
+        "PlatformVersion": "3.877.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-ai-document-processing/releases/download/3.901.0/VirtoCommerce.AIDocumentProcessing_3.901.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.815.0",
+            "Version": "3.817.0",
             "Optional": false
           },
           {
@@ -5655,12 +5655,12 @@
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.900.0",
+            "Version": "3.904.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Quote",
-            "Version": "3.900.0",
+            "Version": "3.902.0",
             "Optional": false
           },
           {
@@ -5676,7 +5676,7 @@
           {
             "Id": "VirtoCommerce.ApplicationInsights",
             "Version": "3.804.0",
-            "Optional": false
+            "Optional": true
           }
         ],
         "ReleaseNotes": "First version."

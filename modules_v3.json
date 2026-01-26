@@ -5632,7 +5632,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-ai-document-processing",
     "IconUrl": "Modules/$(VirtoCommerce.AIDocumentProcessing)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2024-2026 VirtoCommerce. All rights reserved",
     "Tags": "AI,documents,document processing,purchase request",
     "Groups": null,
     "Versions": [
@@ -5683,14 +5683,14 @@
       },
       {
         "Version": "3.901.0",
-        "VersionTag": "alpha.75",
-        "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AIDocumentProcessing_3.901.0-alpha.75.zip",
+        "VersionTag": "alpha.76",
+        "PlatformVersion": "3.877.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AIDocumentProcessing_3.901.0-alpha.76.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.815.0",
+            "Version": "3.817.0",
             "Optional": false
           },
           {
@@ -5700,12 +5700,12 @@
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.900.0",
+            "Version": "3.904.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Quote",
-            "Version": "3.900.0",
+            "Version": "3.902.0",
             "Optional": false
           },
           {

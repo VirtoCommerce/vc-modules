@@ -4229,7 +4229,7 @@
     "ProjectUrl": null,
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "cms content pagebuilder",
     "Groups": null,
     "Versions": [
@@ -4280,9 +4280,9 @@
       },
       {
         "Version": "3.835.0",
-        "VersionTag": "alpha.790",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.835.0-alpha.790.zip",
+        "VersionTag": "alpha.803",
+        "PlatformVersion": "3.919.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.835.0-alpha.803.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4292,7 +4292,7 @@
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.831.0",
+            "Version": "3.837.0",
             "Optional": false
           },
           {

@@ -5186,10 +5186,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.908.0",
-        "VersionTag": "alpha.50",
+        "Version": "3.909.0",
+        "VersionTag": "alpha.51",
         "PlatformVersion": "3.919.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.908.0-alpha.50.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.909.0-alpha.51.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

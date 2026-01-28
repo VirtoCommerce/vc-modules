@@ -5181,11 +5181,6 @@
             "Id": "VirtoCommerce.Pages",
             "Version": "3.811.0",
             "Optional": true
-          },
-          {
-            "Id": "VirtoCommerce.PageBuilderModule",
-            "Version": "3.835.0",
-            "Optional": true
           }
         ],
         "ReleaseNotes": "First version."
@@ -5215,11 +5210,6 @@
           {
             "Id": "VirtoCommerce.Pages",
             "Version": "3.811.0",
-            "Optional": true
-          },
-          {
-            "Id": "VirtoCommerce.PageBuilderModule",
-            "Version": "3.835.0",
             "Optional": true
           }
         ],

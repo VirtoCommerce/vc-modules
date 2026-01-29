@@ -3118,7 +3118,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-assets",
     "IconUrl": "Modules/$(VirtoCommerce.AssetsModule)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "assets",
     "Groups": [
       "commerce"
@@ -3134,10 +3134,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.817.0",
-        "VersionTag": "alpha.169",
-        "PlatformVersion": "3.919.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.817.0-alpha.169.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.171",
+        "PlatformVersion": "3.1000.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.1000.0-alpha.171.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

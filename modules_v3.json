@@ -6338,15 +6338,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.805.0",
+        "Version": "3.806.0",
         "VersionTag": "",
-        "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-9/releases/download/3.805.0/VirtoCommerce.ElasticSearch9_3.805.0.zip",
+        "PlatformVersion": "3.917.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-9/releases/download/3.806.0/VirtoCommerce.ElasticSearch9_3.806.0.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.816.0",
+            "Version": "3.824.0",
             "Optional": false
           }
         ],

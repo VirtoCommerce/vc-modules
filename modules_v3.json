@@ -3815,9 +3815,9 @@
       },
       {
         "Version": "3.907.0",
-        "VersionTag": "alpha.141",
+        "VersionTag": "alpha.144",
         "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.907.0-alpha.141.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.907.0-alpha.144.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

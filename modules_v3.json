@@ -5090,9 +5090,9 @@
       },
       {
         "Version": "3.945.0",
-        "VersionTag": "alpha.164",
+        "VersionTag": "alpha.165",
         "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.945.0-alpha.164.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.945.0-alpha.165.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

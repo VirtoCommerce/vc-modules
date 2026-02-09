@@ -651,10 +651,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.814.0",
-        "VersionTag": "alpha.383",
+        "Version": "3.815.0",
+        "VersionTag": "alpha.384",
         "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.814.0-alpha.383.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ImageTools_3.815.0-alpha.384.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

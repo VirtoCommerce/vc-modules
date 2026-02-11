@@ -5599,10 +5599,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.802.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.865.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-openid-connect/releases/download/3.802.0/VirtoCommerce.OpenIdConnectModule_3.802.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-openid-connect/releases/download/3.1000.0/VirtoCommerce.OpenIdConnectModule_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

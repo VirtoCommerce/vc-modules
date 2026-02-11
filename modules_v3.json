@@ -1533,10 +1533,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.1000.0",
-        "VersionTag": "alpha.757",
+        "Version": "3.1001.0",
+        "VersionTag": "alpha.758",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.1000.0-alpha.757.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.1001.0-alpha.758.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

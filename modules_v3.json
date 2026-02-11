@@ -1501,7 +1501,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-store",
     "IconUrl": "Modules/$(VirtoCommerce.Store)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011–2025 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011–2026 Virto Commerce. All rights reserved",
     "Tags": "stores",
     "Groups": [
       "commerce"
@@ -1533,25 +1533,25 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.825.0",
-        "VersionTag": "alpha.755",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.825.0-alpha.755.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.757",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.1000.0-alpha.757.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.824.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.830.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Seo",
-            "Version": "3.811.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

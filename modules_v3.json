@@ -2222,10 +2222,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1000.0",
-        "VersionTag": "alpha.236",
+        "Version": "3.1001.0",
+        "VersionTag": "alpha.237",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.1000.0-alpha.236.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.1001.0-alpha.237.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -1315,7 +1315,7 @@
   },
   {
     "Id": "VirtoCommerce.Shipping",
-    "Title": "Shipping module",
+    "Title": "Shipping",
     "Description": "Add shipping methods management",
     "Authors": [
       "Virto Commerce"
@@ -1327,7 +1327,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-shipping",
     "IconUrl": "Modules/$(VirtoCommerce.Shipping)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "shipping",
     "Groups": [
       "commerce"
@@ -1359,25 +1359,25 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.817.0",
-        "VersionTag": "alpha.233",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.817.0-alpha.233.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.236",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Shipping_3.1000.0-alpha.236.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.824.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.823.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.821.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

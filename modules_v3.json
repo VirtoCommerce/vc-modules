@@ -6837,15 +6837,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-environments-compare/releases/download/3.800.0/VirtoCommerce.EnvironmentsCompare_3.800.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-environments-compare/releases/download/3.1000.0/VirtoCommerce.EnvironmentsCompare_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.813.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

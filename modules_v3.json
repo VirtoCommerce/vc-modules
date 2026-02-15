@@ -2431,30 +2431,30 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.812.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-associations/releases/download/3.812.0/VirtoCommerce.DynamicAssociationsModule_3.812.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-dynamic-associations/releases/download/3.1000.0/VirtoCommerce.DynamicAssociationsModule_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.904.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.824.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.824.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.823.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

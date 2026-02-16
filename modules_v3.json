@@ -3779,7 +3779,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-contract",
     "IconUrl": "Modules/$(VirtoCommerce.Contracts)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "extension module",
     "Groups": null,
     "Versions": [
@@ -3814,30 +3814,30 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.908.0",
-        "VersionTag": "alpha.145",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.908.0-alpha.145.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.146",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.1000.0-alpha.146.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.846.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.822.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.823.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.929.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

@@ -2075,10 +2075,10 @@
         "ReleaseNotes": "Initial implementation of module features."
       },
       {
-        "Version": "3.1000.0",
-        "VersionTag": "alpha.380",
+        "Version": "3.1001.0",
+        "VersionTag": "alpha.381",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.1000.0-alpha.380.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.1001.0-alpha.381.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

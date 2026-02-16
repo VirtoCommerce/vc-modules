@@ -2055,20 +2055,20 @@
     ],
     "Versions": [
       {
-        "Version": "3.809.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/3.809.0/VirtoCommerce.CatalogPublishing_3.809.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog-publishing/releases/download/3.1000.0/VirtoCommerce.CatalogPublishing_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.904.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.822.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

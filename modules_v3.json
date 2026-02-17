@@ -1399,7 +1399,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-sitemaps",
     "IconUrl": "Modules/$(VirtoCommerce.Sitemaps)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011–2025 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011–2026 Virto Commerce. All rights reserved",
     "Tags": "sitemaps",
     "Groups": [
       "commerce"
@@ -1446,40 +1446,40 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.823.0",
-        "VersionTag": "alpha.397",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.823.0-alpha.397.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.400",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sitemaps_3.1000.0-alpha.400.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.814.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.904.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.834.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.824.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.846.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.823.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

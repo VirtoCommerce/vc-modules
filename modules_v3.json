@@ -6510,20 +6510,20 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.801.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.895.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-loyalty/releases/download/3.801.0/VirtoCommerce.Loyalty_3.801.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-loyalty/releases/download/3.1000.0/VirtoCommerce.Loyalty_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.822.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.853.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

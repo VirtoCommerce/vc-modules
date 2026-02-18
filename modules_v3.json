@@ -3629,7 +3629,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-authorize-net",
     "IconUrl": "Modules/$(VirtoCommerce.AuthorizeNetPayment)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2011-2025 Virto Commerce. All rights reserved",
+    "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "extension module",
     "Groups": [
       "commerce"
@@ -3656,20 +3656,20 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.807.0",
-        "VersionTag": "alpha.95",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNetPayment_3.807.0-alpha.95.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.98",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuthorizeNetPayment_3.1000.0-alpha.98.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.863.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.811.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

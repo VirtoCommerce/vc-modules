@@ -6530,10 +6530,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1000.0",
-        "VersionTag": "alpha.11",
+        "Version": "3.1001.0",
+        "VersionTag": "alpha.12",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Loyalty_3.1000.0-alpha.11.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Loyalty_3.1001.0-alpha.12.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

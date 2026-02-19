@@ -5047,7 +5047,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-x-catalog",
     "IconUrl": "Modules/$(VirtoCommerce.XCatalog)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2024–2025 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2024–2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": [
       "commerce"
@@ -5089,35 +5089,35 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.947.0",
-        "VersionTag": "alpha.168",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.947.0-alpha.168.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.169",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.1000.0-alpha.169.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.904.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.815.0",
+            "Version": "3.1000.0",
             "Optional": true
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.824.0",
+            "Version": "3.1000.0",
             "Optional": true
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.822.0",
+            "Version": "3.1000.0",
             "Optional": true
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.929.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

@@ -3962,9 +3962,9 @@
       },
       {
         "Version": "3.902.0",
-        "VersionTag": "alpha.63",
+        "VersionTag": "alpha.76",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.902.0-alpha.63.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.902.0-alpha.76.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3974,7 +3974,7 @@
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.812.0",
+            "Version": "3.823.0",
             "Optional": false
           },
           {

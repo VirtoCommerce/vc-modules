@@ -3936,10 +3936,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.901.0",
+        "Version": "3.902.0",
         "VersionTag": "",
         "PlatformVersion": "3.861.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing-experience-api/releases/download/3.901.0/VirtoCommerce.MarketingExperienceApi_3.901.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing-experience-api/releases/download/3.902.0/VirtoCommerce.MarketingExperienceApi_3.902.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3949,7 +3949,7 @@
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.812.0",
+            "Version": "3.823.0",
             "Optional": false
           },
           {

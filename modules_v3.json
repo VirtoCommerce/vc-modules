@@ -4693,7 +4693,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-push-messages",
     "IconUrl": "Modules/$(VirtoCommerce.PushMessages)/Content/push-messages/img/icons/apple-touch-icon.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2024–2025 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2024–2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": null,
     "Versions": [
@@ -4718,20 +4718,20 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.908.0",
-        "VersionTag": "alpha.81",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.908.0-alpha.81.zip",
+        "Version": "3.1001.0",
+        "VersionTag": "alpha.84",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.1001.0-alpha.84.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.846.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.929.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

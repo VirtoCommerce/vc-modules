@@ -5548,20 +5548,20 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.904.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-recommend/releases/download/3.904.0/VirtoCommerce.XRecommend_3.904.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-recommend/releases/download/3.1000.0/VirtoCommerce.XRecommend_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.906.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.908.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

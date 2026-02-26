@@ -1,9 +1,9 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.917.1",
+  "PlatformVersion": "3.917.2",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.36.0/vc-theme-b2b-vue-2.36.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.917.1",
+  "PlatformImageTag": "3.917.2",
   "PlatformAssetUrl": "",
   "BundleVersion": "12.0.4",
   "Sources": [
@@ -145,7 +145,7 @@
         },
         {
           "Id": "VirtoCommerce.Notifications",
-          "Version": "3.830.0"
+          "Version": "3.830.2"
         },
         {
           "Id": "VirtoCommerce.Orders",

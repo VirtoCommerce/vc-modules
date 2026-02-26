@@ -6127,25 +6127,25 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.807.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.877.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order-management/releases/download/3.807.0/VirtoCommerce.OrderManagement_3.807.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order-management/releases/download/3.1000.0/VirtoCommerce.OrderManagement_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.853.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.846.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.910.0",
+            "Version": "3.1000.0",
             "Optional": true
           }
         ],

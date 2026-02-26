@@ -6590,35 +6590,35 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.805.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.895.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-pickup/releases/download/3.805.0/VirtoCommerce.XPickup_3.805.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-pickup/releases/download/3.1000.0/VirtoCommerce.XPickup_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.926.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.891.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Inventory",
-            "Version": "3.812.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.814.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.835.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

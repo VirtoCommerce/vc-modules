@@ -1,18 +1,24 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.917.1",
+  "PlatformVersion": "3.917.2",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.36.0/vc-theme-b2b-vue-2.36.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.917.1",
+  "PlatformImageTag": "3.917.2",
   "PlatformAssetUrl": "",
   "Sources": [
+    {
+      "Name": "AzureBlob",
+      "Container": "packages",
+      "ServiceUri": "https://vc3prerelease.blob.core.windows.net",
+      "Modules": []
+    },
     {
       "Name": "GithubReleases",
       "ModuleSources": [
         "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/modules_v3.json"
       ],
-     "Modules": [
-       {
+      "Modules": [
+        {
           "Id": "VirtoCommerce.ApplicationInsights",
           "Version": "3.807.0"
         },
@@ -138,7 +144,7 @@
         },
         {
           "Id": "VirtoCommerce.Notifications",
-          "Version": "3.830.0"
+          "Version": "3.830.2"
         },
         {
           "Id": "VirtoCommerce.Orders",
@@ -224,13 +230,6 @@
           "Id": "VirtoCommerce.XOrder",
           "Version": "3.914.0"
         }
-      ]
-    },
-    {
-      "Name": "AzureBlob",
-      "Container": "packages",
-      "ServiceUri": "https://vc3prerelease.blob.core.windows.net",
-      "Modules": [
       ]
     }
   ]

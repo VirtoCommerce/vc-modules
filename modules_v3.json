@@ -3053,25 +3053,25 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.814.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import/releases/download/3.814.0/VirtoCommerce.CustomerExportImport_3.814.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import/releases/download/3.1000.0/VirtoCommerce.CustomerExportImport_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.808.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.817.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

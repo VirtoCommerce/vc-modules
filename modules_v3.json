@@ -6027,30 +6027,30 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.804.0",
-        "VersionTag": "alpha.52",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CyberSourcePayment_3.804.0-alpha.52.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.54",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CyberSourcePayment_3.1000.0-alpha.54.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.812.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.821.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.830.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.812.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

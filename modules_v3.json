@@ -4234,45 +4234,45 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.835.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.919.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.835.0/VirtoCommerce.PageBuilderModule_3.835.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder/releases/download/3.1000.0/VirtoCommerce.PageBuilderModule_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.814.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.837.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.800.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.833.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.810.0",
+            "Version": "3.1000.0",
             "Optional": true
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.821.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.818.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

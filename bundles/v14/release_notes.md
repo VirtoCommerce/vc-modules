@@ -706,7 +706,9 @@ Summary of changes by platform modules. Versions shown as previous → current.
 
 ### 3.831.0
 
-*No release description.*
+### 🐞 Bug fixes
+
+  * Fixed the setting of the template file name via a regular expression. Added a search for notifications by type (kind) ([#189](https://github.com/VirtoCommerce/vc-module-notification/pull/189))
 
 ### 3.832.0
 
@@ -1118,25 +1120,8 @@ Summary of changes by platform modules. Versions shown as previous → current.
 
 ## VirtoCommerce.XCatalog
 
-- **Versions:** `3.942.0` → `3.1000.0`
+- **Versions:** `3.942.2` → `3.1000.0`
 - **Repository:** [vc-module-x-catalog](https://github.com/VirtoCommerce/vc-module-x-catalog)
-
-### 3.942.1
-
-### 🎯 Development
-
-  * Support culture-specific search in category queries ([#83](https://github.com/VirtoCommerce/vc-module-x-catalog/pull/83))
-
-### 🐞 Bug fixes
-
-  * GraphQL negation filter issue fix ([#85](https://github.com/VirtoCommerce/vc-module-x-catalog/pull/85))
-  * Regex fix for price filters ([#84](https://github.com/VirtoCommerce/vc-module-x-catalog/pull/84))
-
-### 3.942.2
-
-### 🎯 Development
-
-  * Fix NRE when resolving empty brands catalog ([#86](https://github.com/VirtoCommerce/vc-module-x-catalog/pull/86))
 
 ### 3.943.0
 

@@ -6741,9 +6741,9 @@
       },
       {
         "Version": "3.801.0",
-        "VersionTag": "alpha.87",
+        "VersionTag": "alpha.95",
         "PlatformVersion": "3.904.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Datatrans_3.801.0-alpha.87.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Datatrans_3.801.0-alpha.95.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

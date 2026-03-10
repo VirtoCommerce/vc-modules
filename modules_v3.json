@@ -6960,5 +6960,34 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.FrontendModules",
+    "Title": "Frontend Modules Registry",
+    "Description": "Provides API endpoint for dynamic frontend module discovery via Module Federation. Replaces static apps.json.",
+    "Authors": [
+      "Maksim Zinchuk"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/frontend-modules",
+    "IconUrl": "Modules/$(VirtoCommerce.FrontendModules)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2025-2026 VirtoCommerce. All rights reserved",
+    "Tags": "frontend modules federation",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.800.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.897.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-frontend-modules/releases/download/3.800.0/VirtoCommerce.FrontendModules_3.800.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "Initial release — frontend module registry API."
+      }
+    ]
   }
 ]

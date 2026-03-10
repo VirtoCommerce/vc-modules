@@ -6925,5 +6925,40 @@
         "ReleaseNotes": "\n    First version.\n    Features:\n    - Aggregates AI tool and agent definitions from all modules\n    - Exposes /api/ai/manifest endpoint with ETag caching\n    - Supports YAML tool definitions from module ai/tools/ directories\n    - Supports Markdown agent definitions from module ai/agents/ directories\n    - Cache invalidation endpoint for dynamic updates\n  "
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Sanity",
+    "Title": "Sanity",
+    "Description": "Integration module for Sanity CMS",
+    "Authors": [
+      "Virto Commerce"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-sanity",
+    "IconUrl": "Modules/$(VirtoCommerce.Sanity)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2026 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.3",
+        "PlatformVersion": "3.1000.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sanity_3.1000.0-alpha.3.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Pages",
+            "Version": "3.1000.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

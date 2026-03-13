@@ -1054,9 +1054,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.1397",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.1002.0-alpha.1397.zip",
+        "VersionTag": "alpha.1399",
+        "PlatformVersion": "3.1004.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Orders_3.1002.0-alpha.1399.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1066,12 +1066,12 @@
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.1000.0",
+            "Version": "3.1002.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.1000.0",
+            "Version": "3.1009.0",
             "Optional": false
           },
           {

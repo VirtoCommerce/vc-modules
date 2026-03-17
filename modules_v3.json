@@ -4526,19 +4526,19 @@
     "Groups": [],
     "Versions": [
       {
-        "Version": "3.803.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.854.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-algolia-search/releases/download/3.803.0/VirtoCommerce.AlgoliaSearch_3.803.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-algolia-search/releases/download/3.1000.0/VirtoCommerce.AlgoliaSearch_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.804.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],
-        "ReleaseNotes": "Update to NET8 and Stable 10 release."
+        "ReleaseNotes": "Update to NET10 and Stable 14 release."
       },
       {
         "Version": "3.1001.0",

@@ -4475,15 +4475,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.813.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.917.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-audit-log/releases/download/3.813.0/VirtoCommerce.AuditLog_3.813.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-audit-log/releases/download/3.1000.0/VirtoCommerce.AuditLog_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.ApplicationInsights",
-            "Version": "3.807.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

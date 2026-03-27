@@ -6730,25 +6730,25 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.803.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.904.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-datatrans/releases/download/3.803.0/VirtoCommerce.Datatrans_3.803.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-datatrans/releases/download/3.1000.0/VirtoCommerce.Datatrans_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.810.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.821.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.859.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

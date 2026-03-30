@@ -6700,15 +6700,15 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.805.0",
-        "VersionTag": "alpha.127",
-        "PlatformVersion": "3.897.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.StateMachine_3.805.0-alpha.127.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.130",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.StateMachine_3.1000.0-alpha.130.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.822.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

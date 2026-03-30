@@ -6263,25 +6263,30 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.810.0",
-        "VersionTag": "alpha.294",
-        "PlatformVersion": "3.825.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Import_3.810.0-alpha.294.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.295",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Import_3.1000.0-alpha.295.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.800.0",
+            "Version": "3.1000.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.800.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.800.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

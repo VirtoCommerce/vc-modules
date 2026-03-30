@@ -3180,10 +3180,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.1002.0",
-        "VersionTag": "alpha.163",
+        "Version": "3.1003.0",
+        "VersionTag": "alpha.164",
         "PlatformVersion": "3.1010.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.1002.0-alpha.163.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureBlobAssets_3.1003.0-alpha.164.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

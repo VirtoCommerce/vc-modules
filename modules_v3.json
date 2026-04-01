@@ -7034,8 +7034,8 @@
   },
   {
     "Id": "VirtoCommerce.AzureAppConfiguration",
-    "Title": "VirtoCommerce AzureAppConfiguration",
-    "Description": "VirtoCommerce AzureAppConfiguration",
+    "Title": "Azure App Configuration",
+    "Description": "Allows using Azure App Configuration to externalize storage and management of your app settings for Virto Commerce",
     "Authors": [
       "Oleg Zhuk"
     ],
@@ -7044,7 +7044,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-azure-app-configuration",
-    "IconUrl": "Modules/$(VirtoCommerce.AzureAppConfiguration)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.AzureAppConfiguration)/Content/app-configuration.png",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
@@ -7061,9 +7061,9 @@
       },
       {
         "Version": "3.1000.0",
-        "VersionTag": "alpha.2",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureAppConfiguration_3.1000.0-alpha.2.zip",
+        "VersionTag": "alpha.3",
+        "PlatformVersion": "3.1012.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureAppConfiguration_3.1000.0-alpha.3.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

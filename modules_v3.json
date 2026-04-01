@@ -6920,7 +6920,7 @@
     "Title": "VirtoCommerce AI",
     "Description": "AI manifest aggregation module for VirtoCommerce Platform. Collects and exposes AI tool and agent definitions from all installed modules.",
     "Authors": [
-      "VirtoCommerce"
+      "Maksim Zinchuk"
     ],
     "Owners": [
       "VirtoCommerce"
@@ -6929,7 +6929,7 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-ai",
     "IconUrl": "Modules/$(VirtoCommerce.AI)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2025 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2025-2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": null,
     "Versions": [
@@ -6943,10 +6943,10 @@
         "ReleaseNotes": "\n    First version.\n    Features:\n    - Aggregates AI tool and agent definitions from all modules\n    - Exposes /api/ai/manifest endpoint with ETag caching\n    - Supports YAML tool definitions from module ai/tools/ directories\n    - Supports Markdown agent definitions from module ai/agents/ directories\n    - Cache invalidation endpoint for dynamic updates\n  "
       },
       {
-        "Version": "3.801.0",
-        "VersionTag": "alpha.9",
-        "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AI_3.801.0-alpha.9.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.11",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AI_3.1000.0-alpha.11.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "\n    First version.\n    Features:\n    - Aggregates AI tool and agent definitions from all modules\n    - Exposes /api/ai/manifest endpoint with ETag caching\n    - Supports YAML tool definitions from module ai/tools/ directories\n    - Supports Markdown agent definitions from module ai/agents/ directories\n    - Cache invalidation endpoint for dynamic updates\n  "

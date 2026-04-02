@@ -6708,9 +6708,9 @@
       },
       {
         "Version": "3.1001.0",
-        "VersionTag": "alpha.131",
+        "VersionTag": "alpha.132",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.StateMachine_3.1001.0-alpha.131.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.StateMachine_3.1001.0-alpha.132.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -2800,10 +2800,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.1002.0",
-        "VersionTag": "alpha.338",
+        "Version": "3.1003.0",
+        "VersionTag": "alpha.339",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.1002.0-alpha.338.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.1003.0-alpha.339.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

@@ -6934,10 +6934,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.876.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-ai/releases/download/3.800.0/VirtoCommerce.AI_3.800.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-ai/releases/download/3.1000.0/VirtoCommerce.AI_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "\n    First version.\n    Features:\n    - Aggregates AI tool and agent definitions from all modules\n    - Exposes /api/ai/manifest endpoint with ETag caching\n    - Supports YAML tool definitions from module ai/tools/ directories\n    - Supports Markdown agent definitions from module ai/agents/ directories\n    - Cache invalidation endpoint for dynamic updates\n  "

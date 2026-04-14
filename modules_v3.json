@@ -1160,10 +1160,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.1002.0",
-        "VersionTag": "alpha.273",
+        "Version": "3.1003.0",
+        "VersionTag": "alpha.274",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Payment_3.1002.0-alpha.273.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Payment_3.1003.0-alpha.274.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

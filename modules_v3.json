@@ -6725,8 +6725,8 @@
   },
   {
     "Id": "VirtoCommerce.Datatrans",
-    "Title": "VirtoCommerce Datatrans",
-    "Description": "VirtoCommerce Datatrans",
+    "Title": "Datatrans Payment",
+    "Description": "Datatrans payment module provides integration with Datatrans payment gateway for Virto Commerce.",
     "Authors": [
       "Basil Kotov"
     ],
@@ -6768,14 +6768,14 @@
       },
       {
         "Version": "3.1001.0",
-        "VersionTag": "alpha.104",
+        "VersionTag": "alpha.107",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Datatrans_3.1001.0-alpha.104.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Datatrans_3.1001.0-alpha.107.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.1000.0",
+            "Version": "3.1002.0",
             "Optional": false
           },
           {

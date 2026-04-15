@@ -1,9 +1,9 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.1007.2",
+  "PlatformVersion": "3.1007.4",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.36.0/vc-theme-b2b-vue-2.42.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.1007.2",
+  "PlatformImageTag": "3.1007.4",
   "PlatformAssetUrl": "",
   "Sources": [
     {
@@ -24,7 +24,7 @@
         },
         {
           "Id": "VirtoCommerce.Assets",
-          "Version": "3.1001.0"
+          "Version": "3.1001.1"
         },
         {
           "Id": "VirtoCommerce.AuthorizeNetPayment",
@@ -56,7 +56,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.1002.2"
+          "Version": "3.1002.3"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",
@@ -68,7 +68,7 @@
         },
         {
           "Id": "VirtoCommerce.CatalogPublishing",
-          "Version": "3.1000.0"
+          "Version": "3.1000.1"
         },
         {
           "Id": "VirtoCommerce.Content",
@@ -84,7 +84,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.1000.1"
+          "Version": "3.1000.2"
         },
         {
           "Id": "VirtoCommerce.CustomerReviews",
@@ -128,7 +128,7 @@
         },
         {
           "Id": "VirtoCommerce.Inventory",
-          "Version": "3.1000.0"
+          "Version": "3.1000.1"
         },
         {
           "Id": "VirtoCommerce.LuceneSearch",
@@ -136,15 +136,15 @@
         },
         {
           "Id": "VirtoCommerce.Marketing",
-          "Version": "3.1000.0"
+          "Version": "3.1000.1"
         },
         {
           "Id": "VirtoCommerce.Notifications",
-          "Version": "3.1001.1"
+          "Version": "3.1001.2"
         },
         {
           "Id": "VirtoCommerce.Orders",
-          "Version": "3.1000.0"
+          "Version": "3.1000.1"
         },
         {
           "Id": "VirtoCommerce.Pages",
@@ -160,7 +160,7 @@
         },
         {
           "Id": "VirtoCommerce.Pricing",
-          "Version": "3.1000.0"
+          "Version": "3.1000.1"
         },
         {
           "Id": "VirtoCommerce.ProfileExperienceApiModule",
@@ -192,7 +192,7 @@
         },
         {
           "Id": "VirtoCommerce.Store",
-          "Version": "3.1000.0"
+          "Version": "3.1000.1"
         },
         {
           "Id": "VirtoCommerce.Subscription",

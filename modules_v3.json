@@ -440,15 +440,15 @@
     ],
     "Versions": [
       {
-        "Version": "3.1004.0",
+        "Version": "3.1005.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1013.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/3.1004.0/VirtoCommerce.Customer_3.1004.0.zip",
+        "PlatformVersion": "3.1016.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-customer/releases/download/3.1005.0/VirtoCommerce.Customer_3.1005.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.1000.0",
+            "Version": "3.1003.0",
             "Optional": false
           },
           {
@@ -463,7 +463,7 @@
           },
           {
             "Id": "VirtoCommerce.Seo",
-            "Version": "3.1000.0",
+            "Version": "3.1002.0",
             "Optional": false
           },
           {

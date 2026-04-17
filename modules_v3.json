@@ -4580,10 +4580,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1000.0",
+        "Version": "3.1001.0",
         "VersionTag": "",
         "PlatformVersion": "3.1000.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-file-experience-api/releases/download/3.1000.0/VirtoCommerce.FileExperienceApi_3.1000.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-file-experience-api/releases/download/3.1001.0/VirtoCommerce.FileExperienceApi_3.1001.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

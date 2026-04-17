@@ -1534,14 +1534,14 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.763",
-        "PlatformVersion": "3.1013.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.1002.0-alpha.763.zip",
+        "VersionTag": "alpha.766",
+        "PlatformVersion": "3.1016.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.1002.0-alpha.766.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.1000.0",
+            "Version": "3.1003.0",
             "Optional": false
           },
           {
@@ -1551,7 +1551,7 @@
           },
           {
             "Id": "VirtoCommerce.Seo",
-            "Version": "3.1000.0",
+            "Version": "3.1002.0",
             "Optional": false
           }
         ],

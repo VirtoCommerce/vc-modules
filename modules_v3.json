@@ -235,10 +235,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1019.0",
+        "Version": "3.1020.0",
         "VersionTag": "",
         "PlatformVersion": "3.1016.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.1019.0/VirtoCommerce.Catalog_3.1019.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.1020.0/VirtoCommerce.Catalog_3.1020.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

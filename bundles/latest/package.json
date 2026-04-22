@@ -69,7 +69,7 @@
         },
         {
           "Id": "VirtoCommerce.CatalogPublishing",
-          "Version": "3.1000.1"
+          "Version": "3.1000.2"
         },
         {
           "Id": "VirtoCommerce.Content",
@@ -85,7 +85,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.1000.2"
+          "Version": "3.1000.4"
         },
         {
           "Id": "VirtoCommerce.CustomerReviews",
@@ -145,7 +145,7 @@
         },
         {
           "Id": "VirtoCommerce.Orders",
-          "Version": "3.1000.1"
+          "Version": "3.1000.2"
         },
         {
           "Id": "VirtoCommerce.Pages",
@@ -181,7 +181,7 @@
         },
         {
           "Id": "VirtoCommerce.Seo",
-          "Version": "3.1000.0"
+          "Version": "3.1000.1"
         },
         {
           "Id": "VirtoCommerce.Shipping",

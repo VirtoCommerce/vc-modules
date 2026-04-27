@@ -6129,10 +6129,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1000.0",
+        "Version": "3.1001.0",
         "VersionTag": "",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order-management/releases/download/3.1000.0/VirtoCommerce.OrderManagement_3.1000.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-order-management/releases/download/3.1001.0/VirtoCommerce.OrderManagement_3.1001.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -6142,6 +6142,11 @@
           },
           {
             "Id": "VirtoCommerce.Orders",
+            "Version": "3.1000.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Store",
             "Version": "3.1000.0",
             "Optional": false
           },

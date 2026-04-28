@@ -2098,7 +2098,7 @@
   },
   {
     "Id": "VirtoCommerce.Contentful",
-    "Title": "Contentful (preview)",
+    "Title": "Contentful",
     "Description": "Integration for contentful.com.",
     "Authors": [
       "Alexander Siniouguine"
@@ -2150,35 +2150,35 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.806.0",
-        "VersionTag": "alpha.86",
-        "PlatformVersion": "3.853.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contentful_3.806.0-alpha.86.zip",
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.124",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contentful_3.1000.0-alpha.124.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.828.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.824.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.812.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.804.0",
-            "Optional": false
+            "Version": "3.1004.0",
+            "Optional": true
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.809.0",
+            "Version": "3.1000.0",
             "Optional": false
           }
         ],

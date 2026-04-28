@@ -6982,14 +6982,19 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1000.0",
+        "Version": "3.1001.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1000.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sanity/releases/download/3.1000.0/VirtoCommerce.Sanity_3.1000.0.zip",
+        "PlatformVersion": "3.1002.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sanity/releases/download/3.1001.0/VirtoCommerce.Sanity_3.1001.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Pages",
+            "Version": "3.1004.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.Store",
             "Version": "3.1000.0",
             "Optional": false
           }

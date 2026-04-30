@@ -133,99 +133,116 @@ jobs:
       JIRA_USER: ${{ secrets.JIRA_USER }}
       JIRA_TOKEN: ${{ secrets.JIRA_TOKEN }}
 
-  smoke-test:
-    needs: 'ci'
-    runs-on: ubuntu-latest
-    env:
-      TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
-      PG_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
-    steps:
-    - name: Download Docker image tarball
-      uses: actions/download-artifact@v8
-      with:
-        name: 'image-4test'
+  # smoke-test:
+  #   needs: 'ci'
+  #   runs-on: ubuntu-latest
+  #   env:
+  #     TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
+  #     PG_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
+  #   steps:
+  #   - name: Download Docker image tarball
+  #     uses: actions/download-artifact@v8
+  #     with:
+  #       name: 'image-4test'
 
-    - name: Load Docker image
-      run: docker load -i "$TAG.tar"
+  #   - name: Load Docker image
+  #     run: docker load -i "$TAG.tar"
 
-    - name: Create Docker network
-      run: docker network create vc-smoke
+  #   - name: Create Docker network
+  #     run: docker network create vc-smoke
 
-    - name: Start PostgreSQL
-      run: |
-        docker run -d --name vc-db --network vc-smoke \
-          -e "POSTGRES_PASSWORD=$PG_PASSWORD" \
-          -e POSTGRES_DB=virtocommerce3 \
-          --health-cmd="pg_isready -U postgres" \
-          --health-interval=2s \
-          --health-retries=30 \
-          postgres:18.3
+  #   - name: Start PostgreSQL
+  #     run: |
+  #       docker run -d --name vc-db --network vc-smoke \
+  #         -e "POSTGRES_PASSWORD=$PG_PASSWORD" \
+  #         -e POSTGRES_DB=virtocommerce3 \
+  #         --health-cmd="pg_isready -U postgres" \
+  #         --health-interval=2s \
+  #         --health-retries=30 \
+  #         postgres:18.3
 
-    - name: Wait for PostgreSQL
-      run: |
-        for i in $(seq 1 60); do
-          if [ "$(docker inspect -f '{{.State.Health.Status}}' vc-db)" = "healthy" ]; then
-            echo "PostgreSQL ready after $((i*2))s"
-            exit 0
-          fi
-          sleep 2
-        done
-        echo "::error::PostgreSQL did not become ready within 120s"
-        docker logs vc-db
-        exit 1
+  #   - name: Wait for PostgreSQL
+  #     run: |
+  #       for i in $(seq 1 60); do
+  #         if [ "$(docker inspect -f '{{.State.Health.Status}}' vc-db)" = "healthy" ]; then
+  #           echo "PostgreSQL ready after $((i*2))s"
+  #           exit 0
+  #         fi
+  #         sleep 2
+  #       done
+  #       echo "::error::PostgreSQL did not become ready within 120s"
+  #       docker logs vc-db
+  #       exit 1
 
-    - name: Start platform container
-      run: |
-        docker run -d --name vc-platform --network vc-smoke \
-          -p 8090:80 \
-          -e DatabaseProvider=PostgreSql \
-          -e "ConnectionStrings__VirtoCommerce=User ID=postgres;Password=$PG_PASSWORD;Host=vc-db;Port=5432;Database=virtocommerce3;" \
-          -e VirtoCommerce__AllowInsecureHttp=true \
-          "local-platform:$TAG"
+  #   - name: Start platform container
+  #     run: |
+  #       docker run -d --name vc-platform --network vc-smoke \
+  #         -p 8090:80 \
+  #         -e DatabaseProvider=PostgreSql \
+  #         -e "ConnectionStrings__VirtoCommerce=User ID=postgres;Password=$PG_PASSWORD;Host=vc-db;Port=5432;Database=virtocommerce3;" \
+  #         -e VirtoCommerce__AllowInsecureHttp=true \
+  #         "local-platform:$TAG"
 
-    - name: Wait for platform /health
-      run: |
-        for i in $(seq 1 50); do
-          status=$(curl -s -o /dev/null -w "%{http_code}" http://localhost:8090/health || echo "000")
-          if [ "$status" = "200" ]; then
-            echo "Platform healthy after $((i*5))s"
-            curl -s http://localhost:8090/health
-            echo
-            exit 0
-          fi
-          echo "Attempt $i: status=$status"
-          sleep 5
-        done
-        echo "::error::Platform did not become healthy within 250s"
-        exit 1
+  #   - name: Wait for platform /health
+  #     run: |
+  #       for i in $(seq 1 50); do
+  #         status=$(curl -s -o /dev/null -w "%{http_code}" http://localhost:8090/health || echo "000")
+  #         if [ "$status" = "200" ]; then
+  #           echo "Platform healthy after $((i*5))s"
+  #           curl -s http://localhost:8090/health
+  #           echo
+  #           exit 0
+  #         fi
+  #         echo "Attempt $i: status=$status"
+  #         sleep 5
+  #       done
+  #       echo "::error::Platform did not become healthy within 250s"
+  #       exit 1
 
-    - name: Verify installed modules
-      shell: pwsh
-      run: |
-        New-Item -ItemType Directory -Force -Path ./scripts | Out-Null
-        $base = 'https://raw.githubusercontent.com/VirtoCommerce/vc-github-actions/master/docker-env/scripts'
-        Invoke-WebRequest -Uri "$base/watch-url-up.ps1" -OutFile ./scripts/watch-url-up.ps1
-        Invoke-WebRequest -Uri "$base/check-installed-modules.ps1" -OutFile ./scripts/check-installed-modules.ps1
-        & ./scripts/check-installed-modules.ps1 `
-          -ApiUrl http://localhost:8090 `
-          -ContainerId vc-platform `
-          -watchUrlScriptPath ./scripts/watch-url-up.ps1
+  #   - name: Verify installed modules
+  #     shell: pwsh
+  #     run: |
+  #       New-Item -ItemType Directory -Force -Path ./scripts | Out-Null
+  #       $base = 'https://raw.githubusercontent.com/VirtoCommerce/vc-github-actions/master/docker-env/scripts'
+  #       Invoke-WebRequest -Uri "$base/watch-url-up.ps1" -OutFile ./scripts/watch-url-up.ps1
+  #       Invoke-WebRequest -Uri "$base/check-installed-modules.ps1" -OutFile ./scripts/check-installed-modules.ps1
+  #       & ./scripts/check-installed-modules.ps1 `
+  #         -ApiUrl http://localhost:8090 `
+  #         -ContainerId vc-platform `
+  #         -watchUrlScriptPath ./scripts/watch-url-up.ps1
 
-    - name: Dump container logs
-      if: always()
-      run: |
-        echo "::group::Platform logs"
-        docker logs vc-platform || true
-        echo "::endgroup::"
-        echo "::group::PostgreSQL logs"
-        docker logs vc-db || true
-        echo "::endgroup::"
+  #   - name: Dump container logs
+  #     if: always()
+  #     run: |
+  #       echo "::group::Platform logs"
+  #       docker logs vc-platform || true
+  #       echo "::endgroup::"
+  #       echo "::group::PostgreSQL logs"
+  #       docker logs vc-db || true
+  #       echo "::endgroup::"
 
-    - name: Tear down
-      if: always()
-      run: |
-        docker rm -f vc-platform vc-db >/dev/null 2>&1 || true
-        docker network rm vc-smoke >/dev/null 2>&1 || true
+  #   - name: Tear down
+  #     if: always()
+  #     run: |
+  #       docker rm -f vc-platform vc-db >/dev/null 2>&1 || true
+  #       docker network rm vc-smoke >/dev/null 2>&1 || true
+
+  auto-tests:
+    if: ${{ ((github.ref == 'refs/heads/dev') && (github.event_name == 'push')) ||
+        (github.event_name == 'workflow_dispatch') || ((github.base_ref == 'dev') && (github.event_name == 'pull_request')) }}
+    needs: ci
+    uses: VirtoCommerce/.github/.github/workflows/pytest-tests.yml@VCST-4761 #v3.800.30
+    with:
+      installModules: 'false'
+      installCustomModule: 'false'
+      vctestingRepoBranch: 'dev'
+      frontendZipUrl: 'latest'
+      testSuites: 'graphql,restapi'
+      prebuiltImageArtifact: 'image-4test'
+    secrets:
+      envPAT: ${{ secrets.REPO_TOKEN }}
+      testSecretEnvFile: ${{ secrets.VC_TESTING_MODULE_ENV_FILE }}
+      sendgridApiKey: ${{ secrets.SENDGRID_APIKEY_4E2E_AUTOTESTS }}
 
   # push-docker-image:
   #   runs-on: ubuntu-latest

@@ -24,7 +24,7 @@ jobs:
       BUNDLE_VERSION: ${{ steps.getBundleVersion.outputs.BUNDLE_VERSION }}
       vulnSkipList: ${{ steps.vulnSkipList.outputs.vulnSkipList }}
     steps:
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v6
       with:
         fetch-depth: 0
         persist-credentials: true

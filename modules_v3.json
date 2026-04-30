@@ -382,10 +382,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1001.0",
-        "VersionTag": "alpha.1044",
+        "Version": "3.1002.0",
+        "VersionTag": "alpha.1045",
         "PlatformVersion": "3.1016.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.1001.0-alpha.1044.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Content_3.1002.0-alpha.1045.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

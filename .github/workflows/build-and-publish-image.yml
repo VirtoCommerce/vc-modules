@@ -97,7 +97,7 @@ jobs:
         TAG: ${{ env.BUNDLE_VERSION }}-stable
 
     - name: Upload Docker image tarball
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: image-4test
         path: ./vc-docker/linux/platform/${{ env.BUNDLE_VERSION }}-stable.tar
@@ -141,7 +141,7 @@ jobs:
       PG_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
     steps:
     - name: Download Docker image tarball
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v8
       with:
         name: 'image-4test'
 

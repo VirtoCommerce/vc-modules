@@ -138,13 +138,8 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
+      PG_PASSWORD: ${{ secrets.GITHUB_TOKEN }}
     steps:
-    - name: Mask database password
-      run: |
-        pw='SmokeTest_${{ github.run_id }}'
-        echo "::add-mask::$pw"
-        echo "PG_PASSWORD=$pw" >> "$GITHUB_ENV"
-
     - name: Download Docker image tarball
       uses: actions/download-artifact@v4
       with:

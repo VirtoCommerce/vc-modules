@@ -7185,5 +7185,50 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.ProductSnapshot",
+    "Title": "Product Snapshot",
+    "Description": "The Product Snapshot module captures and stores product information at the moment an order is created.\n  This ensures that customers and store operators always have access to the exact product details (prices, properties, images, descriptions)\n  that were valid at the time of purchase, even if the product catalog is later modified or products are deleted.",
+    "Authors": [
+      "Konstantin Savosteev"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-product-snapshot",
+    "IconUrl": "Modules/$(VirtoCommerce.ProductSnapshot)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2026 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.6",
+        "PlatformVersion": "3.1016.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProductSnapshot_3.1000.0-alpha.6.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.1007.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.XOrder",
+            "Version": "3.1004.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.1014.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

@@ -6954,11 +6954,17 @@
       },
       {
         "Version": "3.1000.0",
-        "VersionTag": "alpha.21",
+        "VersionTag": "alpha.22",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AI_3.1000.0-alpha.21.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AI_3.1000.0-alpha.22.zip",
         "Incompatibilities": null,
-        "Dependencies": [],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.1003.0",
+            "Optional": false
+          }
+        ],
         "ReleaseNotes": "\n    First version.\n    Features:\n    - Aggregates AI tool and agent definitions from all modules\n    - Exposes /api/ai/manifest endpoint with ETag caching\n    - Supports YAML tool definitions from module ai/tools/ directories\n    - Supports Markdown agent definitions from module ai/agents/ directories\n    - Cache invalidation endpoint for dynamic updates\n  "
       }
     ]

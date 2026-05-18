@@ -5,7 +5,7 @@
   "PlatformImage": "ghcr.io/virtocommerce/platform",
   "PlatformImageTag": "3.1007.9",
   "PlatformAssetUrl": "",
-  "BundleVersion": "14.0.23",
+  "BundleVersion": "14.0.24",
   "Sources": [
     {
       "Name": "AzureBlob",
@@ -41,7 +41,7 @@
         },
         {
           "Id": "VirtoCommerce.AzureBlobAssets",
-          "Version": "3.1000.0"
+          "Version": "3.1000.1"
         },
         {
           "Id": "VirtoCommerce.AzureSearch",
@@ -73,7 +73,7 @@
         },
         {
           "Id": "VirtoCommerce.Content",
-          "Version": "3.100.0"
+          "Version": "3.1000.0"
         },
         {
           "Id": "VirtoCommerce.Contracts",

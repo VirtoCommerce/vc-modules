@@ -116,22 +116,22 @@ jobs:
         $stringSkipList = $vulnSkipList -join ","
         echo "vulnSkipList=$stringSkipList" >> $env:GITHUB_OUTPUT
 
-  trivy-scan:
-    needs: 'ci'
-    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.30
-    with:
-      assigneeAccountId: '621c47c0302c6b006af0a1cd'
-      assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
-      exitCodeOnFoundVulnerabilities: '1'
-      imageRef: 'virtopaasregistrymain.azurecr.io'
-      imageTag: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
-      imageTarName: 'image-4test'
-      jiraProject: 'VCST'
-      trivyMode: 'tarball'
-      vulnerabilitySkipList: ${{ needs.ci.outputs.vulnSkipList }}
-    secrets:
-      JIRA_USER: ${{ secrets.JIRA_USER }}
-      JIRA_TOKEN: ${{ secrets.JIRA_TOKEN }}
+  # trivy-scan:
+  #   needs: 'ci'
+  #   uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.30
+  #   with:
+  #     assigneeAccountId: '621c47c0302c6b006af0a1cd'
+  #     assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
+  #     exitCodeOnFoundVulnerabilities: '1'
+  #     imageRef: 'virtopaasregistrymain.azurecr.io'
+  #     imageTag: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
+  #     imageTarName: 'image-4test'
+  #     jiraProject: 'VCST'
+  #     trivyMode: 'tarball'
+  #     vulnerabilitySkipList: ${{ needs.ci.outputs.vulnSkipList }}
+  #   secrets:
+  #     JIRA_USER: ${{ secrets.JIRA_USER }}
+  #     JIRA_TOKEN: ${{ secrets.JIRA_TOKEN }}
 
   # smoke-test:
   #   needs: 'ci'

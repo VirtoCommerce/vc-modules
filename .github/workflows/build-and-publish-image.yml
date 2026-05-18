@@ -238,6 +238,7 @@ jobs:
       vctestingRepoBranch: 'dev'
       frontendZipUrl: 'latest'
       testSuites: 'graphql,restapi'
+      pytestMarkers: 'not optional'
       prebuiltImageArtifact: 'image-4test'
     secrets:
       envPAT: ${{ secrets.REPO_TOKEN }}

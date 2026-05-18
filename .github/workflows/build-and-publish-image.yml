@@ -238,7 +238,7 @@ jobs:
       vctestingRepoBranch: 'vcst-5060'
       frontendZipUrl: 'latest'
       testSuites: 'graphql,restapi'
-      pytestMarkers: 'not optional'
+      # pytestMarkers: 'not optional'
       prebuiltImageArtifact: 'image-4test'
     secrets:
       envPAT: ${{ secrets.REPO_TOKEN }}

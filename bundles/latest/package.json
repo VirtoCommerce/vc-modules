@@ -1,9 +1,9 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.1016.0",
+  "PlatformVersion": "3.1007.9",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.42.0/vc-theme-b2b-vue-2.42.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.1016.0",
+  "PlatformImageTag": "3.1007.9",
   "PlatformAssetUrl": "",
   "BundleVersion": "14.0.23",
   "Sources": [
@@ -73,7 +73,7 @@
         },
         {
           "Id": "VirtoCommerce.Content",
-          "Version": "3.1001.0"
+          "Version": "3.100.0"
         },
         {
           "Id": "VirtoCommerce.Contracts",

@@ -24,7 +24,7 @@ jobs:
       BUNDLE_VERSION: ${{ steps.getBundleVersion.outputs.BUNDLE_VERSION }}
       vulnSkipList: ${{ steps.vulnSkipList.outputs.vulnSkipList }}
     steps:
-    - uses: actions/checkout@v5
+    - uses: actions/checkout@v6
       with:
         fetch-depth: 0
         persist-credentials: true
@@ -97,7 +97,7 @@ jobs:
         TAG: ${{ env.BUNDLE_VERSION }}-stable
 
     - name: Upload Docker image tarball
-      uses: actions/upload-artifact@v4
+      uses: actions/upload-artifact@v7
       with:
         name: image-4test
         path: ./vc-docker/linux/platform/${{ env.BUNDLE_VERSION }}-stable.tar
@@ -118,7 +118,7 @@ jobs:
 
   trivy-scan:
     needs: 'ci'
-    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.19
+    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.33
     with:
       assigneeAccountId: '621c47c0302c6b006af0a1cd'
       assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
@@ -133,14 +133,31 @@ jobs:
       JIRA_USER: ${{ secrets.JIRA_USER }}
       JIRA_TOKEN: ${{ secrets.JIRA_TOKEN }}
 
+  auto-tests:
+    needs: ci
+    uses: VirtoCommerce/.github/.github/workflows/pytest-tests.yml@v3.800.33
+    with:
+      installModules: 'false'
+      installCustomModule: 'false'
+      vctestingRepoBranch: 'dev'
+      frontendZipUrl: 'latest'
+      testSuites: 'graphql,restapi'
+      pytestMarkers: 'not optional'
+      prebuiltImageArtifact: 'image-4test'
+    secrets:
+      envPAT: ${{ secrets.REPO_TOKEN }}
+      testSecretEnvFile: ${{ secrets.VC_TESTING_MODULE_ENV_FILE }}
+      sendgridApiKey: ${{ secrets.SENDGRID_APIKEY_4E2E_AUTOTESTS }}
+
   push-docker-image:
     runs-on: ubuntu-latest
     needs:
     - ci
     - trivy-scan
+    - auto-tests
     steps:
     - name: Download Docker image tarball
-      uses: actions/download-artifact@v4
+      uses: actions/download-artifact@v7
       with:
         name: 'image-4test'
 
@@ -170,5 +187,3 @@ jobs:
         IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
         TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
         LATEST_TAG: latest-stable
-
-    

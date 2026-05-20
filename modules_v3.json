@@ -5330,10 +5330,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1014.0",
-        "VersionTag": "alpha.228",
+        "Version": "3.1015.0",
+        "VersionTag": "alpha.229",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.1014.0-alpha.228.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.1015.0-alpha.229.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

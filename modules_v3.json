@@ -4942,10 +4942,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1008.0",
+        "Version": "3.1009.0",
         "VersionTag": "",
         "PlatformVersion": "3.1027.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-api/releases/download/3.1008.0/VirtoCommerce.Xapi_3.1008.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-api/releases/download/3.1009.0/VirtoCommerce.Xapi_3.1009.0.zip",
         "Incompatibilities": [
           {
             "Id": "VirtoCommerce.ExperienceApi",
@@ -4956,7 +4956,7 @@
         "Dependencies": [
           {
             "Id": "VirtoCommerce.ApplicationInsights",
-            "Version": "3.807.0",
+            "Version": "3.1001.0",
             "Optional": true
           },
           {
@@ -4966,22 +4966,22 @@
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.821.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Seo",
-            "Version": "3.811.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.823.0",
+            "Version": "3.1000.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Tax",
-            "Version": "3.807.0",
+            "Version": "3.1000.0",
             "Optional": true
           }
         ],

@@ -144,7 +144,7 @@ jobs:
       testSuites: 'graphql,restapi'
       pytestMarkers: 'not optional'
       prebuiltImageArtifact: 'image-4test'
-      skipDocCountVerification: 'PickupLocation'
+      skipDocCountVerification: 'PickupLocationq'
     secrets:
       envPAT: ${{ secrets.REPO_TOKEN }}
       testSecretEnvFile: ${{ secrets.VC_TESTING_MODULE_ENV_FILE }}

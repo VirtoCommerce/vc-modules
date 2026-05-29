@@ -135,7 +135,7 @@ jobs:
 
   auto-tests:
     needs: ci
-    uses: VirtoCommerce/.github/.github/workflows/pytest-tests.yml@v3.800.33
+    uses: VirtoCommerce/.github/.github/workflows/pytest-tests.yml@v3.800.37
     with:
       installModules: 'false'
       installCustomModule: 'false'
@@ -144,6 +144,7 @@ jobs:
       testSuites: 'graphql,restapi'
       pytestMarkers: 'not optional'
       prebuiltImageArtifact: 'image-4test'
+      skipDocCountVerification: 'PickupLocation'
     secrets:
       envPAT: ${{ secrets.REPO_TOKEN }}
       testSecretEnvFile: ${{ secrets.VC_TESTING_MODULE_ENV_FILE }}

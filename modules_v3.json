@@ -1664,7 +1664,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-tax",
-    "IconUrl": "Modules/$(VirtoCommerce.Tax)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.Tax)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "stores",
@@ -1694,9 +1694,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.213",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Tax_3.1002.0-alpha.213.zip",
+        "VersionTag": "alpha.226",
+        "PlatformVersion": "3.1007.10",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Tax_3.1002.0-alpha.226.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

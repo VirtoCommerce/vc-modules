@@ -1499,7 +1499,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-store",
-    "IconUrl": "Modules/$(VirtoCommerce.Store)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.Store)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011–2026 Virto Commerce. All rights reserved",
     "Tags": "stores",
@@ -1534,9 +1534,9 @@
       },
       {
         "Version": "3.1004.0",
-        "VersionTag": "alpha.776",
+        "VersionTag": "alpha.777",
         "PlatformVersion": "3.1034.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.1004.0-alpha.776.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.1004.0-alpha.777.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

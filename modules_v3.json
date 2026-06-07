@@ -804,7 +804,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-marketing",
-    "IconUrl": "Modules/$(VirtoCommerce.Marketing)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.Marketing)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011–2026 Virto Commerce. All rights reserved",
     "Tags": "marketing promotion",
@@ -864,9 +864,9 @@
       },
       {
         "Version": "3.1004.0",
-        "VersionTag": "alpha.920",
+        "VersionTag": "alpha.930",
         "PlatformVersion": "3.1016.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.1004.0-alpha.920.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.1004.0-alpha.930.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

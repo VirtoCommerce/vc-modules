@@ -1131,7 +1131,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-payment",
-    "IconUrl": "Modules/$(VirtoCommerce.Payment)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.Payment)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "payments",
@@ -1161,9 +1161,9 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.274",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Payment_3.1003.0-alpha.274.zip",
+        "VersionTag": "alpha.284",
+        "PlatformVersion": "3.1007.10",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Payment_3.1003.0-alpha.284.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -431,7 +431,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-customer",
-    "IconUrl": "Modules/$(VirtoCommerce.Customer)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.Customer)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011–2026 Virto Commerce. All rights reserved",
     "Tags": "customer",
@@ -476,9 +476,9 @@
       },
       {
         "Version": "3.1009.0",
-        "VersionTag": "alpha.969",
+        "VersionTag": "alpha.970",
         "PlatformVersion": "3.1025.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.1009.0-alpha.969.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Customer_3.1009.0-alpha.970.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

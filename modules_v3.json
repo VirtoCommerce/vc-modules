@@ -280,10 +280,10 @@
         "ReleaseNotes": "Third version."
       },
       {
-        "Version": "3.1028.0",
-        "VersionTag": "alpha.2525",
+        "Version": "3.1029.0",
+        "VersionTag": "alpha.2526",
         "PlatformVersion": "3.1034.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.1028.0-alpha.2525.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.1029.0-alpha.2526.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -104,7 +104,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-cart",
-    "IconUrl": "Modules/$(VirtoCommerce.Cart)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.Cart)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "shopping cart",
@@ -164,9 +164,9 @@
       },
       {
         "Version": "3.1005.0",
-        "VersionTag": "alpha.790",
+        "VersionTag": "alpha.791",
         "PlatformVersion": "3.1007.10",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Cart_3.1005.0-alpha.790.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Cart_3.1005.0-alpha.791.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -226,7 +226,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-catalog",
-    "IconUrl": "Modules/$(VirtoCommerce.Catalog)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.Catalog)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011–2026 Virto Commerce. All rights reserved",
     "Tags": "catalog",
@@ -281,9 +281,9 @@
       },
       {
         "Version": "3.1028.0",
-        "VersionTag": "alpha.2524",
+        "VersionTag": "alpha.2525",
         "PlatformVersion": "3.1034.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.1028.0-alpha.2524.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Catalog_3.1028.0-alpha.2525.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

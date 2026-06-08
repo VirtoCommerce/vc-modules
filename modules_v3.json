@@ -2784,7 +2784,6 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-webhooks",
-    "IconUrl": "Modules/$(VirtoCommerce.WebHooks)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011–2026 Virto Commerce. All rights reserved",
     "Tags": "webhooks module",

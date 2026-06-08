@@ -3929,7 +3929,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-marketing-experience-api",
-    "IconUrl": "Modules/$(VirtoCommerce.MarketingExperienceApi)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.MarketingExperienceApi)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024-2026 Virto Commerce. All rights reserved",
     "Tags": "extension module",
@@ -3962,9 +3962,9 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.95",
+        "VersionTag": "alpha.96",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.1003.0-alpha.95.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MarketingExperienceApi_3.1003.0-alpha.96.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

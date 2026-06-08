@@ -6122,7 +6122,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-order-management",
-    "IconUrl": "Modules/$(VirtoCommerce.OrderManagement)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.OrderManagement)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2026 Virto Commerce. All rights reserved",
     "Tags": "extension module",
@@ -6160,9 +6160,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.34",
+        "VersionTag": "alpha.42",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OrderManagement_3.1002.0-alpha.34.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OrderManagement_3.1002.0-alpha.42.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

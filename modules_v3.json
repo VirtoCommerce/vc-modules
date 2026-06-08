@@ -4389,7 +4389,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-elastic-search-8",
-    "IconUrl": "Modules/$(VirtoCommerce.ElasticSearch8)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.ElasticSearch8)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "extension module",
@@ -4414,9 +4414,9 @@
       },
       {
         "Version": "3.1006.0",
-        "VersionTag": "alpha.171",
+        "VersionTag": "alpha.172",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch8_3.1006.0-alpha.171.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch8_3.1006.0-alpha.172.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

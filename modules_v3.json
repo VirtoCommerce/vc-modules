@@ -5992,7 +5992,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-cyber-source",
-    "IconUrl": "Modules/$(VirtoCommerce.CyberSourcePayment)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.CyberSourcePayment)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2025 Virto Commerce. All rights reserved",
     "Tags": "extension module",
@@ -6030,9 +6030,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.62",
+        "VersionTag": "alpha.74",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CyberSourcePayment_3.1002.0-alpha.62.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CyberSourcePayment_3.1002.0-alpha.74.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

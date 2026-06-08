@@ -5261,7 +5261,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-x-cart",
-    "IconUrl": "Modules/$(VirtoCommerce.XCart)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.XCart)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024–2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
@@ -5331,9 +5331,9 @@
       },
       {
         "Version": "3.1018.0",
-        "VersionTag": "alpha.237",
+        "VersionTag": "alpha.238",
         "PlatformVersion": "3.1017.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.1018.0-alpha.237.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.1018.0-alpha.238.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

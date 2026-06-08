@@ -77,9 +77,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.273",
+        "VersionTag": "alpha.283",
         "PlatformVersion": "3.1010.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.1002.0-alpha.273.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.1002.0-alpha.283.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

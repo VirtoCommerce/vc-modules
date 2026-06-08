@@ -2784,7 +2784,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-webhooks",
-    "IconUrl": null,
+    "IconUrl": "Modules/$(VirtoCommerce.WebHooks)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011–2026 Virto Commerce. All rights reserved",
     "Tags": "webhooks module",
@@ -2801,9 +2801,9 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.339",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.1003.0-alpha.339.zip",
+        "VersionTag": "alpha.350",
+        "PlatformVersion": "3.1007.10",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WebHooks_3.1003.0-alpha.350.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

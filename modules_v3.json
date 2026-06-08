@@ -3577,7 +3577,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-NativePaymentMethods",
-    "IconUrl": "Modules/$(VirtoCommerce.NativePaymentMethods)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.NativePaymentMethods)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "extension module",
@@ -3600,9 +3600,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.112",
+        "VersionTag": "alpha.122",
         "PlatformVersion": "3.1017.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.NativePaymentMethods_3.1002.0-alpha.112.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.NativePaymentMethods_3.1002.0-alpha.122.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

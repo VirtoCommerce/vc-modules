@@ -5553,7 +5553,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-x-recommend",
-    "IconUrl": "Modules/$(VirtoCommerce.XRecommend)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.XRecommend)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024–2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
@@ -5581,9 +5581,9 @@
       },
       {
         "Version": "3.1001.0",
-        "VersionTag": "alpha.45",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XRecommend_3.1001.0-alpha.45.zip",
+        "VersionTag": "alpha.59",
+        "PlatformVersion": "3.1007.10",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XRecommend_3.1001.0-alpha.59.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

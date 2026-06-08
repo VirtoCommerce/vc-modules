@@ -1285,7 +1285,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-search",
-    "IconUrl": "Modules/$(VirtoCommerce.Search)/Content/logoVC.png",
+    "IconUrl": "Modules/$(VirtoCommerce.Search)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011–2026 Virto Commerce. All rights reserved",
     "Tags": "security core",
@@ -1304,9 +1304,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.823",
+        "VersionTag": "alpha.829",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.1002.0-alpha.823.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.1002.0-alpha.829.zip",
         "Incompatibilities": [],
         "Dependencies": [],
         "ReleaseNotes": ""

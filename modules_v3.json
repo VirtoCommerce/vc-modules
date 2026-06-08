@@ -3046,7 +3046,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-customer-export-import",
-    "IconUrl": "Modules/$(VirtoCommerce.CustomerExportImport)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.CustomerExportImport)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "customer export import",
@@ -3079,9 +3079,9 @@
       },
       {
         "Version": "3.1001.0",
-        "VersionTag": "alpha.203",
+        "VersionTag": "alpha.216",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.1001.0-alpha.203.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerExportImport_3.1001.0-alpha.216.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

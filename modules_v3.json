@@ -52,7 +52,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-azure-search",
-    "IconUrl": "Modules/$(VirtoCommerce.AzureSearch)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.AzureSearch)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "azure search",
@@ -77,9 +77,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.283",
+        "VersionTag": "alpha.284",
         "PlatformVersion": "3.1010.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.1002.0-alpha.283.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureSearch_3.1002.0-alpha.284.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -4763,7 +4763,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-white-labeling",
-    "IconUrl": "Modules/$(VirtoCommerce.WhiteLabeling)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.WhiteLabeling)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024–2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
@@ -4806,9 +4806,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.69",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WhiteLabeling_3.1002.0-alpha.69.zip",
+        "VersionTag": "alpha.82",
+        "PlatformVersion": "3.1007.10",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WhiteLabeling_3.1002.0-alpha.82.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

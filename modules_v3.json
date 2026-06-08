@@ -4139,7 +4139,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-seq-log",
-    "IconUrl": "Modules/$(VirtoCommerce.SeqLog)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.SeqLog)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2014-2026 Virto Commerce. All rights reserved",
     "Tags": "extension module",
@@ -4156,9 +4156,9 @@
       },
       {
         "Version": "3.1001.0",
-        "VersionTag": "alpha.33",
+        "VersionTag": "alpha.44",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SeqLog_3.1001.0-alpha.33.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SeqLog_3.1001.0-alpha.44.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

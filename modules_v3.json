@@ -6725,7 +6725,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-state-machine",
-    "IconUrl": "Modules/$(VirtoCommerce.StateMachine)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.StateMachine)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2025-2026 VirtoCommerce. All rights reserved",
     "Tags": "VirtoCommerce State Machine module",
@@ -6748,9 +6748,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.133",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.StateMachine_3.1002.0-alpha.133.zip",
+        "VersionTag": "alpha.144",
+        "PlatformVersion": "3.1007.10",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.StateMachine_3.1002.0-alpha.144.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

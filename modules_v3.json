@@ -5413,7 +5413,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-x-order",
-    "IconUrl": "Modules/$(VirtoCommerce.XOrder)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.XOrder)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024–2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
@@ -5463,9 +5463,9 @@
       },
       {
         "Version": "3.1005.0",
-        "VersionTag": "alpha.105",
+        "VersionTag": "alpha.112",
         "PlatformVersion": "3.1016.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.1005.0-alpha.105.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.1005.0-alpha.112.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

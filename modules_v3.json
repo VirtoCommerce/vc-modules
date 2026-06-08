@@ -3815,9 +3815,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.152",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.1002.0-alpha.152.zip",
+        "VersionTag": "alpha.163",
+        "PlatformVersion": "3.1007.10",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.1002.0-alpha.163.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

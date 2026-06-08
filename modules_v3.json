@@ -7005,7 +7005,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-sanity",
-    "IconUrl": "Modules/$(VirtoCommerce.Sanity)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.Sanity)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
@@ -7033,9 +7033,9 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.9",
+        "VersionTag": "alpha.10",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sanity_3.1003.0-alpha.9.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Sanity_3.1003.0-alpha.10.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -2198,7 +2198,6 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-bulk-actions",
-    "IconUrl": "Modules/$(VirtoCommerce.BulkActionsModule)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "extension module",

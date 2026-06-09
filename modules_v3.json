@@ -4099,7 +4099,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-app-insights",
-    "IconUrl": "Modules/$(VirtoCommerce.ApplicationInsights)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.ApplicationInsights)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "extension module",
@@ -4108,10 +4108,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1002.0",
+        "Version": "3.1003.0",
         "VersionTag": "",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-app-insights/releases/download/3.1002.0/VirtoCommerce.ApplicationInsights_3.1002.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-app-insights/releases/download/3.1003.0/VirtoCommerce.ApplicationInsights_3.1003.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

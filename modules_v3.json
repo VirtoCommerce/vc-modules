@@ -6635,7 +6635,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-x-pickup",
-    "IconUrl": "Modules/$(VirtoCommerce.XPickup)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.XPickup)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2025 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
@@ -6678,9 +6678,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.35",
+        "VersionTag": "alpha.42",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XPickup_3.1002.0-alpha.35.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XPickup_3.1002.0-alpha.42.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

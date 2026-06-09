@@ -3116,7 +3116,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-assets",
-    "IconUrl": "Modules/$(VirtoCommerce.AssetsModule)/Content/logo.svg",
+    "IconUrl": "Modules/$(VirtoCommerce.Assets)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "assets",
@@ -3125,10 +3125,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1003.0",
+        "Version": "3.1004.0",
         "VersionTag": "",
         "PlatformVersion": "3.1026.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-assets/releases/download/3.1003.0/VirtoCommerce.Assets_3.1003.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-assets/releases/download/3.1004.0/VirtoCommerce.Assets_3.1004.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

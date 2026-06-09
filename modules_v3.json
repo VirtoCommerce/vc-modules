@@ -4731,9 +4731,9 @@
       },
       {
         "Version": "3.1001.0",
-        "VersionTag": "alpha.98",
+        "VersionTag": "alpha.99",
         "PlatformVersion": "3.1007.10",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.1001.0-alpha.98.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.1001.0-alpha.99.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

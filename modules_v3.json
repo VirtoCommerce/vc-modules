@@ -6202,7 +6202,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-seo",
-    "IconUrl": "Modules/$(VirtoCommerce.Seo)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.Seo)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2025-2026 Virto Commerce. All rights reserved",
     "Tags": "extension module",
@@ -6221,9 +6221,9 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.77",
+        "VersionTag": "alpha.85",
         "PlatformVersion": "3.1016.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Seo_3.1003.0-alpha.77.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Seo_3.1003.0-alpha.85.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

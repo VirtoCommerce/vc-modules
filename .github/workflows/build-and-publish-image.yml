@@ -118,7 +118,7 @@ jobs:
 
   trivy-scan:
     needs: 'ci'
-    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.33
+    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.38
     with:
       assigneeAccountId: '621c47c0302c6b006af0a1cd'
       assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
@@ -135,7 +135,7 @@ jobs:
 
   auto-tests:
     needs: ci
-    uses: VirtoCommerce/.github/.github/workflows/pytest-tests.yml@VCST-4492 #v3.800.37
+    uses: VirtoCommerce/.github/.github/workflows/pytest-tests.yml@v3.800.38
     with:
       installModules: 'false'
       installCustomModule: 'false'
@@ -150,41 +150,41 @@ jobs:
       testSecretEnvFile: ${{ secrets.VC_TESTING_MODULE_ENV_FILE }}
       sendgridApiKey: ${{ secrets.SENDGRID_APIKEY_4E2E_AUTOTESTS }}
 
-  # push-docker-image:
-  #   runs-on: ubuntu-latest
-  #   needs:
-  #   - ci
-  #   - trivy-scan
-  #   - auto-tests
-  #   steps:
-  #   - name: Download Docker image tarball
-  #     uses: actions/download-artifact@v7
-  #     with:
-  #       name: 'image-4test'
+  push-docker-image:
+    runs-on: ubuntu-latest
+    needs:
+    - ci
+    - trivy-scan
+    - auto-tests
+    steps:
+    - name: Download Docker image tarball
+      uses: actions/download-artifact@v7
+      with:
+        name: 'image-4test'
 
-  #   - name: Load Docker image
-  #     run: docker load -i $TAG.tar
-  #     env:
-  #       TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
+    - name: Load Docker image
+      run: docker load -i $TAG.tar
+      env:
+        TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
 
-  #   - name: Log in to Docker Registry
-  #     uses: docker/login-action@v3
-  #     with:
-  #       registry: virtopaasregistrymain.azurecr.io
-  #       username: saas-token
-  #       password: ${{ secrets.MAIN_DOCKER_PASSWORD }}
+    - name: Log in to Docker Registry
+      uses: docker/login-action@v3
+      with:
+        registry: virtopaasregistrymain.azurecr.io
+        username: saas-token
+        password: ${{ secrets.MAIN_DOCKER_PASSWORD }}
 
-  #   - name: Push Docker image
-  #     run: |
-  #       docker tag local-platform:$TAG $IMAGE_REPOSITORY:$TAG
-  #       docker tag local-platform:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
-  #       docker push $IMAGE_REPOSITORY:$TAG
-  #       docker push $IMAGE_REPOSITORY:$LATEST_TAG
-  #     env:
-  #       DOCKER_LOGIN: VirtoPaaSRegistryMain
-  #       DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}
-  #       DOCKERFILE_PATH: ./Dockerfile
-  #       CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
-  #       IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
-  #       TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
-  #       LATEST_TAG: latest-stable
+    - name: Push Docker image
+      run: |
+        docker tag local-platform:$TAG $IMAGE_REPOSITORY:$TAG
+        docker tag local-platform:$TAG $IMAGE_REPOSITORY:$LATEST_TAG
+        docker push $IMAGE_REPOSITORY:$TAG
+        docker push $IMAGE_REPOSITORY:$LATEST_TAG
+      env:
+        DOCKER_LOGIN: VirtoPaaSRegistryMain
+        DOCKER_PASSWORD: ${{ secrets.MAIN_DOCKER_PASSWORD }}
+        DOCKERFILE_PATH: ./Dockerfile
+        CONTAINER_REGISTRY: virtopaasregistrymain.azurecr.io
+        IMAGE_REPOSITORY: virtopaasregistrymain.azurecr.io/saas/platform
+        TAG: ${{ needs.ci.outputs.BUNDLE_VERSION }}-stable
+        LATEST_TAG: latest-stable

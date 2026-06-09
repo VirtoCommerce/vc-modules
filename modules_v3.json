@@ -3134,10 +3134,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.1004.0",
-        "VersionTag": "alpha.194",
+        "Version": "3.1005.0",
+        "VersionTag": "alpha.195",
         "PlatformVersion": "3.1026.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.1004.0-alpha.194.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Assets_3.1005.0-alpha.195.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": ""

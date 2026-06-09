@@ -3208,7 +3208,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-filesystem-assets",
-    "IconUrl": "Modules/$(VirtoCommerce.FileSystemAssetsModule)/Content/logo.svg",
+    "IconUrl": "Modules/$(VirtoCommerce.FileSystemAssets)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "assets",
@@ -3217,10 +3217,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1001.0",
+        "Version": "3.1002.0",
         "VersionTag": "",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-filesystem-assets/releases/download/3.1001.0/VirtoCommerce.FileSystemAssets_3.1001.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-filesystem-assets/releases/download/3.1002.0/VirtoCommerce.FileSystemAssets_3.1002.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

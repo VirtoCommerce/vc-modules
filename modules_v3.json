@@ -5515,7 +5515,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-google-sso",
-    "IconUrl": "Modules/$(VirtoCommerce.GoogleSSO)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.GoogleSSO)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2024–2025 VirtoCommerce. All rights reserved",
     "Tags": "Google",
@@ -5532,9 +5532,9 @@
       },
       {
         "Version": "3.1001.0",
-        "VersionTag": "alpha.37",
+        "VersionTag": "alpha.50",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleSSO_3.1001.0-alpha.37.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleSSO_3.1001.0-alpha.50.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

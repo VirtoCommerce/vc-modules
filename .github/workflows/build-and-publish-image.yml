@@ -118,7 +118,7 @@ jobs:
 
   trivy-scan:
     needs: 'ci'
-    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.33
+    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.800.38
     with:
       assigneeAccountId: '621c47c0302c6b006af0a1cd'
       assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
@@ -135,7 +135,7 @@ jobs:
 
   auto-tests:
     needs: ci
-    uses: VirtoCommerce/.github/.github/workflows/pytest-tests.yml@v3.800.37
+    uses: VirtoCommerce/.github/.github/workflows/pytest-tests.yml@v3.800.38
     with:
       installModules: 'false'
       installCustomModule: 'false'

@@ -7294,5 +7294,42 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.BackupRestore",
+    "Title": "Backup & Restore",
+    "Description": "The Backup & Restore module provides full platform backup and restore (export/import) for Virto Commerce. It packages platform data (users, roles, permissions, settings and dynamic properties) together with the data of all installed modules into a single, optionally AES-256 encrypted ZIP archive, and restores it on demand with real-time progress tracking and sample data installation.",
+    "Authors": [
+      "Oleg Zhuk"
+    ],
+    "Owners": [
+      "VirtoCommerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-backup-restore",
+    "IconUrl": "Modules/$(VirtoCommerce.BackupRestore)/Content/logo.svg",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2026 VirtoCommerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": [
+      "commerce"
+    ],
+    "Versions": [
+      {
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.3",
+        "PlatformVersion": "3.1037.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackupRestore_3.1000.0-alpha.3.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "3.1000.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

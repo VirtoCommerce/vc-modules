@@ -4220,13 +4220,13 @@
     "Title": "CMS Page Builder",
     "Description": "Compose pages in visual page builder.",
     "Authors": [
-      "Virto Commerce"
+      "Vasily Kotov"
     ],
     "Owners": [
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-pagebuilder",
     "IconUrl": null,
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
@@ -4282,9 +4282,9 @@
       },
       {
         "Version": "3.1012.0",
-        "VersionTag": "alpha.830",
+        "VersionTag": "alpha.831",
         "PlatformVersion": "3.1016.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.1012.0-alpha.830.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.1012.0-alpha.831.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

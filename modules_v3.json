@@ -5331,19 +5331,19 @@
       },
       {
         "Version": "3.1018.0",
-        "VersionTag": "alpha.238",
+        "VersionTag": "alpha.240",
         "PlatformVersion": "3.1017.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.1018.0-alpha.238.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.1018.0-alpha.240.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Catalog",
-            "Version": "3.1025.0",
+            "Id": "VirtoCommerce.Cart",
+            "Version": "3.1005.0",
             "Optional": false
           },
           {
-            "Id": "VirtoCommerce.Cart",
-            "Version": "3.1002.0",
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.1025.0",
             "Optional": false
           },
           {

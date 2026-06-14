@@ -1,9 +1,9 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.917.14",
+  "PlatformVersion": "3.917.15",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.36.0/vc-theme-b2b-vue-2.36.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.917.14",
+  "PlatformImageTag": "3.917.15",
   "PlatformAssetUrl": "",
   "Sources": [
     {
@@ -56,7 +56,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.904.8"
+          "Version": "3.904.11"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",

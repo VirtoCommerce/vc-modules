@@ -57,7 +57,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.1002.3"
+          "Version": "3.1002.5"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",
@@ -145,7 +145,7 @@
         },
         {
           "Id": "VirtoCommerce.Orders",
-          "Version": "3.1000.2"
+          "Version": "3.1000.3"
         },
         {
           "Id": "VirtoCommerce.Pages",

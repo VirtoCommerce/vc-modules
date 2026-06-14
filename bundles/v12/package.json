@@ -52,7 +52,7 @@
         },
         {
           "Id": "VirtoCommerce.Cart",
-          "Version": "3.840.0"
+          "Version": "3.840.1"
         },
         {
           "Id": "VirtoCommerce.Catalog",

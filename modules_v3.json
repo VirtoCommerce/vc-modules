@@ -6440,9 +6440,9 @@
       },
       {
         "Version": "3.1005.0",
-        "VersionTag": "alpha.49",
-        "PlatformVersion": "3.1023.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SqlQueries_3.1005.0-alpha.49.zip",
+        "VersionTag": "alpha.51",
+        "PlatformVersion": "3.1007.10",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SqlQueries_3.1005.0-alpha.51.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

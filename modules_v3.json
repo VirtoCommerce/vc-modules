@@ -3232,10 +3232,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.1003.0",
-        "VersionTag": "alpha.143",
+        "Version": "3.1004.0",
+        "VersionTag": "alpha.144",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.1003.0-alpha.143.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.1004.0-alpha.144.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

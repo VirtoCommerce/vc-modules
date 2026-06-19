@@ -4018,9 +4018,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.74",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureAD_3.1002.0-alpha.74.zip",
+        "VersionTag": "alpha.76",
+        "PlatformVersion": "3.1039.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AzureAD_3.1002.0-alpha.76.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

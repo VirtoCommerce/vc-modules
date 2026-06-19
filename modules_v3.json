@@ -3233,14 +3233,14 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.141",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.1003.0-alpha.141.zip",
+        "VersionTag": "alpha.143",
+        "PlatformVersion": "3.1039.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.1003.0-alpha.143.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.1000.0",
+            "Version": "3.1005.0",
             "Optional": false
           }
         ],

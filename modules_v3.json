@@ -2076,19 +2076,19 @@
       },
       {
         "Version": "3.1005.0",
-        "VersionTag": "alpha.401",
-        "PlatformVersion": "3.1016.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.1005.0-alpha.401.zip",
+        "VersionTag": "alpha.403",
+        "PlatformVersion": "3.1039.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPublishing_3.1005.0-alpha.403.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.1019.0",
+            "Version": "3.1029.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.1000.0",
+            "Version": "3.1003.0",
             "Optional": false
           }
         ],

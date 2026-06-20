@@ -5101,10 +5101,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1007.0",
-        "VersionTag": "alpha.196",
+        "Version": "3.1008.0",
+        "VersionTag": "alpha.197",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.1007.0-alpha.196.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.1008.0-alpha.197.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

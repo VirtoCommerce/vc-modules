@@ -1796,10 +1796,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.1004.0",
-        "VersionTag": "alpha.283",
+        "Version": "3.1005.0",
+        "VersionTag": "alpha.284",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.1004.0-alpha.283.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CustomerReviews_3.1005.0-alpha.284.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

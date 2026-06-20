@@ -1616,10 +1616,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.1002.0",
-        "VersionTag": "pr-115-3bfb",
+        "Version": "3.1003.0",
+        "VersionTag": "alpha.387",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.1002.0-pr-115-3bfb.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Subscription_3.1003.0-alpha.387.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

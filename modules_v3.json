@@ -5769,30 +5769,30 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1006.0",
+        "Version": "3.1007.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pages/releases/download/3.1006.0/VirtoCommerce.Pages_3.1006.0.zip",
+        "PlatformVersion": "3.1039.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-pages/releases/download/3.1007.0/VirtoCommerce.Pages_3.1007.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.1000.0",
+            "Version": "3.1010.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.1000.0",
+            "Version": "3.1004.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Seo",
-            "Version": "3.1000.0",
+            "Version": "3.1004.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1000.0",
+            "Version": "3.1005.0",
             "Optional": false
           }
         ],

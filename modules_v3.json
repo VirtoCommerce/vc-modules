@@ -864,49 +864,49 @@
       },
       {
         "Version": "3.1005.0",
-        "VersionTag": "alpha.932",
-        "PlatformVersion": "3.1016.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.1005.0-alpha.932.zip",
+        "VersionTag": "alpha.934",
+        "PlatformVersion": "3.1039.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Marketing_3.1005.0-alpha.934.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.1000.0",
+            "Version": "3.1005.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.1000.0",
+            "Version": "3.1029.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.1000.0",
+            "Version": "3.1007.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.1000.0",
+            "Version": "3.1011.0",
             "Optional": true
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.1000.0",
+            "Version": "3.1009.0",
             "Optional": true
           },
           {
             "Id": "VirtoCommerce.Payment",
-            "Version": "3.1000.0",
+            "Version": "3.1004.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Shipping",
-            "Version": "3.1000.0",
+            "Version": "3.1005.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1000.0",
+            "Version": "3.1005.0",
             "Optional": false
           }
         ],

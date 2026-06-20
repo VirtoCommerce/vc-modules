@@ -5462,10 +5462,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1005.0",
-        "VersionTag": "alpha.114",
+        "Version": "3.1006.0",
+        "VersionTag": "alpha.115",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.1005.0-alpha.114.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XOrder_3.1006.0-alpha.115.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

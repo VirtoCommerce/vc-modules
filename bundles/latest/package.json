@@ -1,11 +1,11 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.1007.16",
+  "PlatformVersion": "3.1007.17",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.42.0/vc-theme-b2b-vue-2.42.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.1007.16",
+  "PlatformImageTag": "3.1007.17",
   "PlatformAssetUrl": "",
-  "BundleVersion": "14.0.38",
+  "BundleVersion": "14.0.40",
   "Sources": [
     {
       "Name": "AzureBlob",
@@ -61,7 +61,7 @@
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",
-          "Version": "3.1000.0"
+          "Version": "3.1000.1"
         },
         {
           "Id": "VirtoCommerce.CatalogPersonalization",

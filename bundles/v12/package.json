@@ -56,7 +56,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.904.11"
+          "Version": "3.904.12"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",

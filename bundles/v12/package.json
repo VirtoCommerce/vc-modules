@@ -132,7 +132,7 @@
         },
         {
           "Id": "VirtoCommerce.Inventory",
-          "Version": "3.815.3"
+          "Version": "3.815.4"
         },
         {
           "Id": "VirtoCommerce.LuceneSearch",
@@ -208,7 +208,7 @@
         },
         {
           "Id": "VirtoCommerce.Xapi",
-          "Version": "3.929.1"
+          "Version": "3.929.2"
         },
         {
           "Id": "VirtoCommerce.XCart",

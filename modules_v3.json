@@ -6552,20 +6552,20 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1003.0",
+        "Version": "3.1004.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1007.10",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-loyalty/releases/download/3.1003.0/VirtoCommerce.Loyalty_3.1003.0.zip",
+        "PlatformVersion": "3.1039.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-loyalty/releases/download/3.1004.0/VirtoCommerce.Loyalty_3.1004.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.1000.0",
+            "Version": "3.1007.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.1000.0",
+            "Version": "3.1010.0",
             "Optional": false
           },
           {
@@ -6575,12 +6575,12 @@
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.1011.0",
+            "Version": "3.1023.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.1005.0",
+            "Version": "3.1007.0",
             "Optional": false
           }
         ],

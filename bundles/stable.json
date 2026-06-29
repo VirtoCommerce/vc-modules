@@ -13,6 +13,7 @@
   "11": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v11/package.json",
   "12": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v12/package.json",
   "14": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v14/package.json",
+  "15": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/v15/package.json",
   "latest": "https://raw.githubusercontent.com/VirtoCommerce/vc-modules/master/bundles/latest/package.json"
 }
 

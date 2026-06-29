@@ -5422,10 +5422,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1005.0",
+        "Version": "3.1006.0",
         "VersionTag": "",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-order/releases/download/3.1005.0/VirtoCommerce.XOrder_3.1005.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-order/releases/download/3.1006.0/VirtoCommerce.XOrder_3.1006.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5435,7 +5435,7 @@
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.1009.0",
+            "Version": "3.1010.0",
             "Optional": false
           },
           {

@@ -7433,6 +7433,46 @@
     "Versions": [
       {
         "Version": "3.1000.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.1034.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-ucp/releases/download/3.1000.0/Virtocommerce.UCP_3.1000.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.1001.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.XCatalog",
+            "Version": "3.1000.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.XCart",
+            "Version": "3.1016.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.1004.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.1000.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Marketing",
+            "Version": "3.1000.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "Initial UCP discovery and XAPI in-process catalog foundation."
+      },
+      {
+        "Version": "3.1000.0",
         "VersionTag": "alpha.5",
         "PlatformVersion": "3.1034.0",
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/Virtocommerce.UCP_3.1000.0-alpha.5.zip",

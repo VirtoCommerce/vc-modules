@@ -1,9 +1,9 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.1039.4",
+  "PlatformVersion": "3.1039.5",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.51.1/vc-frontend-2.51.1.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.1039.4",
+  "PlatformImageTag": "3.1039.5",
   "PlatformAssetUrl": "",
   "BundleVersion": "15.0.2",
   "Sources": [

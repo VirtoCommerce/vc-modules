@@ -197,7 +197,7 @@
         },
         {
           "Id": "VirtoCommerce.Store",
-          "Version": "3.1005.0"
+          "Version": "3.1005.1"
         },
         {
           "Id": "VirtoCommerce.Subscription",
@@ -213,7 +213,7 @@
         },
         {
           "Id": "VirtoCommerce.Xapi",
-          "Version": "3.1012.0"
+          "Version": "3.1012.1"
         },
         {
           "Id": "VirtoCommerce.XCart",
@@ -221,7 +221,7 @@
         },
         {
           "Id": "VirtoCommerce.XCatalog",
-          "Version": "3.1007.2"
+          "Version": "3.1007.3"
         },
         {
           "Id": "VirtoCommerce.XCMS",

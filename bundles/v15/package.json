@@ -48,7 +48,7 @@
         },
         {
           "Id": "VirtoCommerce.BackupRestore",
-          "Version": "3.1001.1"
+          "Version": "3.1001.2"
         },
         {
           "Id": "VirtoCommerce.BulkActionsModule",

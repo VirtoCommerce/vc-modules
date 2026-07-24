@@ -44,7 +44,7 @@
         },
         {
           "Id": "VirtoCommerce.AzureSearch",
-          "Version": "3.1000.0"
+          "Version": "3.1000.2"
         },
         {
           "Id": "VirtoCommerce.BulkActionsModule",

@@ -7369,6 +7369,15 @@
     "Versions": [
       {
         "Version": "3.1050.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.1050.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-background-jobs/releases/download/3.1050.0/VirtoCommerce.BackgroundJobs_3.1050.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.1050.0",
         "VersionTag": "alpha.7",
         "PlatformVersion": "3.1050.0",
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackgroundJobs_3.1050.0-alpha.7.zip",

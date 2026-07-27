@@ -5101,10 +5101,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1014.0",
-        "VersionTag": "alpha.213",
+        "Version": "3.1015.0",
+        "VersionTag": "alpha.215",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.1014.0-alpha.213.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCatalog_3.1015.0-alpha.215.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5129,7 +5129,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1014.0",
+            "Version": "3.1015.0",
             "Optional": false
           }
         ],

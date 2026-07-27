@@ -4601,14 +4601,14 @@
       },
       {
         "Version": "3.1004.0",
-        "VersionTag": "alpha.84",
+        "VersionTag": "alpha.89",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.1004.0-alpha.84.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.1004.0-alpha.89.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1012.0",
+            "Version": "3.1015.0",
             "Optional": false
           },
           {

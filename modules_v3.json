@@ -4806,9 +4806,9 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.83",
-        "PlatformVersion": "3.1007.10",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WhiteLabeling_3.1003.0-alpha.83.zip",
+        "VersionTag": "alpha.89",
+        "PlatformVersion": "3.1039.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.WhiteLabeling_3.1003.0-alpha.89.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4818,7 +4818,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1000.0",
+            "Version": "3.1015.0",
             "Optional": false
           },
           {
@@ -4828,7 +4828,7 @@
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.1000.0",
+            "Version": "3.1010.0",
             "Optional": false
           },
           {

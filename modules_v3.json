@@ -4731,9 +4731,9 @@
       },
       {
         "Version": "3.1005.0",
-        "VersionTag": "alpha.107",
+        "VersionTag": "alpha.112",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.1005.0-alpha.107.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PushMessages_3.1005.0-alpha.112.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4743,7 +4743,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1012.0",
+            "Version": "3.1015.0",
             "Optional": false
           }
         ],

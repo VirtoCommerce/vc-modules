@@ -5204,14 +5204,14 @@
       },
       {
         "Version": "3.1004.0",
-        "VersionTag": "alpha.73",
+        "VersionTag": "alpha.78",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.1004.0-alpha.73.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.1004.0-alpha.78.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1012.0",
+            "Version": "3.1015.0",
             "Optional": false
           },
           {

@@ -6642,15 +6642,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1002.0",
+        "Version": "3.1003.0",
         "VersionTag": "",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-pickup/releases/download/3.1002.0/VirtoCommerce.XPickup_3.1002.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-pickup/releases/download/3.1003.0/VirtoCommerce.XPickup_3.1003.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1000.0",
+            "Version": "3.1015.0",
             "Optional": false
           },
           {

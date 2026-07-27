@@ -7513,15 +7513,15 @@
         "ReleaseNotes": "Initial UCP discovery and XAPI in-process catalog foundation."
       },
       {
-        "Version": "3.1003.0",
-        "VersionTag": "alpha.12",
+        "Version": "3.1004.0",
+        "VersionTag": "alpha.14",
         "PlatformVersion": "3.1034.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.UCP_3.1003.0-alpha.12.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.UCP_3.1004.0-alpha.14.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1001.0",
+            "Version": "3.1015.0",
             "Optional": false
           },
           {

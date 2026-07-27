@@ -6880,9 +6880,9 @@
       },
       {
         "Version": "3.1004.0",
-        "VersionTag": "alpha.39",
+        "VersionTag": "alpha.46",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XFrontend_3.1004.0-alpha.39.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XFrontend_3.1004.0-alpha.46.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -6897,7 +6897,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1012.0",
+            "Version": "3.1015.0",
             "Optional": false
           }
         ],

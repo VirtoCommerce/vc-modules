@@ -7406,10 +7406,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1000.0",
+        "Version": "3.1001.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1039.6",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sales-rep/releases/download/3.1000.0/VirtoCommerce.SalesRep_3.1000.0.zip",
+        "PlatformVersion": "3.1048.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sales-rep/releases/download/3.1001.0/VirtoCommerce.SalesRep_3.1001.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7439,7 +7439,12 @@
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.1006.0",
+            "Version": "3.1008.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.XCart",
+            "Version": "3.1029.0",
             "Optional": false
           },
           {

@@ -718,10 +718,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.1005.0",
-        "VersionTag": "alpha.534",
-        "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.1005.0-alpha.534.zip",
+        "Version": "3.1007.0",
+        "VersionTag": "alpha.537",
+        "PlatformVersion": "3.1052.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Inventory_3.1007.0-alpha.537.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

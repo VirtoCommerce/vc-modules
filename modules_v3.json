@@ -1543,10 +1543,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.1006.0",
-        "VersionTag": "alpha.787",
-        "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.1006.0-alpha.787.zip",
+        "Version": "3.1007.0",
+        "VersionTag": "alpha.789",
+        "PlatformVersion": "3.1052.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Store_3.1007.0-alpha.789.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

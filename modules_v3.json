@@ -7553,7 +7553,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2026 VirtoCommerce. All rights reserved",
     "Tags": "ucp commerce mcp checkout catalog cart",
-    "Groups": [],
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.1004.0",
@@ -7596,10 +7598,10 @@
         "ReleaseNotes": "Initial UCP discovery and XAPI in-process catalog foundation."
       },
       {
-        "Version": "3.1004.0",
-        "VersionTag": "alpha.14",
-        "PlatformVersion": "3.1034.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.UCP_3.1004.0-alpha.14.zip",
+        "Version": "3.1005.0",
+        "VersionTag": "alpha.16",
+        "PlatformVersion": "3.1039.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.UCP_3.1005.0-alpha.16.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7631,9 +7633,19 @@
             "Id": "VirtoCommerce.Marketing",
             "Version": "3.1000.0",
             "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.ApplicationInsights",
+            "Version": "3.1004.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.OpenTelemetry",
+            "Version": "3.1001.0",
+            "Optional": true
           }
         ],
-        "ReleaseNotes": "Initial UCP discovery and XAPI in-process catalog foundation."
+        "ReleaseNotes": "Adds MCP-to-UCP-to-XAPI tracing, metrics, and AI-visible correlation. Breaking changes: REST XAPI failures now return HTTP 200 with the original GraphQL envelope instead of a synthetic 502; MCP UCP failures now return tools/call isError results instead of JSON-RPC errors; protected ParseGraphQlResult and CreateException overloads remain compatible."
       }
     ]
   }

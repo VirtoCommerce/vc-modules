@@ -7341,10 +7341,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1004.0",
-        "VersionTag": "alpha.15",
-        "PlatformVersion": "3.1059.0-alpha.13363-vcst-5387-top-level-catalog-assets",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackupRestore_3.1004.0-alpha.15.zip",
+        "Version": "3.1005.0",
+        "VersionTag": "alpha.17",
+        "PlatformVersion": "3.1062.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackupRestore_3.1005.0-alpha.17.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

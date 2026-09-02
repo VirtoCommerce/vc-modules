@@ -5290,10 +5290,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1031.0",
+        "Version": "3.1032.0",
         "VersionTag": "",
         "PlatformVersion": "3.1048.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cart/releases/download/3.1031.0/VirtoCommerce.XCart_3.1031.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cart/releases/download/3.1032.0/VirtoCommerce.XCart_3.1032.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5338,7 +5338,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1018.0",
+            "Version": "3.1020.0",
             "Optional": false
           },
           {

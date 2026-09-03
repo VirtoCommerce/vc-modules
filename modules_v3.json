@@ -6115,9 +6115,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.32",
+        "VersionTag": "alpha.38",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OpenSearch_3.1002.0-alpha.32.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OpenSearch_3.1002.0-alpha.38.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

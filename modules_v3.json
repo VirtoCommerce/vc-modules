@@ -7496,10 +7496,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1006.0",
-        "VersionTag": "alpha.23",
+        "Version": "3.1007.0",
+        "VersionTag": "alpha.25",
         "PlatformVersion": "3.1048.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1006.0-alpha.23.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1007.0-alpha.25.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7554,12 +7554,17 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1015.0",
+            "Version": "3.1016.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
             "Version": "3.1029.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.XOrder",
+            "Version": "3.1009.0",
             "Optional": false
           }
         ],

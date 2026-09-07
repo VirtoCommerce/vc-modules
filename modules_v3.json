@@ -1324,9 +1324,9 @@
       },
       {
         "Version": "3.1007.0",
-        "VersionTag": "pr-144-37cd",
-        "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.1007.0-pr-144-37cd.zip",
+        "VersionTag": "alpha.847",
+        "PlatformVersion": "3.1065.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.1007.0-alpha.847.zip",
         "Incompatibilities": [],
         "Dependencies": [],
         "ReleaseNotes": ""

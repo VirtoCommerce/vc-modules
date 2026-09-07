@@ -7397,10 +7397,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1050.0",
-        "VersionTag": "alpha.7",
-        "PlatformVersion": "3.1050.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackgroundJobs_3.1050.0-alpha.7.zip",
+        "Version": "3.1051.0",
+        "VersionTag": "alpha.10",
+        "PlatformVersion": "3.1065.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackgroundJobs_3.1051.0-alpha.10.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

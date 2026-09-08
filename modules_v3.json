@@ -7426,10 +7426,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1007.0",
+        "Version": "3.1008.0",
         "VersionTag": "",
         "PlatformVersion": "3.1048.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sales-rep/releases/download/3.1007.0/VirtoCommerce.SalesRep_3.1007.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sales-rep/releases/download/3.1008.0/VirtoCommerce.SalesRep_3.1008.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7484,7 +7484,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1016.0",
+            "Version": "3.1020.0",
             "Optional": false
           },
           {
@@ -7494,7 +7494,7 @@
           },
           {
             "Id": "VirtoCommerce.XOrder",
-            "Version": "3.1009.0",
+            "Version": "3.1011.0",
             "Optional": false
           }
         ],

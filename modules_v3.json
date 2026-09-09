@@ -7588,7 +7588,7 @@
       "VirtoCommerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-u-c-p",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-ucp",
     "IconUrl": "Modules/$(VirtoCommerce.UCP)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2026 VirtoCommerce. All rights reserved",

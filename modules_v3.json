@@ -4906,9 +4906,9 @@
       },
       {
         "Version": "3.1005.0",
-        "VersionTag": "alpha.140",
+        "VersionTag": "alpha.146",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BuilderIO_3.1005.0-alpha.140.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BuilderIO_3.1005.0-alpha.146.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -5223,10 +5223,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1005.0",
-        "VersionTag": "alpha.81",
+        "Version": "3.1006.0",
+        "VersionTag": "alpha.83",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.1005.0-alpha.81.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.1006.0-alpha.83.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5251,7 +5251,7 @@
           },
           {
             "Id": "VirtoCommerce.PageBuilderModule",
-            "Version": "3.1024.0-alpha.875-vcst-4933-shared-components",
+            "Version": "3.1026.0",
             "Optional": true
           }
         ],

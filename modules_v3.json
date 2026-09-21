@@ -3253,9 +3253,9 @@
       },
       {
         "Version": "3.1004.0",
-        "VersionTag": "alpha.144",
+        "VersionTag": "alpha.150",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.1004.0-alpha.144.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileSystemAssets_3.1004.0-alpha.150.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

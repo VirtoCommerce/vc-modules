@@ -7618,10 +7618,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1005.0",
+        "Version": "3.1006.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-ucp/releases/download/3.1005.0/VirtoCommerce.UCP_3.1005.0.zip",
+        "PlatformVersion": "3.1072.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-ucp/releases/download/3.1006.0/VirtoCommerce.UCP_3.1006.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7641,7 +7641,7 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1004.0",
+            "Version": "3.1006.0",
             "Optional": false
           },
           {

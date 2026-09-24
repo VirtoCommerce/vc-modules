@@ -5442,12 +5442,17 @@
     ],
     "Versions": [
       {
-        "Version": "3.1012.0",
+        "Version": "3.1013.0",
         "VersionTag": "",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-order/releases/download/3.1012.0/VirtoCommerce.XOrder_3.1012.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-order/releases/download/3.1013.0/VirtoCommerce.XOrder_3.1013.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.1021.0",
+            "Optional": false
+          },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
             "Version": "3.1003.0",

@@ -7516,10 +7516,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1009.0",
-        "VersionTag": "alpha.30",
+        "Version": "3.1010.0",
+        "VersionTag": "alpha.32",
         "PlatformVersion": "3.1048.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1009.0-alpha.30.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1010.0-alpha.32.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

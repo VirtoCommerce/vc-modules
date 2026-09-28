@@ -7476,10 +7476,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1010.0",
+        "Version": "3.1011.0",
         "VersionTag": "",
         "PlatformVersion": "3.1048.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sales-rep/releases/download/3.1010.0/VirtoCommerce.SalesRep_3.1010.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sales-rep/releases/download/3.1011.0/VirtoCommerce.SalesRep_3.1011.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

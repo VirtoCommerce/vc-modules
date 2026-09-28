@@ -6657,10 +6657,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1008.0",
-        "VersionTag": "alpha.48",
+        "Version": "3.1009.0",
+        "VersionTag": "alpha.55",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Loyalty_3.1008.0-alpha.48.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Loyalty_3.1009.0-alpha.55.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -7788,5 +7788,50 @@
         "ReleaseNotes": "Adds MCP-to-UCP-to-XAPI tracing, metrics, and AI-visible correlation. Breaking changes: REST XAPI failures now return HTTP 200 with the original GraphQL envelope instead of a synthetic 502; MCP UCP failures now return tools/call isError results instead of JSON-RPC errors; protected ParseGraphQlResult and CreateException overloads remain compatible."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.OTP",
+    "Title": "OTP Sign-In",
+    "Description": "Enables customers to sign in to the storefront with a one-time code emailed to them, instead of a password.",
+    "Authors": [
+      "Virto Commerce"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-otp",
+    "IconUrl": "Modules/$(VirtoCommerce.OTP)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2026 Virto Commerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.4",
+        "PlatformVersion": "3.1075.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OTP_3.1000.0-alpha.4.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.1011.1",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Notifications",
+            "Version": "3.1009.3",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.1005.1",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

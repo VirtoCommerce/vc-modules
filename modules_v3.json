@@ -7809,6 +7809,31 @@
     "Versions": [
       {
         "Version": "3.1000.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.1075.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-otp/releases/download/3.1000.0/VirtoCommerce.OTP_3.1000.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.1011.1",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Notifications",
+            "Version": "3.1009.3",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.1005.1",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.1000.0",
         "VersionTag": "alpha.5",
         "PlatformVersion": "3.1075.0",
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OTP_3.1000.0-alpha.5.zip",

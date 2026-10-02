@@ -7678,7 +7678,7 @@
       "VirtoCommerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-u-c-p",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-ucp",
     "IconUrl": "Modules/$(VirtoCommerce.UCP)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2026 VirtoCommerce. All rights reserved",
@@ -7738,10 +7738,10 @@
         "ReleaseNotes": "Adds MCP-to-UCP-to-XAPI tracing, metrics, and AI-visible correlation. Breaking changes: REST XAPI failures now return HTTP 200 with the original GraphQL envelope instead of a synthetic 502; MCP UCP failures now return tools/call isError results instead of JSON-RPC errors; protected ParseGraphQlResult and CreateException overloads remain compatible."
       },
       {
-        "Version": "3.1008.0",
-        "VersionTag": "alpha.25",
+        "Version": "3.1009.0",
+        "VersionTag": "alpha.27",
         "PlatformVersion": "3.1073.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.UCP_3.1008.0-alpha.25.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.UCP_3.1009.0-alpha.27.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

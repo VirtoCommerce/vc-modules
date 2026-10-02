@@ -7801,7 +7801,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-otp",
-    "IconUrl": "Modules/$(VirtoCommerce.OTP)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.OTP)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2026 Virto Commerce. All rights reserved",
     "Tags": "extension module",
@@ -7809,9 +7809,9 @@
     "Versions": [
       {
         "Version": "3.1000.0",
-        "VersionTag": "alpha.4",
+        "VersionTag": "alpha.5",
         "PlatformVersion": "3.1075.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OTP_3.1000.0-alpha.4.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OTP_3.1000.0-alpha.5.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

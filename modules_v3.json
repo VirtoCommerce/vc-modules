@@ -7268,10 +7268,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1001.0",
+        "Version": "3.1002.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-opentelemetry/releases/download/3.1001.0/VirtoCommerce.OpenTelemetry_3.1001.0.zip",
+        "PlatformVersion": "3.1076.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-opentelemetry/releases/download/3.1002.0/VirtoCommerce.OpenTelemetry_3.1002.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

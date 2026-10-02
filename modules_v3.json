@@ -5632,9 +5632,9 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.54",
-        "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleSSO_3.1003.0-alpha.54.zip",
+        "VersionTag": "alpha.62",
+        "PlatformVersion": "3.1076.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.GoogleSSO_3.1003.0-alpha.62.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

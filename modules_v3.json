@@ -6321,9 +6321,9 @@
       },
       {
         "Version": "3.1005.0",
-        "VersionTag": "alpha.89",
-        "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Seo_3.1005.0-alpha.89.zip",
+        "VersionTag": "alpha.97",
+        "PlatformVersion": "3.1076.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Seo_3.1005.0-alpha.97.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

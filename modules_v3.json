@@ -7475,6 +7475,15 @@
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.1052.0",
+        "VersionTag": "alpha.14",
+        "PlatformVersion": "3.1076.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackgroundJobs_3.1052.0-alpha.14.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "First version."
       }
     ]
   },

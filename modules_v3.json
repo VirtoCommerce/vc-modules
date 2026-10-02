@@ -6645,7 +6645,7 @@
     ],
     "LicenseUrl": null,
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-loyalty",
-    "IconUrl": "Modules/$(VirtoCommerce.Loyalty)/Content/logo.png",
+    "IconUrl": "Modules/$(VirtoCommerce.Loyalty)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2025-2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
@@ -6687,10 +6687,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1009.0",
-        "VersionTag": "alpha.55",
+        "Version": "3.1010.0",
+        "VersionTag": "alpha.58",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Loyalty_3.1009.0-alpha.55.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Loyalty_3.1010.0-alpha.58.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

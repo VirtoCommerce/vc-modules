@@ -1323,10 +1323,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.1009.0",
-        "VersionTag": "alpha.854",
+        "Version": "3.1010.0",
+        "VersionTag": "alpha.856",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.1009.0-alpha.854.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Search_3.1010.0-alpha.856.zip",
         "Incompatibilities": [],
         "Dependencies": [],
         "ReleaseNotes": ""

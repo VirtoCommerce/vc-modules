@@ -2243,9 +2243,9 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.254",
-        "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.1003.0-alpha.254.zip",
+        "VersionTag": "alpha.262",
+        "PlatformVersion": "3.1076.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BulkActionsModule_3.1003.0-alpha.262.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

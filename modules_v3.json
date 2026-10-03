@@ -2025,10 +2025,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1004.0",
-        "VersionTag": "alpha.310",
-        "PlatformVersion": "3.1039.11",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.1004.0-alpha.310.zip",
+        "Version": "3.1005.0",
+        "VersionTag": "alpha.314",
+        "PlatformVersion": "3.1076.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CatalogPersonalization_3.1005.0-alpha.314.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

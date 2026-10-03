@@ -1207,10 +1207,10 @@
         "ReleaseNotes": null
       },
       {
-        "Version": "3.1006.0",
-        "VersionTag": "alpha.816",
-        "PlatformVersion": "3.1052.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.1006.0-alpha.816.zip",
+        "Version": "3.1007.0",
+        "VersionTag": "alpha.821",
+        "PlatformVersion": "3.1076.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.1007.0-alpha.821.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

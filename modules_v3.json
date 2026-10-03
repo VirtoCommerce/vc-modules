@@ -7431,15 +7431,15 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1006.0",
-        "VersionTag": "alpha.21",
+        "Version": "3.1007.0",
+        "VersionTag": "alpha.23",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackupRestore_3.1006.0-alpha.21.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackupRestore_3.1007.0-alpha.23.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.1005.0",
+            "Version": "3.1010.0",
             "Optional": false
           }
         ],

@@ -1,42 +1,45 @@
-# src — Stable-release tooling
+# src: Stable-release tooling
 
-Scripts that drive a Virto Commerce **Stable bundle** release. The end-to-end procedure is in
-[`bundles/RELEASE_PROCEDURE.md`](../bundles/RELEASE_PROCEDURE.md); repo rules are in [`CLAUDE.md`](../CLAUDE.md);
-the guided workflow is the `vc-stable-release` Claude skill.
+These scripts drive a Virto Commerce **Stable bundle** release. The end-to-end procedure is in
+[`bundles/RELEASE_PROCEDURE.md`](../bundles/RELEASE_PROCEDURE.md), the repo rules are in [`CLAUDE.md`](../CLAUDE.md), and the
+guided workflow is the `vc-stable-release` Claude skill.
 
 ## To cut the next stable
-1. Edit **`release.config.json`** (`version`, `prevVersion`, `platformVersion`, `themeVersion`,
-   `jiraTicket`, `branch`, paths). **This is the only file you change per release** — the tools read it.
+1. Edit **`release.config.json`**. It is the only file you change per release; every tool reads it.
 2. Seed `bundles/v{version}/package.json` from the previous bundle.
-3. Follow `bundles/RELEASE_PROCEDURE.md` (Step 0 audit → waves → finalize → verify).
+3. Follow `bundles/RELEASE_PROCEDURE.md`: Step 0 → platform → waves (`prepare_wave.py` + `release_wave.py`, one wave per
+   run) → finalize → verify.
 
 ## Config
 | File | Role |
 |---|---|
-| `release.config.json` | single per-release config (versions, branch, local paths) |
-| `config.py` | Python loader — exposes `CUR_BUNDLE`, `PREV_BUNDLE`, `REGISTRY`, `PLATFORM_VERSION`, `THEME_URL`, `out(name)`, … |
-| `release-config.ps1` | PowerShell loader — `Get-ReleaseConfig` returns versions + resolved paths |
+| `release.config.json` | the per-release config: versions, branch, Jira keys, obsolete policy, flaky checks, PBC required modules |
+| `config.py` | the loader: `CUR_BUNDLE`, `PREV_BUNDLE`, `REGISTRY`, `PLATFORM_VERSION`, `THEME_URL`, `out(name)` (deliverables), `work(name)` (`.release-work/v{N}/`, git-ignored), … |
 
 ## Tools
 | Script | Purpose | Output |
 |---|---|---|
-| `audit_obsolete.py` | Step-0 obsolete inventory + blast-radius risk (read-only) | `v{N}/obsolete_removal_audit.md` |
-| `platform_package_reference.py` | real platform NuGet deps from `VirtoCommerce.Platform.sln` | `v{N}/platform_package_reference.md` |
-| `compute_waves.py` | dependency tree / update waves (Kahn topo-sort; cycle check) | `v{N}/dependency-tree.md` |
-| `finalize_bundle.py` | fill `package.json` from each repo's released `VersionPrefix` + platform/theme from config | `v{N}/package.json` |
-| `collect_releases_md.py` | aggregate GitHub release notes prev→current (uses `gh auth token`) | `v{N}/release_notes.md` |
-| `release_module.ps1` | per-module orchestrator: branch, local nuget.config, bump platform/deps, build, `npm audit fix`, `vc-build Compress`, pack→local-nuget, stage artifact | built/packed module |
-| `migrate_ict.ps1` | `ICancellationToken` → `System.Threading.CancellationToken` helper | edited `*.cs` |
+| `audit_obsolete.py` | Step 0: obsolete inventory and blast-radius risk (read-only) | `v{N}/obsolete_removal_audit.md` |
+| `platform_package_reference.py` | the platform's real NuGet dependencies, from `VirtoCommerce.Platform.sln` | `v{N}/platform_package_reference.md` |
+| `compute_waves.py` | dependency tree and waves (manifest dependencies plus csproj-only module references; cycle check) | `v{N}/dependency-tree.md` |
+| `prepare_wave.py` | per wave: branch, platform bump, alignment, module deps (waits for nuget.org), npm audit fix, build/test, PRs | PRs, `.release-work/v{N}/w{W}-prepare.txt`, `-prs.txt` |
+| `release_wave.py` | per wave: CI gate (one flake re-run), guarded merge, `Release` run, wait for GitHub release + zip | releases, `w{W}-release.txt` |
+| `bump_platform.py` | `VirtoCommerce.Platform.*` + `<platformVersion>` + FluentAssertions range (never `Platform.Hangfire`) | edited csproj/manifest |
+| `align_3rdparty.py` | third-party versions → the platform's | edited csproj |
+| `bump_module_deps.py` | `VirtoCommerce.*` module references (csproj + manifest) → latest releases; `--check` audits | edited csproj/manifest |
+| `npm_audit_fix.py` | `npm audit fix` (never `--force`) + `webpack:build`, reverting on failure | JSON per Web project |
+| `gen_pr_body.py` | PR description from the working-tree diff + `notes/<repo>.md` | markdown |
+| `finalize_bundle.py` | pin released versions (`--source github` default, or `local`) + platform/theme | `v{N}/package.json` |
+| `validate_bundle.py` | bundle vs `modules_v3.json` on master, platform release, theme URL | report |
+| `collect_releases_md.py` | GitHub release notes, prev → current (uses `gh auth token`) | `v{N}/release_notes.md` |
+| `collect_breaking_changes.py` | the `## Breaking changes` sections of the cycle's merged PRs | `.release-work/v{N}/breaking_changes_raw.md` |
+| `update_pbc.py` | `pbc/*.json` → the bundle; required modules added; closed over dependencies | edited `pbc/*.json` |
 
-Consumer-facing upgrade script ships per bundle as `bundles/v{N}/update-to-stable.ps1` (+ `update_path.md`).
+The consumer-facing upgrade script ships per bundle as `bundles/v{N}/update-to-stable.ps1` (with `update_path.md`).
 
 ## Caveats
-- `audit_obsolete.py` and `finalize_bundle.py` read the **live** sibling-repo sources, so they are
-  **not idempotent** once the release's removals/bumps are applied — run them at Step 0 / finalize, not
-  as mid-release regression checks.
-- Requires Python 3 with `requests` + `packaging`; PowerShell 7; `gh` authenticated (for release notes);
-  the `vc-build` global tool; and the sibling repos + `local-nuget` under `monorepoRoot`.
-
-## Legacy
-`collect_releases.py` + `modules_config.json` are the **superseded** HTML release-notes generator
-(manual version map). Use `collect_releases_md.py` instead (Markdown, versions derived from the bundles).
+- `audit_obsolete.py` and `finalize_bundle.py --source local` read the **live** source repos, so they are not idempotent
+  once the release's changes are applied. Run them at Step 0 and at finalize, not as mid-release checks.
+- Requirements: Python 3 with `requests` and `packaging`; .NET SDK; Node/npm; `gh`, authenticated, with bypass-merge permission
+  on the module repos; the `vc-platform` / `vc-module-*` clones under `monorepoRoot`.
+- `prepare_wave.py` changes the module clones: it checks out the cycle branch off `origin/dev`. Commit or stash local work first.

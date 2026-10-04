@@ -3272,20 +3272,20 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1002.0",
+        "Version": "3.1003.0",
         "VersionTag": "",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-gdpr/releases/download/3.1002.0/VirtoCommerce.GDPR_3.1002.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-gdpr/releases/download/3.1003.0/VirtoCommerce.GDPR_3.1003.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.1011.0",
+            "Version": "3.1028.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.1009.0",
+            "Version": "3.1018.0",
             "Optional": false
           }
         ],

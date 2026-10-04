@@ -36,7 +36,7 @@ from packaging import version
 import config
 
 ROOT = config.MONOREPO_ROOT
-ORG = "VirtoCommerce"
+ORG = config.ORG
 PKG_REF = re.compile(rb'(<PackageReference\s+Include=")(VirtoCommerce\.[A-Za-z0-9.]+)("\s+Version=")([^"]+)(")')
 MANIFEST_DEP = re.compile(rb'(<dependency\s+id=")(VirtoCommerce\.[A-Za-z0-9.]+)("\s+version=")([^"]+)(")')
 MANIFEST_ID = re.compile(r"<id>([^<]+)</id>")
@@ -80,6 +80,12 @@ def latest_release(repo):
 _nuget_wait_minutes = 0
 
 
+def set_nuget_wait(minutes):
+    """How long on_nuget polls nuget.org for a version that is not listed yet (0 = check once)."""
+    global _nuget_wait_minutes
+    _nuget_wait_minutes = minutes
+
+
 def on_nuget(package_id, ver):
     """True when nuget.org lists the version. With --wait-nuget, polls once a minute up to that many minutes."""
     url = f"https://api.nuget.org/v3-flatcontainer/{package_id.lower()}/index.json"
@@ -105,7 +111,8 @@ def repo_files(repo, ref):
     """(path, bytes) for every csproj and module.manifest, from `ref` (git) or the working tree (ref=None)."""
     if ref:
         names = _git(repo, "ls-tree", "-r", "--name-only", ref).decode().splitlines()
-        names = [n for n in names if n.endswith(".csproj") or n.endswith("module.manifest")]
+        names = [n for n in names if n.endswith(".csproj") or os.path.basename(n) == "module.manifest"]
+        names = [n for n in names if not n.startswith("samples/")]   # samples are never shipped
         return [(n, _git(repo, "show", f"{ref}:{n}")) for n in names]
     base = os.path.join(ROOT, repo)
     paths = glob.glob(os.path.join(base, "**", "*.csproj"), recursive=True) + \
@@ -198,8 +205,7 @@ def main():
     ap.add_argument("--wait-nuget", type=int, default=0, metavar="MINUTES",
                     help="poll nuget.org up to MINUTES for a release that is not listed yet (use between waves)")
     args = ap.parse_args()
-    global _nuget_wait_minutes
-    _nuget_wait_minutes = args.wait_nuget
+    set_nuget_wait(args.wait_nuget)
     if args.apply and args.ref:
         ap.error("--ref is only for --check")
 

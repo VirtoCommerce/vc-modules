@@ -30,6 +30,12 @@ THEME_VERSION = _cfg["themeVersion"]
 THEME_URL = _cfg["themeUrlTemplate"].format(themeVersion=THEME_VERSION)
 JIRA_TICKET = _cfg.get("jiraTicket", "")
 BRANCH = _cfg.get("branch", f"feat/{JIRA_TICKET}-stable-{VERSION}")
+OBSOLETE_REMOVAL_TICKET = _cfg.get("obsoleteRemovalTicket", "")
+ORG = _cfg.get("githubOrg", "VirtoCommerce")
+SOURCE_BRANCH = _cfg.get("sourceBranch", "dev")          # module PRs target it; the Release workflow runs on it
+NUGET_WAIT_MINUTES = int(_cfg.get("nugetWaitMinutes", 30))
+FLAKY_CHECKS = _cfg.get("flakyChecks", r"^(auto-tests / .*|swagger-validation)$")  # re-run once, never a blocker twice
+PBC_REQUIRED_MODULES = _cfg.get("pbcRequiredModules", [])    # every pbc/*.json grouping must include these
 
 # --- derived paths ---
 # The vc-modules repo this tool lives in (src -> vc-modules). Bundles, the registry and the deliverables live here.
@@ -55,3 +61,14 @@ PREV_BUNDLE = os.path.join(bundle_dir(PREV_VERSION), "package.json")
 def out(filename):
     """Path to a deliverable in the current bundle dir (bundles/v{VERSION}/<filename>)."""
     return os.path.join(bundle_dir(VERSION), filename)
+
+
+# Per-cycle working files (wave results, PR lists, PR bodies, per-repo notes). Git-ignored, never a deliverable.
+WORK_DIR = os.path.join(VC_MODULES, ".release-work", f"v{VERSION}")
+
+
+def work(filename):
+    """Path to a working file in .release-work/v{VERSION}/ (directory created on demand)."""
+    path = os.path.join(WORK_DIR, filename)
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    return path

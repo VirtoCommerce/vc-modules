@@ -32,14 +32,12 @@ JIRA_TICKET = _cfg.get("jiraTicket", "")
 BRANCH = _cfg.get("branch", f"feat/{JIRA_TICKET}-stable-{VERSION}")
 
 # --- derived paths ---
-# The REAL vc-modules repo this tool lives in (src -> vc-modules). Bundles, the registry, and the
-# deliverables ALWAYS live here, even when the source repos are isolated in a sandbox.
+# The vc-modules repo this tool lives in (src -> vc-modules). Bundles, the registry and the deliverables live here.
 VC_MODULES = os.path.normpath(os.path.join(_HERE, ".."))
 REGISTRY = os.path.join(VC_MODULES, "modules_v3.json")
 
-# Source-repo root (vc-platform, vc-module-*): taken from release.config.json `monorepoRoot`, so a
-# sandbox clone (e.g. <sandboxRoot>/src) can be used for source isolation. Defaults to vc-modules'
-# parent — the normal side-by-side checkout layout (behavior unchanged when monorepoRoot is the parent).
+# Source-repo root (vc-platform, vc-module-*): release.config.json `monorepoRoot`, defaulting to vc-modules'
+# parent (the normal side-by-side checkout layout).
 MONOREPO_ROOT = os.path.normpath(_cfg.get("monorepoRoot") or os.path.join(VC_MODULES, os.pardir))
 ROOT = MONOREPO_ROOT  # alias: the repo-scanning tools glob ROOT/vc-platform and ROOT/vc-module-*
 PLATFORM_DIR = os.path.join(MONOREPO_ROOT, "vc-platform")

@@ -2706,15 +2706,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "4.1003.0",
+        "Version": "4.1004.0",
         "VersionTag": "",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/4.1003.0/VirtoCommerce.GoogleEcommerceAnalytics_4.1003.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-google-ecommerce-analytics/releases/download/4.1004.0/VirtoCommerce.GoogleEcommerceAnalytics_4.1004.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1005.0",
+            "Version": "3.1009.0",
             "Optional": false
           }
         ],

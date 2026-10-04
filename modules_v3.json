@@ -5884,30 +5884,30 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1009.0",
-        "VersionTag": "alpha.80",
+        "Version": "3.1010.0",
+        "VersionTag": "alpha.82",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pages_3.1009.0-alpha.80.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pages_3.1010.0-alpha.82.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.1010.0",
+            "Version": "3.1028.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Search",
-            "Version": "3.1004.0",
+            "Version": "3.1010.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Seo",
-            "Version": "3.1004.0",
+            "Version": "3.1005.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1005.0",
+            "Version": "3.1009.0",
             "Optional": false
           }
         ],

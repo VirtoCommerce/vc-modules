@@ -1,0 +1,20 @@
+{
+  "$comment": "Single source of truth for a stable-release cycle. Edit this, then run the tools in src/ (see bundles/RELEASE_PROCEDURE.md and the vc-stable-release skill). To cut the NEXT stable: bump version/prevVersion, set the new platformVersion/themeVersion, and update jiraTicket/branch. monorepoRoot is the folder holding the vc-platform and vc-module-* clones (defaults to the parent of vc-modules).",
+  "version": 16,
+  "prevVersion": 15,
+  "platformVersion": "3.1076.0",
+  "themeVersion": "2.58.0",
+  "themeUrlTemplate": "https://github.com/VirtoCommerce/vc-frontend/releases/download/{themeVersion}/vc-theme-b2b-vue-{themeVersion}.zip",
+  "jiraTicket": "VCST-6042",
+  "branch": "feat/VCST-6042-stable-16",
+  "obsoleteRemovalTicket": "VCST-5901",
+  "obsoleteKeepFrom": "VC0013",
+  "monorepoRoot": "C:\\Projects\\git\\VirtoCommerce",
+  "githubOrg": "VirtoCommerce",
+  "sourceBranch": "dev",
+  "nugetWaitMinutes": 30,
+  "flakyChecks": "^(auto-tests / .*|swagger-validation)$",
+  "pbcRequiredModules": [
+    "VirtoCommerce.BackgroundJobs"
+  ]
+}

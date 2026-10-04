@@ -156,3 +156,6 @@ $RECYCLE.BIN/
 *.zip
 
 .vs/
+
+# Stable-release working files (src/config.py WORK_DIR)
+.release-work/

@@ -1,0 +1,17 @@
+{
+  "$comment": "Single source of truth for a stable-release cycle. Edit this, then run the tools in src/ and bundles/v{version}. See RELEASE_PROCEDURE.md and the vc-stable-release skill. To cut the NEXT stable: bump version/prevVersion, set the new platformVersion/themeVersion, and update jiraTicket/branch. Paths are this machine's local clones.",
+  "version": 16,
+  "prevVersion": 15,
+  "platformVersion": "3.1076.0",
+  "themeVersion": "2.58.0",
+  "themeUrlTemplate": "https://github.com/VirtoCommerce/vc-frontend/releases/download/{themeVersion}/vc-theme-b2b-vue-{themeVersion}.zip",
+  "jiraTicket": "VCST-6042",
+  "branch": "feat/VCST-6042-stable-16",
+  "monorepoRoot": "C:\\Projects\\git\\VirtoCommerce",
+  "localNugetPath": "C:\\Projects\\git\\VirtoCommerce\\local-nuget",
+  "artifactStagingPath": "C:\\vc-platform-3-demo\\_stable_16_artifacts",
+
+  "$sandbox": "Isolation sandbox (setup-sandbox.ps1): <sandboxRoot>/src holds fresh clones that the release modifies (monorepoRoot/localNugetPath are repointed here), <sandboxRoot>/runtime holds a deployed platform seeded from the PREVIOUS stable for per-wave health probing. NOTE: Stable 16 uses the CI-driven PR-gate workflow (GitHub Actions as quality gate) per release_plan.md; the sandbox/local-nuget/local-runtime steps are not used this cycle.",
+  "sandboxRoot": "C:\\vc-stable-16-sandbox",
+  "healthUrl": "https://localhost:5001/health"
+}

@@ -37,11 +37,16 @@ edit that, not the scripts. Tools read it via `src/config.py` (Python) and
   `IModuleCatalog`→`IModuleService`, `ModuleBootstrapper.Instance`→`IHasModuleService` migrations).
 - **Wave order = platform first, then topological** (`compute_waves.py`); a wave builds against earlier
   waves' freshly packed `local-nuget` outputs.
+- **Module dependencies go to the latest releases, not just the platform.** Every `VirtoCommerce.*` module
+  reference, in the csproj **and** in `module.manifest`, moves to the dependency's latest release
+  (`bump_module_deps.py`). **Pause between waves** until nuget.org lists the previous wave's packages
+  (`--wait-nuget`).
 - **Surface, don't auto-perform** risky/architectural changes (cascading public-API removals, anything
   that breaks downstream + tests) — report and let the user decide.
 
 ## Tooling (`src/`) — read the docstrings
 `audit_obsolete.py` (Step-0 inventory) · `platform_package_reference.py` · `compute_waves.py` ·
+`bump_module_deps.py` (module deps → latest releases, csproj + manifest) ·
 `finalize_bundle.py` · `collect_releases_md.py` (release notes) · `release_module.ps1` (per-module
 orchestrator) · `migrate_ict.ps1`. The consumer upgrade script ships per-bundle as
 `bundles/vN/update-to-stable.ps1`; the guide is `bundles/vN/update_path.md`.

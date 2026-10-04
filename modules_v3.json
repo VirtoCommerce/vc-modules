@@ -6979,25 +6979,25 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1006.0",
-        "VersionTag": "alpha.50",
-        "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XFrontend_3.1006.0-alpha.50.zip",
+        "Version": "3.1007.0",
+        "VersionTag": "alpha.55",
+        "PlatformVersion": "3.1076.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XFrontend_3.1007.0-alpha.55.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.1009.0",
+            "Version": "3.1020.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.WhiteLabeling",
-            "Version": "3.1000.0",
+            "Version": "3.1005.0",
             "Optional": true
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1015.0",
+            "Version": "3.1026.0",
             "Optional": false
           }
         ],

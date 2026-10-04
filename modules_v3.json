@@ -4675,20 +4675,20 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1005.0",
-        "VersionTag": "alpha.94",
+        "Version": "3.1006.0",
+        "VersionTag": "alpha.96",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.1005.0-alpha.94.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.FileExperienceApi_3.1006.0-alpha.96.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1015.0",
+            "Version": "3.1026.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.1005.0",
+            "Version": "3.1010.0",
             "Optional": false
           }
         ],

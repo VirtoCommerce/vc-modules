@@ -5278,35 +5278,35 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1007.0",
-        "VersionTag": "alpha.87",
+        "Version": "3.1008.0",
+        "VersionTag": "alpha.89",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.1007.0-alpha.87.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCMS_3.1008.0-alpha.89.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1015.0",
+            "Version": "3.1026.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Content",
-            "Version": "3.1003.0",
+            "Version": "3.1006.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.1011.0",
+            "Version": "3.1028.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pages",
-            "Version": "3.1008.0",
+            "Version": "3.1010.0",
             "Optional": true
           },
           {
             "Id": "VirtoCommerce.PageBuilderModule",
-            "Version": "3.1026.0",
+            "Version": "3.1031.0",
             "Optional": true
           }
         ],

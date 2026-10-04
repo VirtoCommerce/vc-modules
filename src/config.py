@@ -31,6 +31,8 @@ THEME_URL = _cfg["themeUrlTemplate"].format(themeVersion=THEME_VERSION)
 JIRA_TICKET = _cfg.get("jiraTicket", "")
 BRANCH = _cfg.get("branch", f"feat/{JIRA_TICKET}-stable-{VERSION}")
 OBSOLETE_REMOVAL_TICKET = _cfg.get("obsoleteRemovalTicket", "")
+# [Obsolete] members with a VC DiagnosticId below this are removed in the cycle; this one and later are kept.
+OBSOLETE_KEEP_FROM = int(_cfg.get("obsoleteKeepFrom", "VC0012").upper().replace("VC", ""))
 ORG = _cfg.get("githubOrg", "VirtoCommerce")
 SOURCE_BRANCH = _cfg.get("sourceBranch", "dev")          # module PRs target it; the Release workflow runs on it
 NUGET_WAIT_MINUTES = int(_cfg.get("nugetWaitMinutes", 30))

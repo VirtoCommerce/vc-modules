@@ -8,6 +8,7 @@
   "jiraTicket": "VCST-6042",
   "branch": "feat/VCST-6042-stable-16",
   "obsoleteRemovalTicket": "VCST-5901",
+  "obsoleteKeepFrom": "VC0013",
   "monorepoRoot": "C:\\Projects\\git\\VirtoCommerce",
   "githubOrg": "VirtoCommerce",
   "sourceBranch": "dev",

@@ -241,7 +241,7 @@
         "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.1048.0/VirtoCommerce.Catalog_3.1048.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
-         {
+          {
             "Id": "VirtoCommerce.Assets",
             "Version": "3.1010.0",
             "Optional": false
@@ -4372,9 +4372,9 @@
       },
       {
         "Version": "3.1032.0",
-        "VersionTag": "alpha.872",
+        "VersionTag": "alpha.873",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.1032.0-alpha.872.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PageBuilderModule_3.1032.0-alpha.873.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

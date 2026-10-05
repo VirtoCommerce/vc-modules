@@ -3822,7 +3822,7 @@
     "Title": "VirtoCommerce CITest extension module",
     "Description": "VirtoCommerce CITest extension module",
     "Authors": [
-      "Jon Doe"
+      "Oleg Zhuk"
     ],
     "Owners": [
       "VirtoCommerce"
@@ -3831,24 +3831,15 @@
     "ProjectUrl": "https://github.com/VirtoCommerce/vc-ci-test",
     "IconUrl": "Modules/$(VirtoCommerce.CITest)/Content/logo.png",
     "RequireLicenseAcceptance": false,
-    "Copyright": "Copyright © 2024 VirtoCommerce. All rights reserved",
+    "Copyright": "Copyright © 2026 VirtoCommerce. All rights reserved",
     "Tags": "extension module",
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.694",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.800.694/VirtoCommerce.CITest_3.800.694.zip",
-        "Incompatibilities": null,
-        "Dependencies": [],
-        "ReleaseNotes": "First version."
-      },
-      {
-        "Version": "3.800.57",
-        "VersionTag": "alpha.194",
-        "PlatformVersion": "3.800.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.CITest_3.800.57-alpha.194.zip",
+        "PlatformVersion": "3.1039.12",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-ci-test/releases/download/3.1000.0/VirtoCommerce.CITest_3.1000.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

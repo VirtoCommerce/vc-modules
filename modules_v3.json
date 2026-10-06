@@ -6605,12 +6605,18 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.800.0",
+        "Version": "3.1000.0",
         "VersionTag": "",
-        "PlatformVersion": "3.891.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-shopify-taxonomy/releases/download/3.800.0/VirtoCommerce.ShopifyTaxonomy_3.800.0.zip",
+        "PlatformVersion": "3.1039.12",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-shopify-taxonomy/releases/download/3.1000.0/VirtoCommerce.ShopifyTaxonomy_3.1000.0.zip",
         "Incompatibilities": null,
-        "Dependencies": [],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.1029.6",
+            "Optional": false
+          }
+        ],
         "ReleaseNotes": "First version."
       },
       {

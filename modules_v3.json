@@ -7589,20 +7589,20 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1011.0",
-        "VersionTag": "alpha.35",
-        "PlatformVersion": "3.1048.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1011.0-alpha.35.zip",
+        "Version": "3.1012.0",
+        "VersionTag": "alpha.37",
+        "PlatformVersion": "3.1076.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1012.0-alpha.37.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.1005.0",
+            "Version": "3.1010.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Cart",
-            "Version": "3.1008.0",
+            "Version": "3.1012.0",
             "Optional": false
           },
           {
@@ -7612,12 +7612,12 @@
           },
           {
             "Id": "VirtoCommerce.Core",
-            "Version": "3.1007.0",
+            "Version": "3.1012.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.1014.0",
+            "Version": "3.1028.0",
             "Optional": false
           },
           {
@@ -7627,7 +7627,7 @@
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.1009.0",
+            "Version": "3.1018.0",
             "Optional": false
           },
           {
@@ -7642,7 +7642,7 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1006.0",
+            "Version": "3.1009.0",
             "Optional": false
           },
           {
@@ -7652,12 +7652,12 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1020.0",
+            "Version": "3.1026.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.1029.0",
+            "Version": "3.1039.0",
             "Optional": false
           },
           {

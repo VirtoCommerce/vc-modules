@@ -59,7 +59,7 @@
         },
         {
           "Id": "VirtoCommerce.Cart",
-          "Version": "3.1011.0"
+          "Version": "3.1012.0"
         },
         {
           "Id": "VirtoCommerce.Catalog",
@@ -91,7 +91,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.1028.0"
+          "Version": "3.1029.0"
         },
         {
           "Id": "VirtoCommerce.CustomerExportImport",
@@ -207,7 +207,7 @@
         },
         {
           "Id": "VirtoCommerce.PageBuilderModule",
-          "Version": "3.1031.0"
+          "Version": "3.1032.0"
         },
         {
           "Id": "VirtoCommerce.Pages",
@@ -235,7 +235,7 @@
         },
         {
           "Id": "VirtoCommerce.PushMessages",
-          "Version": "3.1007.0"
+          "Version": "3.1008.0"
         },
         {
           "Id": "VirtoCommerce.Quote",
@@ -307,7 +307,7 @@
         },
         {
           "Id": "VirtoCommerce.XCart",
-          "Version": "3.1038.0"
+          "Version": "3.1039.0"
         },
         {
           "Id": "VirtoCommerce.XCatalog",

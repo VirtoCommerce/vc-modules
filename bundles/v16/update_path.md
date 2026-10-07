@@ -1,7 +1,7 @@
 # Update path → Virto Commerce Stable 16
 
 This guide moves an existing Virto Commerce deployment or custom code base from **Stable 15** to **Stable 16**:
-**platform `3.1076.0`**, .NET 10, theme `2.58.0`, 59 modules.
+**platform `3.1076.0`**, .NET 10, theme `2.59.0`, 59 modules.
 
 It has two audiences. Read the section that applies, or both:
 
@@ -69,7 +69,7 @@ There's no code to change, so this is a version roll-forward of the bundle.
 8. **Re-index** the search catalog (Settings → Search Index → Rebuild).
 9. Smoke-test the storefront and admin. If anything fails, restore the backup from step 1.
 
-> Frontend: deploy **`vc-theme-b2b-vue` 2.58.0** (the `ThemeB2BVue` URL in the bundle) to match the API surface.
+> Frontend: deploy **`vc-theme-b2b-vue` 2.59.0** (the `ThemeB2BVue` URL in the bundle) to match the API surface.
 > If a client still sends the GraphQL query `requestPasswordReset`, switch it to `sendPasswordResetEmail`.
 
 ---

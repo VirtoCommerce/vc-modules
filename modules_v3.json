@@ -5351,10 +5351,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1040.0",
+        "Version": "3.1041.0",
         "VersionTag": "",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cart/releases/download/3.1040.0/VirtoCommerce.XCart_3.1040.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cart/releases/download/3.1041.0/VirtoCommerce.XCart_3.1041.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5369,7 +5369,7 @@
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.1006.0",
+            "Version": "3.1008.0",
             "Optional": false
           },
           {

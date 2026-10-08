@@ -303,7 +303,7 @@ _Release notes are missing._
 
 ## VirtoCommerce.Cart
 
-- **Versions:** `3.1006.1` → `3.1011.0`
+- **Versions:** `3.1006.1` → `3.1012.0`
 - **Repository:** [vc-module-cart](https://github.com/VirtoCommerce/vc-module-cart)
 
 ### 3.1007.0
@@ -335,6 +335,12 @@ _Release notes are missing._
 ### 🎯 Development
 
   * Bump module dependencies to latest releases (#197)
+
+### 3.1012.0
+
+### 🎯 Development
+
+  * VCST-5728: Multiple wishlist shares with same key and sharing messages support (#194)
 
 ---
 
@@ -612,7 +618,7 @@ _Release notes are missing._
 
 ## VirtoCommerce.Customer
 
-- **Versions:** `3.1011.1` → `3.1028.0`
+- **Versions:** `3.1011.1` → `3.1029.0`
 - **Repository:** [vc-module-customer](https://github.com/VirtoCommerce/vc-module-customer)
 
 ### 3.1012.0
@@ -714,6 +720,12 @@ _Release notes are missing._
 ### 🎯 Development
 
   * Bump module dependencies to latest releases (#319)
+
+### 3.1029.0
+
+### 🎯 Development
+
+  * Fix keyword search and filters on the Link account blade (#320)
 
 ---
 
@@ -1173,7 +1185,7 @@ _Release notes are missing._
 
 ## VirtoCommerce.PageBuilderModule
 
-- **Versions:** `3.1012.1` → `3.1031.0`
+- **Versions:** `3.1012.1` → `3.1032.0`
 - **Repository:** [vc-module-pagebuilder](https://github.com/VirtoCommerce/vc-module-pagebuilder)
 
 ### 3.1013.0
@@ -1309,6 +1321,12 @@ _Release notes are missing._
 ### 🎯 Development
 
   * Bump module dependencies to latest releases (#169)
+
+### 3.1032.0
+
+### 🐞 Bug fixes
+
+  * Page Builder accessibility and action menus (VCST-6012, VCST-6011) (#165)
 
 ---
 
@@ -1477,7 +1495,7 @@ _Release notes are missing._
 
 ## VirtoCommerce.PushMessages
 
-- **Versions:** `3.1004.0` → `3.1007.0`
+- **Versions:** `3.1004.0` → `3.1008.0`
 - **Repository:** [vc-module-push-messages](https://github.com/VirtoCommerce/vc-module-push-messages)
 
 ### 3.1005.0
@@ -1497,6 +1515,12 @@ _Release notes are missing._
 ### 🎯 Development
 
   * Bump module dependencies to latest releases (#30)
+
+### 3.1008.0
+
+### 🎯 Development
+
+  * Improve Recipients list UX (#28)
 
 ---
 
@@ -2042,7 +2066,7 @@ _Release notes are missing._
 
 ## VirtoCommerce.XCart
 
-- **Versions:** `3.1021.2` → `3.1038.0`
+- **Versions:** `3.1021.2` → `3.1039.0`
 - **Repository:** [vc-module-x-cart](https://github.com/VirtoCommerce/vc-module-x-cart)
 
 ### 3.1022.0
@@ -2163,6 +2187,12 @@ _Release notes are missing._
 ### 🎯 Development
 
   * Platform 3.1076.0 + 3rd-party align (#148)
+
+### 3.1039.0
+
+### 🎯 Development
+
+  * VCST-5728: Multiple wishlist shares with same key and sharing messages support (#141)
 
 ---
 

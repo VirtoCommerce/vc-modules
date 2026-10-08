@@ -2279,10 +2279,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1003.0",
+        "Version": "3.1004.0",
         "VersionTag": "",
         "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.1003.0/VirtoCommerce.Quote_3.1003.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-quote/releases/download/3.1004.0/VirtoCommerce.Quote_3.1004.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -2307,12 +2307,12 @@
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.1010.0",
+            "Version": "3.1028.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.1000.0",
+            "Version": "3.1008.0",
             "Optional": false
           },
           {
@@ -2337,7 +2337,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1015.0",
+            "Version": "3.1026.0",
             "Optional": false
           },
           {
@@ -2347,7 +2347,7 @@
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.1011.0",
+            "Version": "3.1023.0",
             "Optional": false
           }
         ],

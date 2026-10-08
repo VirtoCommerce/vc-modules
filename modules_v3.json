@@ -4661,20 +4661,20 @@
     ],
     "Versions": [
       {
-        "Version": "3.1006.0",
+        "Version": "3.1007.0",
         "VersionTag": "",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-file-experience-api/releases/download/3.1006.0/VirtoCommerce.FileExperienceApi_3.1006.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-file-experience-api/releases/download/3.1007.0/VirtoCommerce.FileExperienceApi_3.1007.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
-            "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1026.0",
+            "Id": "VirtoCommerce.Assets",
+            "Version": "3.1010.0",
             "Optional": false
           },
           {
-            "Id": "VirtoCommerce.Assets",
-            "Version": "3.1010.0",
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.1026.0",
             "Optional": false
           }
         ],

@@ -5411,10 +5411,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1040.0",
-        "VersionTag": "alpha.291",
+        "Version": "3.1041.0",
+        "VersionTag": "alpha.293",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.1040.0-alpha.291.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.XCart_3.1041.0-alpha.293.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5429,7 +5429,7 @@
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.1006.0",
+            "Version": "3.1008.0",
             "Optional": false
           },
           {

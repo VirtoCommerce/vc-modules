@@ -7900,5 +7900,50 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.Punchout",
+    "Title": "Punchout",
+    "Description": "Сonnects Virto Commerce to e-procurement systems such as Coupa, SAP Arib",
+    "Authors": [
+      "VirtoCommerce"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/Virto Commerce/vc-module-punchout",
+    "IconUrl": "Modules/$(VirtoCommerce.Punchout)/Content/logo.svg",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2026 Virto Commerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.5",
+        "PlatformVersion": "3.1075.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Punchout_3.1000.0-alpha.5.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.1024.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.1007.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.ProfileExperienceApiModule",
+            "Version": "3.1021.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

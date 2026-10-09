@@ -42,6 +42,7 @@ Summary of changes by platform modules. Versions shown as previous → current.
 - [VirtoCommerce.PageBuilderModule](#virtocommercepagebuildermodule)
 - [VirtoCommerce.Pages](#virtocommercepages)
 - [VirtoCommerce.Payment](#virtocommercepayment)
+- [VirtoCommerce.Platform](#virtocommerceplatform)
 - [VirtoCommerce.Pricing](#virtocommercepricing)
 - [VirtoCommerce.ProfileExperienceApiModule](#virtocommerceprofileexperienceapimodule)
 - [VirtoCommerce.PushMessages](#virtocommercepushmessages)
@@ -1385,6 +1386,21 @@ _Release notes are missing._
 ### 🎯 Development
 
   * Bump module dependencies to latest releases (#77)
+
+---
+
+## VirtoCommerce.Platform
+
+- **Versions:** `3.1039.12` → `3.1076.1`
+- **Repository:** [vc-platform](https://github.com/VirtoCommerce/vc-platform)
+
+The 3.1039 → 3.1076 platform changes are in the [vc-platform releases](https://github.com/VirtoCommerce/vc-platform/releases) and [breaking_changes.md](breaking_changes.md). Hotfixes on top of 3.1076.0:
+
+### 3.1076.1
+
+### 🎯 Development
+
+  * Honour DefaultValue settings override in typed reads (#3128)
 
 ---
 

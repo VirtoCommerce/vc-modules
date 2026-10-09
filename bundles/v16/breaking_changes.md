@@ -1,6 +1,6 @@
 # Stable 16: Breaking changes
 
-This is the reference for code that moves from **Stable 15** (platform `3.1039.x`) to **Stable 16** (platform `3.1076.0`, theme
+This is the reference for code that moves from **Stable 15** (platform `3.1039.x`) to **Stable 16** (platform `3.1076.1`, theme
 `2.59.0`, 59 modules). It covers:
 1. The platform's move from Hangfire to the engine-agnostic **job API**, and what that means for every module.
 2. The obsolete members removed in **VCST-5901** (expired `VC0009`–`VC0012`).

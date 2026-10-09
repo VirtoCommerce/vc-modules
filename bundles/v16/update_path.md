@@ -1,7 +1,7 @@
 # Update path → Virto Commerce Stable 16
 
 This guide moves an existing Virto Commerce deployment or custom code base from **Stable 15** to **Stable 16**:
-**platform `3.1076.0`**, .NET 10, theme `2.59.0`, 59 modules.
+**platform `3.1076.1`**, .NET 10, theme `2.59.0`, 59 modules.
 
 It has two audiences. Read the section that applies, or both:
 
@@ -20,7 +20,7 @@ It has two audiences. Read the section that applies, or both:
 
 ## What changed at a glance
 
-- **Platform → `3.1076.0`**. The platform no longer contains Hangfire.
+- **Platform → `3.1076.1`**. The platform no longer contains Hangfire.
 - **New required module: `VirtoCommerce.BackgroundJobs` (3.1052.0).** It is the background-processing engine (Hangfire by default,
   or RabbitMQ / InMemory). **Without it, no background or recurring job runs.** It ships a type-forwarding
   `VirtoCommerce.Platform.Hangfire.dll`, so modules that still use Hangfire directly keep working.
@@ -53,7 +53,7 @@ There's no code to change, so this is a version roll-forward of the bundle.
    (registered in [stable.json](../stable.json) as `"16"`).
 4. Update the platform and modules with the CLI:
    ```powershell
-   vc-build InstallPlatform -PlatformVersion 3.1076.0
+   vc-build InstallPlatform -PlatformVersion 3.1076.1
    vc-build InstallModules                 # resolves module versions from the v16 bundle
    ```
    or run `vc-build Update` against a `vc-package.json` that pins the v16 bundle.

@@ -6341,30 +6341,30 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1003.0",
+        "Version": "3.1004.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-import/releases/download/3.1003.0/VirtoCommerce.Import_3.1003.0.zip",
+        "PlatformVersion": "3.1007.27",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-import/releases/download/3.1004.0/VirtoCommerce.Import_3.1004.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.1000.0",
+            "Version": "3.1001.3",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.1000.0",
+            "Version": "3.1002.10",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.1000.0",
+            "Version": "3.1000.7",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.1000.0",
+            "Version": "3.1001.8",
             "Optional": false
           }
         ],

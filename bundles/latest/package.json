@@ -5,7 +5,7 @@
   "PlatformImage": "ghcr.io/virtocommerce/platform",
   "PlatformImageTag": "3.1039.13",
   "PlatformAssetUrl": "",
-  "BundleVersion": "15.0.22",
+  "BundleVersion": "15.0.23",
   "Sources": [
     {
       "Name": "AzureBlob",

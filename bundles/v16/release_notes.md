@@ -921,7 +921,7 @@ _Release notes are missing._
 
 ## VirtoCommerce.ImageTools
 
-- **Versions:** `3.1003.0` → `3.1006.0`
+- **Versions:** `3.1003.0` → `3.1006.1`
 - **Repository:** [vc-module-image-tools](https://github.com/VirtoCommerce/vc-module-image-tools)
 
 ### 3.1004.0
@@ -941,6 +941,12 @@ _Release notes are missing._
 ### 🎯 Development
 
   * Bump module dependencies to latest releases (#127)
+
+### 3.1006.1
+
+### 🎯 Development
+
+  * Replace SixLabors.ImageSharp with SkiaSharp (#130)
 
 ---
 

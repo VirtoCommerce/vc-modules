@@ -68,7 +68,7 @@
         },
         {
           "Id": "VirtoCommerce.CatalogPublishing",
-          "Version": "3.1000.2"
+          "Version": "3.1000.3"
         },
         {
           "Id": "VirtoCommerce.Content",
@@ -200,7 +200,7 @@
         },
         {
           "Id": "VirtoCommerce.Tax",
-          "Version": "3.1000.0"
+          "Version": "3.1000.1"
         },
         {
           "Id": "VirtoCommerce.WebHooks",

@@ -72,11 +72,11 @@
         },
         {
           "Id": "VirtoCommerce.CatalogPersonalization",
-          "Version": "3.1006.0"
+          "Version": "3.1006.1"
         },
         {
           "Id": "VirtoCommerce.CatalogPublishing",
-          "Version": "3.1007.0"
+          "Version": "3.1007.1"
         },
         {
           "Id": "VirtoCommerce.Content",
@@ -212,7 +212,7 @@
         },
         {
           "Id": "VirtoCommerce.Tax",
-          "Version": "3.1007.0"
+          "Version": "3.1007.1"
         },
         {
           "Id": "VirtoCommerce.UCP",

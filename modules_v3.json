@@ -7945,5 +7945,34 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.VirtoOZManagement",
+    "Title": "Virto Commerce Virto OZ Management",
+    "Description": "Virto Commerce Virto OZ Management",
+    "Authors": [
+      "Virto Commerce"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-virto-oz-management",
+    "IconUrl": "Modules/$(VirtoCommerce.VirtoOZManagement)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2026 Virto Commerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.46",
+        "PlatformVersion": "3.1039.12",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.VirtoOZManagement_3.1000.0-alpha.46.zip",
+        "Incompatibilities": null,
+        "Dependencies": [],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

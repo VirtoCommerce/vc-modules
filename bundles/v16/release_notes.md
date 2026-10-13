@@ -1619,7 +1619,7 @@ _Release notes are missing._
 
 ## VirtoCommerce.Seo
 
-- **Versions:** `3.1004.0` → `3.1005.0`
+- **Versions:** `3.1004.0` → `3.1005.2`
 - **Repository:** [vc-module-seo](https://github.com/VirtoCommerce/vc-module-seo)
 
 ### 3.1005.0
@@ -1627,6 +1627,18 @@ _Release notes are missing._
 ### 🎯 Development
 
   * Platform 3.1076.0 + migrate off Platform.Hangfire (#23)
+
+### 3.1005.1
+
+### 🎯 Development
+
+  * SEO explain issues (#22)
+
+### 3.1005.2
+
+### 🎯 Development
+
+  * Fix Delete staying disabled in the SEO list for stores (#24)
 
 ---
 

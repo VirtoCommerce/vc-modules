@@ -135,14 +135,13 @@ jobs:
 
   auto-tests:
     needs: ci
-    uses: VirtoCommerce/.github/.github/workflows/pytest-tests.yml@v3.800.42
+    uses: VirtoCommerce/.github/.github/workflows/playwright-tests.yml@v3.1000.3
     with:
       installModules: 'false'
       installCustomModule: 'false'
       vctestingRepoBranch: 'dev'
       frontendZipUrl: 'latest'
       testSuites: 'graphql,restapi'
-      pytestMarkers: 'not optional'
       prebuiltImageArtifact: 'image-4test'
       skipDocCountVerification: 'PickupLocation'
     secrets:

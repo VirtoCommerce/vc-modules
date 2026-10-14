@@ -7481,9 +7481,9 @@
       },
       {
         "Version": "3.1053.0",
-        "VersionTag": "alpha.18",
+        "VersionTag": "alpha.19",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackgroundJobs_3.1053.0-alpha.18.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackgroundJobs_3.1053.0-alpha.19.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

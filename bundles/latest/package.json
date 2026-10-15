@@ -5,7 +5,7 @@
   "PlatformImage": "ghcr.io/virtocommerce/platform",
   "PlatformImageTag": "3.1039.13",
   "PlatformAssetUrl": "",
-  "BundleVersion": "15.0.23",
+  "BundleVersion": "15.0.29",
   "Sources": [
     {
       "Name": "AzureBlob",
@@ -69,15 +69,15 @@
         },
         {
           "Id": "VirtoCommerce.CatalogPersonalization",
-          "Version": "3.1003.1"
+          "Version": "3.1003.2"
         },
         {
           "Id": "VirtoCommerce.CatalogPublishing",
-          "Version": "3.1005.0"
+          "Version": "3.1005.1"
         },
         {
           "Id": "VirtoCommerce.Content",
-          "Version": "3.1003.1"
+          "Version": "3.1003.2"
         },
         {
           "Id": "VirtoCommerce.Contracts",
@@ -129,7 +129,7 @@
         },
         {
           "Id": "VirtoCommerce.ImageTools",
-          "Version": "3.1003.0"
+          "Version": "3.1003.1"
         },
         {
           "Id": "VirtoCommerce.Inventory",
@@ -185,7 +185,7 @@
         },
         {
           "Id": "VirtoCommerce.Seo",
-          "Version": "3.1004.0"
+          "Version": "3.1004.2"
         },
         {
           "Id": "VirtoCommerce.Shipping",
@@ -205,7 +205,7 @@
         },
         {
           "Id": "VirtoCommerce.Tax",
-          "Version": "3.1003.0"
+          "Version": "3.1003.1"
         },
         {
           "Id": "VirtoCommerce.WebHooks",

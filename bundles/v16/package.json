@@ -1,9 +1,9 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.1076.4",
+  "PlatformVersion": "3.1076.5",
   "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.59.0/vc-theme-b2b-vue-2.59.0.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.1076.4",
+  "PlatformImageTag": "3.1076.5",
   "PlatformAssetUrl": "",
   "Sources": [
     {
@@ -48,7 +48,7 @@
         },
         {
           "Id": "VirtoCommerce.BackgroundJobs",
-          "Version": "3.1052.1"
+          "Version": "3.1052.2"
         },
         {
           "Id": "VirtoCommerce.BackupRestore",

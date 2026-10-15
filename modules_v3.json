@@ -971,10 +971,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.1018.0",
-        "VersionTag": "alpha.501",
-        "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.1018.0-alpha.501.zip",
+        "Version": "3.1019.0",
+        "VersionTag": "alpha.505",
+        "PlatformVersion": "3.1083.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Notifications_3.1019.0-alpha.505.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

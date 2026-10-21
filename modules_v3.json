@@ -7594,10 +7594,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1014.0",
-        "VersionTag": "alpha.44",
+        "Version": "3.1015.0",
+        "VersionTag": "alpha.46",
         "PlatformVersion": "3.1083.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1014.0-alpha.44.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1015.0-alpha.46.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7629,6 +7629,11 @@
             "Id": "VirtoCommerce.FileExperienceApi",
             "Version": "3.1004.0",
             "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.GoogleEcommerceAnalytics",
+            "Version": "4.1006.0",
+            "Optional": true
           },
           {
             "Id": "VirtoCommerce.Notifications",

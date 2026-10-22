@@ -7941,9 +7941,9 @@
     "Versions": [
       {
         "Version": "3.1000.0",
-        "VersionTag": "alpha.5",
-        "PlatformVersion": "3.1075.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Punchout_3.1000.0-alpha.5.zip",
+        "VersionTag": "alpha.7",
+        "PlatformVersion": "3.1083.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Punchout_3.1000.0-alpha.7.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7959,6 +7959,11 @@
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
             "Version": "3.1021.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.XCart",
+            "Version": "3.1038.0",
             "Optional": false
           }
         ],

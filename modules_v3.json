@@ -7372,10 +7372,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1003.0",
-        "VersionTag": "alpha.23",
-        "PlatformVersion": "3.1016.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProductSnapshot_3.1003.0-alpha.23.zip",
+        "Version": "3.1004.0",
+        "VersionTag": "alpha.29",
+        "PlatformVersion": "3.1083.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProductSnapshot_3.1004.0-alpha.29.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

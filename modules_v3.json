@@ -7999,5 +7999,50 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.MFA",
+    "Title": "Multi-Factor Authentication",
+    "Description": "Protects password sign-ins to the Backoffice and the storefront with a second factor: a one-time code sent by email. Enabled globally or per store.",
+    "Authors": [
+      "Virto Commerce"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-mfa",
+    "IconUrl": "Modules/$(VirtoCommerce.MFA)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2026 Virto Commerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.4",
+        "PlatformVersion": "3.1090.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MFA_3.1000.0-alpha.4.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.1030.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Notifications",
+            "Version": "3.1009.3",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.1005.1",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

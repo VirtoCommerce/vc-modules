@@ -3972,10 +3972,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1005.0",
-        "VersionTag": "alpha.208",
+        "Version": "3.1006.0",
+        "VersionTag": "alpha.215",
         "PlatformVersion": "3.1025.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.1005.0-alpha.208.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.TaskManagement_3.1006.0-alpha.215.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

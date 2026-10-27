@@ -4851,10 +4851,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1005.0",
+        "Version": "3.1006.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-white-labeling/releases/download/3.1005.0/VirtoCommerce.WhiteLabeling_3.1005.0.zip",
+        "PlatformVersion": "3.1083.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-white-labeling/releases/download/3.1006.0/VirtoCommerce.WhiteLabeling_3.1006.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

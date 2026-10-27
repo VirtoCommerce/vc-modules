@@ -3024,9 +3024,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.188",
+        "VersionTag": "alpha.199",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PriceExportImport_3.1002.0-alpha.188.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.PriceExportImport_3.1002.0-alpha.199.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

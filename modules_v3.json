@@ -2354,10 +2354,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1005.0",
-        "VersionTag": "alpha.519",
-        "PlatformVersion": "3.1039.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.1005.0-alpha.519.zip",
+        "Version": "3.1006.0",
+        "VersionTag": "alpha.521",
+        "PlatformVersion": "3.1083.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Quote_3.1006.0-alpha.521.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

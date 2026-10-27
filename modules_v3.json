@@ -7434,10 +7434,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1007.0",
-        "VersionTag": "alpha.23",
+        "Version": "3.1008.0",
+        "VersionTag": "alpha.27",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackupRestore_3.1007.0-alpha.23.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.BackupRestore_3.1008.0-alpha.27.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

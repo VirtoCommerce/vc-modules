@@ -6251,9 +6251,9 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.43",
+        "VersionTag": "alpha.54",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OrderManagement_3.1003.0-alpha.43.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OrderManagement_3.1003.0-alpha.54.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

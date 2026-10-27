@@ -4625,9 +4625,9 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.77",
+        "VersionTag": "alpha.88",
         "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AlgoliaSearch_3.1002.0-alpha.77.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AlgoliaSearch_3.1002.0-alpha.88.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -8089,10 +8089,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1001.0",
+        "Version": "3.1002.0",
         "VersionTag": "",
         "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-admin-shell/releases/download/3.1001.0/VirtoCommerce.AdminShell_3.1001.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-admin-shell/releases/download/3.1002.0/VirtoCommerce.AdminShell_3.1002.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

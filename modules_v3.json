@@ -163,10 +163,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1013.0",
-        "VersionTag": "alpha.818",
-        "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Cart_3.1013.0-alpha.818.zip",
+        "Version": "3.1014.0",
+        "VersionTag": "alpha.821",
+        "PlatformVersion": "3.1091.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Cart_3.1014.0-alpha.821.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

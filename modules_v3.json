@@ -8078,7 +8078,7 @@
   {
     "Id": "VirtoCommerce.AdminShell",
     "Title": "Admin Shell",
-    "Description": "Vue (vc-shell) admin host: server-driven menu, Vue modules loaded at runtime, AngularJS screens in embedded mode",
+    "Description": "Vue (vc-shell) back office (Commerce Manager) for the Virto Commerce Platform. Without an admin UI module the platform runs API only.",
     "Authors": [
       "Alexander Siniouguine"
     ],
@@ -8091,7 +8091,9 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2026 Virto Commerce. All rights reserved",
     "Tags": "admin shell",
-    "Groups": null,
+    "Groups": [
+      "commerce"
+    ],
     "Versions": [
       {
         "Version": "3.1003.0",
@@ -8103,10 +8105,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1003.0",
-        "VersionTag": "alpha.18",
-        "PlatformVersion": "3.1091.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AdminShell_3.1003.0-alpha.18.zip",
+        "Version": "3.1092.0",
+        "VersionTag": "alpha.20",
+        "PlatformVersion": "3.1092.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AdminShell_3.1092.0-alpha.20.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

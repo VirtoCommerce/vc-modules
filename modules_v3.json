@@ -8205,10 +8205,10 @@
         "ReleaseNotes": "First version. The AngularJS admin moved out of the platform into this module."
       },
       {
-        "Version": "3.1092.0",
-        "VersionTag": "alpha.2",
+        "Version": "3.1093.0",
+        "VersionTag": "alpha.4",
         "PlatformVersion": "3.1092.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AdminAngularJs_3.1092.0-alpha.2.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AdminAngularJs_3.1093.0-alpha.4.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version. The AngularJS admin moved out of the platform into this module."

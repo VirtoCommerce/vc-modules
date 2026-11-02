@@ -8050,9 +8050,9 @@
       },
       {
         "Version": "3.1001.0",
-        "VersionTag": "alpha.8",
-        "PlatformVersion": "3.1092.0-alpha.13446-vcst-6630-expired-password",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MFA_3.1001.0-alpha.8.zip",
+        "VersionTag": "alpha.9",
+        "PlatformVersion": "3.1093.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MFA_3.1001.0-alpha.9.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

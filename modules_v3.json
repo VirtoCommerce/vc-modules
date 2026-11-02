@@ -8024,10 +8024,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1000.0",
+        "Version": "3.1001.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1090.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-mfa/releases/download/3.1000.0/VirtoCommerce.MFA_3.1000.0.zip",
+        "PlatformVersion": "3.1093.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-mfa/releases/download/3.1001.0/VirtoCommerce.MFA_3.1001.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -8049,10 +8049,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1001.0",
-        "VersionTag": "alpha.9",
+        "Version": "3.1002.0",
+        "VersionTag": "alpha.12",
         "PlatformVersion": "3.1093.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MFA_3.1001.0-alpha.9.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MFA_3.1002.0-alpha.12.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -8069,6 +8069,11 @@
             "Id": "VirtoCommerce.Store",
             "Version": "3.1005.1",
             "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.1027.0",
+            "Optional": true
           }
         ],
         "ReleaseNotes": "First version."

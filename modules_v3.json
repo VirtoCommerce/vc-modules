@@ -8226,9 +8226,9 @@
       },
       {
         "Version": "3.1095.0",
-        "VersionTag": "alpha.10",
-        "PlatformVersion": "3.1092.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AdminAngularJs_3.1095.0-alpha.10.zip",
+        "VersionTag": "alpha.11",
+        "PlatformVersion": "3.1095.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AdminAngularJs_3.1095.0-alpha.11.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version. The AngularJS admin moved out of the platform into this module."

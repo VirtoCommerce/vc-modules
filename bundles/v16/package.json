@@ -148,7 +148,7 @@
         },
         {
           "Id": "VirtoCommerce.Notifications",
-          "Version": "3.1018.1"
+          "Version": "3.1018.2"
         },
         {
           "Id": "VirtoCommerce.OpenTelemetry",

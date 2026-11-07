@@ -3895,10 +3895,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1007.0",
-        "VersionTag": "alpha.184",
-        "PlatformVersion": "3.1083.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.1007.0-alpha.184.zip",
+        "Version": "3.1008.0",
+        "VersionTag": "alpha.188",
+        "PlatformVersion": "3.1095.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.1008.0-alpha.188.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

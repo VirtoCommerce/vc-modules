@@ -7922,9 +7922,9 @@
     "Versions": [
       {
         "Version": "3.1000.0",
-        "VersionTag": "alpha.12",
+        "VersionTag": "alpha.14",
         "PlatformVersion": "3.1076.12",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OneShell_3.1000.0-alpha.12.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OneShell_3.1000.0-alpha.14.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

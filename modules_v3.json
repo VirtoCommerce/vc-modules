@@ -2993,30 +2993,30 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1002.0",
+        "Version": "3.1003.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-price-export-import/releases/download/3.1002.0/VirtoCommerce.PriceExportImport_3.1002.0.zip",
+        "PlatformVersion": "3.1095.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-price-export-import/releases/download/3.1003.0/VirtoCommerce.PriceExportImport_3.1003.0.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Assets",
-            "Version": "3.1000.0",
+            "Version": "3.1011.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.1000.0",
+            "Version": "3.1051.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Export",
-            "Version": "3.1000.0",
+            "Version": "3.1006.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Pricing",
-            "Version": "3.1000.0",
+            "Version": "3.1010.0",
             "Optional": false
           }
         ],

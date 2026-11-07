@@ -7042,10 +7042,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1002.0",
-        "VersionTag": "alpha.24",
-        "PlatformVersion": "3.1007.10",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EnvironmentsCompare_3.1002.0-alpha.24.zip",
+        "Version": "3.1003.0",
+        "VersionTag": "alpha.28",
+        "PlatformVersion": "3.1095.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.EnvironmentsCompare_3.1003.0-alpha.28.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -6185,10 +6185,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1004.0",
-        "VersionTag": "alpha.47",
+        "Version": "3.1005.0",
+        "VersionTag": "alpha.53",
         "PlatformVersion": "3.1073.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OpenSearch_3.1004.0-alpha.47.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OpenSearch_3.1005.0-alpha.53.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

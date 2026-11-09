@@ -7934,7 +7934,7 @@
   {
     "Id": "VirtoCommerce.Punchout",
     "Title": "Punchout",
-    "Description": "Сonnects Virto Commerce to e-procurement systems such as Coupa, SAP Arib",
+    "Description": "Connects Virto Commerce to e-procurement systems such as Coupa, SAP Ariba, and Oracle over the cXML PunchOut protocol",
     "Authors": [
       "VirtoCommerce"
     ],
@@ -7942,7 +7942,7 @@
       "Virto Commerce"
     ],
     "LicenseUrl": null,
-    "ProjectUrl": "https://github.com/Virto Commerce/vc-module-punchout",
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-punchout",
     "IconUrl": "Modules/$(VirtoCommerce.Punchout)/Content/logo.svg",
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2026 Virto Commerce. All rights reserved",
@@ -7951,9 +7951,9 @@
     "Versions": [
       {
         "Version": "3.1000.0",
-        "VersionTag": "alpha.11",
+        "VersionTag": "alpha.12",
         "PlatformVersion": "3.1091.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Punchout_3.1000.0-alpha.11.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Punchout_3.1000.0-alpha.12.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

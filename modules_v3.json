@@ -7604,10 +7604,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1019.0",
-        "VersionTag": "alpha.58",
+        "Version": "3.1020.0",
+        "VersionTag": "alpha.60",
         "PlatformVersion": "3.1091.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1019.0-alpha.58.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1020.0-alpha.60.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7672,7 +7672,7 @@
           },
           {
             "Id": "VirtoCommerce.TaskManagement",
-            "Version": "3.1007.0-alpha.217-vcst-6157-tasks-by-customer",
+            "Version": "3.1007.0",
             "Optional": true
           },
           {

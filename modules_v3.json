@@ -8246,6 +8246,15 @@
     "Versions": [
       {
         "Version": "3.1000.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.1096.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-mcp/releases/download/3.1000.0/VirtoCommerce.MCP_3.1000.0.zip",
+        "Incompatibilities": null,
+        "Dependencies": null,
+        "ReleaseNotes": "First version."
+      },
+      {
+        "Version": "3.1000.0",
         "VersionTag": "alpha.4",
         "PlatformVersion": "3.1096.0",
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.MCP_3.1000.0-alpha.4.zip",

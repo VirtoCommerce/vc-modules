@@ -7788,15 +7788,20 @@
         "ReleaseNotes": "Adds MCP-to-UCP-to-XAPI tracing, metrics, and AI-visible correlation. Breaking changes: REST XAPI failures now return HTTP 200 with the original GraphQL envelope instead of a synthetic 502; MCP UCP failures now return tools/call isError results instead of JSON-RPC errors; protected ParseGraphQlResult and CreateException overloads remain compatible."
       },
       {
-        "Version": "3.1010.0",
-        "VersionTag": "alpha.30",
-        "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.UCP_3.1010.0-alpha.30.zip",
+        "Version": "3.1011.0",
+        "VersionTag": "alpha.36",
+        "PlatformVersion": "3.1096.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.UCP_3.1011.0-alpha.36.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
+            "Id": "VirtoCommerce.MCP",
+            "Version": "3.1000.0",
+            "Optional": false
+          },
+          {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1026.0",
+            "Version": "3.1030.0",
             "Optional": false
           },
           {
@@ -7806,33 +7811,28 @@
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.1038.0",
+            "Version": "3.1044.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XOrder",
-            "Version": "3.1014.0",
+            "Version": "3.1017.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1009.0",
+            "Version": "3.1013.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.1018.0",
+            "Version": "3.1019.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Marketing",
-            "Version": "3.1009.0",
+            "Version": "3.1010.0",
             "Optional": false
-          },
-          {
-            "Id": "VirtoCommerce.ApplicationInsights",
-            "Version": "3.1005.0",
-            "Optional": true
           },
           {
             "Id": "VirtoCommerce.OpenTelemetry",
@@ -7840,7 +7840,7 @@
             "Optional": true
           }
         ],
-        "ReleaseNotes": "Adds MCP-to-UCP-to-XAPI tracing, metrics, and AI-visible correlation. Breaking changes: REST XAPI failures now return HTTP 200 with the original GraphQL envelope instead of a synthetic 502; MCP UCP failures now return tools/call isError results instead of JSON-RPC errors; protected ParseGraphQlResult and CreateException overloads remain compatible."
+        "ReleaseNotes": "The buyer MCP endpoint /ucp/mcp is served by the MCP module (VirtoCommerce.MCP) as the ucp scope: sign-in and token checks, tool switches, the audit log and connected agents in the back office, and one trace per call from the MCP tool span through UCP to XAPI. Cart tools use the buyer's storefront cart; track_order follows one hosted checkout with placed_after; the MCP endpoint asks for a sign-in from the first request when the store's catalog is closed to anonymous buyers; UCP:StoreManagedAddresses lets the storefront assign cart addresses. Breaking changes: requires the MCP module and platform 3.1096.0; BREAKING, security-relevant: the UCP.Enabled setting is removed and UCP is switched off only with MCP:Scopes:ucp:Enabled (configuration, applied after a restart), so an installation that switched UCP off with UCP.Enabled or VirtoCommerce__Settings__Override__CurrentValue__Global__UCP_Enabled must set MCP:Scopes:ucp:Enabled = false before upgrading, otherwise every UCP surface, anonymous carts included, comes up enabled on first start; BREAKING: the REST API /ucp/v1/* follows the MCP token rules, so the buyer comes only from an OAuth token for the UCP resource {origin}/ucp/mcp: REST clients that used a back-office cookie, an API key, Basic credentials or a token of another audience as the buyer must use an OAuth token for the UCP resource (a cookie, an API key or Basic credentials make the request anonymous; a refused bearer token gets 401 invalid_token); UcpOperationAttribute moves to VirtoCommerce.UCP.Core.Attributes; the Application Insights compatibility bridge and UCP:Observability:EnableApplicationInsightsCompatibilityBridge are removed (send telemetry with the OpenTelemetry module, OpenTelemetry:AzureMonitor:ConnectionString); UcpMcpStartup, UcpMcpSessionService, UcpMcpBuyerAuthenticationMiddleware, UcpOAuthMetadataController, UcpProtectedResourceMetadata, UcpMcpActivityStatusFilter and UcpApplicationInsightsActivityBridge are removed; REST XAPI failures return HTTP 200 with the original GraphQL envelope, and MCP failures return tools/call isError results."
       }
     ]
   },

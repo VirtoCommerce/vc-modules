@@ -7319,11 +7319,17 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.30",
-        "PlatformVersion": "3.1095.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SystemOperations_3.1003.0-alpha.30.zip",
+        "VersionTag": "alpha.31",
+        "PlatformVersion": "3.1096.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SystemOperations_3.1003.0-alpha.31.zip",
         "Incompatibilities": null,
-        "Dependencies": [],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.MCP",
+            "Version": "3.1000.0",
+            "Optional": true
+          }
+        ],
         "ReleaseNotes": "First version."
       }
     ]

@@ -7561,10 +7561,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1022.0",
+        "Version": "3.1023.0",
         "VersionTag": "",
         "PlatformVersion": "3.1091.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sales-rep/releases/download/3.1022.0/VirtoCommerce.SalesRep_3.1022.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-sales-rep/releases/download/3.1023.0/VirtoCommerce.SalesRep_3.1023.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7644,7 +7644,7 @@
           },
           {
             "Id": "VirtoCommerce.XFrontend",
-            "Version": "3.1005.0",
+            "Version": "3.1008.0-alpha.64-vcst-6078-user-dashboard",
             "Optional": false
           },
           {

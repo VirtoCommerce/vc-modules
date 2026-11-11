@@ -7636,10 +7636,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1022.0",
-        "VersionTag": "alpha.66",
+        "Version": "3.1023.0",
+        "VersionTag": "alpha.68",
         "PlatformVersion": "3.1091.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1022.0-alpha.66.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1023.0-alpha.68.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7719,7 +7719,7 @@
           },
           {
             "Id": "VirtoCommerce.XFrontend",
-            "Version": "3.1005.0",
+            "Version": "3.1008.0-alpha.64-vcst-6078-user-dashboard",
             "Optional": false
           },
           {

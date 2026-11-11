@@ -6957,15 +6957,35 @@
     ],
     "Versions": [
       {
-        "Version": "3.1009.0",
+        "Version": "3.1010.0",
         "VersionTag": "",
         "PlatformVersion": "3.1091.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-frontend/releases/download/3.1009.0/VirtoCommerce.XFrontend_3.1009.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-frontend/releases/download/3.1010.0/VirtoCommerce.XFrontend_3.1010.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.1012.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.1028.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Orders",
+            "Version": "3.1018.0",
+            "Optional": false
+          },
+          {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
             "Version": "3.1020.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.1009.0",
             "Optional": false
           },
           {

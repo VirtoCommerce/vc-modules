@@ -44,7 +44,7 @@
         },
         {
           "Id": "VirtoCommerce.AzureSearch",
-          "Version": "3.1007.0"
+          "Version": "3.1007.2"
         },
         {
           "Id": "VirtoCommerce.BackgroundJobs",
@@ -65,6 +65,7 @@
         {
           "Id": "VirtoCommerce.Catalog",
           "Version": "3.1048.3"
+          "Version": "3.1048.4"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",
@@ -92,7 +93,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.1029.1"
+          "Version": "3.1029.2"
         },
         {
           "Id": "VirtoCommerce.CustomerReviews",
@@ -176,7 +177,7 @@
         },
         {
           "Id": "VirtoCommerce.ProfileExperienceApiModule",
-          "Version": "3.1020.0"
+          "Version": "3.1020.1"
         },
         {
           "Id": "VirtoCommerce.PushMessages",
@@ -188,7 +189,7 @@
         },
         {
           "Id": "VirtoCommerce.Search",
-          "Version": "3.1010.2"
+          "Version": "3.1010.3"
         },
         {
           "Id": "VirtoCommerce.Seo",

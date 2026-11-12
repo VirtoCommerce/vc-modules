@@ -1,7 +1,7 @@
 {
   "ManifestVersion": "2.0",
   "PlatformVersion": "3.1039.17",
-  "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.51.1/vc-frontend-2.51.1.zip",
+  "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.51.2/vc-frontend-2.51.2.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
   "PlatformImageTag": "3.1039.17",
   "PlatformAssetUrl": "",
@@ -44,7 +44,7 @@
         },
         {
           "Id": "VirtoCommerce.AzureSearch",
-          "Version": "3.1003.1"
+          "Version": "3.1003.2"
         },
         {
           "Id": "VirtoCommerce.BackupRestore",
@@ -60,7 +60,7 @@
         },
         {
           "Id": "VirtoCommerce.Catalog",
-          "Version": "3.1029.8"
+          "Version": "3.1029.9"
         },
         {
           "Id": "VirtoCommerce.CatalogCsvImportModule",
@@ -88,7 +88,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.1011.2"
+          "Version": "3.1011.3"
         },
         {
           "Id": "VirtoCommerce.CustomerReviews",
@@ -128,7 +128,7 @@
         },
         {
           "Id": "VirtoCommerce.ImageTools",
-          "Version": "3.1003.1"
+          "Version": "3.1003.2"
         },
         {
           "Id": "VirtoCommerce.Inventory",
@@ -156,7 +156,7 @@
         },
         {
           "Id": "VirtoCommerce.PageBuilderModule",
-          "Version": "3.1012.1"
+          "Version": "3.1012.3"
         },
         {
           "Id": "VirtoCommerce.Payment",
@@ -168,7 +168,7 @@
         },
         {
           "Id": "VirtoCommerce.ProfileExperienceApiModule",
-          "Version": "3.1009.1"
+          "Version": "3.1009.2"
         },
         {
           "Id": "VirtoCommerce.PushMessages",
@@ -180,7 +180,7 @@
         },
         {
           "Id": "VirtoCommerce.Search",
-          "Version": "3.1004.1"
+          "Version": "3.1004.4"
         },
         {
           "Id": "VirtoCommerce.Seo",

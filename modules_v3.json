@@ -6745,10 +6745,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1008.0",
+        "Version": "3.1009.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1076.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-pickup/releases/download/3.1008.0/VirtoCommerce.XPickup_3.1008.0.zip",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-pickup/releases/download/3.1009.0/VirtoCommerce.XPickup_3.1009.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -8098,10 +8098,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1002.0",
+        "Version": "3.1004.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1093.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-mfa/releases/download/3.1002.0/VirtoCommerce.MFA_3.1002.0.zip",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-mfa/releases/download/3.1004.0/VirtoCommerce.MFA_3.1004.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -8111,12 +8111,12 @@
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.1009.3",
+            "Version": "3.1018.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1005.1",
+            "Version": "3.1009.0",
             "Optional": false
           },
           {

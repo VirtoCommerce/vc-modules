@@ -4017,15 +4017,15 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1004.0",
+        "Version": "3.1005.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1002.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing-experience-api/releases/download/3.1004.0/VirtoCommerce.MarketingExperienceApi_3.1004.0.zip",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-marketing-experience-api/releases/download/3.1005.0/VirtoCommerce.MarketingExperienceApi_3.1005.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.1010.0",
+            "Version": "3.1028.0",
             "Optional": false
           },
           {

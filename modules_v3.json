@@ -6251,14 +6251,14 @@
       },
       {
         "Version": "3.1004.0",
-        "VersionTag": "alpha.58",
-        "PlatformVersion": "3.1095.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OrderManagement_3.1004.0-alpha.58.zip",
+        "VersionTag": "alpha.60",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OrderManagement_3.1004.0-alpha.60.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.1000.0",
+            "Version": "3.1048.0",
             "Optional": false
           },
           {
@@ -6268,7 +6268,7 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1000.0",
+            "Version": "3.1009.0",
             "Optional": false
           },
           {

@@ -3947,10 +3947,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1007.0",
+        "Version": "3.1008.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1091.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-task-management/releases/download/3.1007.0/VirtoCommerce.TaskManagement_3.1007.0.zip",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-task-management/releases/download/3.1008.0/VirtoCommerce.TaskManagement_3.1008.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3960,12 +3960,12 @@
           },
           {
             "Id": "VirtoCommerce.Customer",
-            "Version": "3.1010.0",
+            "Version": "3.1028.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.1009.0",
+            "Version": "3.1018.0",
             "Optional": false
           }
         ],

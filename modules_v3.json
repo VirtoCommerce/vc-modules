@@ -3544,10 +3544,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1006.0",
+        "Version": "3.1007.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1083.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-return/releases/download/3.1006.0/VirtoCommerce.Return_3.1006.0.zip",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-return/releases/download/3.1007.0/VirtoCommerce.Return_3.1007.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3562,7 +3562,7 @@
           },
           {
             "Id": "VirtoCommerce.FileExperienceApi",
-            "Version": "3.1006.0",
+            "Version": "3.1009.0",
             "Optional": false
           },
           {
@@ -3577,7 +3577,7 @@
           },
           {
             "Id": "VirtoCommerce.PushMessages",
-            "Version": "3.1007.0",
+            "Version": "3.1009.0",
             "Optional": true
           },
           {
@@ -3587,12 +3587,12 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1026.0",
+            "Version": "3.1031.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XOrder",
-            "Version": "3.1014.0",
+            "Version": "3.1018.0",
             "Optional": false
           }
         ],

@@ -7424,25 +7424,25 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1005.0",
-        "VersionTag": "alpha.34",
-        "PlatformVersion": "3.1095.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProductSnapshot_3.1005.0-alpha.34.zip",
+        "Version": "3.1006.0",
+        "VersionTag": "alpha.37",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProductSnapshot_3.1006.0-alpha.37.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.1007.0",
+            "Version": "3.1018.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XOrder",
-            "Version": "3.1004.0",
+            "Version": "3.1018.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.1014.0",
+            "Version": "3.1048.0",
             "Optional": false
           }
         ],

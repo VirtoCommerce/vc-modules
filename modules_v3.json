@@ -8218,10 +8218,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1000.0",
+        "Version": "3.1001.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1091.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-passkeys/releases/download/3.1000.0/VirtoCommerce.Passkeys_3.1000.0.zip",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-passkeys/releases/download/3.1001.0/VirtoCommerce.Passkeys_3.1001.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -8231,7 +8231,7 @@
           },
           {
             "Id": "VirtoCommerce.XFrontend",
-            "Version": "3.1009.0",
+            "Version": "3.1011.0",
             "Optional": false
           }
         ],

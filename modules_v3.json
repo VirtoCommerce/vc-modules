@@ -3381,10 +3381,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1024.0",
+        "Version": "3.1025.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1091.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api/releases/download/3.1024.0/VirtoCommerce.ProfileExperienceApiModule_3.1024.0.zip",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-profile-experience-api/releases/download/3.1025.0/VirtoCommerce.ProfileExperienceApiModule_3.1025.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3414,12 +3414,12 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1026.0",
+            "Version": "3.1031.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XOrder",
-            "Version": "3.1014.0",
+            "Version": "3.1018.0",
             "Optional": true
           }
         ],

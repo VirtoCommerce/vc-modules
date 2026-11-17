@@ -7785,10 +7785,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1011.0",
+        "Version": "3.1012.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1096.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-ucp/releases/download/3.1011.0/VirtoCommerce.UCP_3.1011.0.zip",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-ucp/releases/download/3.1012.0/VirtoCommerce.UCP_3.1012.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7803,17 +7803,17 @@
           },
           {
             "Id": "VirtoCommerce.XCatalog",
-            "Version": "3.1023.0",
+            "Version": "3.1025.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.1044.0",
+            "Version": "3.1047.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XOrder",
-            "Version": "3.1017.0",
+            "Version": "3.1018.0",
             "Optional": false
           },
           {

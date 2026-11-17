@@ -3895,10 +3895,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1008.0",
-        "VersionTag": "alpha.190",
+        "Version": "3.1009.0",
+        "VersionTag": "alpha.192",
         "PlatformVersion": "3.1097.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.1008.0-alpha.190.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Contracts_3.1009.0-alpha.192.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -3918,7 +3918,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1026.0",
+            "Version": "3.1031.0",
             "Optional": false
           }
         ],

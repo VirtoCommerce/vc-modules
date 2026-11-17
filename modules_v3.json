@@ -8015,9 +8015,9 @@
     "Versions": [
       {
         "Version": "3.1000.0",
-        "VersionTag": "alpha.12",
-        "PlatformVersion": "3.1091.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Punchout_3.1000.0-alpha.12.zip",
+        "VersionTag": "alpha.14",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Punchout_3.1000.0-alpha.14.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -8027,22 +8027,22 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1007.0",
+            "Version": "3.1013.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.ProfileExperienceApiModule",
-            "Version": "3.1021.0",
+            "Version": "3.1025.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XCart",
-            "Version": "3.1044.0",
+            "Version": "3.1047.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XOrder",
-            "Version": "3.1016.0",
+            "Version": "3.1018.0",
             "Optional": false
           }
         ],

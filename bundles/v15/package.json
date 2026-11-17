@@ -1,7 +1,7 @@
 {
   "ManifestVersion": "2.0",
   "PlatformVersion": "3.1039.19",
-  "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.51.2/vc-frontend-2.51.2.zip",
+  "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.51.3/vc-frontend-2.51.3.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
   "PlatformImageTag": "3.1039.19",
   "PlatformAssetUrl": "",
@@ -156,7 +156,7 @@
         },
         {
           "Id": "VirtoCommerce.PageBuilderModule",
-          "Version": "3.1012.3"
+          "Version": "3.1012.4"
         },
         {
           "Id": "VirtoCommerce.Payment",

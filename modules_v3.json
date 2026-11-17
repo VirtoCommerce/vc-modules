@@ -7399,25 +7399,25 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1005.0",
+        "Version": "3.1006.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1095.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-product-snapshot/releases/download/3.1005.0/VirtoCommerce.ProductSnapshot_3.1005.0.zip",
+        "PlatformVersion": "3.1097.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-product-snapshot/releases/download/3.1006.0/VirtoCommerce.ProductSnapshot_3.1006.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
             "Id": "VirtoCommerce.Orders",
-            "Version": "3.1007.0",
+            "Version": "3.1018.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.XOrder",
-            "Version": "3.1004.0",
+            "Version": "3.1018.0",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Catalog",
-            "Version": "3.1014.0",
+            "Version": "3.1048.0",
             "Optional": false
           }
         ],

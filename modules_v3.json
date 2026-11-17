@@ -7668,10 +7668,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1026.0",
-        "VersionTag": "alpha.78",
+        "Version": "3.1027.0",
+        "VersionTag": "alpha.80",
         "PlatformVersion": "3.1097.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1026.0-alpha.78.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SalesRep_3.1027.0-alpha.80.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -4721,10 +4721,10 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1006.0",
+        "Version": "3.1007.0",
         "VersionTag": "",
         "PlatformVersion": "3.1097.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-skyflow/releases/download/3.1006.0/VirtoCommerce.Skyflow_3.1006.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-skyflow/releases/download/3.1007.0/VirtoCommerce.Skyflow_3.1007.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -4739,7 +4739,7 @@
           },
           {
             "Id": "VirtoCommerce.Xapi",
-            "Version": "3.1015.0",
+            "Version": "3.1031.0",
             "Optional": false
           }
         ],

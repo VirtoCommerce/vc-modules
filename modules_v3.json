@@ -8373,5 +8373,75 @@
         "ReleaseNotes": "First version."
       }
     ]
+  },
+  {
+    "Id": "VirtoCommerce.ProductComparison",
+    "Title": "Virto Commerce Product Comparison",
+    "Description": "Product compare lists stored on the server for signed-in buyers and guests, with the storefront's compare UI as a plugin",
+    "Authors": [
+      "VirtoCommerce"
+    ],
+    "Owners": [
+      "Virto Commerce"
+    ],
+    "LicenseUrl": null,
+    "ProjectUrl": "https://github.com/VirtoCommerce/vc-module-product-comparison",
+    "IconUrl": "Modules/$(VirtoCommerce.ProductComparison)/Content/logo.png",
+    "RequireLicenseAcceptance": false,
+    "Copyright": "Copyright © 2026 Virto Commerce. All rights reserved",
+    "Tags": "extension module",
+    "Groups": null,
+    "Versions": [
+      {
+        "Version": "3.1000.0",
+        "VersionTag": "alpha.7",
+        "PlatformVersion": "3.1078.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ProductComparison_3.1000.0-alpha.7.zip",
+        "Incompatibilities": null,
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Catalog",
+            "Version": "3.1048.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.1012.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.1028.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.1009.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.1028.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.XCart",
+            "Version": "3.1042.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.XCatalog",
+            "Version": "3.1023.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.XFrontend",
+            "Version": "3.1005.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": "First version."
+      }
+    ]
   }
 ]

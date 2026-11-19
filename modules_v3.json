@@ -6486,10 +6486,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1007.0",
-        "VersionTag": "alpha.66",
+        "Version": "3.1008.0",
+        "VersionTag": "alpha.71",
         "PlatformVersion": "3.1073.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch9_3.1007.0-alpha.66.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.ElasticSearch9_3.1008.0-alpha.71.zip",
         "Incompatibilities": [],
         "Dependencies": [
           {

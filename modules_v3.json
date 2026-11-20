@@ -8224,10 +8224,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1100.0",
-        "VersionTag": "alpha.57",
+        "Version": "3.1101.0",
+        "VersionTag": "alpha.59",
         "PlatformVersion": "3.1101.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AdminShell_3.1100.0-alpha.57.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AdminShell_3.1101.0-alpha.59.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

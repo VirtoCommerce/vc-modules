@@ -75,8 +75,7 @@ jobs:
         az config set extension.use_dynamic_install=yes_without_prompt
     
     - name: Install vc-build
-      run: |
-        dotnet tool install --global VirtoCommerce.GlobalTool
+      uses: VirtoCommerce/.github/actions/setup-vcbuild@stable
 
     - name: Pack
       run: |
@@ -104,7 +103,7 @@ jobs:
 
   trivy-scan:
     needs: 'ci'
-    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.1000.10
+    uses: VirtoCommerce/.github/.github/workflows/docker-image-vulnerability-process.yml@v3.1000.11
     with:
       assigneeAccountId: '621c47c0302c6b006af0a1cd'
       assigneeEmailAddress: 'andrew.kubyshkin@virtoworks.com'
@@ -120,7 +119,7 @@ jobs:
 
   auto-tests:
     needs: ci
-    uses: VirtoCommerce/.github/.github/workflows/playwright-tests.yml@v3.1000.10
+    uses: VirtoCommerce/.github/.github/workflows/playwright-tests.yml@v3.1000.11
     with:
       installModules: 'false'
       installCustomModule: 'false'

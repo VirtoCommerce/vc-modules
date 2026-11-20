@@ -8215,10 +8215,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1100.0",
+        "Version": "3.1101.0",
         "VersionTag": "",
         "PlatformVersion": "3.1101.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-admin-shell/releases/download/3.1100.0/VirtoCommerce.AdminShell_3.1100.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-admin-shell/releases/download/3.1101.0/VirtoCommerce.AdminShell_3.1101.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

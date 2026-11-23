@@ -8550,9 +8550,7 @@
     "RequireLicenseAcceptance": false,
     "Copyright": "Copyright © 2011-2026 Virto Commerce. All rights reserved",
     "Tags": "cms content sitebuilder",
-    "Groups": [
-      "commerce"
-    ],
+    "Groups": [],
     "Versions": [
       {
         "Version": "3.1000.0",

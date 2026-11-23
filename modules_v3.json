@@ -8556,6 +8556,67 @@
     "Versions": [
       {
         "Version": "3.1000.0",
+        "VersionTag": "",
+        "PlatformVersion": "3.1095.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-site-builder/releases/download/3.1000.0/VirtoCommerce.SiteBuilder_3.1000.0.zip",
+        "Incompatibilities": [
+          {
+            "Id": "VirtoCommerce.PageBuilderModule",
+            "Version": "3.0.0",
+            "Optional": false
+          }
+        ],
+        "Dependencies": [
+          {
+            "Id": "VirtoCommerce.Assets",
+            "Version": "3.1010.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Content",
+            "Version": "3.1006.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Core",
+            "Version": "3.1012.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Customer",
+            "Version": "3.1028.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Pages",
+            "Version": "3.1012.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.Search",
+            "Version": "3.1010.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Store",
+            "Version": "3.1009.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.Xapi",
+            "Version": "3.1028.0",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.XCMS",
+            "Version": "3.1009.0",
+            "Optional": false
+          }
+        ],
+        "ReleaseNotes": null
+      },
+      {
+        "Version": "3.1000.0",
         "VersionTag": "alpha.2",
         "PlatformVersion": "3.1095.0",
         "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.SiteBuilder_3.1000.0-alpha.2.zip",

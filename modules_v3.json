@@ -4209,10 +4209,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1007.0",
+        "Version": "3.1008.0",
         "VersionTag": "",
         "PlatformVersion": "3.1097.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-app-insights/releases/download/3.1007.0/VirtoCommerce.ApplicationInsights_3.1007.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-app-insights/releases/download/3.1008.0/VirtoCommerce.ApplicationInsights_3.1008.0.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "Migrated to Microsoft.ApplicationInsights.AspNetCore 3.0 (OpenTelemetry-based). Replaced ITelemetryProcessor and ITelemetryInitializer with OpenTelemetry BaseProcessor. Replaced adaptive sampling with rate-limited sampling (TracesPerSecond) and fixed sampling with SamplingRatio. Removed incompatible 2.x packages (PerfCounterCollector, DependencyCollector, WindowsServer). Replaced InstrumentationKey with ConnectionString. Added OpenTelemetry.Extensions.Hosting dependency."

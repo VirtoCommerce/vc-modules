@@ -1,9 +1,9 @@
 {
   "ManifestVersion": "2.0",
-  "PlatformVersion": "3.1076.13",
-  "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.59.1/vc-frontend-2.59.1.zip",
+  "PlatformVersion": "3.1076.16",
+  "ThemeB2BVue": "https://github.com/VirtoCommerce/vc-frontend/releases/download/2.59.2/vc-frontend-2.59.2.zip",
   "PlatformImage": "ghcr.io/virtocommerce/platform",
-  "PlatformImageTag": "3.1076.13",
+  "PlatformImageTag": "3.1076.16",
   "PlatformAssetUrl": "",
   "BundleVersion": "16.0.15",
   "Sources": [
@@ -229,7 +229,7 @@
         },
         {
           "Id": "VirtoCommerce.Xapi",
-          "Version": "3.1026.0"
+          "Version": "3.1026.1"
         },
         {
           "Id": "VirtoCommerce.XCart",

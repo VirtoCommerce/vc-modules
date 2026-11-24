@@ -7059,15 +7059,30 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1005.0",
-        "VersionTag": "alpha.331",
-        "PlatformVersion": "3.1007.27",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Import_3.1005.0-alpha.331.zip",
+        "Version": "3.1006.0",
+        "VersionTag": "alpha.336",
+        "PlatformVersion": "3.1101.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Import_3.1006.0-alpha.336.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
+            "Id": "VirtoCommerce.AdminAngularJs",
+            "Version": "3.1098.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.AdminShell",
+            "Version": "3.1101.0",
+            "Optional": true
+          },
+          {
             "Id": "VirtoCommerce.Assets",
             "Version": "3.1001.3",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.BackgroundJobs",
+            "Version": "3.1055.0",
             "Optional": false
           },
           {

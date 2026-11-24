@@ -7980,10 +7980,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1002.0",
-        "VersionTag": "alpha.15",
-        "PlatformVersion": "3.1090.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OTP_3.1002.0-alpha.15.zip",
+        "Version": "3.1003.0",
+        "VersionTag": "alpha.18",
+        "PlatformVersion": "3.1091.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.OTP_3.1003.0-alpha.18.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -7993,12 +7993,12 @@
           },
           {
             "Id": "VirtoCommerce.Notifications",
-            "Version": "3.1009.3",
+            "Version": "3.1018.2",
             "Optional": false
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1005.1",
+            "Version": "3.1013.0",
             "Optional": false
           }
         ],

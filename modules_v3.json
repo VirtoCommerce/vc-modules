@@ -7029,15 +7029,30 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1005.0",
+        "Version": "3.1006.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1007.27",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-import/releases/download/3.1005.0/VirtoCommerce.Import_3.1005.0.zip",
+        "PlatformVersion": "3.1101.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-import/releases/download/3.1006.0/VirtoCommerce.Import_3.1006.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
+            "Id": "VirtoCommerce.AdminAngularJs",
+            "Version": "3.1098.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.AdminShell",
+            "Version": "3.1101.0",
+            "Optional": true
+          },
+          {
             "Id": "VirtoCommerce.Assets",
             "Version": "3.1001.3",
+            "Optional": false
+          },
+          {
+            "Id": "VirtoCommerce.BackgroundJobs",
+            "Version": "3.1055.0",
             "Optional": false
           },
           {

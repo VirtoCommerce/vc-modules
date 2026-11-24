@@ -1548,12 +1548,22 @@
     ],
     "Versions": [
       {
-        "Version": "3.1013.0",
+        "Version": "3.1014.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1091.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.1013.0/VirtoCommerce.Store_3.1013.0.zip",
+        "PlatformVersion": "3.1101.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-store/releases/download/3.1014.0/VirtoCommerce.Store_3.1014.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.AdminAngularJs",
+            "Version": "3.1098.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.AdminShell",
+            "Version": "3.1101.0",
+            "Optional": true
+          },
           {
             "Id": "VirtoCommerce.Core",
             "Version": "3.1012.0",

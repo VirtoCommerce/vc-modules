@@ -1380,11 +1380,21 @@
       },
       {
         "Version": "3.1011.0",
-        "VersionTag": "alpha.834",
-        "PlatformVersion": "3.1095.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.1011.0-alpha.834.zip",
+        "VersionTag": "alpha.838",
+        "PlatformVersion": "3.1101.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Pricing_3.1011.0-alpha.838.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.AdminAngularJs",
+            "Version": "3.1098.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.AdminShell",
+            "Version": "3.1101.0",
+            "Optional": true
+          },
           {
             "Id": "VirtoCommerce.Assets",
             "Version": "3.1010.0",

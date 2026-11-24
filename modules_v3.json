@@ -8145,9 +8145,9 @@
     "Versions": [
       {
         "Version": "3.1000.0",
-        "VersionTag": "alpha.55",
+        "VersionTag": "alpha.59",
         "PlatformVersion": "3.1076.13",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.VirtoOZManagement_3.1000.0-alpha.55.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.VirtoOZManagement_3.1000.0-alpha.59.zip",
         "Incompatibilities": null,
         "Dependencies": [],
         "ReleaseNotes": "First version."

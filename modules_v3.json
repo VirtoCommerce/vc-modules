@@ -9053,11 +9053,21 @@
       },
       {
         "Version": "3.1002.0",
-        "VersionTag": "alpha.12",
-        "PlatformVersion": "3.1097.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Passkeys_3.1002.0-alpha.12.zip",
+        "VersionTag": "alpha.13",
+        "PlatformVersion": "3.1101.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Passkeys_3.1002.0-alpha.13.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.AdminAngularJs",
+            "Version": "3.1098.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.AdminShell",
+            "Version": "3.1101.0",
+            "Optional": true
+          },
           {
             "Id": "VirtoCommerce.Xapi",
             "Version": "3.1027.0",

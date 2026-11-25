@@ -7773,9 +7773,9 @@
       },
       {
         "Version": "3.1003.0",
-        "VersionTag": "alpha.160",
+        "VersionTag": "alpha.161",
         "PlatformVersion": "3.1095.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.StateMachine_3.1003.0-alpha.160.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.StateMachine_3.1003.0-alpha.161.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -1402,10 +1402,10 @@
         "ReleaseNotes": ""
       },
       {
-        "Version": "3.1012.0",
-        "VersionTag": "alpha.317",
+        "Version": "3.1013.0",
+        "VersionTag": "alpha.319",
         "PlatformVersion": "3.1101.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Payment_3.1012.0-alpha.317.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Payment_3.1013.0-alpha.319.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -1425,7 +1425,7 @@
           },
           {
             "Id": "VirtoCommerce.Store",
-            "Version": "3.1009.0",
+            "Version": "3.1015.0",
             "Optional": false
           }
         ],

@@ -8158,12 +8158,22 @@
     "Groups": null,
     "Versions": [
       {
-        "Version": "3.1006.0",
+        "Version": "3.1007.0",
         "VersionTag": "",
-        "PlatformVersion": "3.1097.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-product-snapshot/releases/download/3.1006.0/VirtoCommerce.ProductSnapshot_3.1006.0.zip",
+        "PlatformVersion": "3.1101.0",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-product-snapshot/releases/download/3.1007.0/VirtoCommerce.ProductSnapshot_3.1007.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.AdminAngularJs",
+            "Version": "3.1098.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.AdminShell",
+            "Version": "3.1101.0",
+            "Optional": true
+          },
           {
             "Id": "VirtoCommerce.Orders",
             "Version": "3.1018.0",

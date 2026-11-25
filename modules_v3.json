@@ -5222,9 +5222,9 @@
       },
       {
         "Version": "3.1006.0",
-        "VersionTag": "alpha.77",
+        "VersionTag": "alpha.78",
         "PlatformVersion": "3.1101.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.1006.0-alpha.77.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.1006.0-alpha.78.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -5239,7 +5239,7 @@
           },
           {
             "Id": "VirtoCommerce.ApplicationInsights",
-            "Version": "3.1001.0",
+            "Version": "3.1007.0",
             "Optional": false
           },
           {

@@ -5221,10 +5221,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1006.0",
-        "VersionTag": "alpha.78",
+        "Version": "3.1007.0",
+        "VersionTag": "alpha.79",
         "PlatformVersion": "3.1101.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.1006.0-alpha.78.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.1007.0-alpha.79.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

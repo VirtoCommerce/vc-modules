@@ -5222,11 +5222,21 @@
       },
       {
         "Version": "3.1006.0",
-        "VersionTag": "alpha.76",
-        "PlatformVersion": "3.1076.10",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.1006.0-alpha.76.zip",
+        "VersionTag": "alpha.77",
+        "PlatformVersion": "3.1101.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.AuditLog_3.1006.0-alpha.77.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.AdminAngularJs",
+            "Version": "3.1098.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.AdminShell",
+            "Version": "3.1101.0",
+            "Optional": true
+          },
           {
             "Id": "VirtoCommerce.ApplicationInsights",
             "Version": "3.1001.0",

@@ -4317,12 +4317,22 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1004.0",
-        "VersionTag": "alpha.138",
-        "PlatformVersion": "3.1095.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.NativePaymentMethods_3.1004.0-alpha.138.zip",
+        "Version": "3.1005.0",
+        "VersionTag": "alpha.143",
+        "PlatformVersion": "3.1101.0",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.NativePaymentMethods_3.1005.0-alpha.143.zip",
         "Incompatibilities": null,
         "Dependencies": [
+          {
+            "Id": "VirtoCommerce.AdminAngularJs",
+            "Version": "3.1098.0",
+            "Optional": true
+          },
+          {
+            "Id": "VirtoCommerce.AdminShell",
+            "Version": "3.1101.0",
+            "Optional": true
+          },
           {
             "Id": "VirtoCommerce.Payment",
             "Version": "3.1000.0",

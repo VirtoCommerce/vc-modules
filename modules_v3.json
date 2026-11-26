@@ -7216,10 +7216,10 @@
         "ReleaseNotes": "First version."
       },
       {
-        "Version": "3.1006.0",
-        "VersionTag": "alpha.336",
+        "Version": "3.1007.0",
+        "VersionTag": "alpha.338",
         "PlatformVersion": "3.1101.0",
-        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Import_3.1006.0-alpha.336.zip",
+        "PackageUrl": "https://vc3prerelease.blob.core.windows.net/packages/VirtoCommerce.Import_3.1007.0-alpha.338.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -6099,10 +6099,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1048.0",
+        "Version": "3.1049.0",
         "VersionTag": "",
         "PlatformVersion": "3.1097.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cart/releases/download/3.1048.0/VirtoCommerce.XCart_3.1048.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-x-cart/releases/download/3.1049.0/VirtoCommerce.XCart_3.1049.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {

@@ -277,10 +277,10 @@
     ],
     "Versions": [
       {
-        "Version": "3.1054.0",
+        "Version": "3.1055.0",
         "VersionTag": "",
         "PlatformVersion": "3.1101.0",
-        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.1054.0/VirtoCommerce.Catalog_3.1054.0.zip",
+        "PackageUrl": "https://github.com/VirtoCommerce/vc-module-catalog/releases/download/3.1055.0/VirtoCommerce.Catalog_3.1055.0.zip",
         "Incompatibilities": null,
         "Dependencies": [
           {
@@ -296,11 +296,6 @@
           {
             "Id": "VirtoCommerce.Assets",
             "Version": "3.1010.0",
-            "Optional": false
-          },
-          {
-            "Id": "VirtoCommerce.BackupRestore",
-            "Version": "3.1007.0",
             "Optional": false
           },
           {

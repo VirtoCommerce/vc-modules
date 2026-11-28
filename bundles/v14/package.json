@@ -84,7 +84,7 @@
         },
         {
           "Id": "VirtoCommerce.Customer",
-          "Version": "3.1000.7"
+          "Version": "3.1000.8"
         },
         {
           "Id": "VirtoCommerce.CustomerReviews",
@@ -112,7 +112,7 @@
         },
         {
           "Id": "VirtoCommerce.GDPR",
-          "Version": "3.1000.0"
+          "Version": "3.1000.1"
         },
         {
           "Id": "VirtoCommerce.GoogleEcommerceAnalytics",
